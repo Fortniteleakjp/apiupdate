@@ -2,8 +2,8 @@ name: Check API Update
 
 on:
   schedule:
-    - cron: '*/1 * * * *'  # ⏱️ 毎分チェック
-  workflow_dispatch:        # 👆 手動実行も可能
+    - cron: '*/1 * * * *'  # 1分ごと
+  workflow_dispatch:
 
 jobs:
   check:
@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          persist-credentials: false
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -30,4 +32,6 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git remote set-url origin https://x-access-token:${GIT_TOKEN}@github.com/Fortniteleakjp/apiupdate.git
-          git push
+          git add .
+          git commit -m "🔄 API更新: $(date -u +'%Y-%m-%dT%H:%M:%SZ')" || echo "No changes to commit"
+          git push || echo "Nothing to push"
