@@ -1,0 +1,33 @@
+name: Check API Update
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # 毎時チェック（必要に応じて変更）
+  workflow_dispatch:      # 手動実行用
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run API checker
+        run: python main.py
+
+      - name: Push changes
+        env:
+          GIT_TOKEN: ${{ secrets.ACTIONS_PAT }}
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git remote set-url origin https://x-access-token:${GIT_TOKEN}@github.com/Fortniteleakjp/apiupdate.git
+          git push
