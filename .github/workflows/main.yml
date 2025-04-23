@@ -2,8 +2,8 @@ name: Check API Update
 
 on:
   schedule:
-    - cron: '0 * * * *'  # 毎時チェック（必要に応じて変更）
-  workflow_dispatch:      # 手動実行用
+    - cron: '*/1 * * * *'  # ⏱️ 毎分チェック
+  workflow_dispatch:        # 👆 手動実行も可能
 
 jobs:
   check:
