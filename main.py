@@ -54,6 +54,18 @@ API_TARGETS = [
         "snapshot_file": "BR_event_Windows.json",
         "latest_file": "BR_event_Windows_latest.json"
     },
+    {
+        "name": "fortnite-game-ja",
+        "url": "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game?lang=ja",
+        "snapshot_file": "fortnite-gameja.json",
+        "latest_file": "fortnite-gameja_latest.json"
+    },
+    {
+        "name": "fortnite-game-en",
+        "url": "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game?lang=en",
+        "snapshot_file": "fortnite-gameen.json",
+        "latest_file": "fortnite-gameen_latest.json"
+    },
 ]
 
 def fetch_api_data(url):
