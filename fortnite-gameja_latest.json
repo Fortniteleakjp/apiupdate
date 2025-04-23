@@ -26282,6 +26282,16 @@
                 "bRandomizeResponseOrder": true,
                 "responses": [
                   {
+                    "textID": "The Venture Map",
+                    "_type": "Player Survey V2 - Localizable Text",
+                    "localizedText": "ベンチャーマップ"
+                  },
+                  {
+                    "textID": "The Oasis Map",
+                    "_type": "Player Survey V2 - Localizable Text",
+                    "localizedText": "オアシスマップ"
+                  },
+                  {
                     "textID": "The Slurp Rush Map",
                     "_type": "Player Survey V2 - Localizable Text",
                     "localizedText": "スラープ・ラッシュマップ"
@@ -26290,6 +26300,11 @@
                     "textID": "The Rate I Gain Rank",
                     "_type": "Player Survey V2 - Localizable Text",
                     "localizedText": "ランクが上がる速さ"
+                  },
+                  {
+                    "textID": "Map Rotation",
+                    "_type": "Player Survey V2 - Localizable Text",
+                    "localizedText": "マップの切り替え"
                   },
                   {
                     "textID": "Group Revive",
@@ -32016,6 +32031,96 @@
               "textID": "Lockdown Lighthouse",
               "_type": "Player Survey V2 - Localizable Text",
               "localizedText": "ロックダウン・ライトハウス"
+            },
+            {
+              "textID": "Snobby Sands",
+              "_type": "Player Survey V2 - Localizable Text",
+              "localizedText": "スノビー・サンズ"
+            },
+            {
+              "textID": "Fossil Fields",
+              "_type": "Player Survey V2 - Localizable Text",
+              "localizedText": "フォッシル・フィールド"
+            },
+            {
+              "textID": "Adobe Adobes",
+              "_type": "Player Survey V2 - Localizable Text",
+              "localizedText": "アドビ・アドビズ"
+            },
+            {
+              "textID": "Guaco Town",
+              "_type": "Player Survey V2 - Localizable Text",
+              "localizedText": "グアコ・タウン"
+            },
+            {
+              "textID": "Shady Springs",
+              "_type": "Player Survey V2 - Localizable Text",
+              "localizedText": "シェイディ・スプリングス"
+            },
+            {
+              "textID": "Paradise Palms",
+              "_type": "Player Survey V2 - Localizable Text",
+              "localizedText": "パラダイス・パームズ"
+            },
+            {
+              "textID": "Sunburnt Shafts",
+              "_type": "Player Survey V2 - Localizable Text",
+              "localizedText": "サンバーント・シャフト"
+            },
+            {
+              "textID": "Twisted Trailers",
+              "_type": "Player Survey V2 - Localizable Text",
+              "localizedText": "ツイステッド・トレイラーズ"
+            },
+            {
+              "textID": "Lizard Links",
+              "_type": "Player Survey V2 - Localizable Text",
+              "localizedText": "リザード・リンクス"
+            },
+            {
+              "textID": "Tilted Towers",
+              "_type": "Player Survey V2 - Localizable Text",
+              "localizedText": "ティルテッド・タワー"
+            },
+            {
+              "textID": "Snobby Shoals",
+              "_type": "Player Survey V2 - Localizable Text",
+              "localizedText": "スノビー・ショールズ"
+            },
+            {
+              "textID": "Retail Row",
+              "_type": "Player Survey V2 - Localizable Text",
+              "localizedText": "リテイル・ロー"
+            },
+            {
+              "textID": "Pleasant Park",
+              "_type": "Player Survey V2 - Localizable Text",
+              "localizedText": "プレザント・パーク"
+            },
+            {
+              "textID": "Sandy Sheets",
+              "_type": "Player Survey V2 - Localizable Text",
+              "localizedText": "サンディ・シーツ"
+            },
+            {
+              "textID": "Lone Lodge",
+              "_type": "Player Survey V2 - Localizable Text",
+              "localizedText": "ローン・ロッジ"
+            },
+            {
+              "textID": "Lil’ Loot Lake",
+              "_type": "Player Survey V2 - Localizable Text",
+              "localizedText": "リル・ルート・レイク"
+            },
+            {
+              "textID": "Lazy Laps",
+              "_type": "Player Survey V2 - Localizable Text",
+              "localizedText": "レイジー・ラップス"
+            },
+            {
+              "textID": "Dusty Docks",
+              "_type": "Player Survey V2 - Localizable Text",
+              "localizedText": "ダスティ・ドックス"
             }
           ]
         },
@@ -33561,7 +33666,7 @@
     },
     "_title": "playersurveyv2",
     "_noIndex": false,
-    "_activeDate": "2025-04-22T15:00:00.000Z",
+    "_activeDate": "2025-04-23T14:15:00.000Z",
     "lastModified": "2025-04-22T14:10:13.904Z",
     "_locale": "ja",
     "_templateName": "FortniteGamePlayerSurveyV2"
