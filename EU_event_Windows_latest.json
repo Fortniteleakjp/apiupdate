@@ -6885,9 +6885,9 @@
       "beginTime_jst": "2025-03-10 02:00:06",
       "beginTime_unix": 1741539606,
       "displayDataId": "S34_rankedcup_bsg_duos",
-      "endTime": "2025-04-27T20:00:06Z",
-      "endTime_jst": "2025-04-28 05:00:06",
-      "endTime_unix": 1745784006,
+      "endTime": "2025-04-20T20:00:06Z",
+      "endTime_jst": "2025-04-21 05:00:06",
+      "endTime_unix": 1745179206,
       "eventGroup": "Season34_RankedCupBSGDuos",
       "eventId": "epicgames_S34_RankedCupBSGDuos_EU",
       "eventWindows": [
@@ -7177,49 +7177,6 @@
           ],
           "teammateEligibility": "all",
           "visibility": "public"
-        },
-        {
-          "additionalRequirements": [
-            "currentRanking:ranked-br:0",
-            "eula:s34_ranked_rules",
-            "mfa",
-            "currentRankingMax:ranked-br:8"
-          ],
-          "beginTime": "2025-04-27T16:00:06Z",
-          "beginTime_jst": "2025-04-28 01:00:06",
-          "beginTime_unix": 1745769606,
-          "blackoutPeriods": [],
-          "canLiveSpectate": false,
-          "countdownBeginTime": "2025-04-27T14:00:06Z",
-          "countdownBeginTime_jst": "2025-04-27 23:00:06",
-          "countdownBeginTime_unix": 1745762406,
-          "endTime": "2025-04-27T20:00:06Z",
-          "endTime_jst": "2025-04-28 05:00:06",
-          "endTime_unix": 1745784006,
-          "eventTemplateId": "EventTemplate_S34_RankedCupDuos",
-          "eventWindowId": "S34_RankedCupBSGDuos_Event8_EU",
-          "isTBD": false,
-          "metadata": {
-            "RoundType": "Qualifiers",
-            "ServerReplays": true
-          },
-          "payoutDelay": 32,
-          "requireAllTokens": [],
-          "requireAllTokensCaller": [],
-          "requireAnyTokens": [],
-          "requireAnyTokensCaller": [],
-          "requireNoneTokensCaller": [
-            "Permanent_Tournament_Ban"
-          ],
-          "round": 0,
-          "scoreLocations": [
-            {
-              "isMainWindowLeaderboard": true,
-              "leaderboardDefId": "S34_RankedCupDuosBSG_DefaultLeaderboardDef"
-            }
-          ],
-          "teammateEligibility": "all",
-          "visibility": "public"
         }
       ],
       "gameId": "Fortnite",
@@ -7291,9 +7248,9 @@
         "square_poster_image": "https://cdn2.unrealengine.com/jp-fneco-33-00-competitive-discoverytile-rankedcups-1080x1920-1920x1080-61d909252982.jpg"
       },
       "displayDataId": "s34_rankedcup_bsg_solo",
-      "endTime": "2025-04-26T21:00:06Z",
-      "endTime_jst": "2025-04-27 06:00:06",
-      "endTime_unix": 1745701206,
+      "endTime": "2025-04-19T21:00:06Z",
+      "endTime_jst": "2025-04-20 06:00:06",
+      "endTime_unix": 1745096406,
       "eventGroup": "Season34_RankedCupBSGSolo",
       "eventId": "epicgames_S34_RankedCupBSGSolo_EU",
       "eventWindows": [
@@ -7993,49 +7950,6 @@
           ],
           "teammateEligibility": "all",
           "visibility": "public"
-        },
-        {
-          "additionalRequirements": [
-            "currentRanking:ranked-br:0",
-            "eula:s34_ranked_rules",
-            "mfa",
-            "currentRankingMax:ranked-br:8"
-          ],
-          "beginTime": "2025-04-26T17:00:06Z",
-          "beginTime_jst": "2025-04-27 02:00:06",
-          "beginTime_unix": 1745686806,
-          "blackoutPeriods": [],
-          "canLiveSpectate": false,
-          "countdownBeginTime": "2025-04-26T15:00:06Z",
-          "countdownBeginTime_jst": "2025-04-27 00:00:06",
-          "countdownBeginTime_unix": 1745679606,
-          "endTime": "2025-04-26T21:00:06Z",
-          "endTime_jst": "2025-04-27 06:00:06",
-          "endTime_unix": 1745701206,
-          "eventTemplateId": "EventTemplate_S34_RankedCupSolo",
-          "eventWindowId": "S34_RankedCupBSGSolo_Event18_EU",
-          "isTBD": false,
-          "metadata": {
-            "RoundType": "Qualifiers",
-            "ServerReplays": true
-          },
-          "payoutDelay": 32,
-          "requireAllTokens": [],
-          "requireAllTokensCaller": [],
-          "requireAnyTokens": [],
-          "requireAnyTokensCaller": [],
-          "requireNoneTokensCaller": [
-            "Permanent_Tournament_Ban"
-          ],
-          "round": 0,
-          "scoreLocations": [
-            {
-              "isMainWindowLeaderboard": true,
-              "leaderboardDefId": "S34_RankedCupSoloBSG_DefaultLeaderboardDef"
-            }
-          ],
-          "teammateEligibility": "all",
-          "visibility": "public"
         }
       ],
       "gameId": "Fortnite",
@@ -8108,9 +8022,9 @@
         "square_poster_image": "https://cdn2.unrealengine.com/jp-fneco-33-00-competitive-discoverytile-rankedcups-1080x1920-1920x1080-61d909252982.jpg"
       },
       "displayDataId": "s34_rankedcup_elite_duos",
-      "endTime": "2025-04-27T20:00:04Z",
-      "endTime_jst": "2025-04-28 05:00:04",
-      "endTime_unix": 1745784004,
+      "endTime": "2025-04-20T20:00:04Z",
+      "endTime_jst": "2025-04-21 05:00:04",
+      "endTime_unix": 1745179204,
       "eventGroup": "Season34_RankedCupEliteDuos",
       "eventId": "epicgames_S34_RankedCupEliteDuos_EU",
       "eventWindows": [
@@ -8393,48 +8307,6 @@
           ],
           "teammateEligibility": "all",
           "visibility": "public"
-        },
-        {
-          "additionalRequirements": [
-            "currentRanking:ranked-br:15",
-            "eula:s34_ranked_rules",
-            "mfa"
-          ],
-          "beginTime": "2025-04-27T16:00:04Z",
-          "beginTime_jst": "2025-04-28 01:00:04",
-          "beginTime_unix": 1745769604,
-          "blackoutPeriods": [],
-          "canLiveSpectate": false,
-          "countdownBeginTime": "2025-04-27T14:00:04Z",
-          "countdownBeginTime_jst": "2025-04-27 23:00:04",
-          "countdownBeginTime_unix": 1745762404,
-          "endTime": "2025-04-27T20:00:04Z",
-          "endTime_jst": "2025-04-28 05:00:04",
-          "endTime_unix": 1745784004,
-          "eventTemplateId": "EventTemplate_S34_RankedCupDuos",
-          "eventWindowId": "S34_RankedCupEliteDuos_Event8_EU",
-          "isTBD": false,
-          "metadata": {
-            "RoundType": "Qualifiers",
-            "ServerReplays": true
-          },
-          "payoutDelay": 32,
-          "requireAllTokens": [],
-          "requireAllTokensCaller": [],
-          "requireAnyTokens": [],
-          "requireAnyTokensCaller": [],
-          "requireNoneTokensCaller": [
-            "Permanent_Tournament_Ban"
-          ],
-          "round": 0,
-          "scoreLocations": [
-            {
-              "isMainWindowLeaderboard": true,
-              "leaderboardDefId": "S34_RankedCupDuosE_DefaultLeaderboardDef"
-            }
-          ],
-          "teammateEligibility": "all",
-          "visibility": "public"
         }
       ],
       "gameId": "Fortnite",
@@ -8506,9 +8378,9 @@
         "square_poster_image": "https://cdn2.unrealengine.com/jp-fneco-33-00-competitive-discoverytile-rankedcups-1080x1920-1920x1080-61d909252982.jpg"
       },
       "displayDataId": "s34_rankedcup_elite_solo",
-      "endTime": "2025-04-26T21:00:04Z",
-      "endTime_jst": "2025-04-27 06:00:04",
-      "endTime_unix": 1745701204,
+      "endTime": "2025-04-19T21:00:04Z",
+      "endTime_jst": "2025-04-20 06:00:04",
+      "endTime_unix": 1745096404,
       "eventGroup": "Season34_RankedCupEliteSolo",
       "eventId": "epicgames_S34_RankedCupEliteSolo_EU",
       "eventWindows": [
@@ -9191,48 +9063,6 @@
           ],
           "teammateEligibility": "all",
           "visibility": "public"
-        },
-        {
-          "additionalRequirements": [
-            "currentRanking:ranked-br:15",
-            "eula:s34_ranked_rules",
-            "mfa"
-          ],
-          "beginTime": "2025-04-26T17:00:04Z",
-          "beginTime_jst": "2025-04-27 02:00:04",
-          "beginTime_unix": 1745686804,
-          "blackoutPeriods": [],
-          "canLiveSpectate": false,
-          "countdownBeginTime": "2025-04-26T15:00:04Z",
-          "countdownBeginTime_jst": "2025-04-27 00:00:04",
-          "countdownBeginTime_unix": 1745679604,
-          "endTime": "2025-04-26T21:00:04Z",
-          "endTime_jst": "2025-04-27 06:00:04",
-          "endTime_unix": 1745701204,
-          "eventTemplateId": "EventTemplate_S34_RankedCupSolo",
-          "eventWindowId": "S34_RankedCupEliteSolo_Event18_EU",
-          "isTBD": false,
-          "metadata": {
-            "RoundType": "Qualifiers",
-            "ServerReplays": true
-          },
-          "payoutDelay": 32,
-          "requireAllTokens": [],
-          "requireAllTokensCaller": [],
-          "requireAnyTokens": [],
-          "requireAnyTokensCaller": [],
-          "requireNoneTokensCaller": [
-            "Permanent_Tournament_Ban"
-          ],
-          "round": 0,
-          "scoreLocations": [
-            {
-              "isMainWindowLeaderboard": true,
-              "leaderboardDefId": "S34_RankedCupSoloE_DefaultLeaderboardDef"
-            }
-          ],
-          "teammateEligibility": "all",
-          "visibility": "public"
         }
       ],
       "gameId": "Fortnite",
@@ -9305,9 +9135,9 @@
         "square_poster_image": "https://cdn2.unrealengine.com/jp-fneco-33-00-competitive-discoverytile-rankedcups-1080x1920-1920x1080-61d909252982.jpg"
       },
       "displayDataId": "s34_rankedcup_pd_duos",
-      "endTime": "2025-04-27T20:00:05Z",
-      "endTime_jst": "2025-04-28 05:00:05",
-      "endTime_unix": 1745784005,
+      "endTime": "2025-04-20T20:00:05Z",
+      "endTime_jst": "2025-04-21 05:00:05",
+      "endTime_unix": 1745179205,
       "eventGroup": "Season34_RankedCupPDDuos",
       "eventId": "epicgames_S34_RankedCupPDDuos_EU",
       "eventWindows": [
@@ -9597,49 +9427,6 @@
           ],
           "teammateEligibility": "all",
           "visibility": "public"
-        },
-        {
-          "additionalRequirements": [
-            "eula:s34_ranked_rules",
-            "currentRankingMax:ranked-br:14",
-            "mfa",
-            "currentRanking:ranked-br:9"
-          ],
-          "beginTime": "2025-04-27T16:00:05Z",
-          "beginTime_jst": "2025-04-28 01:00:05",
-          "beginTime_unix": 1745769605,
-          "blackoutPeriods": [],
-          "canLiveSpectate": false,
-          "countdownBeginTime": "2025-04-27T14:00:05Z",
-          "countdownBeginTime_jst": "2025-04-27 23:00:05",
-          "countdownBeginTime_unix": 1745762405,
-          "endTime": "2025-04-27T20:00:05Z",
-          "endTime_jst": "2025-04-28 05:00:05",
-          "endTime_unix": 1745784005,
-          "eventTemplateId": "EventTemplate_S34_RankedCupDuos",
-          "eventWindowId": "S34_RankedCupPDDuos_Event8_EU",
-          "isTBD": false,
-          "metadata": {
-            "RoundType": "Qualifiers",
-            "ServerReplays": true
-          },
-          "payoutDelay": 32,
-          "requireAllTokens": [],
-          "requireAllTokensCaller": [],
-          "requireAnyTokens": [],
-          "requireAnyTokensCaller": [],
-          "requireNoneTokensCaller": [
-            "Permanent_Tournament_Ban"
-          ],
-          "round": 0,
-          "scoreLocations": [
-            {
-              "isMainWindowLeaderboard": true,
-              "leaderboardDefId": "S34_RankedCupDuosPD_DefaultLeaderboardDef"
-            }
-          ],
-          "teammateEligibility": "all",
-          "visibility": "public"
         }
       ],
       "gameId": "Fortnite",
@@ -9711,9 +9498,9 @@
         "square_poster_image": "https://cdn2.unrealengine.com/jp-fneco-33-00-competitive-discoverytile-rankedcups-1080x1920-1920x1080-61d909252982.jpg"
       },
       "displayDataId": "s34_rankedcup_pd_solo",
-      "endTime": "2025-04-26T21:00:05Z",
-      "endTime_jst": "2025-04-27 06:00:05",
-      "endTime_unix": 1745701205,
+      "endTime": "2025-04-19T21:00:05Z",
+      "endTime_jst": "2025-04-20 06:00:05",
+      "endTime_unix": 1745096405,
       "eventGroup": "Season34_RankedCupPDSolo",
       "eventId": "epicgames_S34_RankedCupPDSolo_EU",
       "eventWindows": [
@@ -10404,49 +10191,6 @@
           "requireAnyTokens": [],
           "requireAnyTokensCaller": [],
           "requireNoneTokensCaller": [],
-          "round": 0,
-          "scoreLocations": [
-            {
-              "isMainWindowLeaderboard": true,
-              "leaderboardDefId": "S34_RankedCupSoloPD_DefaultLeaderboardDef"
-            }
-          ],
-          "teammateEligibility": "all",
-          "visibility": "public"
-        },
-        {
-          "additionalRequirements": [
-            "eula:s34_ranked_rules",
-            "currentRankingMax:ranked-br:14",
-            "mfa",
-            "currentRanking:ranked-br:9"
-          ],
-          "beginTime": "2025-04-26T17:00:05Z",
-          "beginTime_jst": "2025-04-27 02:00:05",
-          "beginTime_unix": 1745686805,
-          "blackoutPeriods": [],
-          "canLiveSpectate": false,
-          "countdownBeginTime": "2025-04-26T15:00:05Z",
-          "countdownBeginTime_jst": "2025-04-27 00:00:05",
-          "countdownBeginTime_unix": 1745679605,
-          "endTime": "2025-04-26T21:00:05Z",
-          "endTime_jst": "2025-04-27 06:00:05",
-          "endTime_unix": 1745701205,
-          "eventTemplateId": "EventTemplate_S34_RankedCupSolo",
-          "eventWindowId": "S34_RankedCupPDSolo_Event18_EU",
-          "isTBD": false,
-          "metadata": {
-            "RoundType": "Qualifiers",
-            "ServerReplays": true
-          },
-          "payoutDelay": 32,
-          "requireAllTokens": [],
-          "requireAllTokensCaller": [],
-          "requireAnyTokens": [],
-          "requireAnyTokensCaller": [],
-          "requireNoneTokensCaller": [
-            "Permanent_Tournament_Ban"
-          ],
           "round": 0,
           "scoreLocations": [
             {
