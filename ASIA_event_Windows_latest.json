@@ -854,7 +854,7 @@
         {
           "additionalRequirements": [
             "mfa",
-            "eula:tbd"
+            "eula:s34_zadie_rules"
           ],
           "beginTime": "2025-04-26T09:00:00Z",
           "beginTime_jst": "2025-04-26 18:00:00",
@@ -895,7 +895,7 @@
         {
           "additionalRequirements": [
             "mfa",
-            "eula:tbd"
+            "eula:s34_zadie_rules"
           ],
           "beginTime": "2025-04-27T09:00:00Z",
           "beginTime_jst": "2025-04-27 18:00:00",
