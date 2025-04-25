@@ -1,7 +1,7 @@
 {
   "_title": "Fortnite Game",
   "_activeDate": "2017-08-30T03:20:48.050Z",
-  "lastModified": "2025-04-25T16:33:43.926Z",
+  "lastModified": "2025-04-25T18:03:03.085Z",
   "_locale": "en-US",
   "_templateName": "blank",
   "subgameinfo": {
@@ -39644,8 +39644,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Bronze",
           "displayed_tracked_stat": [
-            "coreBR_Bronze_PLACEMENT_STAT_INDEX",
-            "coreBR_Bronze_TEAM_ELIMS_STAT_INDEX"
+            "BRONZE_PLACEMENT_STAT_INDEX",
+            "BRONZE_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -40470,7 +40470,7 @@
     "_title": "leaderboardinformation",
     "_noIndex": false,
     "_activeDate": "2022-09-18T06:00:00.000Z",
-    "lastModified": "2025-04-24T15:55:41.503Z",
+    "lastModified": "2025-04-25T18:03:03.085Z",
     "_locale": "en-US",
     "_templateName": "FortniteGameLeaderboardInfo"
   },
