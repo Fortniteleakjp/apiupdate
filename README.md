@@ -11,20 +11,6 @@
 - 差分がなければ「変化なし」としてスキップ
 - JSONでない形式（例：`.ini`）も対応（ファイル保存+diff出力）
 
-## 📂 ディレクトリ構成
-
-```bash
-.
-├── .github/
-│   └── workflows/
-│       └── main.yml       # GitHub Actions用のワークフロー設定
-├── main.py                # メインスクリプト（API取得と差分検出）
-├── requirements.txt       # 必要なPythonパッケージ
-├── *.json                 # 最新APIレスポンスのスナップショットファイル
-├── *.ini.diff             # .ini形式の差分ファイル（オプション）
-└── README.md              # このファイル
-
-
 ## ⚙️ 使用技術
 
 - Python 3
@@ -40,6 +26,19 @@
 3. 前回スナップショットとの比較
 4. 差分ありなら `.json` / `.diff` を保存
 5. 自動Git操作（`add`, `commit`, `pull --rebase`, `push`）
+
+## 📂 ディレクトリ構成
+
+```bash
+.
+├── .github/
+│   └── workflows/
+│       └── main.yml       # GitHub Actions用のワークフロー設定
+├── main.py                # メインスクリプト（API取得と差分検出）
+├── requirements.txt       # 必要なPythonパッケージ
+├── *.json                 # 最新APIレスポンスのスナップショットファイル
+├── *.ini.diff             # .ini形式の差分ファイル（オプション）
+└── README.md              # このファイル
 
 ## 📝 設定ファイル例（main.py内）
 
@@ -58,6 +57,7 @@ API_TARGETS = [
         "latest_file": "cloudstorage_latest.json"
     }
 ]
+python```
 
 🤖 開発・管理者
 制作 / [@Leakplayer](https://x.com/LeakPlayer)
