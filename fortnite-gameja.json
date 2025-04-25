@@ -39939,6 +39939,32 @@
           "_type": "ShopOfferPresentationData",
           "presentations": [
             {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-mousesphere-1024x1024-72a88eae7b32.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-mousesphere-02-fix-1024x1024-b6b305b75fd7.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-mousesphere-juno1-1024x1024-53f8bfcc3ce7.png",
+              "productTag": "Product.Juno",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-mousesphere-juno2-1024x1024-c18686cc8f61.png",
+              "productTag": "Product.Juno",
+              "_type": "ShopOfferPresentation"
+            }
+          ],
+          "visualId": "/OfferCatalog/NewDisplayAssets/S34/DAv2_Bundle_Featured_Architect_MouseSphere.DAv2_Bundle_Featured_Architect_MouseSphere"
+        },
+        {
+          "_type": "ShopOfferPresentationData",
+          "presentations": [
+            {
               "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-inkhoop-1024x1024-30f1b5dd5376.png",
               "productTag": "Product.BR",
               "_type": "ShopOfferPresentation"
