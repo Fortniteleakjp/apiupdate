@@ -40,8 +40,9 @@
 ├── *.ini.diff             # .ini形式の差分ファイル（オプション）
 └── README.md              # このファイル
 
-## 📝 設定ファイル例（main.py内）
+```
 
+## 📝 設定ファイル例（main.py内）
 ```python
 API_TARGETS = [
     {
@@ -57,7 +58,7 @@ API_TARGETS = [
         "latest_file": "cloudstorage_latest.json"
     }
 ]
-python```
+```
 
 🤖 開発・管理者
 制作 / [@Leakplayer](https://x.com/LeakPlayer)
