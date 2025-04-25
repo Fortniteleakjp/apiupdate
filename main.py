@@ -66,19 +66,42 @@ API_TARGETS = [
         "snapshot_file": "fortnite-gameen.json",
         "latest_file": "fortnite-gameen_latest.json"
     },
+    {
+        "name": "DefaultGame",
+        "url": "https://fljpapi.onrender.com/api/v2/cloudstorage/a22d837b6a2b46349421259c0a5411bf",
+        "snapshot_file": "DefaultGame.ini.diff",
+        "latest_file": "DefaultGame_latest.ini.diff"
+    },
+    {
+        "name": "cloudstorage",
+        "url": "https://fljpapi.onrender.com/api/v2/cloudstorage",
+        "snapshot_file": "cloudstorage.json",
+        "latest_file": "cloudstorage_latest.json"
+    },
 ]
 
-def fetch_api_data(url):
-    print(f"🔄 APIデータを取得中... ({url})")
+def fetch_api_data(url, name=None):
+    print(f"🔄 APIデータを取得中... ({name or url})")
     response = requests.get(url)
+    print(f"📥 ステータスコード: {response.status_code}")
+    print(f"📥 レスポンステキスト: {response.text[:200]}...")
     response.raise_for_status()
-    return response.json()
+    if name and name.lower().endswith(".ini") or "DefaultGame" in (name or ""):
+        return response.text  # INI形式として文字列をそのまま返す
+    try:
+        return response.json()
+    except json.JSONDecodeError as e:
+        print(f"❌ JSONデコード失敗: {e}")
+        return None
 
 def load_snapshot(file_path):
     if not os.path.exists(file_path):
         return None
     with open(file_path, "r", encoding="utf-8") as f:
-        return json.load(f)
+        if file_path.endswith(".json"):
+            return json.load(f)
+        else:
+            return f.read()  # iniファイルなどは文字列で読み込む
 
 def save_snapshot(file_path, data):
     with open(file_path, "w", encoding="utf-8") as f:
@@ -103,11 +126,22 @@ def main():
                 print(f"🟢 {target['name']} に変化なし。")
 
         if changed:
+            print("🔧 Git設定を更新中...")
             os.system("git config user.name 'github-actions'")
             os.system("git config user.email 'github-actions@github.com'")
-            os.system("git add *.json")
+            os.system("git add *.json *.diff || echo '追加対象なし'")
             os.system(f"git commit -m \"🔄 API更新: {datetime.now().isoformat()}\" || echo 'コミット対象なし'")
-            os.system("git push || echo 'プッシュ対象なし'")
+
+            print("🔃 リモートとリベース...")
+            os.system("git stash || echo 'stash失敗'")
+            os.system("git pull --rebase || echo '⚠️ リベース失敗'")
+            os.system("git stash pop || echo 'stash戻し失敗'")
+
+            print("🚀 プッシュ中...")
+            os.system("git push || echo '⚠️ プッシュ失敗'")
+        else:
+            print("✅ すべて最新です。更新なし。")
+
     except Exception as e:
         print(f"❌ エラー: {e}")
 

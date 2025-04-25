@@ -33,5 +33,5 @@ jobs:
           git config user.email "github-actions@github.com"
           git remote set-url origin https://x-access-token:${GIT_TOKEN}@github.com/Fortniteleakjp/apiupdate.git
           git add .
-          git commit -m "🔄 API更新: $(date -u +'%Y-%m-%dT%H:%M:%SZ')" || echo "No changes to commit"
+          git commit -m "🔄$(date -u +'%Y-%m-%dT%H:%M:%SZ')にAPIが更新されました" || echo "No changes to commit"
           git push || echo "Nothing to push"
