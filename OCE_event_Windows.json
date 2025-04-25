@@ -3625,6 +3625,7 @@
             "RegionLock_S34_FNCSMajor2_BR",
             "RegionLock_S34_FNCSMajor2_ME",
             "RegionLock_S34_FNCSMajor2_EU",
+            "Permanent_Tournament_Ban",
             "RegionLock_S34_FNCSMajor2_NAW",
             "RegionLock_S34_FNCSMajor2_NAC",
             "S34_FNCSMajor2_GrandFinalist_OCE",
@@ -3676,7 +3677,8 @@
           "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
             "S34_FNCS_Banned",
-            "S34_FNCSMajor2_GrandFinalist_OCE"
+            "S34_FNCSMajor2_GrandFinalist_OCE",
+            "Permanent_Tournament_Ban"
           ],
           "round": 0,
           "scoreLocations": [
