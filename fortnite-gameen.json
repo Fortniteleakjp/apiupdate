@@ -1,7 +1,7 @@
 {
   "_title": "Fortnite Game",
   "_activeDate": "2017-08-30T03:20:48.050Z",
-  "lastModified": "2025-04-24T22:47:28.786Z",
+  "lastModified": "2025-04-25T14:47:14.072Z",
   "_locale": "en-US",
   "_templateName": "blank",
   "subgameinfo": {
@@ -41200,7 +41200,7 @@
         },
         {
           "poster_description": "{0} {0}|plural(one=Unreal Elimination,other=Unreal Eliminations)",
-          "rule_name": "coreBR_Unreal_TEAM_ELIMS_STAT_INDEX",
+          "rule_name": "UNREAL_TEAM_ELIMS_STAT_INDEX",
           "_type": "Scoring Rules Display Info",
           "icon": "/Game/Athena/HUD/Art/killsico_alt.KillsIco_Alt",
           "description": "{0} {0}|plural(one=Unreal Elimination,other=Unreal Eliminations)",
@@ -41209,7 +41209,7 @@
         },
         {
           "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
-          "rule_name": "coreBR_Unreal_PLACEMENT_STAT_INDEX",
+          "rule_name": "UNREAL_PLACEMENT_STAT_INDEX",
           "_type": "Scoring Rules Display Info",
           "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
           "description": "Reach Top {0} (Unreal)",
@@ -41218,7 +41218,7 @@
         },
         {
           "poster_description": "{0} {0}|plural(one=Champion Elimination,other=Champion Eliminations)",
-          "rule_name": "coreBR_Champion_TEAM_ELIMS_STAT_INDEX",
+          "rule_name": "CHAMPION_TEAM_ELIMS_STAT_INDEX",
           "_type": "Scoring Rules Display Info",
           "icon": "/Game/Athena/HUD/Art/killsico_alt.KillsIco_Alt",
           "description": "{0} {0}|plural(one=Champion Elimination,other=Champion Eliminations)",
@@ -41227,7 +41227,7 @@
         },
         {
           "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
-          "rule_name": "coreBR_Champion_PLACEMENT_STAT_INDEX",
+          "rule_name": "CHAMPION_PLACEMENT_STAT_INDEX",
           "_type": "Scoring Rules Display Info",
           "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
           "description": "Reach Top {0} (Champion)",
@@ -41236,7 +41236,7 @@
         },
         {
           "poster_description": "{0} {0}|plural(one=Elite Elimination,other=Elite Eliminations)",
-          "rule_name": "coreBR_Elite_TEAM_ELIMS_STAT_INDEX",
+          "rule_name": "ELITE_TEAM_ELIMS_STAT_INDEX",
           "_type": "Scoring Rules Display Info",
           "icon": "/Game/Athena/HUD/Art/killsico_alt.KillsIco_Alt",
           "description": "{0} {0}|plural(one=Elite Elimination,other=Elite Eliminations)",
@@ -41245,7 +41245,7 @@
         },
         {
           "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
-          "rule_name": "coreBR_Elite_PLACEMENT_STAT_INDEX",
+          "rule_name": "ELITE_PLACEMENT_STAT_INDEX",
           "_type": "Scoring Rules Display Info",
           "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
           "description": " Reach Top {0} (Elite)",
@@ -41254,7 +41254,7 @@
         },
         {
           "poster_description": "{0} {0}|plural(one=Diamond Elimination,other=Diamond Eliminations)",
-          "rule_name": "coreBR_Diamond_TEAM_ELIMS_STAT_INDEX",
+          "rule_name": "DIAMOND_TEAM_ELIMS_STAT_INDEX",
           "_type": "Scoring Rules Display Info",
           "icon": "/Game/Athena/HUD/Art/killsico_alt.KillsIco_Alt",
           "description": "{0} {0}|plural(one=Diamond Elimination,other=Diamond Eliminations)",
@@ -41263,7 +41263,7 @@
         },
         {
           "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
-          "rule_name": "coreBR_Diamond_PLACEMENT_STAT_INDEX",
+          "rule_name": "DIAMOND_PLACEMENT_STAT_INDEX",
           "_type": "Scoring Rules Display Info",
           "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
           "description": "Reach Top {0} (Diamond)",
@@ -41272,7 +41272,7 @@
         },
         {
           "poster_description": "{0} {0}|plural(one=Platinum Elimination,other=Platinum Eliminations)",
-          "rule_name": "coreBR_Platinum_TEAM_ELIMS_STAT_INDEX",
+          "rule_name": "PLATINUM_TEAM_ELIMS_STAT_INDEX",
           "_type": "Scoring Rules Display Info",
           "icon": "/Game/Athena/HUD/Art/killsico_alt.KillsIco_Alt",
           "description": "{0} {0}|plural(one=Platinum Elimination,other=Platinum Eliminations)",
@@ -41281,7 +41281,7 @@
         },
         {
           "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
-          "rule_name": "coreBR_Platinum_PLACEMENT_STAT_INDEX",
+          "rule_name": "PLATINUM_PLACEMENT_STAT_INDEX",
           "_type": "Scoring Rules Display Info",
           "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
           "description": "Reach Top {0} (Platinum)",
@@ -41290,7 +41290,7 @@
         },
         {
           "poster_description": "{0} {0}|plural(one=Gold Elimination,other=Gold Eliminations)",
-          "rule_name": "coreBR_Gold_TEAM_ELIMS_STAT_INDEX",
+          "rule_name": "GOLD_TEAM_ELIMS_STAT_INDEX",
           "_type": "Scoring Rules Display Info",
           "icon": "/Game/Athena/HUD/Art/killsico_alt.KillsIco_Alt",
           "description": "{0} {0}|plural(one=Gold Elimination,other=Gold Eliminations)",
@@ -41299,7 +41299,7 @@
         },
         {
           "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
-          "rule_name": "coreBR_Gold_PLACEMENT_STAT_INDEX",
+          "rule_name": "GOLD_PLACEMENT_STAT_INDEX",
           "_type": "Scoring Rules Display Info",
           "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
           "description": "Reach Top {0} (Gold)",
@@ -41308,7 +41308,7 @@
         },
         {
           "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
-          "rule_name": "coreBR_Silver_PLACEMENT_STAT_INDEX",
+          "rule_name": "SILVER_PLACEMENT_STAT_INDEX",
           "_type": "Scoring Rules Display Info",
           "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
           "description": "Reach Top {0} (Silver)",
@@ -41317,7 +41317,7 @@
         },
         {
           "poster_description": "{0} {0}|plural(one=Silver Elimination,other=Silver Eliminations)",
-          "rule_name": "coreBR_Silver_TEAM_ELIMS_STAT_INDEX",
+          "rule_name": "SILVER_TEAM_ELIMS_STAT_INDEX",
           "_type": "Scoring Rules Display Info",
           "icon": "/Game/Athena/HUD/Art/killsico_alt.KillsIco_Alt",
           "description": "{0} {0}|plural(one=Silver Elimination,other=Silver Eliminations)",
@@ -41326,7 +41326,7 @@
         },
         {
           "poster_description": "{0} {0}|plural(one=Bronze Elimination,other=Bronze Eliminations)",
-          "rule_name": "coreBR_Bronze_TEAM_ELIMS_STAT_INDEX",
+          "rule_name": "BRONZE_TEAM_ELIMS_STAT_INDEX",
           "_type": "Scoring Rules Display Info",
           "icon": "/Game/Athena/HUD/Art/killsico_alt.KillsIco_Alt",
           "description": "{0} {0}|plural(one=Bronze Elimination,other=Bronze Eliminations)",
@@ -41335,7 +41335,7 @@
         },
         {
           "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
-          "rule_name": "coreBR_Bronze_PLACEMENT_STAT_INDEX",
+          "rule_name": "BRONZE_PLACEMENT_STAT_INDEX",
           "_type": "Scoring Rules Display Info",
           "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
           "description": "Reach Top {0} (Bronze)",
@@ -41555,7 +41555,7 @@
     "_title": "scoringrulesinformation",
     "_noIndex": false,
     "_activeDate": "2021-10-12T19:24:18.962Z",
-    "lastModified": "2025-04-24T15:19:48.954Z",
+    "lastModified": "2025-04-25T14:47:14.072Z",
     "_locale": "en-US",
     "_templateName": "FortniteGameScoringRulesInfo"
   },
