@@ -3251,7 +3251,7 @@
           },
           "payoutDelay": 32,
           "requireAllTokens": [
-            "S34_FNCSMajor2_GrandFinalist_ME"
+            "S34_FNCSMajor2_GrandFinalist_ME_v2"
           ],
           "requireAllTokensCaller": [],
           "requireAnyTokens": [],
@@ -3304,7 +3304,7 @@
           },
           "payoutDelay": 32,
           "requireAllTokens": [
-            "S34_FNCSMajor2_GrandFinalist_ME"
+            "S34_FNCSMajor2_GrandFinalist_ME_v2"
           ],
           "requireAllTokensCaller": [],
           "requireAnyTokens": [],
