@@ -4826,6 +4826,7 @@
         {
           "additionalRequirements": [
             "mfa",
+            "adps:g-a81a33a3b9a7",
             "eula:s33_perfeval_rules"
           ],
           "beginTime": "2025-04-09T09:00:00Z",
@@ -4873,6 +4874,7 @@
         {
           "additionalRequirements": [
             "mfa",
+            "adps:g-a81a33a3b9a7",
             "eula:s33_perfeval_rules"
           ],
           "beginTime": "2025-04-16T09:00:00Z",
@@ -4920,6 +4922,7 @@
         {
           "additionalRequirements": [
             "mfa",
+            "adps:g-a81a33a3b9a7",
             "eula:s33_perfeval_rules"
           ],
           "beginTime": "2025-04-16T12:00:00Z",
@@ -4968,6 +4971,7 @@
         {
           "additionalRequirements": [
             "mfa",
+            "adps:g-a81a33a3b9a7",
             "eula:s33_perfeval_rules"
           ],
           "beginTime": "2025-04-21T09:00:00Z",
@@ -5019,6 +5023,7 @@
         {
           "additionalRequirements": [
             "mfa",
+            "adps:g-a81a33a3b9a7",
             "eula:s33_perfeval_rules"
           ],
           "beginTime": "2025-04-21T12:00:00Z",
@@ -5067,6 +5072,7 @@
         {
           "additionalRequirements": [
             "mfa",
+            "adps:g-a81a33a3b9a7",
             "eula:s33_perfeval_rules"
           ],
           "beginTime": "2025-04-28T09:00:00Z",
@@ -5118,6 +5124,7 @@
         {
           "additionalRequirements": [
             "mfa",
+            "adps:g-a81a33a3b9a7",
             "eula:s33_perfeval_rules"
           ],
           "beginTime": "2025-04-28T12:00:00Z",

@@ -5174,6 +5174,7 @@
         {
           "additionalRequirements": [
             "mfa",
+            "adps:g-a81a33a3b9a7",
             "eula:s33_perfeval_rules"
           ],
           "beginTime": "2025-04-09T17:00:00Z",
@@ -5221,6 +5222,7 @@
         {
           "additionalRequirements": [
             "mfa",
+            "adps:g-a81a33a3b9a7",
             "eula:s33_perfeval_rules"
           ],
           "beginTime": "2025-04-09T20:00:00Z",
@@ -5269,6 +5271,7 @@
         {
           "additionalRequirements": [
             "mfa",
+            "adps:g-a81a33a3b9a7",
             "eula:s33_perfeval_rules"
           ],
           "beginTime": "2025-04-10T17:00:00Z",
@@ -5316,6 +5319,7 @@
         {
           "additionalRequirements": [
             "mfa",
+            "adps:g-a81a33a3b9a7",
             "eula:s33_perfeval_rules"
           ],
           "beginTime": "2025-04-10T20:00:00Z",
@@ -5364,6 +5368,7 @@
         {
           "additionalRequirements": [
             "mfa",
+            "adps:g-a81a33a3b9a7",
             "eula:s33_perfeval_rules"
           ],
           "beginTime": "2025-04-16T17:00:00Z",
@@ -5411,6 +5416,7 @@
         {
           "additionalRequirements": [
             "mfa",
+            "adps:g-a81a33a3b9a7",
             "eula:s33_perfeval_rules"
           ],
           "beginTime": "2025-04-16T20:00:00Z",
@@ -5459,6 +5465,7 @@
         {
           "additionalRequirements": [
             "mfa",
+            "adps:g-a81a33a3b9a7",
             "eula:s33_perfeval_rules"
           ],
           "beginTime": "2025-04-21T17:00:00Z",
@@ -5510,6 +5517,7 @@
         {
           "additionalRequirements": [
             "mfa",
+            "adps:g-a81a33a3b9a7",
             "eula:s33_perfeval_rules"
           ],
           "beginTime": "2025-04-21T20:00:00Z",
@@ -5558,6 +5566,7 @@
         {
           "additionalRequirements": [
             "mfa",
+            "adps:g-a81a33a3b9a7",
             "eula:s33_perfeval_rules"
           ],
           "beginTime": "2025-04-28T17:00:00Z",
@@ -5609,6 +5618,7 @@
         {
           "additionalRequirements": [
             "mfa",
+            "adps:g-a81a33a3b9a7",
             "eula:s33_perfeval_rules"
           ],
           "beginTime": "2025-04-28T20:00:00Z",
