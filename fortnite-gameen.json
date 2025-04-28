@@ -1,7 +1,7 @@
 {
   "_title": "Fortnite Game",
   "_activeDate": "2017-08-30T03:20:48.050Z",
-  "lastModified": "2025-04-28T19:52:22.750Z",
+  "lastModified": "2025-04-28T20:25:59.146Z",
   "_locale": "en-US",
   "_templateName": "blank",
   "subgameinfo": {
@@ -38674,8 +38674,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Unreal",
           "displayed_tracked_stat": [
-            "coreBR_Unreal_PLACEMENT_STAT_INDEX",
-            "coreBR_Unreal_TEAM_ELIMS_STAT_INDEX"
+            "UNREAL_PLACEMENT_STAT_INDEX",
+            "UNREAL_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -38684,8 +38684,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Unreal",
           "displayed_tracked_stat": [
-            "coreBR_Unreal_PLACEMENT_STAT_INDEX",
-            "coreBR_Unreal_TEAM_ELIMS_STAT_INDEX"
+            "UNREAL_PLACEMENT_STAT_INDEX",
+            "UNREAL_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -38694,8 +38694,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Unreal",
           "displayed_tracked_stat": [
-            "coreBR_Unreal_PLACEMENT_STAT_INDEX",
-            "coreBR_Unreal_TEAM_ELIMS_STAT_INDEX"
+            "UNREAL_PLACEMENT_STAT_INDEX",
+            "UNREAL_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -38704,8 +38704,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Unreal",
           "displayed_tracked_stat": [
-            "coreBR_Unreal_PLACEMENT_STAT_INDEX",
-            "coreBR_Unreal_TEAM_ELIMS_STAT_INDEX"
+            "UNREAL_PLACEMENT_STAT_INDEX",
+            "UNREAL_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -38714,8 +38714,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Unreal",
           "displayed_tracked_stat": [
-            "coreBR_Unreal_PLACEMENT_STAT_INDEX",
-            "coreBR_Unreal_TEAM_ELIMS_STAT_INDEX"
+            "UNREAL_PLACEMENT_STAT_INDEX",
+            "UNREAL_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -38724,8 +38724,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Unreal",
           "displayed_tracked_stat": [
-            "coreBR_Unreal_PLACEMENT_STAT_INDEX",
-            "coreBR_Unreal_TEAM_ELIMS_STAT_INDEX"
+            "UNREAL_PLACEMENT_STAT_INDEX",
+            "UNREAL_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -38734,8 +38734,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Champion",
           "displayed_tracked_stat": [
-            "coreBR_Champion_PLACEMENT_STAT_INDEX",
-            "coreBR_Champion_TEAM_ELIMS_STAT_INDEX"
+            "CHAMPION_PLACEMENT_STAT_INDEX",
+            "CHAMPION_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -38744,8 +38744,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Champion",
           "displayed_tracked_stat": [
-            "coreBR_Champion_PLACEMENT_STAT_INDEX",
-            "coreBR_Champion_TEAM_ELIMS_STAT_INDEX"
+            "CHAMPION_PLACEMENT_STAT_INDEX",
+            "CHAMPION_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -38754,8 +38754,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Champion",
           "displayed_tracked_stat": [
-            "coreBR_Champion_PLACEMENT_STAT_INDEX",
-            "coreBR_Champion_TEAM_ELIMS_STAT_INDEX"
+            "CHAMPION_PLACEMENT_STAT_INDEX",
+            "CHAMPION_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -38764,8 +38764,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Champion",
           "displayed_tracked_stat": [
-            "coreBR_Champion_PLACEMENT_STAT_INDEX",
-            "coreBR_Champion_TEAM_ELIMS_STAT_INDEX"
+            "CHAMPION_PLACEMENT_STAT_INDEX",
+            "CHAMPION_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -38774,8 +38774,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Champion",
           "displayed_tracked_stat": [
-            "coreBR_Champion_PLACEMENT_STAT_INDEX",
-            "coreBR_Champion_TEAM_ELIMS_STAT_INDEX"
+            "CHAMPION_PLACEMENT_STAT_INDEX",
+            "CHAMPION_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -38784,8 +38784,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Champion",
           "displayed_tracked_stat": [
-            "coreBR_Champion_PLACEMENT_STAT_INDEX",
-            "coreBR_Champion_TEAM_ELIMS_STAT_INDEX"
+            "CHAMPION_PLACEMENT_STAT_INDEX",
+            "CHAMPION_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -38794,8 +38794,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Elite",
           "displayed_tracked_stat": [
-            "coreBR_Elite_PLACEMENT_STAT_INDEX",
-            "coreBR_Elite_TEAM_ELIMS_STAT_INDEX"
+            "ELITE_PLACEMENT_STAT_INDEX",
+            "ELITE_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -38804,8 +38804,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Elite",
           "displayed_tracked_stat": [
-            "coreBR_Elite_PLACEMENT_STAT_INDEX",
-            "coreBR_Elite_TEAM_ELIMS_STAT_INDEX"
+            "ELITE_PLACEMENT_STAT_INDEX",
+            "ELITE_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -38814,8 +38814,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Elite",
           "displayed_tracked_stat": [
-            "coreBR_Elite_PLACEMENT_STAT_INDEX",
-            "coreBR_Elite_TEAM_ELIMS_STAT_INDEX"
+            "ELITE_PLACEMENT_STAT_INDEX",
+            "ELITE_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -38824,8 +38824,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Elite",
           "displayed_tracked_stat": [
-            "coreBR_Elite_PLACEMENT_STAT_INDEX",
-            "coreBR_Elite_TEAM_ELIMS_STAT_INDEX"
+            "ELITE_PLACEMENT_STAT_INDEX",
+            "ELITE_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -38834,8 +38834,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Elite",
           "displayed_tracked_stat": [
-            "coreBR_Elite_PLACEMENT_STAT_INDEX",
-            "coreBR_Elite_TEAM_ELIMS_STAT_INDEX"
+            "ELITE_PLACEMENT_STAT_INDEX",
+            "ELITE_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -38844,8 +38844,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Elite",
           "displayed_tracked_stat": [
-            "coreBR_Elite_PLACEMENT_STAT_INDEX",
-            "coreBR_Elite_TEAM_ELIMS_STAT_INDEX"
+            "ELITE_PLACEMENT_STAT_INDEX",
+            "ELITE_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -38854,8 +38854,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Diamond",
           "displayed_tracked_stat": [
-            "coreBR_Diamond_PLACEMENT_STAT_INDEX",
-            "coreBR_Diamond_TEAM_ELIMS_STAT_INDEX"
+            "DIAMOND_PLACEMENT_STAT_INDEX",
+            "DIAMOND_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -38864,8 +38864,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Diamond",
           "displayed_tracked_stat": [
-            "coreBR_Diamond_PLACEMENT_STAT_INDEX",
-            "coreBR_Diamond_TEAM_ELIMS_STAT_INDEX"
+            "DIAMOND_PLACEMENT_STAT_INDEX",
+            "DIAMOND_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -38874,8 +38874,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Diamond",
           "displayed_tracked_stat": [
-            "coreBR_Diamond_PLACEMENT_STAT_INDEX",
-            "coreBR_Diamond_TEAM_ELIMS_STAT_INDEX"
+            "DIAMOND_PLACEMENT_STAT_INDEX",
+            "DIAMOND_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -38884,8 +38884,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Diamond",
           "displayed_tracked_stat": [
-            "coreBR_Diamond_PLACEMENT_STAT_INDEX",
-            "coreBR_Diamond_TEAM_ELIMS_STAT_INDEX"
+            "DIAMOND_PLACEMENT_STAT_INDEX",
+            "DIAMOND_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -38894,8 +38894,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Diamond",
           "displayed_tracked_stat": [
-            "coreBR_Diamond_PLACEMENT_STAT_INDEX",
-            "coreBR_Diamond_TEAM_ELIMS_STAT_INDEX"
+            "DIAMOND_PLACEMENT_STAT_INDEX",
+            "DIAMOND_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -38904,8 +38904,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Diamond",
           "displayed_tracked_stat": [
-            "coreBR_Diamond_PLACEMENT_STAT_INDEX",
-            "coreBR_Diamond_TEAM_ELIMS_STAT_INDEX"
+            "DIAMOND_PLACEMENT_STAT_INDEX",
+            "DIAMOND_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -38914,8 +38914,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Platinum",
           "displayed_tracked_stat": [
-            "coreBR_Platinum_PLACEMENT_STAT_INDEX",
-            "coreBR_Platinum_TEAM_ELIMS_STAT_INDEX"
+            "PLATINUM_PLACEMENT_STAT_INDEX",
+            "PLATINUM_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -38924,8 +38924,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Platinum",
           "displayed_tracked_stat": [
-            "coreBR_Platinum_PLACEMENT_STAT_INDEX",
-            "coreBR_Platinum_TEAM_ELIMS_STAT_INDEX"
+            "PLATINUM_PLACEMENT_STAT_INDEX",
+            "PLATINUM_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -38934,8 +38934,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Platinum",
           "displayed_tracked_stat": [
-            "coreBR_Platinum_PLACEMENT_STAT_INDEX",
-            "coreBR_Platinum_TEAM_ELIMS_STAT_INDEX"
+            "PLATINUM_PLACEMENT_STAT_INDEX",
+            "PLATINUM_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -38944,8 +38944,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Platinum",
           "displayed_tracked_stat": [
-            "coreBR_Platinum_PLACEMENT_STAT_INDEX",
-            "coreBR_Platinum_TEAM_ELIMS_STAT_INDEX"
+            "PLATINUM_PLACEMENT_STAT_INDEX",
+            "PLATINUM_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -38954,8 +38954,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Platinum",
           "displayed_tracked_stat": [
-            "coreBR_Platinum_PLACEMENT_STAT_INDEX",
-            "coreBR_Platinum_TEAM_ELIMS_STAT_INDEX"
+            "PLATINUM_PLACEMENT_STAT_INDEX",
+            "PLATINUM_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -38964,8 +38964,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Platinum",
           "displayed_tracked_stat": [
-            "coreBR_Platinum_PLACEMENT_STAT_INDEX",
-            "coreBR_Platinum_TEAM_ELIMS_STAT_INDEX"
+            "PLATINUM_PLACEMENT_STAT_INDEX",
+            "PLATINUM_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -38974,8 +38974,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Gold",
           "displayed_tracked_stat": [
-            "coreBR_Gold_PLACEMENT_STAT_INDEX",
-            "coreBR_Gold_TEAM_ELIMS_STAT_INDEX"
+            "GOLD_PLACEMENT_STAT_INDEX",
+            "GOLD_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -38984,8 +38984,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Gold",
           "displayed_tracked_stat": [
-            "coreBR_Gold_PLACEMENT_STAT_INDEX",
-            "coreBR_Gold_TEAM_ELIMS_STAT_INDEX"
+            "GOLD_PLACEMENT_STAT_INDEX",
+            "GOLD_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -38994,8 +38994,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Gold",
           "displayed_tracked_stat": [
-            "coreBR_Gold_PLACEMENT_STAT_INDEX",
-            "coreBR_Gold_TEAM_ELIMS_STAT_INDEX"
+            "GOLD_PLACEMENT_STAT_INDEX",
+            "GOLD_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -39004,8 +39004,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Gold",
           "displayed_tracked_stat": [
-            "coreBR_Gold_PLACEMENT_STAT_INDEX",
-            "coreBR_Gold_TEAM_ELIMS_STAT_INDEX"
+            "GOLD_PLACEMENT_STAT_INDEX",
+            "GOLD_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -39014,8 +39014,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Gold",
           "displayed_tracked_stat": [
-            "coreBR_Gold_PLACEMENT_STAT_INDEX",
-            "coreBR_Gold_TEAM_ELIMS_STAT_INDEX"
+            "GOLD_PLACEMENT_STAT_INDEX",
+            "GOLD_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -39024,8 +39024,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Gold",
           "displayed_tracked_stat": [
-            "coreBR_Gold_PLACEMENT_STAT_INDEX",
-            "coreBR_Gold_TEAM_ELIMS_STAT_INDEX"
+            "GOLD_PLACEMENT_STAT_INDEX",
+            "GOLD_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -39034,8 +39034,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Silver",
           "displayed_tracked_stat": [
-            "coreBR_Silver_PLACEMENT_STAT_INDEX",
-            "coreBR_Silver_TEAM_ELIMS_STAT_INDEX"
+            "SILVER_PLACEMENT_STAT_INDEX",
+            "SILVER_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -39044,8 +39044,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Silver",
           "displayed_tracked_stat": [
-            "coreBR_Silver_PLACEMENT_STAT_INDEX",
-            "coreBR_Silver_TEAM_ELIMS_STAT_INDEX"
+            "SILVER_PLACEMENT_STAT_INDEX",
+            "SILVER_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -39054,8 +39054,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Silver",
           "displayed_tracked_stat": [
-            "coreBR_Silver_PLACEMENT_STAT_INDEX",
-            "coreBR_Silver_TEAM_ELIMS_STAT_INDEX"
+            "SILVER_PLACEMENT_STAT_INDEX",
+            "SILVER_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -39064,8 +39064,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Silver",
           "displayed_tracked_stat": [
-            "coreBR_Silver_PLACEMENT_STAT_INDEX",
-            "coreBR_Silver_TEAM_ELIMS_STAT_INDEX"
+            "SILVER_PLACEMENT_STAT_INDEX",
+            "SILVER_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -39074,8 +39074,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Silver",
           "displayed_tracked_stat": [
-            "coreBR_Silver_PLACEMENT_STAT_INDEX",
-            "coreBR_Silver_TEAM_ELIMS_STAT_INDEX"
+            "SILVER_PLACEMENT_STAT_INDEX",
+            "SILVER_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -39084,8 +39084,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Silver",
           "displayed_tracked_stat": [
-            "coreBR_Silver_PLACEMENT_STAT_INDEX",
-            "coreBR_Silver_TEAM_ELIMS_STAT_INDEX"
+            "SILVER_PLACEMENT_STAT_INDEX",
+            "SILVER_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -39094,8 +39094,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Silver",
           "displayed_tracked_stat": [
-            "coreBR_Silver_PLACEMENT_STAT_INDEX",
-            "coreBR_Silver_TEAM_ELIMS_STAT_INDEX"
+            "SILVER_PLACEMENT_STAT_INDEX",
+            "SILVER_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -39104,8 +39104,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Silver",
           "displayed_tracked_stat": [
-            "coreBR_Silver_PLACEMENT_STAT_INDEX",
-            "coreBR_Silver_TEAM_ELIMS_STAT_INDEX"
+            "SILVER_PLACEMENT_STAT_INDEX",
+            "SILVER_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -39114,8 +39114,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Bronze",
           "displayed_tracked_stat": [
-            "coreBR_Bronze_PLACEMENT_STAT_INDEX",
-            "coreBR_Bronze_TEAM_ELIMS_STAT_INDEX"
+            "BRONZE_PLACEMENT_STAT_INDEX",
+            "BRONZE_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -39124,8 +39124,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Bronze",
           "displayed_tracked_stat": [
-            "coreBR_Bronze_PLACEMENT_STAT_INDEX",
-            "coreBR_Bronze_TEAM_ELIMS_STAT_INDEX"
+            "BRONZE_PLACEMENT_STAT_INDEX",
+            "BRONZE_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -39134,8 +39134,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Bronze",
           "displayed_tracked_stat": [
-            "coreBR_Bronze_PLACEMENT_STAT_INDEX",
-            "coreBR_Bronze_TEAM_ELIMS_STAT_INDEX"
+            "BRONZE_PLACEMENT_STAT_INDEX",
+            "BRONZE_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -39144,8 +39144,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Bronze",
           "displayed_tracked_stat": [
-            "coreBR_Bronze_PLACEMENT_STAT_INDEX",
-            "coreBR_Bronze_TEAM_ELIMS_STAT_INDEX"
+            "BRONZE_PLACEMENT_STAT_INDEX",
+            "BRONZE_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -39154,8 +39154,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Bronze",
           "displayed_tracked_stat": [
-            "coreBR_Bronze_PLACEMENT_STAT_INDEX",
-            "coreBR_Bronze_TEAM_ELIMS_STAT_INDEX"
+            "BRONZE_PLACEMENT_STAT_INDEX",
+            "BRONZE_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -39164,8 +39164,8 @@
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Bronze",
           "displayed_tracked_stat": [
-            "coreBR_Bronze_PLACEMENT_STAT_INDEX",
-            "coreBR_Bronze_TEAM_ELIMS_STAT_INDEX"
+            "BRONZE_PLACEMENT_STAT_INDEX",
+            "BRONZE_TEAM_ELIMS_STAT_INDEX"
           ]
         },
         {
@@ -40470,7 +40470,7 @@
     "_title": "leaderboardinformation",
     "_noIndex": false,
     "_activeDate": "2022-09-18T06:00:00.000Z",
-    "lastModified": "2025-04-28T19:49:19.117Z",
+    "lastModified": "2025-04-28T20:25:59.146Z",
     "_locale": "en-US",
     "_templateName": "FortniteGameLeaderboardInfo"
   },
