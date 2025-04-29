@@ -11207,6 +11207,118 @@
       ]
     },
     {
+      "announcementTime": "2025-04-29T15:00:00Z",
+      "announcementTime_jst": "2025-04-30 00:00:00",
+      "announcementTime_unix": 1745938800,
+      "beginTime": "2025-05-05T23:00:00Z",
+      "beginTime_jst": "2025-05-06 08:00:00",
+      "beginTime_unix": 1746486000,
+      "displayData": {
+        "details_description": "The Fortnite World Cup champion is bringing some FNCS style to the 2025 FNCS Pro-Am celebration! Duo up for the opporturnity to earn the \"Champion Bugha\" outfit before it hits the shop! Players who earn 8 points will win the \"Sweatin'\" Spray!",
+        "flavor_description": "",
+        "loading_screen_image": "https://cdn2.unrealengine.com/en-fnce-35-00-pro-am-reload-discoverytile-communitycup-1920x1080-1920x1080-470ebe19aae7.jpg",
+        "long_format_title": "FNCS Bugha Icon Cup",
+        "poster_back_image": null,
+        "poster_front_image": "https://cdn2.unrealengine.com/fncs-35-00-proam-bugha-fncs-comp-in-game-poster-poster-front-750x1080-9f4b4c21c65c.jpg",
+        "round_names": null,
+        "short_format_title": "",
+        "square_poster_image": "https://cdn2.unrealengine.com/en-fnce-35-00-pro-am-reload-discoverytile-communitycup-1920x1080-1920x1080-470ebe19aae7.jpg"
+      },
+      "displayDataId": "s35_fncs_bugha",
+      "endTime": "2025-05-06T01:30:00Z",
+      "endTime_jst": "2025-05-06 10:30:00",
+      "endTime_unix": 1746495000,
+      "eventGroup": "Season35_FNCSCommunityCup",
+      "eventId": "epicgames_S35_FNCSCommunityCups_Bugha_NAC",
+      "eventWindows": [
+        {
+          "additionalRequirements": [
+            "mfa",
+            "adps:g-a81a33a3b9a7",
+            "eula:NEED CHANGE"
+          ],
+          "beginTime": "2025-05-05T23:00:00Z",
+          "beginTime_jst": "2025-05-06 08:00:00",
+          "beginTime_unix": 1746486000,
+          "blackoutPeriods": [],
+          "canLiveSpectate": false,
+          "countdownBeginTime": "2025-05-05T21:00:00Z",
+          "countdownBeginTime_jst": "2025-05-06 06:00:00",
+          "countdownBeginTime_unix": 1746478800,
+          "endTime": "2025-05-06T01:30:00Z",
+          "endTime_jst": "2025-05-06 10:30:00",
+          "endTime_unix": 1746495000,
+          "eventTemplateId": "EventTemplate_S35_FNCSCommunityCups",
+          "eventWindowId": "S35_FNCSCommunityCups_Bugha_NAC",
+          "isTBD": false,
+          "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+          },
+          "payoutDelay": 32,
+          "requireAllTokens": [],
+          "requireAllTokensCaller": [],
+          "requireAnyTokens": [],
+          "requireAnyTokensCaller": [],
+          "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+          ],
+          "round": 0,
+          "scoreLocations": [
+            {
+              "isMainWindowLeaderboard": true,
+              "leaderboardDefId": "Leaderboard_S35_FNCS_Community_Cups"
+            }
+          ],
+          "teammateEligibility": "all",
+          "visibility": "public"
+        }
+      ],
+      "gameId": "Fortnite",
+      "link": {
+        "code": "tournament_epicgames_s35_fncscommunitycups_bugha_nac",
+        "type": "br:tournament",
+        "version": 1
+      },
+      "metadata": {
+        "AccountLockType": "Window",
+        "DisqualifyType": "Event",
+        "minimumAccountLevel": 50,
+        "tournamentType": "ShopCup"
+      },
+      "platformMappings": {},
+      "platforms": [
+        "XboxOneGDK",
+        "PS4",
+        "XCloud",
+        "Helios",
+        "Luna",
+        "IOS",
+        "XB1",
+        "XboxOne",
+        "XSX",
+        "Android",
+        "LunaMobile",
+        "PS5",
+        "XCloudMobile",
+        "Mac",
+        "HeliosMobile",
+        "GFN",
+        "Switch",
+        "GFNMobile",
+        "Windows"
+      ],
+      "regionMappings": {
+        "NAC": "NACCOMP",
+        "NAE": "NACCOMP"
+      },
+      "regions": [
+        "NAC",
+        "NAE"
+      ]
+    },
+    {
       "announcementTime": "2025-04-28T15:00:00Z",
       "announcementTime_jst": "2025-04-29 00:00:00",
       "announcementTime_unix": 1745852400,
@@ -15441,6 +15553,42 @@
           }
         ],
         "scoringType": "value"
+      }
+    ],
+    "S35_FNCSCommunityCups_Bugha_NAC": [
+      {
+        "ranks": [
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 1,
+                "rewardMode": "standard",
+                "rewardType": "game",
+                "value": "AthenaDance:spray_fncsprow1"
+              }
+            ],
+            "threshold": 8
+          }
+        ],
+        "scoringType": "value"
+      },
+      {
+        "ranks": [
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 1,
+                "rewardMode": "standard",
+                "rewardType": "game",
+                "value": "AthenaCharacter:character_sleetreceipt"
+              }
+            ],
+            "threshold": 900
+          }
+        ],
+        "scoringType": "rank"
       }
     ],
     "S35_FNCSCommunityCups_Clix_NAC": [
