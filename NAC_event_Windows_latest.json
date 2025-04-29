@@ -15585,7 +15585,7 @@
                 "value": "AthenaCharacter:character_sleetreceipt"
               }
             ],
-            "threshold": 900
+            "threshold": 650
           }
         ],
         "scoringType": "rank"
