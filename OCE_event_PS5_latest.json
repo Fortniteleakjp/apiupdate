@@ -14467,43 +14467,6 @@
     },
     {
       "clampsToZero": false,
-      "eventTemplateId": "EventTemplate_Acrocanthosaurus",
-      "gameId": "Fortnite",
-      "liveSessionAttributes": [],
-      "matchCap": 0,
-      "payoutTable": [],
-      "playlistId": "Playlist_ShowdownTournament_DashBerryDuo_NoFill",
-      "scoringRules": [],
-      "tiebreakerFormula": {
-        "basePointsBits": 11,
-        "components": [
-          {
-            "aggregation": "sum",
-            "bits": 4,
-            "trackedStat": "VICTORY_ROYALE_STAT"
-          },
-          {
-            "aggregation": "avg",
-            "bits": 13,
-            "multiplier": 100,
-            "trackedStat": "TEAM_ELIMS_STAT_INDEX"
-          },
-          {
-            "aggregation": "avg",
-            "bits": 14,
-            "multiplier": 100,
-            "trackedStat": "PLACEMENT_TIEBREAKER_STAT"
-          },
-          {
-            "aggregation": "avg",
-            "bits": 11,
-            "trackedStat": "TIME_ALIVE_STAT"
-          }
-        ]
-      }
-    },
-    {
-      "clampsToZero": false,
       "eventTemplateId": "EventTemplate_S34_PerformanceEvaluationReload_Round2Dashberry",
       "gameId": "Fortnite",
       "liveSessionAttributes": [],
@@ -14578,8 +14541,6 @@
     },
     {
       "clampsToZero": false,
-<<<<<<< HEAD
-=======
       "eventTemplateId": "EventTemplate_S34_PlaystationCup_Final",
       "gameId": "Fortnite",
       "liveSessionAttributes": [],
@@ -14617,7 +14578,6 @@
     },
     {
       "clampsToZero": false,
->>>>>>> 619f3af (🔄 API更新: 2025-04-29T18:32:26.087226)
       "eventTemplateId": "EventTemplate_S34_PerformanceEvaluationReload_Round1Sunflower",
       "gameId": "Fortnite",
       "liveSessionAttributes": [],
