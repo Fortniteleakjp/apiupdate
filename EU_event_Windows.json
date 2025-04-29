@@ -16695,6 +16695,46 @@
       "eventTemplateId": "EventTemplate_Acrocanthosaurus",
       "gameId": "Fortnite",
       "liveSessionAttributes": [],
+<<<<<<< HEAD
+=======
+      "matchCap": 10,
+      "payoutTable": [],
+      "playlistId": "Playlist_ShowdownTournament_Trios",
+      "scoringRules": [],
+      "tiebreakerFormula": {
+        "basePointsBits": 11,
+        "components": [
+          {
+            "aggregation": "sum",
+            "bits": 4,
+            "trackedStat": "VICTORY_ROYALE_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 13,
+            "multiplier": 100,
+            "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 14,
+            "multiplier": 100,
+            "trackedStat": "PLACEMENT_TIEBREAKER_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 11,
+            "trackedStat": "TIME_ALIVE_STAT"
+          }
+        ]
+      }
+    },
+    {
+      "clampsToZero": false,
+      "eventTemplateId": "EventTemplate_Acrocanthosaurus",
+      "gameId": "Fortnite",
+      "liveSessionAttributes": [],
+>>>>>>> 4e4488658f83d35f27da3a5680374f2ddd3196ca
       "matchCap": 0,
       "payoutTable": [],
       "playlistId": "Playlist_ShowdownTournament_DashBerryDuo_NoFill",
@@ -16729,6 +16769,7 @@
     },
     {
       "clampsToZero": false,
+<<<<<<< HEAD
       "eventTemplateId": "EventTemplate_Acrocanthosaurus",
       "gameId": "Fortnite",
       "liveSessionAttributes": [],
@@ -16773,6 +16814,14 @@
       "matchCap": 4,
       "payoutTable": [],
       "playlistId": "Playlist_ShowdownTournament_DashBerryDuo_NoFill",
+=======
+      "eventTemplateId": "EventTemplate_S34_PerformanceEvaluationReload_Round2Dashberry",
+      "gameId": "Fortnite",
+      "liveSessionAttributes": [],
+      "matchCap": 4,
+      "payoutTable": [],
+      "playlistId": "Playlist_ShowdownTournament_DashBerryDuo_NoFill",
+>>>>>>> 4e4488658f83d35f27da3a5680374f2ddd3196ca
       "scoringRules": [],
       "tiebreakerFormula": {
         "basePointsBits": 11,
