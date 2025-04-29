@@ -1,6 +1,112 @@
 {
   "events": [
     {
+      "announcementTime": "2025-04-28T07:00:00Z",
+      "announcementTime_jst": "2025-04-28 16:00:00",
+      "announcementTime_unix": 1745823600,
+      "beginTime": "2025-05-10T07:00:00Z",
+      "beginTime_jst": "2025-05-10 16:00:00",
+      "beginTime_unix": 1746860400,
+      "displayDataId": "s35_proam_2025",
+      "endTime": "2025-05-11T07:00:00Z",
+      "endTime_jst": "2025-05-11 16:00:00",
+      "endTime_unix": 1746946800,
+      "eventGroup": "2025_Pro-Am",
+      "eventId": "epicgames_Acrocanthosaurus_Official",
+      "eventWindows": [
+        {
+          "additionalRequirements": [],
+          "beginTime": "2025-05-10T07:00:00Z",
+          "beginTime_jst": "2025-05-10 16:00:00",
+          "beginTime_unix": 1746860400,
+          "blackoutPeriods": [],
+          "canLiveSpectate": false,
+          "countdownBeginTime": "2025-05-10T06:00:00Z",
+          "countdownBeginTime_jst": "2025-05-10 15:00:00",
+          "countdownBeginTime_unix": 1746856800,
+          "endTime": "2025-05-11T07:00:00Z",
+          "endTime_jst": "2025-05-11 16:00:00",
+          "endTime_unix": 1746946800,
+          "eventTemplateId": "EventTemplate_Acrocanthosaurus",
+          "eventWindowId": "Acrocanthosaurus_Official",
+          "isTBD": false,
+          "metadata": {
+            "RoundType": "Finals",
+            "ServerReplays": true,
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator"
+          },
+          "payoutDelay": 10000,
+          "requireAllTokens": [],
+          "requireAllTokensCaller": [],
+          "requireAnyTokens": [
+            "DinoDen"
+          ],
+          "requireAnyTokensCaller": [],
+          "requireNoneTokensCaller": [],
+          "round": 0,
+          "scoreLocations": [
+            {
+              "isMainWindowLeaderboard": true,
+              "leaderboardDefId": "Acrocanthosaurus_DefaultLeaderboardDef"
+            }
+          ],
+          "teammateEligibility": "all",
+          "visibility": "locked"
+        }
+      ],
+      "gameId": "Fortnite",
+      "link": {
+        "code": "tournament_epicgames_acrocanthosaurus_official",
+        "type": "br:tournament",
+        "version": 1
+      },
+      "metadata": {
+        "TrackedStats": [
+          "Headshots",
+          "DamageDealt",
+          "DamageReceived",
+          "GainedHealthTimes",
+          "GainedShieldTimes",
+          "Travel_Distance_Ground"
+        ],
+        "minimumAccountLevel": 0
+      },
+      "platformMappings": {},
+      "platforms": [
+        "XboxOneGDK",
+        "PS4",
+        "XCloud",
+        "Helios",
+        "Luna",
+        "IOS",
+        "XB1",
+        "XboxOne",
+        "XSX",
+        "Android",
+        "LunaMobile",
+        "PS5",
+        "XCloudMobile",
+        "Mac",
+        "HeliosMobile",
+        "GFN",
+        "Switch",
+        "GFNMobile",
+        "Windows"
+      ],
+      "regionMappings": {},
+      "regions": [
+        "NAE",
+        "ME",
+        "NAC",
+        "NAW",
+        "OCE",
+        "ASIA",
+        "ONSITE",
+        "EU",
+        "BR"
+      ]
+    },
+    {
       "announcementTime": "2024-11-15T15:00:00Z",
       "announcementTime_jst": "2024-11-16 00:00:00",
       "announcementTime_unix": 1731682800,
@@ -891,9 +997,9 @@
       "announcementTime": "2025-03-10T23:00:00Z",
       "announcementTime_jst": "2025-03-11 08:00:00",
       "announcementTime_unix": 1741647600,
-      "beginTime": "2025-04-26T20:00:00Z",
-      "beginTime_jst": "2025-04-27 05:00:00",
-      "beginTime_unix": 1745697600,
+      "beginTime": "2025-04-26T17:00:00Z",
+      "beginTime_jst": "2025-04-27 02:00:00",
+      "beginTime_unix": 1745686800,
       "displayData": {
         "details_description": "アドレナリンラッシュを感じて汗をかこう。コスチューム「エリート ゼイディー」の獲得を目指して、このリロードカップに参加しよう！ 参加するには13歳以上(お住まいの国/地域で定められている場合はそれよりも上の年齢)で、多段階認証が有効であり、アカウントレベルが50以上でなければなりません。詳細はこちら: www.epicgames.com/fortnite/competitive/news",
         "flavor_description": "",
@@ -906,9 +1012,9 @@
         "square_poster_image": "https://cdn2.unrealengine.com/en-fnce-34-40-competitive-discoverytile-zadiereloadcup-1920x1080-1920x1080-77e5a00db96f.jpg"
       },
       "displayDataId": "s34_zadiereload",
-      "endTime": "2025-04-27T23:00:00Z",
-      "endTime_jst": "2025-04-28 08:00:00",
-      "endTime_unix": 1745794800,
+      "endTime": "2025-04-27T20:00:00Z",
+      "endTime_jst": "2025-04-28 05:00:00",
+      "endTime_unix": 1745784000,
       "eventGroup": "Season34_EliteZadieCup",
       "eventId": "epicgames_S34_EliteZadieCup_NAC",
       "eventWindows": [
@@ -917,17 +1023,17 @@
             "mfa",
             "eula:s34_zadie_rules"
           ],
-          "beginTime": "2025-04-26T20:00:00Z",
-          "beginTime_jst": "2025-04-27 05:00:00",
-          "beginTime_unix": 1745697600,
+          "beginTime": "2025-04-26T17:00:00Z",
+          "beginTime_jst": "2025-04-27 02:00:00",
+          "beginTime_unix": 1745686800,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
-          "countdownBeginTime": "2025-04-26T18:00:00Z",
-          "countdownBeginTime_jst": "2025-04-27 03:00:00",
-          "countdownBeginTime_unix": 1745690400,
-          "endTime": "2025-04-26T23:00:00Z",
-          "endTime_jst": "2025-04-27 08:00:00",
-          "endTime_unix": 1745708400,
+          "countdownBeginTime": "2025-04-26T15:00:00Z",
+          "countdownBeginTime_jst": "2025-04-27 00:00:00",
+          "countdownBeginTime_unix": 1745679600,
+          "endTime": "2025-04-26T20:00:00Z",
+          "endTime_jst": "2025-04-27 05:00:00",
+          "endTime_unix": 1745697600,
           "eventTemplateId": "EventTemplate_S34_EliteZadieCup",
           "eventWindowId": "S34_EliteZadieCup_Day1_NAC",
           "isTBD": false,
@@ -958,17 +1064,17 @@
             "mfa",
             "eula:s34_zadie_rules"
           ],
-          "beginTime": "2025-04-27T20:00:00Z",
-          "beginTime_jst": "2025-04-28 05:00:00",
-          "beginTime_unix": 1745784000,
+          "beginTime": "2025-04-27T17:00:00Z",
+          "beginTime_jst": "2025-04-28 02:00:00",
+          "beginTime_unix": 1745773200,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
-          "countdownBeginTime": "2025-04-27T18:00:00Z",
-          "countdownBeginTime_jst": "2025-04-28 03:00:00",
-          "countdownBeginTime_unix": 1745776800,
-          "endTime": "2025-04-27T23:00:00Z",
-          "endTime_jst": "2025-04-28 08:00:00",
-          "endTime_unix": 1745794800,
+          "countdownBeginTime": "2025-04-27T15:00:00Z",
+          "countdownBeginTime_jst": "2025-04-28 00:00:00",
+          "countdownBeginTime_unix": 1745766000,
+          "endTime": "2025-04-27T20:00:00Z",
+          "endTime_jst": "2025-04-28 05:00:00",
+          "endTime_unix": 1745784000,
           "eventTemplateId": "EventTemplate_S34_EliteZadieCup",
           "eventWindowId": "S34_EliteZadieCup_Day2_NAC",
           "isTBD": false,
@@ -3322,7 +3428,7 @@
           },
           "payoutDelay": 32,
           "requireAllTokens": [
-            "S34_FNCSMajor2_GrandFinalist_NAC"
+            "S34_FNCSMajor2_GrandFinalist_NAC_v2"
           ],
           "requireAllTokensCaller": [],
           "requireAnyTokens": [],
@@ -3375,7 +3481,7 @@
           },
           "payoutDelay": 32,
           "requireAllTokens": [
-            "S34_FNCSMajor2_GrandFinalist_NAC"
+            "S34_FNCSMajor2_GrandFinalist_NAC_v2"
           ],
           "requireAllTokensCaller": [],
           "requireAnyTokens": [],
@@ -3751,9 +3857,10 @@
             "RegionLock_S34_FNCSMajor2_BR",
             "RegionLock_S34_FNCSMajor2_ME",
             "RegionLock_S34_FNCSMajor2_EU",
-            "RegionLock_S34_FNCSMajor2_OCE",
             "RegionLock_S34_FNCSMajor2_NAW",
-            "S34_FNCSMajor2_GrandFinalist_NAC"
+            "S34_FNCSMajor2_GrandFinalist_NAC",
+            "RegionLock_S34_FNCSMajor2_OCE",
+            "Permanent_Tournament_Ban"
           ],
           "round": 0,
           "scoreLocations": [
@@ -3801,7 +3908,8 @@
           "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
             "S34_FNCS_Banned",
-            "S34_FNCSMajor2_GrandFinalist_NAC"
+            "S34_FNCSMajor2_GrandFinalist_NAC",
+            "Permanent_Tournament_Ban"
           ],
           "round": 0,
           "scoreLocations": [
@@ -4960,6 +5068,7 @@
         {
           "additionalRequirements": [
             "mfa",
+            "adps:g-a81a33a3b9a7",
             "eula:s33_perfeval_rules"
           ],
           "beginTime": "2025-04-09T23:00:00Z",
@@ -5007,6 +5116,7 @@
         {
           "additionalRequirements": [
             "mfa",
+            "adps:g-a81a33a3b9a7",
             "eula:s33_perfeval_rules"
           ],
           "beginTime": "2025-04-10T02:00:00Z",
@@ -5055,6 +5165,7 @@
         {
           "additionalRequirements": [
             "mfa",
+            "adps:g-a81a33a3b9a7",
             "eula:s33_perfeval_rules"
           ],
           "beginTime": "2025-04-10T23:00:00Z",
@@ -5102,6 +5213,7 @@
         {
           "additionalRequirements": [
             "mfa",
+            "adps:g-a81a33a3b9a7",
             "eula:s33_perfeval_rules"
           ],
           "beginTime": "2025-04-11T02:00:00Z",
@@ -5150,6 +5262,7 @@
         {
           "additionalRequirements": [
             "mfa",
+            "adps:g-a81a33a3b9a7",
             "eula:s33_perfeval_rules"
           ],
           "beginTime": "2025-04-16T23:00:00Z",
@@ -5195,6 +5308,7 @@
         {
           "additionalRequirements": [
             "mfa",
+            "adps:g-a81a33a3b9a7",
             "eula:s33_perfeval_rules"
           ],
           "beginTime": "2025-04-17T02:00:00Z",
@@ -5243,6 +5357,7 @@
         {
           "additionalRequirements": [
             "mfa",
+            "adps:g-a81a33a3b9a7",
             "eula:s33_perfeval_rules"
           ],
           "beginTime": "2025-04-21T23:00:00Z",
@@ -5294,6 +5409,7 @@
         {
           "additionalRequirements": [
             "mfa",
+            "adps:g-a81a33a3b9a7",
             "eula:s33_perfeval_rules"
           ],
           "beginTime": "2025-04-22T02:00:00Z",
@@ -5342,6 +5458,7 @@
         {
           "additionalRequirements": [
             "mfa",
+            "adps:g-a81a33a3b9a7",
             "eula:s33_perfeval_rules"
           ],
           "beginTime": "2025-04-28T23:00:00Z",
@@ -5393,6 +5510,7 @@
         {
           "additionalRequirements": [
             "mfa",
+            "adps:g-a81a33a3b9a7",
             "eula:s33_perfeval_rules"
           ],
           "beginTime": "2025-04-29T02:00:00Z",
@@ -6510,6 +6628,147 @@
       ],
       "regionMappings": {
         "NAE": "NAC"
+      },
+      "regions": [
+        "NAC",
+        "NAE"
+      ]
+    },
+    {
+      "announcementTime": "2025-03-06T17:00:00Z",
+      "announcementTime_jst": "2025-03-07 02:00:00",
+      "announcementTime_unix": 1741280400,
+      "beginTime": "2025-04-29T23:00:00Z",
+      "beginTime_jst": "2025-04-30 08:00:00",
+      "beginTime_unix": 1745967600,
+      "displayData": {
+        "details_description": "本イベントは複数のステージにわたって行われます。1回の予選セッションが開催され、上位100プレイヤーが決勝へ進出します。予選セッションで8ポイント以上獲得したプレイヤーにはゲーム内スプレーが贈呈されます！ 参加するには13歳以上(お住まいの国/地域で定められている場合はそれよりも上の年齢)で、多段階認証が有効であり、アカウントレベルが50以上でなければなりません。詳細はこちら: https://www.epicgames.com/fortnite/competitive/rules-library",
+        "flavor_description": "バトルロイヤルでPlayStationプレイヤー同士で競い合い、キャッシュの賞金獲得を目指しましょう！",
+        "loading_screen_image": "https://cdn2.unrealengine.com/en-fneco-33-00-competitive-discoverytile-playstationcup-1080x1920-1920x1080-b08ab167caf0.jpg",
+        "long_format_title": "PlayStationカップ",
+        "poster_back_image": null,
+        "poster_front_image": null,
+        "round_names": null,
+        "short_format_title": "ソロトーナメント",
+        "square_poster_image": "https://cdn2.unrealengine.com/en-fneco-33-00-competitive-discoverytile-playstationcup-1080x1920-1920x1080-b08ab167caf0.jpg"
+      },
+      "displayDataId": "s34_playstation",
+      "endTime": "2025-05-01T02:00:00Z",
+      "endTime_jst": "2025-05-01 11:00:00",
+      "endTime_unix": 1746064800,
+      "eventGroup": "Season34_PlaystationCup",
+      "eventId": "epicgames_S34_PlaystationCup_NAC",
+      "eventWindows": [
+        {
+          "additionalRequirements": [
+            "mfa",
+            "adps:g-a81a33a3b9a7",
+            "eula:s34_playstation_rules"
+          ],
+          "beginTime": "2025-04-29T23:00:00Z",
+          "beginTime_jst": "2025-04-30 08:00:00",
+          "beginTime_unix": 1745967600,
+          "blackoutPeriods": [],
+          "canLiveSpectate": false,
+          "countdownBeginTime": "2025-04-29T21:00:00Z",
+          "countdownBeginTime_jst": "2025-04-30 06:00:00",
+          "countdownBeginTime_unix": 1745960400,
+          "endTime": "2025-04-30T02:00:00Z",
+          "endTime_jst": "2025-04-30 11:00:00",
+          "endTime_unix": 1745978400,
+          "eventTemplateId": "EventTemplate_S34_PlaystationCup_Qualifier",
+          "eventWindowId": "S34_PlaystationCupQualifier1_NAC",
+          "isTBD": false,
+          "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+          },
+          "payoutDelay": 32,
+          "requireAllTokens": [],
+          "requireAllTokensCaller": [],
+          "requireAnyTokens": [],
+          "requireAnyTokensCaller": [],
+          "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+          ],
+          "round": 0,
+          "scoreLocations": [
+            {
+              "isMainWindowLeaderboard": true,
+              "leaderboardDefId": "S34_PlaystationCup_Qualifier_DefaultLeaderboardDef"
+            }
+          ],
+          "teammateEligibility": "all",
+          "visibility": "public"
+        },
+        {
+          "additionalRequirements": [
+            "mfa",
+            "adps:g-a81a33a3b9a7",
+            "eula:s34_playstation_rules"
+          ],
+          "beginTime": "2025-04-30T23:00:00Z",
+          "beginTime_jst": "2025-05-01 08:00:00",
+          "beginTime_unix": 1746054000,
+          "blackoutPeriods": [],
+          "canLiveSpectate": false,
+          "countdownBeginTime": "2025-04-30T21:00:00Z",
+          "countdownBeginTime_jst": "2025-05-01 06:00:00",
+          "countdownBeginTime_unix": 1746046800,
+          "endTime": "2025-05-01T02:00:00Z",
+          "endTime_jst": "2025-05-01 11:00:00",
+          "endTime_unix": 1746064800,
+          "eventTemplateId": "EventTemplate_S34_PlaystationCup_Final",
+          "eventWindowId": "S34_PlaystationCupFinal_NAC",
+          "isTBD": false,
+          "metadata": {
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "liveSpectateAccessToken": "S29_PSCupMarch_Final_Spectator"
+          },
+          "payoutDelay": 34,
+          "requireAllTokens": [],
+          "requireAllTokensCaller": [],
+          "requireAnyTokens": [
+            "S34_PlaystationCupFinal_NAC"
+          ],
+          "requireAnyTokensCaller": [],
+          "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+          ],
+          "round": 0,
+          "scoreLocations": [
+            {
+              "isMainWindowLeaderboard": true,
+              "leaderboardDefId": "S34_PlaystationCup_Final_DefaultLeaderboardDef"
+            }
+          ],
+          "teammateEligibility": "all",
+          "visibility": "locked"
+        }
+      ],
+      "gameId": "Fortnite",
+      "link": {
+        "code": "tournament_epicgames_s34_playstationcup_nac",
+        "type": "br:tournament",
+        "version": 1
+      },
+      "metadata": {
+        "AccountLockType": "Window",
+        "DisqualifyType": "Window",
+        "minimumAccountLevel": 50,
+        "tournamentType": "CashCup"
+      },
+      "platformMappings": {},
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "regionMappings": {
+        "NAC": "NACCOMP",
+        "NAE": "NACCOMP"
       },
       "regions": [
         "NAC",
@@ -11087,6 +11346,107 @@
         "NAC",
         "NAE"
       ]
+    },
+    {
+      "announcementTime": "2025-04-28T15:00:00Z",
+      "announcementTime_jst": "2025-04-29 00:00:00",
+      "announcementTime_unix": 1745852400,
+      "beginTime": "2025-05-03T23:00:00Z",
+      "beginTime_jst": "2025-05-04 08:00:00",
+      "beginTime_unix": 1746313200,
+      "displayDataId": "s35_fncs_clix",
+      "endTime": "2025-05-04T01:30:00Z",
+      "endTime_jst": "2025-05-04 10:30:00",
+      "endTime_unix": 1746322200,
+      "eventGroup": "Season35_FNCSCommunityCup",
+      "eventId": "epicgames_S35_FNCSCommunityCups_Clix_NAC",
+      "eventWindows": [
+        {
+          "additionalRequirements": [
+            "mfa",
+            "adps:g-a81a33a3b9a7",
+            "eula:tbd"
+          ],
+          "beginTime": "2025-05-03T23:00:00Z",
+          "beginTime_jst": "2025-05-04 08:00:00",
+          "beginTime_unix": 1746313200,
+          "blackoutPeriods": [],
+          "canLiveSpectate": false,
+          "countdownBeginTime": "2025-05-03T21:00:00Z",
+          "countdownBeginTime_jst": "2025-05-04 06:00:00",
+          "countdownBeginTime_unix": 1746306000,
+          "endTime": "2025-05-04T01:30:00Z",
+          "endTime_jst": "2025-05-04 10:30:00",
+          "endTime_unix": 1746322200,
+          "eventTemplateId": "EventTemplate_S35_FNCSCommunityCups",
+          "eventWindowId": "S35_FNCSCommunityCups_Clix_NAC",
+          "isTBD": false,
+          "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+          },
+          "payoutDelay": 32,
+          "requireAllTokens": [],
+          "requireAllTokensCaller": [],
+          "requireAnyTokens": [],
+          "requireAnyTokensCaller": [],
+          "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+          ],
+          "round": 0,
+          "scoreLocations": [
+            {
+              "isMainWindowLeaderboard": true,
+              "leaderboardDefId": "Leaderboard_S35_FNCS_Community_Cups"
+            }
+          ],
+          "teammateEligibility": "all",
+          "visibility": "public"
+        }
+      ],
+      "gameId": "Fortnite",
+      "link": {
+        "code": "tournament_epicgames_s35_fncscommunitycups_clix_nac",
+        "type": "br:tournament",
+        "version": 1
+      },
+      "metadata": {
+        "AccountLockType": "Window",
+        "DisqualifyType": "Event",
+        "minimumAccountLevel": 50,
+        "tournamentType": "ShopCup"
+      },
+      "platformMappings": {},
+      "platforms": [
+        "XboxOneGDK",
+        "PS4",
+        "XCloud",
+        "Helios",
+        "Luna",
+        "IOS",
+        "XB1",
+        "XboxOne",
+        "XSX",
+        "Android",
+        "LunaMobile",
+        "PS5",
+        "XCloudMobile",
+        "Mac",
+        "HeliosMobile",
+        "GFN",
+        "Switch",
+        "GFNMobile",
+        "Windows"
+      ],
+      "regionMappings": {
+        "NAC": "NACCOMP",
+        "NAE": "NACCOMP"
+      },
+      "regions": [
+        "NAC",
+        "NAE"
+      ]
     }
   ],
   "leaderboardDefs": [
@@ -11685,6 +12045,57 @@
       "percentileAccuracy": 1,
       "requiredPlayerListings": [],
       "scoringRuleSetId": "S33_ScoringRules_FNCSMajor1_LastChanceLobby",
+      "tiebreakerFormula": {
+        "basePointsBits": 11,
+        "components": [
+          {
+            "aggregation": "sum",
+            "bits": 4,
+            "trackedStat": "VICTORY_ROYALE_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 13,
+            "multiplier": 100,
+            "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 14,
+            "multiplier": 100,
+            "trackedStat": "PLACEMENT_TIEBREAKER_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 11,
+            "trackedStat": "TIME_ALIVE_STAT"
+          }
+        ]
+      },
+      "useIndividualScores": false
+    },
+    {
+      "clampsToZero": true,
+      "gameId": "Fortnite",
+      "hidePlayerScores": false,
+      "leaderboardDefId": "Acrocanthosaurus_DefaultLeaderboardDef",
+      "leaderboardInstanceGroupingKeyFormat": "${eventId}",
+      "leaderboardInstanceIdFormat": "${windowId}",
+      "leaderboardStorageId": "Fortnite_GLOBAL",
+      "maxSessionHistorySize": 101,
+      "metadata": {
+        "payout": {
+          "alg": "v2"
+        }
+      },
+      "payoutsConfig": {
+        "ledgerKeyFormat": "${eventId}",
+        "payoutDate": "windowEnd+PT72H",
+        "payoutTableIdFormat": "PayoutTable_Acrocanthosaurus_Day1"
+      },
+      "percentileAccuracy": 1,
+      "requiredPlayerListings": [],
+      "scoringRuleSetId": "ScoringRules_Acrocanthosaurus_Day1",
       "tiebreakerFormula": {
         "basePointsBits": 11,
         "components": [
@@ -12643,6 +13054,51 @@
       "clampsToZero": true,
       "gameId": "Fortnite",
       "hidePlayerScores": false,
+      "leaderboardDefId": "Leaderboard_S35_FNCS_Community_Cups",
+      "leaderboardInstanceGroupingKeyFormat": "${eventId}",
+      "leaderboardInstanceIdFormat": "${windowId}",
+      "leaderboardStorageId": "Fortnite_GLOBAL",
+      "maxSessionHistorySize": 10,
+      "payoutsConfig": {
+        "payoutDate": "windowEnd+PT32M",
+        "payoutTableIdFormat": "${windowId}"
+      },
+      "percentileAccuracy": 1,
+      "requiredPlayerListings": [],
+      "scoringRuleSetId": "Scoringrules_S35_FNCS_Community_Cups",
+      "tiebreakerFormula": {
+        "basePointsBits": 11,
+        "components": [
+          {
+            "aggregation": "sum",
+            "bits": 4,
+            "trackedStat": "VICTORY_ROYALE_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 13,
+            "multiplier": 100,
+            "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 14,
+            "multiplier": 100,
+            "trackedStat": "PLACEMENT_TIEBREAKER_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 11,
+            "trackedStat": "TIME_ALIVE_STAT"
+          }
+        ]
+      },
+      "useIndividualScores": false
+    },
+    {
+      "clampsToZero": true,
+      "gameId": "Fortnite",
+      "hidePlayerScores": false,
       "leaderboardDefId": "S34_FNCSMajor2_FinalDay2_DefaultLeaderboardDef",
       "leaderboardInstanceGroupingKeyFormat": "${eventId}",
       "leaderboardInstanceIdFormat": "${windowId}",
@@ -12655,6 +13111,51 @@
       "percentileAccuracy": 1,
       "requiredPlayerListings": [],
       "scoringRuleSetId": "S33_ScoringRules_FNCSMajor1_Final",
+      "tiebreakerFormula": {
+        "basePointsBits": 11,
+        "components": [
+          {
+            "aggregation": "sum",
+            "bits": 4,
+            "trackedStat": "VICTORY_ROYALE_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 13,
+            "multiplier": 100,
+            "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 14,
+            "multiplier": 100,
+            "trackedStat": "PLACEMENT_TIEBREAKER_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 11,
+            "trackedStat": "TIME_ALIVE_STAT"
+          }
+        ]
+      },
+      "useIndividualScores": false
+    },
+    {
+      "clampsToZero": true,
+      "gameId": "Fortnite",
+      "hidePlayerScores": false,
+      "leaderboardDefId": "S34_PlaystationCup_Qualifier_DefaultLeaderboardDef",
+      "leaderboardInstanceGroupingKeyFormat": "${eventId}",
+      "leaderboardInstanceIdFormat": "${windowId}",
+      "leaderboardStorageId": "Fortnite_GLOBAL",
+      "maxSessionHistorySize": 10,
+      "payoutsConfig": {
+        "payoutDate": "windowEnd+PT32M",
+        "payoutTableIdFormat": "${eventId}_Qualifier"
+      },
+      "percentileAccuracy": 1,
+      "requiredPlayerListings": [],
+      "scoringRuleSetId": "S34_ScoringRules_PSCup_Qualifier",
       "tiebreakerFormula": {
         "basePointsBits": 11,
         "components": [
@@ -12774,6 +13275,51 @@
       "clampsToZero": true,
       "gameId": "Fortnite",
       "hidePlayerScores": false,
+      "leaderboardDefId": "S34_PlaystationCup_Final_DefaultLeaderboardDef",
+      "leaderboardInstanceGroupingKeyFormat": "${eventId}",
+      "leaderboardInstanceIdFormat": "${windowId}",
+      "leaderboardStorageId": "Fortnite_GLOBAL",
+      "maxSessionHistorySize": 10,
+      "payoutsConfig": {
+        "payoutDate": "windowEnd+PT32M",
+        "payoutTableIdFormat": "${eventId}_Final"
+      },
+      "percentileAccuracy": 1,
+      "requiredPlayerListings": [],
+      "scoringRuleSetId": "S34_ScoringRules_PSCup_Final",
+      "tiebreakerFormula": {
+        "basePointsBits": 11,
+        "components": [
+          {
+            "aggregation": "sum",
+            "bits": 4,
+            "trackedStat": "VICTORY_ROYALE_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 13,
+            "multiplier": 100,
+            "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 14,
+            "multiplier": 100,
+            "trackedStat": "PLACEMENT_TIEBREAKER_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 11,
+            "trackedStat": "TIME_ALIVE_STAT"
+          }
+        ]
+      },
+      "useIndividualScores": false
+    },
+    {
+      "clampsToZero": true,
+      "gameId": "Fortnite",
+      "hidePlayerScores": false,
       "leaderboardDefId": "S34_FNCSDivisionalCup_Division2_3_Weekly_CumulativeLeaderboard",
       "leaderboardInstanceGroupingKeyFormat": "cumulative",
       "leaderboardInstanceIdFormat": "${eventId}_Week${round}_cumulative",
@@ -12858,6 +13404,110 @@
     }
   ],
   "payoutTables": {
+    "PayoutTable_Acrocanthosaurus_Day1": [
+      {
+        "ranks": [
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 25000,
+                "rewardMode": "standard",
+                "rewardType": "ecomm",
+                "value": "USD"
+              }
+            ],
+            "threshold": 1
+          },
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 22500,
+                "rewardMode": "standard",
+                "rewardType": "ecomm",
+                "value": "USD"
+              }
+            ],
+            "threshold": 2
+          },
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 20000,
+                "rewardMode": "standard",
+                "rewardType": "ecomm",
+                "value": "USD"
+              }
+            ],
+            "threshold": 3
+          },
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 17500,
+                "rewardMode": "standard",
+                "rewardType": "ecomm",
+                "value": "USD"
+              }
+            ],
+            "threshold": 4
+          },
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 15000,
+                "rewardMode": "standard",
+                "rewardType": "ecomm",
+                "value": "USD"
+              }
+            ],
+            "threshold": 5
+          },
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 12500,
+                "rewardMode": "standard",
+                "rewardType": "ecomm",
+                "value": "USD"
+              }
+            ],
+            "threshold": 10
+          },
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 10000,
+                "rewardMode": "standard",
+                "rewardType": "ecomm",
+                "value": "USD"
+              }
+            ],
+            "threshold": 15
+          },
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 7500,
+                "rewardMode": "standard",
+                "rewardType": "ecomm",
+                "value": "USD"
+              }
+            ],
+            "threshold": 20
+          }
+        ],
+        "scoreId": "null",
+        "scoringType": "rank"
+      }
+    ],
     "PayoutTable_EliteZadieCup": [
       {
         "ranks": [
@@ -15024,6 +15674,42 @@
         "scoringType": "value"
       }
     ],
+    "S35_FNCSCommunityCups_Clix_NAC": [
+      {
+        "ranks": [
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 1,
+                "rewardMode": "standard",
+                "rewardType": "game",
+                "value": "AthenaDance:spray_fncsprow1"
+              }
+            ],
+            "threshold": 8
+          }
+        ],
+        "scoringType": "value"
+      },
+      {
+        "ranks": [
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 1,
+                "rewardMode": "standard",
+                "rewardType": "game",
+                "value": "AthenaCharacter:character_cobsink"
+              }
+            ],
+            "threshold": 900
+          }
+        ],
+        "scoringType": "rank"
+      }
+    ],
     "epicgames_S33_FNCSMajor1_GroupStage_NAC": [
       {
         "ranks": [
@@ -15225,6 +15911,133 @@
               }
             ],
             "threshold": 0
+          }
+        ],
+        "scoringType": "value"
+      }
+    ],
+    "epicgames_S34_PlaystationCup_NAC_Final": [
+      {
+        "ranks": [
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 5000,
+                "rewardMode": "standard",
+                "rewardType": "ecomm",
+                "value": "USD"
+              }
+            ],
+            "threshold": 1
+          },
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 3000,
+                "rewardMode": "standard",
+                "rewardType": "ecomm",
+                "value": "USD"
+              }
+            ],
+            "threshold": 2
+          },
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 2000,
+                "rewardMode": "standard",
+                "rewardType": "ecomm",
+                "value": "USD"
+              }
+            ],
+            "threshold": 3
+          },
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 1250,
+                "rewardMode": "standard",
+                "rewardType": "ecomm",
+                "value": "USD"
+              }
+            ],
+            "threshold": 5
+          },
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 1000,
+                "rewardMode": "standard",
+                "rewardType": "ecomm",
+                "value": "USD"
+              }
+            ],
+            "threshold": 10
+          },
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 750,
+                "rewardMode": "standard",
+                "rewardType": "ecomm",
+                "value": "USD"
+              }
+            ],
+            "threshold": 50
+          },
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 300,
+                "rewardMode": "standard",
+                "rewardType": "ecomm",
+                "value": "USD"
+              }
+            ],
+            "threshold": 100
+          }
+        ],
+        "scoringType": "rank"
+      }
+    ],
+    "epicgames_S34_PlaystationCup_NAC_Qualifier": [
+      {
+        "ranks": [
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 1,
+                "rewardMode": "standard",
+                "rewardType": "token",
+                "value": "S34_PlaystationCupFinal_NAC"
+              }
+            ],
+            "threshold": 100
+          }
+        ],
+        "scoringType": "rank"
+      },
+      {
+        "ranks": [
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 1,
+                "rewardMode": "standard",
+                "rewardType": "game",
+                "value": "AthenaDance:spray_brcup"
+              }
+            ],
+            "threshold": 8
           }
         ],
         "scoringType": "value"
@@ -15497,12 +16310,12 @@
     },
     {
       "clampsToZero": false,
-      "eventTemplateId": "EventTemplate_S34_FNCSMajor2_LastChanceQualifier",
+      "eventTemplateId": "EventTemplate_Acrocanthosaurus",
       "gameId": "Fortnite",
       "liveSessionAttributes": [],
-      "matchCap": 10,
+      "matchCap": 0,
       "payoutTable": [],
-      "playlistId": "Playlist_ShowdownTournament_Trios",
+      "playlistId": "Playlist_ShowdownTournament_DashBerryDuo_NoFill",
       "scoringRules": [],
       "tiebreakerFormula": {
         "basePointsBits": 11,
@@ -15577,43 +16390,6 @@
       "matchCap": 10,
       "payoutTable": [],
       "playlistId": "Playlist_ShowdownTournament_NPM_Solo",
-      "scoringRules": [],
-      "tiebreakerFormula": {
-        "basePointsBits": 11,
-        "components": [
-          {
-            "aggregation": "sum",
-            "bits": 4,
-            "trackedStat": "VICTORY_ROYALE_STAT"
-          },
-          {
-            "aggregation": "avg",
-            "bits": 13,
-            "multiplier": 100,
-            "trackedStat": "TEAM_ELIMS_STAT_INDEX"
-          },
-          {
-            "aggregation": "avg",
-            "bits": 14,
-            "multiplier": 100,
-            "trackedStat": "PLACEMENT_TIEBREAKER_STAT"
-          },
-          {
-            "aggregation": "avg",
-            "bits": 11,
-            "trackedStat": "TIME_ALIVE_STAT"
-          }
-        ]
-      }
-    },
-    {
-      "clampsToZero": false,
-      "eventTemplateId": "EventTemplate_S34_LanternFestCup",
-      "gameId": "Fortnite",
-      "liveSessionAttributes": [],
-      "matchCap": 10,
-      "payoutTable": [],
-      "playlistId": "Playlist_ShowdownTournament_Solo",
       "scoringRules": [],
       "tiebreakerFormula": {
         "basePointsBits": 11,
@@ -15978,6 +16754,80 @@
     },
     {
       "clampsToZero": false,
+      "eventTemplateId": "EventTemplate_S34_PlaystationCup_Qualifier",
+      "gameId": "Fortnite",
+      "liveSessionAttributes": [],
+      "matchCap": 10,
+      "payoutTable": [],
+      "playlistId": "Playlist_ShowdownTournament_Solo",
+      "scoringRules": [],
+      "tiebreakerFormula": {
+        "basePointsBits": 11,
+        "components": [
+          {
+            "aggregation": "sum",
+            "bits": 4,
+            "trackedStat": "VICTORY_ROYALE_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 13,
+            "multiplier": 100,
+            "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 14,
+            "multiplier": 100,
+            "trackedStat": "PLACEMENT_TIEBREAKER_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 11,
+            "trackedStat": "TIME_ALIVE_STAT"
+          }
+        ]
+      }
+    },
+    {
+      "clampsToZero": false,
+      "eventTemplateId": "EventTemplate_S34_FNCSMajor2_LastChanceQualifier",
+      "gameId": "Fortnite",
+      "liveSessionAttributes": [],
+      "matchCap": 10,
+      "payoutTable": [],
+      "playlistId": "Playlist_ShowdownTournament_Trios",
+      "scoringRules": [],
+      "tiebreakerFormula": {
+        "basePointsBits": 11,
+        "components": [
+          {
+            "aggregation": "sum",
+            "bits": 4,
+            "trackedStat": "VICTORY_ROYALE_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 13,
+            "multiplier": 100,
+            "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 14,
+            "multiplier": 100,
+            "trackedStat": "PLACEMENT_TIEBREAKER_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 11,
+            "trackedStat": "TIME_ALIVE_STAT"
+          }
+        ]
+      }
+    },
+    {
+      "clampsToZero": false,
       "eventTemplateId": "EventTemplate_S34_RankedCupSolo",
       "gameId": "Fortnite",
       "liveSessionAttributes": [],
@@ -16021,6 +16871,80 @@
       "matchCap": 10,
       "payoutTable": [],
       "playlistId": "Playlist_ShowdownTournament_Solo",
+      "scoringRules": [],
+      "tiebreakerFormula": {
+        "basePointsBits": 11,
+        "components": [
+          {
+            "aggregation": "sum",
+            "bits": 4,
+            "trackedStat": "VICTORY_ROYALE_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 13,
+            "multiplier": 100,
+            "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 14,
+            "multiplier": 100,
+            "trackedStat": "PLACEMENT_TIEBREAKER_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 11,
+            "trackedStat": "TIME_ALIVE_STAT"
+          }
+        ]
+      }
+    },
+    {
+      "clampsToZero": false,
+      "eventTemplateId": "EventTemplate_S34_LanternFestCup",
+      "gameId": "Fortnite",
+      "liveSessionAttributes": [],
+      "matchCap": 10,
+      "payoutTable": [],
+      "playlistId": "Playlist_ShowdownTournament_Solo",
+      "scoringRules": [],
+      "tiebreakerFormula": {
+        "basePointsBits": 11,
+        "components": [
+          {
+            "aggregation": "sum",
+            "bits": 4,
+            "trackedStat": "VICTORY_ROYALE_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 13,
+            "multiplier": 100,
+            "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 14,
+            "multiplier": 100,
+            "trackedStat": "PLACEMENT_TIEBREAKER_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 11,
+            "trackedStat": "TIME_ALIVE_STAT"
+          }
+        ]
+      }
+    },
+    {
+      "clampsToZero": false,
+      "eventTemplateId": "EventTemplate_S35_FNCSCommunityCups",
+      "gameId": "Fortnite",
+      "liveSessionAttributes": [],
+      "matchCap": 10,
+      "payoutTable": [],
+      "playlistId": "Playlist_ShowdownTournament_DashBerryDuo_NoFill",
       "scoringRules": [],
       "tiebreakerFormula": {
         "basePointsBits": 11,
@@ -16243,6 +17167,43 @@
       "matchCap": 10,
       "payoutTable": [],
       "playlistId": "Playlist_ShowdownTournament_PunchBerryDuo_NoFill",
+      "scoringRules": [],
+      "tiebreakerFormula": {
+        "basePointsBits": 11,
+        "components": [
+          {
+            "aggregation": "sum",
+            "bits": 4,
+            "trackedStat": "VICTORY_ROYALE_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 13,
+            "multiplier": 100,
+            "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 14,
+            "multiplier": 100,
+            "trackedStat": "PLACEMENT_TIEBREAKER_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 11,
+            "trackedStat": "TIME_ALIVE_STAT"
+          }
+        ]
+      }
+    },
+    {
+      "clampsToZero": false,
+      "eventTemplateId": "EventTemplate_S34_PlaystationCup_Final",
+      "gameId": "Fortnite",
+      "liveSessionAttributes": [],
+      "matchCap": 6,
+      "payoutTable": [],
+      "playlistId": "Playlist_ShowdownTournament_Solo",
       "scoringRules": [],
       "tiebreakerFormula": {
         "basePointsBits": 11,
