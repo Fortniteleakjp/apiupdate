@@ -10097,6 +10097,116 @@
       "regions": [
         "ASIA"
       ]
+    },
+    {
+      "announcementTime": "2025-04-30T15:00:00Z",
+      "announcementTime_jst": "2025年05月01日00時00分00秒",
+      "announcementTime_unix": 1746025200,
+      "beginTime": "2025-05-07T09:00:00Z",
+      "beginTime_jst": "2025年05月07日18時00分00秒",
+      "beginTime_unix": 1746608400,
+      "displayData": {
+        "details_description": "Lachlan returns with a new FNCS look to celebrate the 2025 FNCS Pro-Am! Duo up for the opportunity to earn the “Champion Lachlan” outfit before it hits the shop! Players who earn 8 points will win the \"Sweatin'\" Spray!",
+        "flavor_description": "",
+        "loading_screen_image": "https://cdn2.unrealengine.com/en-fnce-35-00-pro-am-reload-discoverytile-communitycup-1920x1080-1920x1080-470ebe19aae7.jpg",
+        "long_format_title": "FNCS Lachlan Icon Cup",
+        "poster_back_image": null,
+        "poster_front_image": "https://cdn2.unrealengine.com/fncs-35-00-proam-lachlan-fncs-comp-in-game-poster-poster-frontfnce-33-00-competitive-keyart-posterfront-750x1080-750x1080-195beedc6624.jpg",
+        "round_names": null,
+        "short_format_title": "",
+        "square_poster_image": "https://cdn2.unrealengine.com/en-fnce-35-00-pro-am-reload-discoverytile-communitycup-1920x1080-1920x1080-470ebe19aae7.jpg"
+      },
+      "displayDataId": "s35_fncs_lachlan",
+      "endTime": "2025-05-07T11:30:00Z",
+      "endTime_jst": "2025年05月07日20時30分00秒",
+      "endTime_unix": 1746617400,
+      "eventGroup": "Season35_FNCSCommunityCup",
+      "eventId": "epicgames_S35_FNCSCommunityCups_Lachlan_ASIA",
+      "eventWindows": [
+        {
+          "additionalRequirements": [
+            "mfa",
+            "adps:g-a81a33a3b9a7",
+            "eula:NEED CHANGE"
+          ],
+          "beginTime": "2025-05-07T09:00:00Z",
+          "beginTime_jst": "2025年05月07日18時00分00秒",
+          "beginTime_unix": 1746608400,
+          "blackoutPeriods": [],
+          "canLiveSpectate": false,
+          "countdownBeginTime": "2025-05-07T07:00:00Z",
+          "countdownBeginTime_jst": "2025年05月07日16時00分00秒",
+          "countdownBeginTime_unix": 1746601200,
+          "endTime": "2025-05-07T11:30:00Z",
+          "endTime_jst": "2025年05月07日20時30分00秒",
+          "endTime_unix": 1746617400,
+          "eventTemplateId": "EventTemplate_S35_FNCSCommunityCups",
+          "eventWindowId": "S35_FNCSCommunityCups_Lachlan_ASIA",
+          "isTBD": false,
+          "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+          },
+          "payoutDelay": 32,
+          "requireAllTokens": [],
+          "requireAllTokensCaller": [],
+          "requireAnyTokens": [],
+          "requireAnyTokensCaller": [],
+          "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+          ],
+          "round": 0,
+          "scoreLocations": [
+            {
+              "isMainWindowLeaderboard": true,
+              "leaderboardDefId": "Leaderboard_S35_FNCS_Community_Cups"
+            }
+          ],
+          "teammateEligibility": "all",
+          "visibility": "public"
+        }
+      ],
+      "gameId": "Fortnite",
+      "link": {
+        "code": "tournament_epicgames_s35_fncscommunitycups_lachlan_asia",
+        "type": "br:tournament",
+        "version": 1
+      },
+      "metadata": {
+        "AccountLockType": "Window",
+        "DisqualifyType": "Event",
+        "minimumAccountLevel": 50,
+        "tournamentType": "ShopCup"
+      },
+      "platformMappings": {},
+      "platforms": [
+        "XboxOneGDK",
+        "PS4",
+        "XCloud",
+        "Helios",
+        "Luna",
+        "IOS",
+        "XB1",
+        "XboxOne",
+        "XSX",
+        "Android",
+        "LunaMobile",
+        "PS5",
+        "XCloudMobile",
+        "Mac",
+        "HeliosMobile",
+        "GFN",
+        "Switch",
+        "GFNMobile",
+        "Windows"
+      ],
+      "regionMappings": {
+        "ASIA": "ASIACOMP"
+      },
+      "regions": [
+        "ASIA"
+      ]
     }
   ],
   "leaderboardDefs": [
@@ -14072,6 +14182,42 @@
         "scoringType": "rank"
       }
     ],
+    "S35_FNCSCommunityCups_Lachlan_ASIA": [
+      {
+        "ranks": [
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 1,
+                "rewardMode": "standard",
+                "rewardType": "game",
+                "value": "AthenaDance:spray_fncsprow1"
+              }
+            ],
+            "threshold": 8
+          }
+        ],
+        "scoringType": "value"
+      },
+      {
+        "ranks": [
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 1,
+                "rewardMode": "standard",
+                "rewardType": "game",
+                "value": "AthenaCharacter:character_coilgrip"
+              }
+            ],
+            "threshold": 150
+          }
+        ],
+        "scoringType": "rank"
+      }
+    ],
     "epicgames_S33_FNCSMajor1_GroupStage_ASIA": [
       {
         "ranks": [
@@ -14605,7 +14751,8 @@
     "Fortnite:epicgames_S34_SoloCashCup_ASIA:S34_SoloCashCup_Event8Round2_ASIA": "epicgames_S34_SoloCashCup_ASIA",
     "Fortnite:epicgames_S34_ThunderboltsCup_ASIA:S34_ThunderboltsCup_ASIA": "S34_ThunderboltsCup_ASIA",
     "Fortnite:epicgames_S35_FNCSCommunityCups_Bugha_ASIA:S35_FNCSCommunityCups_Bugha_ASIA": "S35_FNCSCommunityCups_Bugha_ASIA",
-    "Fortnite:epicgames_S35_FNCSCommunityCups_Clix_ASIA:S35_FNCSCommunityCups_Clix_ASIA": "S35_FNCSCommunityCups_Clix_ASIA"
+    "Fortnite:epicgames_S35_FNCSCommunityCups_Clix_ASIA:S35_FNCSCommunityCups_Clix_ASIA": "S35_FNCSCommunityCups_Clix_ASIA",
+    "Fortnite:epicgames_S35_FNCSCommunityCups_Lachlan_ASIA:S35_FNCSCommunityCups_Lachlan_ASIA": "S35_FNCSCommunityCups_Lachlan_ASIA"
   },
   "scoringRuleSets": {
     "S33_ScoringRules_FNCSDivisionCup_Div1_Final": [
@@ -18617,7 +18764,7 @@
           {
             "keyValue": 3,
             "multiplicative": false,
-            "pointsEarned": 2
+            "pointsEarned": 1
           },
           {
             "keyValue": 4,
@@ -18646,6 +18793,11 @@
           },
           {
             "keyValue": 9,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 10,
             "multiplicative": false,
             "pointsEarned": 1
           }
