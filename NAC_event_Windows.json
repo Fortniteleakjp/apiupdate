@@ -11472,9 +11472,9 @@
       ]
     },
     {
-      "announcementTime": "2025-04-28T15:00:00Z",
-      "announcementTime_jst": "2025年04月29日00時00分00秒",
-      "announcementTime_unix": 1745852400,
+      "announcementTime": "2025-04-08T14:00:00Z",
+      "announcementTime_jst": "2025年04月08日23時00分00秒",
+      "announcementTime_unix": 1744120800,
       "beginTime": "2025-05-03T23:00:00Z",
       "beginTime_jst": "2025年05月04日08時00分00秒",
       "beginTime_unix": 1746313200,
