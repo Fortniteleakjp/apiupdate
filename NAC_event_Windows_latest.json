@@ -6646,6 +6646,148 @@
       ]
     },
     {
+      "announcementTime": "2025-03-06T17:00:00Z",
+      "announcementTime_jst": "2025年03月07日02時00分00秒",
+      "announcementTime_unix": 1741280400,
+      "beginTime": "2025-04-29T23:00:00Z",
+      "beginTime_jst": "2025年04月30日08時00分00秒",
+      "beginTime_unix": 1745967600,
+      "displayData": {
+        "details_description": "本イベントは複数のステージにわたって行われます。1回の予選セッションが開催され、上位100プレイヤーが決勝へ進出します。予選セッションで8ポイント以上獲得したプレイヤーにはゲーム内スプレーが贈呈されます！ 参加するには13歳以上(お住まいの国/地域で定められている場合はそれよりも上の年齢)で、多段階認証が有効であり、アカウントレベルが50以上でなければなりません。詳細はこちら: https://www.epicgames.com/fortnite/competitive/rules-library",
+        "flavor_description": "バトルロイヤルでPlayStationプレイヤー同士で競い合い、キャッシュの賞金獲得を目指しましょう！",
+        "loading_screen_image": "https://cdn2.unrealengine.com/en-fneco-33-00-competitive-discoverytile-playstationcup-1080x1920-1920x1080-b08ab167caf0.jpg",
+        "long_format_title": "PlayStationカップ",
+        "poster_back_image": null,
+        "poster_front_image": null,
+        "round_names": null,
+        "short_format_title": "ソロトーナメント",
+        "square_poster_image": "https://cdn2.unrealengine.com/en-fneco-33-00-competitive-discoverytile-playstationcup-1080x1920-1920x1080-b08ab167caf0.jpg"
+      },
+      "displayDataId": "s34_playstation",
+      "endTime": "2025-05-01T02:00:00Z",
+      "endTime_jst": "2025年05月01日11時00分00秒",
+      "endTime_unix": 1746064800,
+      "eventGroup": "Season34_PlaystationCup",
+      "eventId": "epicgames_S34_PlaystationCup_NAC",
+      "eventWindows": [
+        {
+          "additionalRequirements": [
+            "mfa",
+            "adps:g-a81a33a3b9a7",
+            "eula:s34_playstation_rules"
+          ],
+          "beginTime": "2025-04-29T23:00:00Z",
+          "beginTime_jst": "2025年04月30日08時00分00秒",
+          "beginTime_unix": 1745967600,
+          "blackoutPeriods": [],
+          "canLiveSpectate": false,
+          "countdownBeginTime": "2025-04-29T21:00:00Z",
+          "countdownBeginTime_jst": "2025年04月30日06時00分00秒",
+          "countdownBeginTime_unix": 1745960400,
+          "endTime": "2025-04-30T02:00:00Z",
+          "endTime_jst": "2025年04月30日11時00分00秒",
+          "endTime_unix": 1745978400,
+          "eventTemplateId": "EventTemplate_S34_PlaystationCup_Qualifier",
+          "eventWindowId": "S34_PlaystationCupQualifier1_NAC",
+          "isTBD": false,
+          "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+          },
+          "payoutDelay": 32,
+          "requireAllTokens": [],
+          "requireAllTokensCaller": [],
+          "requireAnyTokens": [],
+          "requireAnyTokensCaller": [],
+          "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+          ],
+          "round": 0,
+          "scoreLocations": [
+            {
+              "isMainWindowLeaderboard": true,
+              "leaderboardDefId": "S34_PlaystationCup_Qualifier_DefaultLeaderboardDef"
+            }
+          ],
+          "teammateEligibility": "all",
+          "visibility": "public"
+        },
+        {
+          "additionalRequirements": [
+            "mfa",
+            "adps:g-a81a33a3b9a7",
+            "eula:s34_playstation_rules"
+          ],
+          "beginTime": "2025-04-30T23:00:00Z",
+          "beginTime_jst": "2025年05月01日08時00分00秒",
+          "beginTime_unix": 1746054000,
+          "blackoutPeriods": [],
+          "canLiveSpectate": false,
+          "countdownBeginTime": "2025-04-30T21:00:00Z",
+          "countdownBeginTime_jst": "2025年05月01日06時00分00秒",
+          "countdownBeginTime_unix": 1746046800,
+          "endTime": "2025-05-01T02:00:00Z",
+          "endTime_jst": "2025年05月01日11時00分00秒",
+          "endTime_unix": 1746064800,
+          "eventTemplateId": "EventTemplate_S34_PlaystationCup_Final",
+          "eventWindowId": "S34_PlaystationCupFinal_NAC",
+          "isTBD": false,
+          "metadata": {
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "liveSpectateAccessToken": "S29_PSCupMarch_Final_Spectator"
+          },
+          "payoutDelay": 34,
+          "requireAllTokens": [],
+          "requireAllTokensCaller": [],
+          "requireAnyTokens": [
+            "S34_PlaystationCupFinal_NAC"
+          ],
+          "requireAnyTokensCaller": [],
+          "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+          ],
+          "round": 0,
+          "scoreLocations": [
+            {
+              "isMainWindowLeaderboard": true,
+              "leaderboardDefId": "S34_PlaystationCup_Final_DefaultLeaderboardDef"
+            }
+          ],
+          "teammateEligibility": "all",
+          "visibility": "locked"
+        }
+      ],
+      "gameId": "Fortnite",
+      "link": {
+        "code": "tournament_epicgames_s34_playstationcup_nac",
+        "type": "br:tournament",
+        "version": 1
+      },
+      "metadata": {
+        "AccountLockType": "Window",
+        "DisqualifyType": "Window",
+        "minimumAccountLevel": 50,
+        "tournamentType": "CashCup"
+      },
+      "platformMappings": {},
+      "platforms": [
+        "PS4",
+        "PS5",
+        "Windows"
+      ],
+      "regionMappings": {
+        "NAC": "NACCOMP",
+        "NAE": "NACCOMP"
+      },
+      "regions": [
+        "NAC",
+        "NAE"
+      ]
+    },
+    {
       "announcementTime": "2025-02-21T09:00:06Z",
       "announcementTime_jst": "2025年02月21日18時00分06秒",
       "announcementTime_unix": 1740128406,
@@ -13137,6 +13279,51 @@
       "clampsToZero": true,
       "gameId": "Fortnite",
       "hidePlayerScores": false,
+      "leaderboardDefId": "S34_PlaystationCup_Qualifier_DefaultLeaderboardDef",
+      "leaderboardInstanceGroupingKeyFormat": "${eventId}",
+      "leaderboardInstanceIdFormat": "${windowId}",
+      "leaderboardStorageId": "Fortnite_GLOBAL",
+      "maxSessionHistorySize": 10,
+      "payoutsConfig": {
+        "payoutDate": "windowEnd+PT32M",
+        "payoutTableIdFormat": "${eventId}_Qualifier"
+      },
+      "percentileAccuracy": 1,
+      "requiredPlayerListings": [],
+      "scoringRuleSetId": "S34_ScoringRules_PSCup_Qualifier",
+      "tiebreakerFormula": {
+        "basePointsBits": 11,
+        "components": [
+          {
+            "aggregation": "sum",
+            "bits": 4,
+            "trackedStat": "VICTORY_ROYALE_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 13,
+            "multiplier": 100,
+            "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 14,
+            "multiplier": 100,
+            "trackedStat": "PLACEMENT_TIEBREAKER_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 11,
+            "trackedStat": "TIME_ALIVE_STAT"
+          }
+        ]
+      },
+      "useIndividualScores": false
+    },
+    {
+      "clampsToZero": true,
+      "gameId": "Fortnite",
+      "hidePlayerScores": false,
       "leaderboardDefId": "S33_FNCSMajor1_PlayInStage_CumulativeLeaderboardDef",
       "leaderboardInstanceGroupingKeyFormat": "cumulative",
       "leaderboardInstanceIdFormat": "${eventId}_cumulative",
@@ -13190,6 +13377,51 @@
       "percentileAccuracy": 1,
       "requiredPlayerListings": [],
       "scoringRuleSetId": "S33_ScoringRules_FNCSMajor1_LastChanceQualifier",
+      "tiebreakerFormula": {
+        "basePointsBits": 11,
+        "components": [
+          {
+            "aggregation": "sum",
+            "bits": 4,
+            "trackedStat": "VICTORY_ROYALE_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 13,
+            "multiplier": 100,
+            "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 14,
+            "multiplier": 100,
+            "trackedStat": "PLACEMENT_TIEBREAKER_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 11,
+            "trackedStat": "TIME_ALIVE_STAT"
+          }
+        ]
+      },
+      "useIndividualScores": false
+    },
+    {
+      "clampsToZero": true,
+      "gameId": "Fortnite",
+      "hidePlayerScores": false,
+      "leaderboardDefId": "S34_PlaystationCup_Final_DefaultLeaderboardDef",
+      "leaderboardInstanceGroupingKeyFormat": "${eventId}",
+      "leaderboardInstanceIdFormat": "${windowId}",
+      "leaderboardStorageId": "Fortnite_GLOBAL",
+      "maxSessionHistorySize": 10,
+      "payoutsConfig": {
+        "payoutDate": "windowEnd+PT32M",
+        "payoutTableIdFormat": "${eventId}_Final"
+      },
+      "percentileAccuracy": 1,
+      "requiredPlayerListings": [],
+      "scoringRuleSetId": "S34_ScoringRules_PSCup_Final",
       "tiebreakerFormula": {
         "basePointsBits": 11,
         "components": [
@@ -15855,6 +16087,133 @@
         "scoringType": "value"
       }
     ],
+    "epicgames_S34_PlaystationCup_NAC_Final": [
+      {
+        "ranks": [
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 5000,
+                "rewardMode": "standard",
+                "rewardType": "ecomm",
+                "value": "USD"
+              }
+            ],
+            "threshold": 1
+          },
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 3000,
+                "rewardMode": "standard",
+                "rewardType": "ecomm",
+                "value": "USD"
+              }
+            ],
+            "threshold": 2
+          },
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 2000,
+                "rewardMode": "standard",
+                "rewardType": "ecomm",
+                "value": "USD"
+              }
+            ],
+            "threshold": 3
+          },
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 1250,
+                "rewardMode": "standard",
+                "rewardType": "ecomm",
+                "value": "USD"
+              }
+            ],
+            "threshold": 5
+          },
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 1000,
+                "rewardMode": "standard",
+                "rewardType": "ecomm",
+                "value": "USD"
+              }
+            ],
+            "threshold": 10
+          },
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 750,
+                "rewardMode": "standard",
+                "rewardType": "ecomm",
+                "value": "USD"
+              }
+            ],
+            "threshold": 50
+          },
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 300,
+                "rewardMode": "standard",
+                "rewardType": "ecomm",
+                "value": "USD"
+              }
+            ],
+            "threshold": 100
+          }
+        ],
+        "scoringType": "rank"
+      }
+    ],
+    "epicgames_S34_PlaystationCup_NAC_Qualifier": [
+      {
+        "ranks": [
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 1,
+                "rewardMode": "standard",
+                "rewardType": "token",
+                "value": "S34_PlaystationCupFinal_NAC"
+              }
+            ],
+            "threshold": 100
+          }
+        ],
+        "scoringType": "rank"
+      },
+      {
+        "ranks": [
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 1,
+                "rewardMode": "standard",
+                "rewardType": "game",
+                "value": "AthenaDance:spray_brcup"
+              }
+            ],
+            "threshold": 8
+          }
+        ],
+        "scoringType": "value"
+      }
+    ],
     "epicgames_S34_SoloCashCup_NAC": [
       {
         "ranks": [
@@ -16057,6 +16416,8 @@
     "Fortnite:epicgames_S34_PerformanceEvaluation_NAC:S34_PerformanceEvaluation_Event8Round2_NAC": "S34_PayoutTable_PerformanceEvaluation_Round2",
     "Fortnite:epicgames_S34_PerformanceEvaluation_NAC:S34_PerformanceEvaluation_Event9Round1_NAC": "S34_PerformanceEvaluation_Event9Round1_NAC",
     "Fortnite:epicgames_S34_PerformanceEvaluation_NAC:S34_PerformanceEvaluation_Event9Round2_NAC": "S34_PayoutTable_PerformanceEvaluation_Round2",
+    "Fortnite:epicgames_S34_PlaystationCup_NAC:S34_PlaystationCupFinal_NAC": "epicgames_S34_PlaystationCup_NAC_Final",
+    "Fortnite:epicgames_S34_PlaystationCup_NAC:S34_PlaystationCupQualifier1_NAC": "epicgames_S34_PlaystationCup_NAC_Qualifier",
     "Fortnite:epicgames_S34_RankedCupBSGDuos_NAC:S34_RankedCupBSGDuos_Event1_NAC": "S34_PayoutTable_RankedCupDefault",
     "Fortnite:epicgames_S34_RankedCupBSGDuos_NAC:S34_RankedCupBSGDuos_Event2_NAC": "S34_PayoutTable_RankedCupDefault",
     "Fortnite:epicgames_S34_RankedCupBSGDuos_NAC:S34_RankedCupBSGDuos_Event3_NAC": "S34_PayoutTable_RankedCupDefault",
@@ -17915,6 +18276,544 @@
             "keyValue": 75,
             "multiplicative": false,
             "pointsEarned": 3
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 2
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ],
+    "S34_ScoringRules_PSCup_Final": [
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 7
+          },
+          {
+            "keyValue": 2,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 3,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 4,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 5,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 6,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 7,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 8,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 9,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 10,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 11,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 12,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 13,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 14,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 15,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 16,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 17,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 18,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 19,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 20,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 21,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 22,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 23,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 24,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 25,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 26,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 27,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 28,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 29,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 30,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 31,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 32,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 33,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 34,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 35,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 36,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 37,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 38,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 39,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 40,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 41,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 42,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 43,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 44,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 45,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 46,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 47,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 48,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 49,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 50,
+            "multiplicative": false,
+            "pointsEarned": 1
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 3
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ],
+    "S34_ScoringRules_PSCup_Qualifier": [
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 7
+          },
+          {
+            "keyValue": 2,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 3,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 4,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 5,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 6,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 7,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 8,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 9,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 10,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 11,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 12,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 13,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 14,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 15,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 16,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 17,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 18,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 19,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 20,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 21,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 22,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 23,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 24,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 25,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 26,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 27,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 28,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 29,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 30,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 31,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 32,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 33,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 34,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 35,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 36,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 37,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 38,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 39,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 40,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 41,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 42,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 43,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 44,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 45,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 46,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 47,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 48,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 49,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 50,
+            "multiplicative": false,
+            "pointsEarned": 1
           }
         ],
         "trackedStat": "PLACEMENT_STAT_INDEX"
@@ -19989,43 +20888,6 @@
     },
     {
       "clampsToZero": false,
-      "eventTemplateId": "EventTemplate_S34_FNCSMajor2_LastChanceQualifier",
-      "gameId": "Fortnite",
-      "liveSessionAttributes": [],
-      "matchCap": 10,
-      "payoutTable": [],
-      "playlistId": "Playlist_ShowdownTournament_Trios",
-      "scoringRules": [],
-      "tiebreakerFormula": {
-        "basePointsBits": 11,
-        "components": [
-          {
-            "aggregation": "sum",
-            "bits": 4,
-            "trackedStat": "VICTORY_ROYALE_STAT"
-          },
-          {
-            "aggregation": "avg",
-            "bits": 13,
-            "multiplier": 100,
-            "trackedStat": "TEAM_ELIMS_STAT_INDEX"
-          },
-          {
-            "aggregation": "avg",
-            "bits": 14,
-            "multiplier": 100,
-            "trackedStat": "PLACEMENT_TIEBREAKER_STAT"
-          },
-          {
-            "aggregation": "avg",
-            "bits": 11,
-            "trackedStat": "TIME_ALIVE_STAT"
-          }
-        ]
-      }
-    },
-    {
-      "clampsToZero": false,
       "eventTemplateId": "EventTemplate_Acrocanthosaurus",
       "gameId": "Fortnite",
       "liveSessionAttributes": [],
@@ -20470,6 +21332,80 @@
     },
     {
       "clampsToZero": false,
+      "eventTemplateId": "EventTemplate_S34_PlaystationCup_Qualifier",
+      "gameId": "Fortnite",
+      "liveSessionAttributes": [],
+      "matchCap": 10,
+      "payoutTable": [],
+      "playlistId": "Playlist_ShowdownTournament_Solo",
+      "scoringRules": [],
+      "tiebreakerFormula": {
+        "basePointsBits": 11,
+        "components": [
+          {
+            "aggregation": "sum",
+            "bits": 4,
+            "trackedStat": "VICTORY_ROYALE_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 13,
+            "multiplier": 100,
+            "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 14,
+            "multiplier": 100,
+            "trackedStat": "PLACEMENT_TIEBREAKER_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 11,
+            "trackedStat": "TIME_ALIVE_STAT"
+          }
+        ]
+      }
+    },
+    {
+      "clampsToZero": false,
+      "eventTemplateId": "EventTemplate_S34_FNCSMajor2_LastChanceQualifier",
+      "gameId": "Fortnite",
+      "liveSessionAttributes": [],
+      "matchCap": 10,
+      "payoutTable": [],
+      "playlistId": "Playlist_ShowdownTournament_Trios",
+      "scoringRules": [],
+      "tiebreakerFormula": {
+        "basePointsBits": 11,
+        "components": [
+          {
+            "aggregation": "sum",
+            "bits": 4,
+            "trackedStat": "VICTORY_ROYALE_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 13,
+            "multiplier": 100,
+            "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 14,
+            "multiplier": 100,
+            "trackedStat": "PLACEMENT_TIEBREAKER_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 11,
+            "trackedStat": "TIME_ALIVE_STAT"
+          }
+        ]
+      }
+    },
+    {
+      "clampsToZero": false,
       "eventTemplateId": "EventTemplate_S34_RankedCupSolo",
       "gameId": "Fortnite",
       "liveSessionAttributes": [],
@@ -20809,6 +21745,43 @@
       "matchCap": 10,
       "payoutTable": [],
       "playlistId": "Playlist_ShowdownTournament_PunchBerryDuo_NoFill",
+      "scoringRules": [],
+      "tiebreakerFormula": {
+        "basePointsBits": 11,
+        "components": [
+          {
+            "aggregation": "sum",
+            "bits": 4,
+            "trackedStat": "VICTORY_ROYALE_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 13,
+            "multiplier": 100,
+            "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 14,
+            "multiplier": 100,
+            "trackedStat": "PLACEMENT_TIEBREAKER_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 11,
+            "trackedStat": "TIME_ALIVE_STAT"
+          }
+        ]
+      }
+    },
+    {
+      "clampsToZero": false,
+      "eventTemplateId": "EventTemplate_S34_PlaystationCup_Final",
+      "gameId": "Fortnite",
+      "liveSessionAttributes": [],
+      "matchCap": 6,
+      "payoutTable": [],
+      "playlistId": "Playlist_ShowdownTournament_Solo",
       "scoringRules": [],
       "tiebreakerFormula": {
         "basePointsBits": 11,
