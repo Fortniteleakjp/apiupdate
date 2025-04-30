@@ -14427,6 +14427,4064 @@
       }
     ]
   },
+  "scoringRuleSets": {
+    "S33_ScoringRules_FNCSDivisionCup_Div1_Final": [
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 11
+          },
+          {
+            "keyValue": 2,
+            "multiplicative": false,
+            "pointsEarned": 6
+          },
+          {
+            "keyValue": 3,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 4,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 5,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 6,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 7,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 8,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 9,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 10,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 11,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 12,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 13,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 14,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 15,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 16,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 17,
+            "multiplicative": false,
+            "pointsEarned": 3
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 3
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ],
+    "S33_ScoringRules_FNCSDivisionCup_Div1_Qualifiers": [
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 11
+          },
+          {
+            "keyValue": 2,
+            "multiplicative": false,
+            "pointsEarned": 6
+          },
+          {
+            "keyValue": 3,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 4,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 5,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 6,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 7,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 8,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 9,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 10,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 11,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 12,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 13,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 14,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 15,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 16,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 17,
+            "multiplicative": false,
+            "pointsEarned": 3
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 2
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ],
+    "S33_ScoringRules_FNCSDivisionCup_Div2_3": [
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 11
+          },
+          {
+            "keyValue": 2,
+            "multiplicative": false,
+            "pointsEarned": 6
+          },
+          {
+            "keyValue": 3,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 4,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 5,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 6,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 7,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 8,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 9,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 10,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 11,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 12,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 13,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 14,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 15,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 16,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 17,
+            "multiplicative": false,
+            "pointsEarned": 3
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 1
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ],
+    "S33_ScoringRules_FNCSMajor1_Final": [
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 11
+          },
+          {
+            "keyValue": 2,
+            "multiplicative": false,
+            "pointsEarned": 6
+          },
+          {
+            "keyValue": 3,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 4,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 5,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 6,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 7,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 8,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 9,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 10,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 11,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 12,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 13,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 14,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 15,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 16,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 17,
+            "multiplicative": false,
+            "pointsEarned": 3
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 4
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ],
+    "S33_ScoringRules_FNCSMajor1_GroupStage": [
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 946
+          },
+          {
+            "keyValue": 2,
+            "multiplicative": false,
+            "pointsEarned": 6
+          },
+          {
+            "keyValue": 3,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 4,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 5,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 6,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 7,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 8,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 9,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 10,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 11,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 12,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 13,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 14,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 15,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 16,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 17,
+            "multiplicative": false,
+            "pointsEarned": 3
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 3
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ],
+    "S33_ScoringRules_FNCSMajor1_LastChanceLobby": [
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 1000
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 0
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ],
+    "S33_ScoringRules_FNCSMajor1_LastChanceQualifier": [
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 11
+          },
+          {
+            "keyValue": 2,
+            "multiplicative": false,
+            "pointsEarned": 6
+          },
+          {
+            "keyValue": 3,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 4,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 5,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 6,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 7,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 8,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 9,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 10,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 11,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 12,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 13,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 14,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 15,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 16,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 17,
+            "multiplicative": false,
+            "pointsEarned": 3
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 1
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ],
+    "S33_ScoringRules_FNCSMajor1_PlayInStage": [
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 11
+          },
+          {
+            "keyValue": 2,
+            "multiplicative": false,
+            "pointsEarned": 6
+          },
+          {
+            "keyValue": 3,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 4,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 5,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 6,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 7,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 8,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 9,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 10,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 11,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 12,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 13,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 14,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 15,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 16,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 17,
+            "multiplicative": false,
+            "pointsEarned": 3
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 2
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ],
+    "S33_ScoringRules_SoloCupRound2": [
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 7
+          },
+          {
+            "keyValue": 2,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 3,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 4,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 5,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 6,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 7,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 8,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 9,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 10,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 11,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 12,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 13,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 14,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 15,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 16,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 17,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 18,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 19,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 20,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 21,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 22,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 23,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 24,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 25,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 26,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 27,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 28,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 29,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 30,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 31,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 32,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 33,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 34,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 35,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 36,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 37,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 38,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 39,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 40,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 41,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 42,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 43,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 44,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 45,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 46,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 47,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 48,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 49,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 50,
+            "multiplicative": false,
+            "pointsEarned": 1
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 3
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ],
+    "S34_ScoringRulesBSG_RankedCupDuos": [
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 9
+          },
+          {
+            "keyValue": 2,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 3,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 4,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 5,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 6,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 7,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 8,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 9,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 10,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 11,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 12,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 13,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 14,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 15,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 16,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 17,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 18,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 19,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 20,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 21,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 22,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 23,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 24,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 25,
+            "multiplicative": false,
+            "pointsEarned": 2
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 1
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ],
+    "S34_ScoringRulesBSG_RankedCupSolo": [
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 10
+          },
+          {
+            "keyValue": 2,
+            "multiplicative": false,
+            "pointsEarned": 7
+          },
+          {
+            "keyValue": 3,
+            "multiplicative": false,
+            "pointsEarned": 5
+          },
+          {
+            "keyValue": 4,
+            "multiplicative": false,
+            "pointsEarned": 5
+          },
+          {
+            "keyValue": 5,
+            "multiplicative": false,
+            "pointsEarned": 5
+          },
+          {
+            "keyValue": 6,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 7,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 8,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 9,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 10,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 15,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 20,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 25,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 30,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 35,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 40,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 50,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 75,
+            "multiplicative": false,
+            "pointsEarned": 3
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 1
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ],
+    "S34_ScoringRulesE_RankedCupDuos": [
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 9
+          },
+          {
+            "keyValue": 2,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 3,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 4,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 5,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 6,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 7,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 8,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 9,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 10,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 11,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 12,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 13,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 14,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 15,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 16,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 17,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 18,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 19,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 20,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 21,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 22,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 23,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 24,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 25,
+            "multiplicative": false,
+            "pointsEarned": 2
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 4
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ],
+    "S34_ScoringRulesE_RankedCupSolo": [
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 10
+          },
+          {
+            "keyValue": 2,
+            "multiplicative": false,
+            "pointsEarned": 7
+          },
+          {
+            "keyValue": 3,
+            "multiplicative": false,
+            "pointsEarned": 5
+          },
+          {
+            "keyValue": 4,
+            "multiplicative": false,
+            "pointsEarned": 5
+          },
+          {
+            "keyValue": 5,
+            "multiplicative": false,
+            "pointsEarned": 5
+          },
+          {
+            "keyValue": 6,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 7,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 8,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 9,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 10,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 15,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 20,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 25,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 30,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 35,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 40,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 50,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 75,
+            "multiplicative": false,
+            "pointsEarned": 3
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 4
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ],
+    "S34_ScoringRulesPD_RankedCupDuos": [
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 9
+          },
+          {
+            "keyValue": 2,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 3,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 4,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 5,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 6,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 7,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 8,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 9,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 10,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 11,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 12,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 13,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 14,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 15,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 16,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 17,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 18,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 19,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 20,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 21,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 22,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 23,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 24,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 25,
+            "multiplicative": false,
+            "pointsEarned": 2
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 2
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ],
+    "S34_ScoringRulesPD_RankedCupSolo": [
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 10
+          },
+          {
+            "keyValue": 2,
+            "multiplicative": false,
+            "pointsEarned": 7
+          },
+          {
+            "keyValue": 3,
+            "multiplicative": false,
+            "pointsEarned": 5
+          },
+          {
+            "keyValue": 4,
+            "multiplicative": false,
+            "pointsEarned": 5
+          },
+          {
+            "keyValue": 5,
+            "multiplicative": false,
+            "pointsEarned": 5
+          },
+          {
+            "keyValue": 6,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 7,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 8,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 9,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 10,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 15,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 20,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 25,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 30,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 35,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 40,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 50,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 75,
+            "multiplicative": false,
+            "pointsEarned": 3
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 2
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ],
+    "S34_ScoringRules_PSCup_Final": [
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 7
+          },
+          {
+            "keyValue": 2,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 3,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 4,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 5,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 6,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 7,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 8,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 9,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 10,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 11,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 12,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 13,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 14,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 15,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 16,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 17,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 18,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 19,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 20,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 21,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 22,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 23,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 24,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 25,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 26,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 27,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 28,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 29,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 30,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 31,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 32,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 33,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 34,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 35,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 36,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 37,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 38,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 39,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 40,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 41,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 42,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 43,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 44,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 45,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 46,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 47,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 48,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 49,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 50,
+            "multiplicative": false,
+            "pointsEarned": 1
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 3
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ],
+    "S34_ScoringRules_PSCup_Qualifier": [
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 7
+          },
+          {
+            "keyValue": 2,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 3,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 4,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 5,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 6,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 7,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 8,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 9,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 10,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 11,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 12,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 13,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 14,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 15,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 16,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 17,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 18,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 19,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 20,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 21,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 22,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 23,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 24,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 25,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 26,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 27,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 28,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 29,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 30,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 31,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 32,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 33,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 34,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 35,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 36,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 37,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 38,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 39,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 40,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 41,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 42,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 43,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 44,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 45,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 46,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 47,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 48,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 49,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 50,
+            "multiplicative": false,
+            "pointsEarned": 1
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 2
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ],
+    "S34_ScoringRules_SoloCupRound1": [
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 7
+          },
+          {
+            "keyValue": 2,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 3,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 4,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 5,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 6,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 7,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 8,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 9,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 10,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 11,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 12,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 13,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 14,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 15,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 16,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 17,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 18,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 19,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 20,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 21,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 22,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 23,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 24,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 25,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 26,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 27,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 28,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 29,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 30,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 31,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 32,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 33,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 34,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 35,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 36,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 37,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 38,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 39,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 40,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 41,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 42,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 43,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 44,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 45,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 46,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 47,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 48,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 49,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 50,
+            "multiplicative": false,
+            "pointsEarned": 1
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 2
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ],
+    "ScoringRules_Acrocanthosaurus_Day1": [
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 2,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 3,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 4,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 5,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 6,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 7,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 8,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 9,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 10,
+            "multiplicative": false,
+            "pointsEarned": 1
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 1
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ],
+    "ScoringRules_PerformanceEvaluationRound2": [
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 100
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 0
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ],
+    "Scoringrules_ReloadPerfEval_Round1": [
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 2,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 3,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 4,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 5,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 6,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 7,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 8,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 9,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 10,
+            "multiplicative": false,
+            "pointsEarned": 1
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 1
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ],
+    "Scoringrules_S34_Clix_Icon_Cup": [
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 11
+          },
+          {
+            "keyValue": 2,
+            "multiplicative": false,
+            "pointsEarned": 6
+          },
+          {
+            "keyValue": 3,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 4,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 5,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 6,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 7,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 8,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 9,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 10,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 11,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 12,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 13,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 14,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 15,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 16,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 17,
+            "multiplicative": false,
+            "pointsEarned": 3
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 1
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ],
+    "Scoringrules_S34_EliteZadie": [
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 2,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 3,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 4,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 5,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 6,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 7,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 8,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 9,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 10,
+            "multiplicative": false,
+            "pointsEarned": 1
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 1
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ],
+    "Scoringrules_S34_FNCS_Community_Cups": [
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 7
+          },
+          {
+            "keyValue": 2,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 3,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 4,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 5,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 6,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 7,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 8,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 9,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 10,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 11,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 12,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 13,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 14,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 15,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 16,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 17,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 18,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 19,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 20,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 21,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 22,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 23,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 24,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 25,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 26,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 27,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 28,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 29,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 30,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 31,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 32,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 33,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 34,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 35,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 36,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 37,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 38,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 39,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 40,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 41,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 42,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 43,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 44,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 45,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 46,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 47,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 48,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 49,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 50,
+            "multiplicative": false,
+            "pointsEarned": 1
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 2
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ],
+    "Scoringrules_S34_LanternFestCup": [
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 7
+          },
+          {
+            "keyValue": 2,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 3,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 4,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 5,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 6,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 7,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 8,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 9,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 10,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 11,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 12,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 13,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 14,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 15,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 16,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 17,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 18,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 19,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 20,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 21,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 22,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 23,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 24,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 25,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 26,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 27,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 28,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 29,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 30,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 31,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 32,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 33,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 34,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 35,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 36,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 37,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 38,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 39,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 40,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 41,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 42,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 43,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 44,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 45,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 46,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 47,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 48,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 49,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 50,
+            "multiplicative": false,
+            "pointsEarned": 1
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 2
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ],
+    "Scoringrules_S34_OG_Cup": [
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 10
+          },
+          {
+            "keyValue": 2,
+            "multiplicative": false,
+            "pointsEarned": 7
+          },
+          {
+            "keyValue": 3,
+            "multiplicative": false,
+            "pointsEarned": 5
+          },
+          {
+            "keyValue": 4,
+            "multiplicative": false,
+            "pointsEarned": 5
+          },
+          {
+            "keyValue": 5,
+            "multiplicative": false,
+            "pointsEarned": 5
+          },
+          {
+            "keyValue": 6,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 7,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 8,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 9,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 10,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 11,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 12,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 13,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 14,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 15,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 16,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 17,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 18,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 19,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 20,
+            "multiplicative": false,
+            "pointsEarned": 2
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 2
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ],
+    "Scoringrules_S34_ShoheiOhtaniCup": [
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 7
+          },
+          {
+            "keyValue": 2,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 3,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 4,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 5,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 6,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 7,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 8,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 9,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 10,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 11,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 12,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 13,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 14,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 15,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 16,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 17,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 18,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 19,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 20,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 21,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 22,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 23,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 24,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 25,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 26,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 27,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 28,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 29,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 30,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 31,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 32,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 33,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 34,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 35,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 36,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 37,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 38,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 39,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 40,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 41,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 42,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 43,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 44,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 45,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 46,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 47,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 48,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 49,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 50,
+            "multiplicative": false,
+            "pointsEarned": 1
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 2
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ],
+    "Scoringrules_S34_ThunderboltsCup": [
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 9
+          },
+          {
+            "keyValue": 2,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 3,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 4,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 5,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 6,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 7,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 8,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 9,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 10,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 11,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 12,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 13,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 14,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 15,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 16,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 17,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 18,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 19,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 20,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 21,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 22,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 23,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 24,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 25,
+            "multiplicative": false,
+            "pointsEarned": 2
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 2
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ],
+    "Scoringrules_S35_FNCS_Community_Cups": [
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 2,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 3,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 4,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 5,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 6,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 7,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 8,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 9,
+            "multiplicative": false,
+            "pointsEarned": 1
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 1
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ]
+  },
   "templates": [
     {
       "clampsToZero": false,
