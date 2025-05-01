@@ -11694,6 +11694,118 @@
         "NAC",
         "NAE"
       ]
+    },
+    {
+      "announcementTime": "2025-05-01T11:00:00Z",
+      "announcementTime_jst": "2025年05月01日20時00分00秒",
+      "announcementTime_unix": 1746097200,
+      "beginTime": "2025-05-08T23:00:00Z",
+      "beginTime_jst": "2025年05月09日08時00分00秒",
+      "beginTime_unix": 1746745200,
+      "displayData": {
+        "details_description": "特徴的なFNCSスタイルに身を包み、Loserfruitが2025 FNCS Pro-Amの祝典に参加するぞ！ デュオを組んで参加しよう。ショップでの配信前にコスチューム「チャンピオン Loserfruit」を獲得するチャンスだ！ 8ポイントを獲得したプレイヤーには、スプレー「スウェッティン」が贈呈されるぞ！",
+        "flavor_description": "",
+        "loading_screen_image": "https://cdn2.unrealengine.com/en-fnce-35-00-pro-am-reload-discoverytile-communitycup-1920x1080-1920x1080-470ebe19aae7.jpg",
+        "long_format_title": "FNCS Loserfruit アイコンカップ",
+        "poster_back_image": null,
+        "poster_front_image": "https://cdn2.unrealengine.com/fncs-35-00-proam-loserfruit-fncs-comp-in-game-poster-poster-front-750x1080-a59d5b487f9a.jpg",
+        "round_names": null,
+        "short_format_title": "",
+        "square_poster_image": "https://cdn2.unrealengine.com/jp-jp-fnce-35-00-pro-am-reload-discoverytile-communitycup-1920x1080-1920x1080-5ae0baa1a052.jpg"
+      },
+      "displayDataId": "s35_fncs_loserfruit",
+      "endTime": "2025-05-09T01:30:00Z",
+      "endTime_jst": "2025年05月09日10時30分00秒",
+      "endTime_unix": 1746754200,
+      "eventGroup": "Season35_FNCSCommunityCup",
+      "eventId": "epicgames_S35_FNCSCommunityCups_Loserfruit_NAC",
+      "eventWindows": [
+        {
+          "additionalRequirements": [
+            "mfa",
+            "adps:g-a81a33a3b9a7",
+            "eula:NEED CHANGE"
+          ],
+          "beginTime": "2025-05-08T23:00:00Z",
+          "beginTime_jst": "2025年05月09日08時00分00秒",
+          "beginTime_unix": 1746745200,
+          "blackoutPeriods": [],
+          "canLiveSpectate": false,
+          "countdownBeginTime": "2025-05-08T21:00:00Z",
+          "countdownBeginTime_jst": "2025年05月09日06時00分00秒",
+          "countdownBeginTime_unix": 1746738000,
+          "endTime": "2025-05-09T01:30:00Z",
+          "endTime_jst": "2025年05月09日10時30分00秒",
+          "endTime_unix": 1746754200,
+          "eventTemplateId": "EventTemplate_S35_FNCSCommunityCups",
+          "eventWindowId": "S35_FNCSCommunityCups_Loserfruit_NAC",
+          "isTBD": false,
+          "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+          },
+          "payoutDelay": 32,
+          "requireAllTokens": [],
+          "requireAllTokensCaller": [],
+          "requireAnyTokens": [],
+          "requireAnyTokensCaller": [],
+          "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+          ],
+          "round": 0,
+          "scoreLocations": [
+            {
+              "isMainWindowLeaderboard": true,
+              "leaderboardDefId": "Leaderboard_S35_FNCS_Community_Cups"
+            }
+          ],
+          "teammateEligibility": "all",
+          "visibility": "public"
+        }
+      ],
+      "gameId": "Fortnite",
+      "link": {
+        "code": "tournament_epicgames_s35_fncscommunitycups_loserfruit_nac",
+        "type": "br:tournament",
+        "version": 1
+      },
+      "metadata": {
+        "AccountLockType": "Window",
+        "DisqualifyType": "Event",
+        "minimumAccountLevel": 50,
+        "tournamentType": "ShopCup"
+      },
+      "platformMappings": {},
+      "platforms": [
+        "XboxOneGDK",
+        "PS4",
+        "XCloud",
+        "Helios",
+        "Luna",
+        "IOS",
+        "XB1",
+        "XboxOne",
+        "XSX",
+        "Android",
+        "LunaMobile",
+        "PS5",
+        "XCloudMobile",
+        "Mac",
+        "HeliosMobile",
+        "GFN",
+        "Switch",
+        "GFNMobile",
+        "Windows"
+      ],
+      "regionMappings": {
+        "NAC": "NACCOMP",
+        "NAE": "NACCOMP"
+      },
+      "regions": [
+        "NAC",
+        "NAE"
+      ]
     }
   ],
   "leaderboardDefs": [
@@ -16029,6 +16141,42 @@
         "scoringType": "rank"
       }
     ],
+    "S35_FNCSCommunityCups_Loserfruit_NAC": [
+      {
+        "ranks": [
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 1,
+                "rewardMode": "standard",
+                "rewardType": "game",
+                "value": "AthenaDance:spray_fncsprow1"
+              }
+            ],
+            "threshold": 8
+          }
+        ],
+        "scoringType": "value"
+      },
+      {
+        "ranks": [
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 1,
+                "rewardMode": "standard",
+                "rewardType": "game",
+                "value": "AthenaCharacter:character_ponyshore"
+              }
+            ],
+            "threshold": 650
+          }
+        ],
+        "scoringType": "rank"
+      }
+    ],
     "epicgames_S33_FNCSMajor1_GroupStage_NAC": [
       {
         "ranks": [
@@ -16658,7 +16806,8 @@
     "Fortnite:epicgames_S34_ThunderboltsCup_NAC:S34_ThunderboltsCup_NAC": "S34_ThunderboltsCup_NAC",
     "Fortnite:epicgames_S35_FNCSCommunityCups_Bugha_NAC:S35_FNCSCommunityCups_Bugha_NAC": "S35_FNCSCommunityCups_Bugha_NAC",
     "Fortnite:epicgames_S35_FNCSCommunityCups_Clix_NAC:S35_FNCSCommunityCups_Clix_NAC": "S35_FNCSCommunityCups_Clix_NAC",
-    "Fortnite:epicgames_S35_FNCSCommunityCups_Lachlan_NAC:S35_FNCSCommunityCups_Lachlan_NAC": "S35_FNCSCommunityCups_Lachlan_NAC"
+    "Fortnite:epicgames_S35_FNCSCommunityCups_Lachlan_NAC:S35_FNCSCommunityCups_Lachlan_NAC": "S35_FNCSCommunityCups_Lachlan_NAC",
+    "Fortnite:epicgames_S35_FNCSCommunityCups_Loserfruit_NAC:S35_FNCSCommunityCups_Loserfruit_NAC": "S35_FNCSCommunityCups_Loserfruit_NAC"
   },
   "scoringRuleSets": {
     "S33_ScoringRules_FNCSDivisionCup_Div1_Final": [
