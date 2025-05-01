@@ -16099,7 +16099,7 @@
                 "value": "AthenaCharacter:character_cobsink"
               }
             ],
-            "threshold": 900
+            "threshold": 650
           }
         ],
         "scoringType": "rank"
