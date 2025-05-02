@@ -7362,7 +7362,7 @@
                 "quantity": 1,
                 "rewardMode": "standard",
                 "rewardType": "game",
-                "value": "AthenaCharacter:character_rankedtrooper_noble"
+                "value": "AthenaCharacter:character_rankedtroopernoble"
               }
             ],
             "threshold": 40
@@ -7398,7 +7398,7 @@
                 "quantity": 1,
                 "rewardMode": "standard",
                 "rewardType": "game",
-                "value": "AthenaCharacter:character_rankedtrooper_noble"
+                "value": "AthenaCharacter:character_rankedtroopernoble"
               }
             ],
             "threshold": 160
@@ -7434,7 +7434,7 @@
                 "quantity": 1,
                 "rewardMode": "standard",
                 "rewardType": "game",
-                "value": "AthenaCharacter:character_rankedtrooper_noble"
+                "value": "AthenaCharacter:character_rankedtroopernoble"
               }
             ],
             "threshold": 30
