@@ -2994,6 +2994,407 @@
       "announcementTime": "2025-05-02T08:00:00Z",
       "announcementTime_jst": "2025年05月02日17時00分00秒",
       "announcementTime_unix": 1746172800,
+      "beginTime": "2025-05-18T09:00:00Z",
+      "beginTime_jst": "2025年05月18日18時00分00秒",
+      "beginTime_unix": 1747558800,
+      "displayData": {
+        "details_description": "Compete against other Bronze, Silver, and Gold ranked players! You may play in as many matches as you like during the four hour window but only your top four matches will count towards your placement on the leaderboard. In any session, earn 50 points to earn the \"Ranker's Death Star\" In-Game Glider! ",
+        "flavor_description": "",
+        "loading_screen_image": "https://cdn2.unrealengine.com/en-fneco-33-00-competitive-discoverytile-rankedcups-1080x1920-1920x1080-715a21161bce.jpg",
+        "long_format_title": "Bronze, Silver, & Gold Ranked Cup (Trios BR)",
+        "poster_back_image": null,
+        "poster_front_image": null,
+        "round_names": null,
+        "short_format_title": "",
+        "square_poster_image": "https://cdn2.unrealengine.com/en-fneco-33-00-competitive-discoverytile-rankedcups-1080x1920-1920x1080-715a21161bce.jpg"
+      },
+      "displayDataId": "s35_ranked_trios_bsg",
+      "endTime": "2025-06-01T13:00:00Z",
+      "endTime_jst": "2025年06月01日22時00分00秒",
+      "endTime_unix": 1748782800,
+      "eventGroup": "Season35_RankedCupBSGTrios",
+      "eventId": "epicgames_S35_RankedCupBSGTrios_ASIA",
+      "eventWindows": [
+        {
+          "additionalRequirements": [
+            "adps:g-a81a33a3b9a7",
+            "currentRanking:ranked-br:0",
+            "mfa",
+            "eula:s35_ranked_rules",
+            "currentRankingMax:ranked-br:8"
+          ],
+          "beginTime": "2025-05-18T09:00:00Z",
+          "beginTime_jst": "2025年05月18日18時00分00秒",
+          "beginTime_unix": 1747558800,
+          "blackoutPeriods": [],
+          "canLiveSpectate": false,
+          "countdownBeginTime": "2025-05-18T07:00:00Z",
+          "countdownBeginTime_jst": "2025年05月18日16時00分00秒",
+          "countdownBeginTime_unix": 1747551600,
+          "endTime": "2025-05-18T13:00:00Z",
+          "endTime_jst": "2025年05月18日22時00分00秒",
+          "endTime_unix": 1747573200,
+          "eventTemplateId": "EventTemplate_S35_RankedCupTrios",
+          "eventWindowId": "S35_RankedCupBSGTrios_Event1_ASIA",
+          "isTBD": false,
+          "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+          },
+          "payoutDelay": 32,
+          "requireAllTokens": [],
+          "requireAllTokensCaller": [],
+          "requireAnyTokens": [],
+          "requireAnyTokensCaller": [],
+          "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+          ],
+          "round": 0,
+          "scoreLocations": [
+            {
+              "isMainWindowLeaderboard": true,
+              "leaderboardDefId": "S35_RankedCupTriosBSG_DefaultLeaderboardDef"
+            }
+          ],
+          "teammateEligibility": "all",
+          "visibility": "public"
+        },
+        {
+          "additionalRequirements": [
+            "adps:g-a81a33a3b9a7",
+            "currentRanking:ranked-br:0",
+            "mfa",
+            "eula:s35_ranked_rules",
+            "currentRankingMax:ranked-br:8"
+          ],
+          "beginTime": "2025-05-25T09:00:00Z",
+          "beginTime_jst": "2025年05月25日18時00分00秒",
+          "beginTime_unix": 1748163600,
+          "blackoutPeriods": [],
+          "canLiveSpectate": false,
+          "countdownBeginTime": "2025-05-25T07:00:00Z",
+          "countdownBeginTime_jst": "2025年05月25日16時00分00秒",
+          "countdownBeginTime_unix": 1748156400,
+          "endTime": "2025-05-25T13:00:00Z",
+          "endTime_jst": "2025年05月25日22時00分00秒",
+          "endTime_unix": 1748178000,
+          "eventTemplateId": "EventTemplate_S35_RankedCupTrios",
+          "eventWindowId": "S35_RankedCupBSGTrios_Event2_ASIA",
+          "isTBD": false,
+          "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+          },
+          "payoutDelay": 32,
+          "requireAllTokens": [],
+          "requireAllTokensCaller": [],
+          "requireAnyTokens": [],
+          "requireAnyTokensCaller": [],
+          "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+          ],
+          "round": 0,
+          "scoreLocations": [
+            {
+              "isMainWindowLeaderboard": true,
+              "leaderboardDefId": "S35_RankedCupTriosBSG_DefaultLeaderboardDef"
+            }
+          ],
+          "teammateEligibility": "all",
+          "visibility": "public"
+        },
+        {
+          "additionalRequirements": [
+            "adps:g-a81a33a3b9a7",
+            "currentRanking:ranked-br:0",
+            "mfa",
+            "eula:s35_ranked_rules",
+            "currentRankingMax:ranked-br:8"
+          ],
+          "beginTime": "2025-06-01T09:00:00Z",
+          "beginTime_jst": "2025年06月01日18時00分00秒",
+          "beginTime_unix": 1748768400,
+          "blackoutPeriods": [],
+          "canLiveSpectate": false,
+          "countdownBeginTime": "2025-06-01T07:00:00Z",
+          "countdownBeginTime_jst": "2025年06月01日16時00分00秒",
+          "countdownBeginTime_unix": 1748761200,
+          "endTime": "2025-06-01T13:00:00Z",
+          "endTime_jst": "2025年06月01日22時00分00秒",
+          "endTime_unix": 1748782800,
+          "eventTemplateId": "EventTemplate_S35_RankedCupTrios",
+          "eventWindowId": "S35_RankedCupBSGTrios_Event3_ASIA",
+          "isTBD": false,
+          "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+          },
+          "payoutDelay": 32,
+          "requireAllTokens": [],
+          "requireAllTokensCaller": [],
+          "requireAnyTokens": [],
+          "requireAnyTokensCaller": [],
+          "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+          ],
+          "round": 0,
+          "scoreLocations": [
+            {
+              "isMainWindowLeaderboard": true,
+              "leaderboardDefId": "S35_RankedCupTriosBSG_DefaultLeaderboardDef"
+            }
+          ],
+          "teammateEligibility": "all",
+          "visibility": "public"
+        }
+      ],
+      "gameId": "Fortnite",
+      "link": {
+        "code": "tournament_epicgames_s35_rankedcupbsgtrios_asia",
+        "type": "br:tournament",
+        "version": 1
+      },
+      "metadata": {
+        "AccountLockType": "Window",
+        "DisqualifyType": "Window",
+        "minimumAccountLevel": 50,
+        "tournamentType": "RankedCup"
+      },
+      "platformMappings": {},
+      "platforms": [
+        "XboxOneGDK",
+        "PS4",
+        "XCloud",
+        "Helios",
+        "Luna",
+        "IOS",
+        "XB1",
+        "XboxOne",
+        "XSX",
+        "Android",
+        "LunaMobile",
+        "PS5",
+        "XCloudMobile",
+        "Mac",
+        "HeliosMobile",
+        "GFN",
+        "Switch",
+        "GFNMobile",
+        "Windows"
+      ],
+      "regionMappings": {
+        "ASIA": "ASIACOMP"
+      },
+      "regions": [
+        "ASIA"
+      ]
+    },
+    {
+      "announcementTime": "2025-05-02T08:00:00Z",
+      "announcementTime_jst": "2025年05月02日17時00分00秒",
+      "announcementTime_unix": 1746172800,
+      "beginTime": "2025-05-16T09:00:00Z",
+      "beginTime_jst": "2025年05月16日18時00分00秒",
+      "beginTime_unix": 1747386000,
+      "displayData": {
+        "details_description": "Compete against other Admiral+ ranked players! You may play in as many matches as you wish during the four hour window but only your top four matches will count towards your placement on the leaderboard. In any session, earn 50 points to earn the \"Ranker's Death Star\" In-Game Glider! Additionally, players who rank at the top of the leaderboard each session will earn the \"Elite Zadie\" Outfit! ",
+        "flavor_description": "",
+        "loading_screen_image": "https://cdn2.unrealengine.com/en-fnce-35-00-dashberry-elitezadie-rankedcups-br-discoverytile-1920x1080-1920x1080-39785b12b3d9.jpg",
+        "long_format_title": "Elite Zadie Ranked Cup (Duos BR)",
+        "poster_back_image": null,
+        "poster_front_image": "https://cdn2.unrealengine.com/fnce-35-00-competitive-zadierankedcup-poster-front-750x1080-9bdc64fd8901.jpg",
+        "round_names": null,
+        "short_format_title": "",
+        "square_poster_image": "https://cdn2.unrealengine.com/en-fnce-35-00-dashberry-elitezadie-rankedcups-br-discoverytile-1920x1080-1920x1080-39785b12b3d9.jpg"
+      },
+      "displayDataId": "s35_zadieranked_duos",
+      "endTime": "2025-05-30T13:00:00Z",
+      "endTime_jst": "2025年05月30日22時00分00秒",
+      "endTime_unix": 1748610000,
+      "eventGroup": "Season35_RankedCupEliteDuos",
+      "eventId": "epicgames_S35_RankedCupEliteDuos_ASIA",
+      "eventWindows": [
+        {
+          "additionalRequirements": [
+            "currentRanking:ranked-br:15",
+            "mfa",
+            "adps:g-a81a33a3b9a7",
+            "eula:s35_ranked_rules"
+          ],
+          "beginTime": "2025-05-16T09:00:00Z",
+          "beginTime_jst": "2025年05月16日18時00分00秒",
+          "beginTime_unix": 1747386000,
+          "blackoutPeriods": [],
+          "canLiveSpectate": false,
+          "countdownBeginTime": "2025-05-16T07:00:00Z",
+          "countdownBeginTime_jst": "2025年05月16日16時00分00秒",
+          "countdownBeginTime_unix": 1747378800,
+          "endTime": "2025-05-16T13:00:00Z",
+          "endTime_jst": "2025年05月16日22時00分00秒",
+          "endTime_unix": 1747400400,
+          "eventTemplateId": "EventTemplate_S35_RankedCupDuos",
+          "eventWindowId": "S35_RankedCupEliteDuos_Event1_ASIA",
+          "isTBD": false,
+          "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+          },
+          "payoutDelay": 32,
+          "requireAllTokens": [],
+          "requireAllTokensCaller": [],
+          "requireAnyTokens": [],
+          "requireAnyTokensCaller": [],
+          "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+          ],
+          "round": 0,
+          "scoreLocations": [
+            {
+              "isMainWindowLeaderboard": true,
+              "leaderboardDefId": "S35_RankedCupDuosE_DefaultLeaderboardDef"
+            }
+          ],
+          "teammateEligibility": "all",
+          "visibility": "public"
+        },
+        {
+          "additionalRequirements": [
+            "currentRanking:ranked-br:15",
+            "mfa",
+            "adps:g-a81a33a3b9a7",
+            "eula:s35_ranked_rules"
+          ],
+          "beginTime": "2025-05-23T09:00:00Z",
+          "beginTime_jst": "2025年05月23日18時00分00秒",
+          "beginTime_unix": 1747990800,
+          "blackoutPeriods": [],
+          "canLiveSpectate": false,
+          "countdownBeginTime": "2025-05-23T07:00:00Z",
+          "countdownBeginTime_jst": "2025年05月23日16時00分00秒",
+          "countdownBeginTime_unix": 1747983600,
+          "endTime": "2025-05-23T13:00:00Z",
+          "endTime_jst": "2025年05月23日22時00分00秒",
+          "endTime_unix": 1748005200,
+          "eventTemplateId": "EventTemplate_S35_RankedCupDuos",
+          "eventWindowId": "S35_RankedCupEliteDuos_Event2_ASIA",
+          "isTBD": false,
+          "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+          },
+          "payoutDelay": 32,
+          "requireAllTokens": [],
+          "requireAllTokensCaller": [],
+          "requireAnyTokens": [],
+          "requireAnyTokensCaller": [],
+          "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+          ],
+          "round": 0,
+          "scoreLocations": [
+            {
+              "isMainWindowLeaderboard": true,
+              "leaderboardDefId": "S35_RankedCupDuosE_DefaultLeaderboardDef"
+            }
+          ],
+          "teammateEligibility": "all",
+          "visibility": "public"
+        },
+        {
+          "additionalRequirements": [
+            "currentRanking:ranked-br:15",
+            "mfa",
+            "adps:g-a81a33a3b9a7",
+            "eula:s35_ranked_rules"
+          ],
+          "beginTime": "2025-05-30T09:00:00Z",
+          "beginTime_jst": "2025年05月30日18時00分00秒",
+          "beginTime_unix": 1748595600,
+          "blackoutPeriods": [],
+          "canLiveSpectate": false,
+          "countdownBeginTime": "2025-05-30T07:00:00Z",
+          "countdownBeginTime_jst": "2025年05月30日16時00分00秒",
+          "countdownBeginTime_unix": 1748588400,
+          "endTime": "2025-05-30T13:00:00Z",
+          "endTime_jst": "2025年05月30日22時00分00秒",
+          "endTime_unix": 1748610000,
+          "eventTemplateId": "EventTemplate_S35_RankedCupDuos",
+          "eventWindowId": "S35_RankedCupEliteDuos_Event3_ASIA",
+          "isTBD": false,
+          "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+          },
+          "payoutDelay": 32,
+          "requireAllTokens": [],
+          "requireAllTokensCaller": [],
+          "requireAnyTokens": [],
+          "requireAnyTokensCaller": [],
+          "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+          ],
+          "round": 0,
+          "scoreLocations": [
+            {
+              "isMainWindowLeaderboard": true,
+              "leaderboardDefId": "S35_RankedCupDuosE_DefaultLeaderboardDef"
+            }
+          ],
+          "teammateEligibility": "all",
+          "visibility": "public"
+        }
+      ],
+      "gameId": "Fortnite",
+      "link": {
+        "code": "tournament_epicgames_s35_rankedcupeliteduos_asia",
+        "type": "br:tournament",
+        "version": 1
+      },
+      "metadata": {
+        "AccountLockType": "Window",
+        "DisqualifyType": "Window",
+        "minimumAccountLevel": 50,
+        "tournamentType": "RankedCup"
+      },
+      "platformMappings": {},
+      "platforms": [
+        "XboxOneGDK",
+        "PS4",
+        "XCloud",
+        "Helios",
+        "Luna",
+        "IOS",
+        "XB1",
+        "XboxOne",
+        "XSX",
+        "Android",
+        "LunaMobile",
+        "PS5",
+        "XCloudMobile",
+        "Mac",
+        "HeliosMobile",
+        "GFN",
+        "Switch",
+        "GFNMobile",
+        "Windows"
+      ],
+      "regionMappings": {
+        "ASIA": "ASIACOMP"
+      },
+      "regions": [
+        "ASIA"
+      ]
+    },
+    {
+      "announcementTime": "2025-05-02T08:00:00Z",
+      "announcementTime_jst": "2025年05月02日17時00分00秒",
+      "announcementTime_unix": 1746172800,
       "beginTime": "2025-05-14T09:00:00Z",
       "beginTime_jst": "2025年05月14日18時00分00秒",
       "beginTime_unix": 1747213200,
@@ -3151,6 +3552,205 @@
       "gameId": "Fortnite",
       "link": {
         "code": "tournament_epicgames_s35_rankedcupelitesolo_asia",
+        "type": "br:tournament",
+        "version": 1
+      },
+      "metadata": {
+        "AccountLockType": "Window",
+        "DisqualifyType": "Window",
+        "minimumAccountLevel": 50,
+        "tournamentType": "RankedCup"
+      },
+      "platformMappings": {},
+      "platforms": [
+        "XboxOneGDK",
+        "PS4",
+        "XCloud",
+        "Helios",
+        "Luna",
+        "IOS",
+        "XB1",
+        "XboxOne",
+        "XSX",
+        "Android",
+        "LunaMobile",
+        "PS5",
+        "XCloudMobile",
+        "Mac",
+        "HeliosMobile",
+        "GFN",
+        "Switch",
+        "GFNMobile",
+        "Windows"
+      ],
+      "regionMappings": {
+        "ASIA": "ASIACOMP"
+      },
+      "regions": [
+        "ASIA"
+      ]
+    },
+    {
+      "announcementTime": "2025-05-02T08:00:00Z",
+      "announcementTime_jst": "2025年05月02日17時00分00秒",
+      "announcementTime_unix": 1746172800,
+      "beginTime": "2025-05-18T09:00:00Z",
+      "beginTime_jst": "2025年05月18日18時00分00秒",
+      "beginTime_unix": 1747558800,
+      "displayData": {
+        "details_description": "Compete against other Admiral+ ranked players! You may play in as many matches as you wish during the four hour window but only your top four matches will count towards your placement on the leaderboard. In any session, earn 50 points to earn the \"Ranker's Death Star\" In-Game Glider! Additionally, players who rank at the top of the leaderboard each session will earn the \"Elite Zadie\" Outfit! ",
+        "flavor_description": "",
+        "loading_screen_image": "https://cdn2.unrealengine.com/en-fnce-35-00-dashberry-elitezadie-rankedcups-br-discoverytile-1920x1080-1920x1080-39785b12b3d9.jpg",
+        "long_format_title": "Elite Zadie Ranked Cup (Trios BR)",
+        "poster_back_image": null,
+        "poster_front_image": "https://cdn2.unrealengine.com/fnce-35-00-competitive-zadierankedcup-poster-front-750x1080-9bdc64fd8901.jpg",
+        "round_names": null,
+        "short_format_title": "",
+        "square_poster_image": "https://cdn2.unrealengine.com/en-fnce-35-00-dashberry-elitezadie-rankedcups-br-discoverytile-1920x1080-1920x1080-39785b12b3d9.jpg"
+      },
+      "displayDataId": "s35_zadieranked_trios",
+      "endTime": "2025-06-01T13:00:00Z",
+      "endTime_jst": "2025年06月01日22時00分00秒",
+      "endTime_unix": 1748782800,
+      "eventGroup": "Season35_RankedCupEliteTrios",
+      "eventId": "epicgames_S35_RankedCupEliteTrios_ASIA",
+      "eventWindows": [
+        {
+          "additionalRequirements": [
+            "currentRanking:ranked-br:15",
+            "mfa",
+            "adps:g-a81a33a3b9a7",
+            "eula:s35_ranked_rules"
+          ],
+          "beginTime": "2025-05-18T09:00:00Z",
+          "beginTime_jst": "2025年05月18日18時00分00秒",
+          "beginTime_unix": 1747558800,
+          "blackoutPeriods": [],
+          "canLiveSpectate": false,
+          "countdownBeginTime": "2025-05-18T07:00:00Z",
+          "countdownBeginTime_jst": "2025年05月18日16時00分00秒",
+          "countdownBeginTime_unix": 1747551600,
+          "endTime": "2025-05-18T13:00:00Z",
+          "endTime_jst": "2025年05月18日22時00分00秒",
+          "endTime_unix": 1747573200,
+          "eventTemplateId": "EventTemplate_S35_RankedCupTrios",
+          "eventWindowId": "S35_RankedCupEliteTrios_Event1_ASIA",
+          "isTBD": false,
+          "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+          },
+          "payoutDelay": 32,
+          "requireAllTokens": [],
+          "requireAllTokensCaller": [],
+          "requireAnyTokens": [],
+          "requireAnyTokensCaller": [],
+          "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+          ],
+          "round": 0,
+          "scoreLocations": [
+            {
+              "isMainWindowLeaderboard": true,
+              "leaderboardDefId": "S35_RankedCupTriosE_DefaultLeaderboardDef"
+            }
+          ],
+          "teammateEligibility": "all",
+          "visibility": "public"
+        },
+        {
+          "additionalRequirements": [
+            "currentRanking:ranked-br:15",
+            "mfa",
+            "adps:g-a81a33a3b9a7",
+            "eula:s35_ranked_rules"
+          ],
+          "beginTime": "2025-05-25T09:00:00Z",
+          "beginTime_jst": "2025年05月25日18時00分00秒",
+          "beginTime_unix": 1748163600,
+          "blackoutPeriods": [],
+          "canLiveSpectate": false,
+          "countdownBeginTime": "2025-05-25T07:00:00Z",
+          "countdownBeginTime_jst": "2025年05月25日16時00分00秒",
+          "countdownBeginTime_unix": 1748156400,
+          "endTime": "2025-05-25T13:00:00Z",
+          "endTime_jst": "2025年05月25日22時00分00秒",
+          "endTime_unix": 1748178000,
+          "eventTemplateId": "EventTemplate_S35_RankedCupTrios",
+          "eventWindowId": "S35_RankedCupEliteTrios_Event2_ASIA",
+          "isTBD": false,
+          "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+          },
+          "payoutDelay": 32,
+          "requireAllTokens": [],
+          "requireAllTokensCaller": [],
+          "requireAnyTokens": [],
+          "requireAnyTokensCaller": [],
+          "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+          ],
+          "round": 0,
+          "scoreLocations": [
+            {
+              "isMainWindowLeaderboard": true,
+              "leaderboardDefId": "S35_RankedCupTriosE_DefaultLeaderboardDef"
+            }
+          ],
+          "teammateEligibility": "all",
+          "visibility": "public"
+        },
+        {
+          "additionalRequirements": [
+            "currentRanking:ranked-br:15",
+            "mfa",
+            "adps:g-a81a33a3b9a7",
+            "eula:s35_ranked_rules"
+          ],
+          "beginTime": "2025-06-01T09:00:00Z",
+          "beginTime_jst": "2025年06月01日18時00分00秒",
+          "beginTime_unix": 1748768400,
+          "blackoutPeriods": [],
+          "canLiveSpectate": false,
+          "countdownBeginTime": "2025-06-01T07:00:00Z",
+          "countdownBeginTime_jst": "2025年06月01日16時00分00秒",
+          "countdownBeginTime_unix": 1748761200,
+          "endTime": "2025-06-01T13:00:00Z",
+          "endTime_jst": "2025年06月01日22時00分00秒",
+          "endTime_unix": 1748782800,
+          "eventTemplateId": "EventTemplate_S35_RankedCupTrios",
+          "eventWindowId": "S35_RankedCupEliteTrios_Event3_ASIA",
+          "isTBD": false,
+          "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+          },
+          "payoutDelay": 32,
+          "requireAllTokens": [],
+          "requireAllTokensCaller": [],
+          "requireAnyTokens": [],
+          "requireAnyTokensCaller": [],
+          "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+          ],
+          "round": 0,
+          "scoreLocations": [
+            {
+              "isMainWindowLeaderboard": true,
+              "leaderboardDefId": "S35_RankedCupTriosE_DefaultLeaderboardDef"
+            }
+          ],
+          "teammateEligibility": "all",
+          "visibility": "public"
+        }
+      ],
+      "gameId": "Fortnite",
+      "link": {
+        "code": "tournament_epicgames_s35_rankedcupelitetrios_asia",
         "type": "br:tournament",
         "version": 1
       },
@@ -3592,6 +4192,811 @@
       "regions": [
         "ASIA"
       ]
+    },
+    {
+      "announcementTime": "2025-05-02T08:00:00Z",
+      "announcementTime_jst": "2025年05月02日17時00分00秒",
+      "announcementTime_unix": 1746172800,
+      "beginTime": "2025-05-18T09:00:00Z",
+      "beginTime_jst": "2025年05月18日18時00分00秒",
+      "beginTime_unix": 1747558800,
+      "displayData": {
+        "details_description": "Compete against other Platinum and Diamond ranked players! You may play in as many matches as you like during the four hour window but only your top four matches will count towards your placement on the leaderboard. In any session, earn 50 points to earn the \"Ranker's Death Star\" In-Game Glider! ",
+        "flavor_description": "",
+        "loading_screen_image": "https://cdn2.unrealengine.com/en-fneco-33-00-competitive-discoverytile-rankedcups-1080x1920-1920x1080-715a21161bce.jpg",
+        "long_format_title": "Platinum & Diamond Ranked Cup (Trios BR)",
+        "poster_back_image": null,
+        "poster_front_image": "https://cdn2.unrealengine.com/fnce-33-30-tileview-ranked-cups-01-800x800-800x800-f243c2a689fa.jpg",
+        "round_names": null,
+        "short_format_title": "",
+        "square_poster_image": "https://cdn2.unrealengine.com/en-fneco-33-00-competitive-discoverytile-rankedcups-1080x1920-1920x1080-715a21161bce.jpg"
+      },
+      "displayDataId": "s35_ranked_trios_pd",
+      "endTime": "2025-06-01T13:00:00Z",
+      "endTime_jst": "2025年06月01日22時00分00秒",
+      "endTime_unix": 1748782800,
+      "eventGroup": "Season35_RankedCupPDTrios",
+      "eventId": "epicgames_S35_RankedCupPDTrios_ASIA",
+      "eventWindows": [
+        {
+          "additionalRequirements": [
+            "adps:g-a81a33a3b9a7",
+            "currentRankingMax:ranked-br:14",
+            "mfa",
+            "eula:s35_ranked_rules",
+            "currentRanking:ranked-br:9"
+          ],
+          "beginTime": "2025-05-18T09:00:00Z",
+          "beginTime_jst": "2025年05月18日18時00分00秒",
+          "beginTime_unix": 1747558800,
+          "blackoutPeriods": [],
+          "canLiveSpectate": false,
+          "countdownBeginTime": "2025-05-18T07:00:00Z",
+          "countdownBeginTime_jst": "2025年05月18日16時00分00秒",
+          "countdownBeginTime_unix": 1747551600,
+          "endTime": "2025-05-18T13:00:00Z",
+          "endTime_jst": "2025年05月18日22時00分00秒",
+          "endTime_unix": 1747573200,
+          "eventTemplateId": "EventTemplate_S35_RankedCupTrios",
+          "eventWindowId": "S35_RankedCupPDTrios_Event1_ASIA",
+          "isTBD": false,
+          "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+          },
+          "payoutDelay": 32,
+          "requireAllTokens": [],
+          "requireAllTokensCaller": [],
+          "requireAnyTokens": [],
+          "requireAnyTokensCaller": [],
+          "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+          ],
+          "round": 0,
+          "scoreLocations": [
+            {
+              "isMainWindowLeaderboard": true,
+              "leaderboardDefId": "S35_RankedCupTriosPD_DefaultLeaderboardDef"
+            }
+          ],
+          "teammateEligibility": "all",
+          "visibility": "public"
+        },
+        {
+          "additionalRequirements": [
+            "adps:g-a81a33a3b9a7",
+            "currentRankingMax:ranked-br:14",
+            "mfa",
+            "eula:s35_ranked_rules",
+            "currentRanking:ranked-br:9"
+          ],
+          "beginTime": "2025-05-25T09:00:00Z",
+          "beginTime_jst": "2025年05月25日18時00分00秒",
+          "beginTime_unix": 1748163600,
+          "blackoutPeriods": [],
+          "canLiveSpectate": false,
+          "countdownBeginTime": "2025-05-25T07:00:00Z",
+          "countdownBeginTime_jst": "2025年05月25日16時00分00秒",
+          "countdownBeginTime_unix": 1748156400,
+          "endTime": "2025-05-25T13:00:00Z",
+          "endTime_jst": "2025年05月25日22時00分00秒",
+          "endTime_unix": 1748178000,
+          "eventTemplateId": "EventTemplate_S35_RankedCupTrios",
+          "eventWindowId": "S35_RankedCupPDTrios_Event2_ASIA",
+          "isTBD": false,
+          "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+          },
+          "payoutDelay": 32,
+          "requireAllTokens": [],
+          "requireAllTokensCaller": [],
+          "requireAnyTokens": [],
+          "requireAnyTokensCaller": [],
+          "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+          ],
+          "round": 0,
+          "scoreLocations": [
+            {
+              "isMainWindowLeaderboard": true,
+              "leaderboardDefId": "S35_RankedCupTriosPD_DefaultLeaderboardDef"
+            }
+          ],
+          "teammateEligibility": "all",
+          "visibility": "public"
+        },
+        {
+          "additionalRequirements": [
+            "adps:g-a81a33a3b9a7",
+            "currentRankingMax:ranked-br:14",
+            "mfa",
+            "eula:s35_ranked_rules",
+            "currentRanking:ranked-br:9"
+          ],
+          "beginTime": "2025-06-01T09:00:00Z",
+          "beginTime_jst": "2025年06月01日18時00分00秒",
+          "beginTime_unix": 1748768400,
+          "blackoutPeriods": [],
+          "canLiveSpectate": false,
+          "countdownBeginTime": "2025-06-01T07:00:00Z",
+          "countdownBeginTime_jst": "2025年06月01日16時00分00秒",
+          "countdownBeginTime_unix": 1748761200,
+          "endTime": "2025-06-01T13:00:00Z",
+          "endTime_jst": "2025年06月01日22時00分00秒",
+          "endTime_unix": 1748782800,
+          "eventTemplateId": "EventTemplate_S35_RankedCupTrios",
+          "eventWindowId": "S35_RankedCupPDTrios_Event3_ASIA",
+          "isTBD": false,
+          "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+          },
+          "payoutDelay": 32,
+          "requireAllTokens": [],
+          "requireAllTokensCaller": [],
+          "requireAnyTokens": [],
+          "requireAnyTokensCaller": [],
+          "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+          ],
+          "round": 0,
+          "scoreLocations": [
+            {
+              "isMainWindowLeaderboard": true,
+              "leaderboardDefId": "S35_RankedCupTriosPD_DefaultLeaderboardDef"
+            }
+          ],
+          "teammateEligibility": "all",
+          "visibility": "public"
+        }
+      ],
+      "gameId": "Fortnite",
+      "link": {
+        "code": "tournament_epicgames_s35_rankedcuppdtrios_asia",
+        "type": "br:tournament",
+        "version": 1
+      },
+      "metadata": {
+        "AccountLockType": "Window",
+        "DisqualifyType": "Window",
+        "minimumAccountLevel": 50,
+        "tournamentType": "RankedCup"
+      },
+      "platformMappings": {},
+      "platforms": [
+        "XboxOneGDK",
+        "PS4",
+        "XCloud",
+        "Helios",
+        "Luna",
+        "IOS",
+        "XB1",
+        "XboxOne",
+        "XSX",
+        "Android",
+        "LunaMobile",
+        "PS5",
+        "XCloudMobile",
+        "Mac",
+        "HeliosMobile",
+        "GFN",
+        "Switch",
+        "GFNMobile",
+        "Windows"
+      ],
+      "regionMappings": {
+        "ASIA": "ASIACOMP"
+      },
+      "regions": [
+        "ASIA"
+      ]
+    },
+    {
+      "announcementTime": "2025-05-02T08:00:06Z",
+      "announcementTime_jst": "2025年05月02日17時00分06秒",
+      "announcementTime_unix": 1746172806,
+      "beginTime": "2025-05-11T09:00:00Z",
+      "beginTime_jst": "2025年05月11日18時00分00秒",
+      "beginTime_unix": 1746954000,
+      "displayData": {
+        "details_description": "Compete against other Bronze, Silver, and Gold ranked players! You may play in as many matches as you like during the four hour window but only your top four matches will count towards your placement on the leaderboard. In any session, earn 50 points to earn the \"Ranker's Death Star\" In-Game Glider! ",
+        "flavor_description": "",
+        "loading_screen_image": "https://cdn2.unrealengine.com/en-fneco-33-00-competitive-discoverytile-rankedcups-1080x1920-1920x1080-715a21161bce.jpg",
+        "long_format_title": "Bronze, Silver, & Gold Ranked Cup (Reload BR)",
+        "poster_back_image": null,
+        "poster_front_image": null,
+        "round_names": null,
+        "short_format_title": "",
+        "square_poster_image": "https://cdn2.unrealengine.com/en-fneco-33-00-competitive-discoverytile-rankedcups-1080x1920-1920x1080-715a21161bce.jpg"
+      },
+      "displayDataId": "s35_ranked_duosreload_bsg",
+      "endTime": "2025-05-27T13:00:00Z",
+      "endTime_jst": "2025年05月27日22時00分00秒",
+      "endTime_unix": 1748350800,
+      "eventGroup": "Season35ReloadRankedCupBSGDuos",
+      "eventId": "epicgames_S35_ReloadRankedCup_BSG_Duos_ASIA",
+      "eventWindows": [
+        {
+          "additionalRequirements": [
+            "currentRanking:ranked_blastberry_build:0",
+            "adps:g-a81a33a3b9a7",
+            "currentRankingMax:ranked_blastberry_build:8",
+            "mfa",
+            "eula:s35_ranked_rules"
+          ],
+          "beginTime": "2025-05-11T09:00:00Z",
+          "beginTime_jst": "2025年05月11日18時00分00秒",
+          "beginTime_unix": 1746954000,
+          "blackoutPeriods": [],
+          "canLiveSpectate": false,
+          "countdownBeginTime": "2025-05-11T07:00:00Z",
+          "countdownBeginTime_jst": "2025年05月11日16時00分00秒",
+          "countdownBeginTime_unix": 1746946800,
+          "endTime": "2025-05-11T13:00:00Z",
+          "endTime_jst": "2025年05月11日22時00分00秒",
+          "endTime_unix": 1746968400,
+          "eventTemplateId": "EventTemplate_S35ReloadRankedCupDuos",
+          "eventWindowId": "S35_ReloadRankedCup_BSG_Duos_Event1_ASIA",
+          "isTBD": false,
+          "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+          },
+          "payoutDelay": 32,
+          "requireAllTokens": [],
+          "requireAllTokensCaller": [],
+          "requireAnyTokens": [],
+          "requireAnyTokensCaller": [],
+          "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+          ],
+          "round": 0,
+          "scoreLocations": [
+            {
+              "isMainWindowLeaderboard": true,
+              "leaderboardDefId": "S35_RankedCupReloadDuos_DefaultLeaderboardDef"
+            }
+          ],
+          "teammateEligibility": "all",
+          "visibility": "public"
+        },
+        {
+          "additionalRequirements": [
+            "currentRanking:ranked_blastberry_build:0",
+            "adps:g-a81a33a3b9a7",
+            "currentRankingMax:ranked_blastberry_build:8",
+            "mfa",
+            "eula:s35_ranked_rules"
+          ],
+          "beginTime": "2025-05-20T09:00:00Z",
+          "beginTime_jst": "2025年05月20日18時00分00秒",
+          "beginTime_unix": 1747731600,
+          "blackoutPeriods": [],
+          "canLiveSpectate": false,
+          "countdownBeginTime": "2025-05-20T07:00:00Z",
+          "countdownBeginTime_jst": "2025年05月20日16時00分00秒",
+          "countdownBeginTime_unix": 1747724400,
+          "endTime": "2025-05-20T13:00:00Z",
+          "endTime_jst": "2025年05月20日22時00分00秒",
+          "endTime_unix": 1747746000,
+          "eventTemplateId": "EventTemplate_S35ReloadRankedCupDuos",
+          "eventWindowId": "S35_ReloadRankedCup_BSG_Duos_Event2_ASIA",
+          "isTBD": false,
+          "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+          },
+          "payoutDelay": 32,
+          "requireAllTokens": [],
+          "requireAllTokensCaller": [],
+          "requireAnyTokens": [],
+          "requireAnyTokensCaller": [],
+          "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+          ],
+          "round": 0,
+          "scoreLocations": [
+            {
+              "isMainWindowLeaderboard": true,
+              "leaderboardDefId": "S35_RankedCupReloadDuos_DefaultLeaderboardDef"
+            }
+          ],
+          "teammateEligibility": "all",
+          "visibility": "public"
+        },
+        {
+          "additionalRequirements": [
+            "currentRanking:ranked_blastberry_build:0",
+            "adps:g-a81a33a3b9a7",
+            "currentRankingMax:ranked_blastberry_build:8",
+            "mfa",
+            "eula:s35_ranked_rules"
+          ],
+          "beginTime": "2025-05-27T09:00:00Z",
+          "beginTime_jst": "2025年05月27日18時00分00秒",
+          "beginTime_unix": 1748336400,
+          "blackoutPeriods": [],
+          "canLiveSpectate": false,
+          "countdownBeginTime": "2025-05-27T07:00:00Z",
+          "countdownBeginTime_jst": "2025年05月27日16時00分00秒",
+          "countdownBeginTime_unix": 1748329200,
+          "endTime": "2025-05-27T13:00:00Z",
+          "endTime_jst": "2025年05月27日22時00分00秒",
+          "endTime_unix": 1748350800,
+          "eventTemplateId": "EventTemplate_S35ReloadRankedCupDuos",
+          "eventWindowId": "S35_ReloadRankedCup_BSG_Duos_Event3_ASIA",
+          "isTBD": false,
+          "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+          },
+          "payoutDelay": 32,
+          "requireAllTokens": [],
+          "requireAllTokensCaller": [],
+          "requireAnyTokens": [],
+          "requireAnyTokensCaller": [],
+          "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+          ],
+          "round": 0,
+          "scoreLocations": [
+            {
+              "isMainWindowLeaderboard": true,
+              "leaderboardDefId": "S35_RankedCupReloadDuos_DefaultLeaderboardDef"
+            }
+          ],
+          "teammateEligibility": "all",
+          "visibility": "public"
+        }
+      ],
+      "gameId": "Fortnite",
+      "link": {
+        "code": "tournament_epicgames_s35_reloadrankedcup_bsg_duos_asia",
+        "type": "br:tournament",
+        "version": 1
+      },
+      "metadata": {
+        "AccountLockType": "Window",
+        "DisqualifyType": "Window",
+        "minimumAccountLevel": 50,
+        "tournamentType": "RankedCup"
+      },
+      "platformMappings": {},
+      "platforms": [
+        "XboxOneGDK",
+        "PS4",
+        "XCloud",
+        "Helios",
+        "Luna",
+        "IOS",
+        "XB1",
+        "XboxOne",
+        "XSX",
+        "Android",
+        "LunaMobile",
+        "PS5",
+        "XCloudMobile",
+        "Mac",
+        "HeliosMobile",
+        "GFN",
+        "Switch",
+        "GFNMobile",
+        "Windows"
+      ],
+      "regionMappings": {
+        "ASIA": "ASIACOMP"
+      },
+      "regions": [
+        "ASIA"
+      ]
+    },
+    {
+      "announcementTime": "2025-05-02T08:00:06Z",
+      "announcementTime_jst": "2025年05月02日17時00分06秒",
+      "announcementTime_unix": 1746172806,
+      "beginTime": "2025-05-11T09:00:00Z",
+      "beginTime_jst": "2025年05月11日18時00分00秒",
+      "beginTime_unix": 1746954000,
+      "displayData": {
+        "details_description": "Compete against other Elite+ ranked players! You may play in as many matches as you wish during the four hour window but only your top four matches will count towards your placement on the leaderboard. In any session, earn 50 points to earn the \"Ranker's Death Star\" In-Game Glider! Additionally, players who rank at the top of the leaderboard each session will earn the \"Elite Zadie\" Outfit! ",
+        "flavor_description": "",
+        "loading_screen_image": "https://cdn2.unrealengine.com/en-fnce-35-00-dashberry-elitezadie-rankedcups-br-discoverytile-1920x1080-1920x1080-39785b12b3d9.jpg",
+        "long_format_title": "Elite Zadie Ranked Cup (Duos Reload)",
+        "poster_back_image": null,
+        "poster_front_image": "https://cdn2.unrealengine.com/fnce-35-00-competitive-zadierankedcup-poster-front-750x1080-9bdc64fd8901.jpg",
+        "round_names": null,
+        "short_format_title": "",
+        "square_poster_image": "https://cdn2.unrealengine.com/en-fnce-35-00-dashberry-elitezadie-rankedcups-br-discoverytile-1920x1080-1920x1080-39785b12b3d9.jpg"
+      },
+      "displayDataId": "s35_zadieranked_duosreload",
+      "endTime": "2025-05-27T12:00:00Z",
+      "endTime_jst": "2025年05月27日21時00分00秒",
+      "endTime_unix": 1748347200,
+      "eventGroup": "Season35ReloadRankedCupEliteDuos",
+      "eventId": "epicgames_S35_ReloadRankedCup_Elite_Duos_ASIA",
+      "eventWindows": [
+        {
+          "additionalRequirements": [
+            "mfa",
+            "adps:g-a81a33a3b9a7",
+            "currentRanking:ranked_blastberry_build:15",
+            "eula:s35_ranked_rules"
+          ],
+          "beginTime": "2025-05-11T09:00:00Z",
+          "beginTime_jst": "2025年05月11日18時00分00秒",
+          "beginTime_unix": 1746954000,
+          "blackoutPeriods": [],
+          "canLiveSpectate": false,
+          "countdownBeginTime": "2025-05-11T07:00:00Z",
+          "countdownBeginTime_jst": "2025年05月11日16時00分00秒",
+          "countdownBeginTime_unix": 1746946800,
+          "endTime": "2025-05-11T12:00:00Z",
+          "endTime_jst": "2025年05月11日21時00分00秒",
+          "endTime_unix": 1746964800,
+          "eventTemplateId": "EventTemplate_S35ReloadRankedCupDuos",
+          "eventWindowId": "S35_ReloadRankedCup_Elite_Duos_Event1_ASIA",
+          "isTBD": false,
+          "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+          },
+          "payoutDelay": 32,
+          "requireAllTokens": [],
+          "requireAllTokensCaller": [],
+          "requireAnyTokens": [],
+          "requireAnyTokensCaller": [],
+          "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+          ],
+          "round": 0,
+          "scoreLocations": [
+            {
+              "isMainWindowLeaderboard": true,
+              "leaderboardDefId": "S35_RankedCupReloadDuosE_DefaultLeaderboardDef"
+            }
+          ],
+          "teammateEligibility": "all",
+          "visibility": "public"
+        },
+        {
+          "additionalRequirements": [
+            "mfa",
+            "adps:g-a81a33a3b9a7",
+            "currentRanking:ranked_blastberry_build:15",
+            "eula:s35_ranked_rules"
+          ],
+          "beginTime": "2025-05-20T09:00:00Z",
+          "beginTime_jst": "2025年05月20日18時00分00秒",
+          "beginTime_unix": 1747731600,
+          "blackoutPeriods": [],
+          "canLiveSpectate": false,
+          "countdownBeginTime": "2025-05-20T07:00:00Z",
+          "countdownBeginTime_jst": "2025年05月20日16時00分00秒",
+          "countdownBeginTime_unix": 1747724400,
+          "endTime": "2025-05-20T12:00:00Z",
+          "endTime_jst": "2025年05月20日21時00分00秒",
+          "endTime_unix": 1747742400,
+          "eventTemplateId": "EventTemplate_S35ReloadRankedCupDuos",
+          "eventWindowId": "S35_ReloadRankedCup_Elite_Duos_Event2_ASIA",
+          "isTBD": false,
+          "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+          },
+          "payoutDelay": 32,
+          "requireAllTokens": [],
+          "requireAllTokensCaller": [],
+          "requireAnyTokens": [],
+          "requireAnyTokensCaller": [],
+          "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+          ],
+          "round": 0,
+          "scoreLocations": [
+            {
+              "isMainWindowLeaderboard": true,
+              "leaderboardDefId": "S35_RankedCupReloadDuosE_DefaultLeaderboardDef"
+            }
+          ],
+          "teammateEligibility": "all",
+          "visibility": "public"
+        },
+        {
+          "additionalRequirements": [
+            "mfa",
+            "adps:g-a81a33a3b9a7",
+            "currentRanking:ranked_blastberry_build:15",
+            "eula:s35_ranked_rules"
+          ],
+          "beginTime": "2025-05-27T09:00:00Z",
+          "beginTime_jst": "2025年05月27日18時00分00秒",
+          "beginTime_unix": 1748336400,
+          "blackoutPeriods": [],
+          "canLiveSpectate": false,
+          "countdownBeginTime": "2025-05-27T07:00:00Z",
+          "countdownBeginTime_jst": "2025年05月27日16時00分00秒",
+          "countdownBeginTime_unix": 1748329200,
+          "endTime": "2025-05-27T12:00:00Z",
+          "endTime_jst": "2025年05月27日21時00分00秒",
+          "endTime_unix": 1748347200,
+          "eventTemplateId": "EventTemplate_S35ReloadRankedCupDuos",
+          "eventWindowId": "S35_ReloadRankedCup_Elite_Duos_Event3_ASIA",
+          "isTBD": false,
+          "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+          },
+          "payoutDelay": 32,
+          "requireAllTokens": [],
+          "requireAllTokensCaller": [],
+          "requireAnyTokens": [],
+          "requireAnyTokensCaller": [],
+          "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+          ],
+          "round": 0,
+          "scoreLocations": [
+            {
+              "isMainWindowLeaderboard": true,
+              "leaderboardDefId": "S35_RankedCupReloadDuosE_DefaultLeaderboardDef"
+            }
+          ],
+          "teammateEligibility": "all",
+          "visibility": "public"
+        }
+      ],
+      "gameId": "Fortnite",
+      "link": {
+        "code": "tournament_epicgames_s35_reloadrankedcup_elite_duos_asia",
+        "type": "br:tournament",
+        "version": 1
+      },
+      "metadata": {
+        "AccountLockType": "Window",
+        "DisqualifyType": "Window",
+        "minimumAccountLevel": 50,
+        "tournamentType": "RankedCup"
+      },
+      "platformMappings": {},
+      "platforms": [
+        "XboxOneGDK",
+        "PS4",
+        "XCloud",
+        "Helios",
+        "Luna",
+        "IOS",
+        "XB1",
+        "XboxOne",
+        "XSX",
+        "Android",
+        "LunaMobile",
+        "PS5",
+        "XCloudMobile",
+        "Mac",
+        "HeliosMobile",
+        "GFN",
+        "Switch",
+        "GFNMobile",
+        "Windows"
+      ],
+      "regionMappings": {
+        "ASIA": "ASIACOMP"
+      },
+      "regions": [
+        "ASIA"
+      ]
+    },
+    {
+      "announcementTime": "2025-05-02T08:00:06Z",
+      "announcementTime_jst": "2025年05月02日17時00分06秒",
+      "announcementTime_unix": 1746172806,
+      "beginTime": "2025-05-11T09:00:00Z",
+      "beginTime_jst": "2025年05月11日18時00分00秒",
+      "beginTime_unix": 1746954000,
+      "displayData": {
+        "details_description": "Compete against other Platinum and Diamond ranked players! You may play in as many matches as you like during the four hour window but only your top four matches will count towards your placement on the leaderboard. In any session, earn 50 points to earn the \"Ranker's Death Star\" In-Game Glider! ",
+        "flavor_description": "",
+        "loading_screen_image": "https://cdn2.unrealengine.com/en-fneco-33-00-competitive-discoverytile-rankedcups-1080x1920-1920x1080-715a21161bce.jpg",
+        "long_format_title": "Platinum & Diamond Ranked Cup (Duos Reload)",
+        "poster_back_image": null,
+        "poster_front_image": "https://cdn2.unrealengine.com/fnce-33-30-tileview-ranked-cups-01-800x800-800x800-f243c2a689fa.jpg",
+        "round_names": null,
+        "short_format_title": "",
+        "square_poster_image": "https://cdn2.unrealengine.com/en-fneco-33-00-competitive-discoverytile-rankedcups-1080x1920-1920x1080-715a21161bce.jpg"
+      },
+      "displayDataId": "s35_ranked_duosreload_pd",
+      "endTime": "2025-05-27T13:00:00Z",
+      "endTime_jst": "2025年05月27日22時00分00秒",
+      "endTime_unix": 1748350800,
+      "eventGroup": "Season35ReloadRankedCupPDDuos",
+      "eventId": "epicgames_S35_ReloadRankedCup_PD_Duos_ASIA",
+      "eventWindows": [
+        {
+          "additionalRequirements": [
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            "eula:s35_ranked_rules",
+            "currentRankingMax:ranked_blastberry_build:14",
+            "currentRanking:ranked_blastberry_build:9"
+          ],
+          "beginTime": "2025-05-11T09:00:00Z",
+          "beginTime_jst": "2025年05月11日18時00分00秒",
+          "beginTime_unix": 1746954000,
+          "blackoutPeriods": [],
+          "canLiveSpectate": false,
+          "countdownBeginTime": "2025-05-11T07:00:00Z",
+          "countdownBeginTime_jst": "2025年05月11日16時00分00秒",
+          "countdownBeginTime_unix": 1746946800,
+          "endTime": "2025-05-11T13:00:00Z",
+          "endTime_jst": "2025年05月11日22時00分00秒",
+          "endTime_unix": 1746968400,
+          "eventTemplateId": "EventTemplate_S35ReloadRankedCupDuos",
+          "eventWindowId": "S35_ReloadRankedCup_PD_Duos_Event1_ASIA",
+          "isTBD": false,
+          "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+          },
+          "payoutDelay": 32,
+          "requireAllTokens": [],
+          "requireAllTokensCaller": [],
+          "requireAnyTokens": [],
+          "requireAnyTokensCaller": [],
+          "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+          ],
+          "round": 0,
+          "scoreLocations": [
+            {
+              "isMainWindowLeaderboard": true,
+              "leaderboardDefId": "S35_RankedCupReloadDuos_DefaultLeaderboardDef"
+            }
+          ],
+          "teammateEligibility": "all",
+          "visibility": "public"
+        },
+        {
+          "additionalRequirements": [
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            "eula:s35_ranked_rules",
+            "currentRankingMax:ranked_blastberry_build:14",
+            "currentRanking:ranked_blastberry_build:9"
+          ],
+          "beginTime": "2025-05-20T09:00:00Z",
+          "beginTime_jst": "2025年05月20日18時00分00秒",
+          "beginTime_unix": 1747731600,
+          "blackoutPeriods": [],
+          "canLiveSpectate": false,
+          "countdownBeginTime": "2025-05-20T07:00:00Z",
+          "countdownBeginTime_jst": "2025年05月20日16時00分00秒",
+          "countdownBeginTime_unix": 1747724400,
+          "endTime": "2025-05-20T13:00:00Z",
+          "endTime_jst": "2025年05月20日22時00分00秒",
+          "endTime_unix": 1747746000,
+          "eventTemplateId": "EventTemplate_S35ReloadRankedCupDuos",
+          "eventWindowId": "S35_ReloadRankedCup_PD_Duos_Event2_ASIA",
+          "isTBD": false,
+          "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+          },
+          "payoutDelay": 32,
+          "requireAllTokens": [],
+          "requireAllTokensCaller": [],
+          "requireAnyTokens": [],
+          "requireAnyTokensCaller": [],
+          "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+          ],
+          "round": 0,
+          "scoreLocations": [
+            {
+              "isMainWindowLeaderboard": true,
+              "leaderboardDefId": "S35_RankedCupReloadDuos_DefaultLeaderboardDef"
+            }
+          ],
+          "teammateEligibility": "all",
+          "visibility": "public"
+        },
+        {
+          "additionalRequirements": [
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            "eula:s35_ranked_rules",
+            "currentRankingMax:ranked_blastberry_build:14",
+            "currentRanking:ranked_blastberry_build:9"
+          ],
+          "beginTime": "2025-05-27T09:00:00Z",
+          "beginTime_jst": "2025年05月27日18時00分00秒",
+          "beginTime_unix": 1748336400,
+          "blackoutPeriods": [],
+          "canLiveSpectate": false,
+          "countdownBeginTime": "2025-05-27T07:00:00Z",
+          "countdownBeginTime_jst": "2025年05月27日16時00分00秒",
+          "countdownBeginTime_unix": 1748329200,
+          "endTime": "2025-05-27T13:00:00Z",
+          "endTime_jst": "2025年05月27日22時00分00秒",
+          "endTime_unix": 1748350800,
+          "eventTemplateId": "EventTemplate_S35ReloadRankedCupDuos",
+          "eventWindowId": "S35_ReloadRankedCup_PD_Duos_Event3_ASIA",
+          "isTBD": false,
+          "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+          },
+          "payoutDelay": 32,
+          "requireAllTokens": [],
+          "requireAllTokensCaller": [],
+          "requireAnyTokens": [],
+          "requireAnyTokensCaller": [],
+          "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+          ],
+          "round": 0,
+          "scoreLocations": [
+            {
+              "isMainWindowLeaderboard": true,
+              "leaderboardDefId": "S35_RankedCupReloadDuos_DefaultLeaderboardDef"
+            }
+          ],
+          "teammateEligibility": "all",
+          "visibility": "public"
+        }
+      ],
+      "gameId": "Fortnite",
+      "link": {
+        "code": "tournament_epicgames_s35_reloadrankedcup_pd_duos_asia",
+        "type": "br:tournament",
+        "version": 1
+      },
+      "metadata": {
+        "AccountLockType": "Window",
+        "DisqualifyType": "Window",
+        "minimumAccountLevel": 50,
+        "tournamentType": "RankedCup"
+      },
+      "platformMappings": {},
+      "platforms": [
+        "XboxOneGDK",
+        "PS4",
+        "XCloud",
+        "Helios",
+        "Luna",
+        "IOS",
+        "XB1",
+        "XboxOne",
+        "XSX",
+        "Android",
+        "LunaMobile",
+        "PS5",
+        "XCloudMobile",
+        "Mac",
+        "HeliosMobile",
+        "GFN",
+        "Switch",
+        "GFNMobile",
+        "Windows"
+      ],
+      "regionMappings": {
+        "ASIA": "ASIACOMP"
+      },
+      "regions": [
+        "ASIA"
+      ]
     }
   ],
   "leaderboardDefs": [
@@ -3644,14 +5049,19 @@
       "clampsToZero": true,
       "gameId": "Fortnite",
       "hidePlayerScores": false,
-      "leaderboardDefId": "S34_FNCSMajor2_Final_CumulativeLeaderboardDef",
-      "leaderboardInstanceGroupingKeyFormat": "cumulative",
-      "leaderboardInstanceIdFormat": "${eventId}_cumulative",
+      "leaderboardDefId": "S35_RankedCupReloadDuos_DefaultLeaderboardDef",
+      "leaderboardInstanceGroupingKeyFormat": "${eventId}",
+      "leaderboardInstanceIdFormat": "${windowId}",
       "leaderboardStorageId": "Fortnite_GLOBAL",
-      "maxSessionHistorySize": 20,
+      "maxSessionHistorySize": 150,
+      "onlyScoreTopN": 4,
+      "payoutsConfig": {
+        "payoutDate": "windowEnd+PT32M",
+        "payoutTableIdFormat": "S35_PayoutTableRankedCup"
+      },
       "percentileAccuracy": 1,
       "requiredPlayerListings": [],
-      "scoringRuleSetId": "S33_ScoringRules_FNCSMajor1_Final",
+      "scoringRuleSetId": "S35_ScoringRules_RankedCupReloadDuos",
       "tiebreakerFormula": {
         "basePointsBits": 11,
         "components": [
@@ -3679,13 +5089,13 @@
           }
         ]
       },
-      "useIndividualScores": false
+      "useIndividualScores": true
     },
     {
       "clampsToZero": true,
       "gameId": "Fortnite",
       "hidePlayerScores": false,
-      "leaderboardDefId": "S33_FNCSMajor1_Final_CumulativeLeaderboardDef",
+      "leaderboardDefId": "S34_FNCSMajor2_Final_CumulativeLeaderboardDef",
       "leaderboardInstanceGroupingKeyFormat": "cumulative",
       "leaderboardInstanceIdFormat": "${eventId}_cumulative",
       "leaderboardStorageId": "Fortnite_GLOBAL",
@@ -3811,6 +5221,52 @@
         ]
       },
       "useIndividualScores": false
+    },
+    {
+      "clampsToZero": true,
+      "gameId": "Fortnite",
+      "hidePlayerScores": false,
+      "leaderboardDefId": "S35_RankedCupDuosE_DefaultLeaderboardDef",
+      "leaderboardInstanceGroupingKeyFormat": "${eventId}",
+      "leaderboardInstanceIdFormat": "${windowId}",
+      "leaderboardStorageId": "Fortnite_GLOBAL",
+      "maxSessionHistorySize": 150,
+      "onlyScoreTopN": 4,
+      "payoutsConfig": {
+        "payoutDate": "windowEnd+PT32M",
+        "payoutTableIdFormat": "${eventId}"
+      },
+      "percentileAccuracy": 1,
+      "requiredPlayerListings": [],
+      "scoringRuleSetId": "S35_ScoringRulesE_RankedCupDuos",
+      "tiebreakerFormula": {
+        "basePointsBits": 11,
+        "components": [
+          {
+            "aggregation": "sum",
+            "bits": 4,
+            "trackedStat": "VICTORY_ROYALE_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 13,
+            "multiplier": 100,
+            "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 14,
+            "multiplier": 100,
+            "trackedStat": "PLACEMENT_TIEBREAKER_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 11,
+            "trackedStat": "TIME_ALIVE_STAT"
+          }
+        ]
+      },
+      "useIndividualScores": true
     },
     {
       "clampsToZero": true,
@@ -3953,14 +5409,19 @@
       "clampsToZero": true,
       "gameId": "Fortnite",
       "hidePlayerScores": false,
-      "leaderboardDefId": "S33_FNCSMajor1_FinalDay1_DefaultLeaderboardDef",
+      "leaderboardDefId": "S35_RankedCupTriosBSG_DefaultLeaderboardDef",
       "leaderboardInstanceGroupingKeyFormat": "${eventId}",
       "leaderboardInstanceIdFormat": "${windowId}",
       "leaderboardStorageId": "Fortnite_GLOBAL",
-      "maxSessionHistorySize": 10,
+      "maxSessionHistorySize": 150,
+      "onlyScoreTopN": 4,
+      "payoutsConfig": {
+        "payoutDate": "windowEnd+PT32M",
+        "payoutTableIdFormat": "S35_PayoutTableRankedCup"
+      },
       "percentileAccuracy": 1,
       "requiredPlayerListings": [],
-      "scoringRuleSetId": "S33_ScoringRules_FNCSMajor1_Final",
+      "scoringRuleSetId": "S35_ScoringRulesBSG_RankedCupTrios",
       "tiebreakerFormula": {
         "basePointsBits": 11,
         "components": [
@@ -3988,7 +5449,7 @@
           }
         ]
       },
-      "useIndividualScores": false
+      "useIndividualScores": true
     },
     {
       "clampsToZero": true,
@@ -4313,6 +5774,93 @@
       "clampsToZero": true,
       "gameId": "Fortnite",
       "hidePlayerScores": false,
+      "leaderboardDefId": "S35_RankedCupTriosPD_DefaultLeaderboardDef",
+      "leaderboardInstanceGroupingKeyFormat": "${eventId}",
+      "leaderboardInstanceIdFormat": "${windowId}",
+      "leaderboardStorageId": "Fortnite_GLOBAL",
+      "maxSessionHistorySize": 150,
+      "onlyScoreTopN": 4,
+      "payoutsConfig": {
+        "payoutDate": "windowEnd+PT32M",
+        "payoutTableIdFormat": "S35_PayoutTableRankedCup"
+      },
+      "percentileAccuracy": 1,
+      "requiredPlayerListings": [],
+      "scoringRuleSetId": "S35_ScoringRulesPD_RankedCupTrios",
+      "tiebreakerFormula": {
+        "basePointsBits": 11,
+        "components": [
+          {
+            "aggregation": "sum",
+            "bits": 4,
+            "trackedStat": "VICTORY_ROYALE_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 13,
+            "multiplier": 100,
+            "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 14,
+            "multiplier": 100,
+            "trackedStat": "PLACEMENT_TIEBREAKER_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 11,
+            "trackedStat": "TIME_ALIVE_STAT"
+          }
+        ]
+      },
+      "useIndividualScores": true
+    },
+    {
+      "clampsToZero": true,
+      "gameId": "Fortnite",
+      "hidePlayerScores": false,
+      "leaderboardDefId": "S33_FNCSMajor1_Final_CumulativeLeaderboardDef",
+      "leaderboardInstanceGroupingKeyFormat": "cumulative",
+      "leaderboardInstanceIdFormat": "${eventId}_cumulative",
+      "leaderboardStorageId": "Fortnite_GLOBAL",
+      "maxSessionHistorySize": 20,
+      "percentileAccuracy": 1,
+      "requiredPlayerListings": [],
+      "scoringRuleSetId": "S33_ScoringRules_FNCSMajor1_Final",
+      "tiebreakerFormula": {
+        "basePointsBits": 11,
+        "components": [
+          {
+            "aggregation": "sum",
+            "bits": 4,
+            "trackedStat": "VICTORY_ROYALE_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 13,
+            "multiplier": 100,
+            "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 14,
+            "multiplier": 100,
+            "trackedStat": "PLACEMENT_TIEBREAKER_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 11,
+            "trackedStat": "TIME_ALIVE_STAT"
+          }
+        ]
+      },
+      "useIndividualScores": false
+    },
+    {
+      "clampsToZero": true,
+      "gameId": "Fortnite",
+      "hidePlayerScores": false,
       "leaderboardDefId": "S35_FNSCShowdown_Round1_DefaultLeaderboardDef",
       "leaderboardInstanceGroupingKeyFormat": "${eventId}",
       "leaderboardInstanceIdFormat": "${windowId}",
@@ -4371,6 +5919,52 @@
       "percentileAccuracy": 1,
       "requiredPlayerListings": [],
       "scoringRuleSetId": "S35_ScoringRulesBSG_RankedCupDuos",
+      "tiebreakerFormula": {
+        "basePointsBits": 11,
+        "components": [
+          {
+            "aggregation": "sum",
+            "bits": 4,
+            "trackedStat": "VICTORY_ROYALE_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 13,
+            "multiplier": 100,
+            "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 14,
+            "multiplier": 100,
+            "trackedStat": "PLACEMENT_TIEBREAKER_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 11,
+            "trackedStat": "TIME_ALIVE_STAT"
+          }
+        ]
+      },
+      "useIndividualScores": true
+    },
+    {
+      "clampsToZero": true,
+      "gameId": "Fortnite",
+      "hidePlayerScores": false,
+      "leaderboardDefId": "S35_RankedCupReloadDuosE_DefaultLeaderboardDef",
+      "leaderboardInstanceGroupingKeyFormat": "${eventId}",
+      "leaderboardInstanceIdFormat": "${windowId}",
+      "leaderboardStorageId": "Fortnite_GLOBAL",
+      "maxSessionHistorySize": 150,
+      "onlyScoreTopN": 4,
+      "payoutsConfig": {
+        "payoutDate": "windowEnd+PT32M",
+        "payoutTableIdFormat": "${eventId}"
+      },
+      "percentileAccuracy": 1,
+      "requiredPlayerListings": [],
+      "scoringRuleSetId": "S35_ScoringRules_RankedCupReloadDuos",
       "tiebreakerFormula": {
         "basePointsBits": 11,
         "components": [
@@ -4633,6 +6227,93 @@
       "percentileAccuracy": 1,
       "requiredPlayerListings": [],
       "scoringRuleSetId": "S33_ScoringRules_FNCSMajor1_LastChanceQualifier",
+      "tiebreakerFormula": {
+        "basePointsBits": 11,
+        "components": [
+          {
+            "aggregation": "sum",
+            "bits": 4,
+            "trackedStat": "VICTORY_ROYALE_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 13,
+            "multiplier": 100,
+            "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 14,
+            "multiplier": 100,
+            "trackedStat": "PLACEMENT_TIEBREAKER_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 11,
+            "trackedStat": "TIME_ALIVE_STAT"
+          }
+        ]
+      },
+      "useIndividualScores": false
+    },
+    {
+      "clampsToZero": true,
+      "gameId": "Fortnite",
+      "hidePlayerScores": false,
+      "leaderboardDefId": "S35_RankedCupTriosE_DefaultLeaderboardDef",
+      "leaderboardInstanceGroupingKeyFormat": "${eventId}",
+      "leaderboardInstanceIdFormat": "${windowId}",
+      "leaderboardStorageId": "Fortnite_GLOBAL",
+      "maxSessionHistorySize": 150,
+      "onlyScoreTopN": 4,
+      "payoutsConfig": {
+        "payoutDate": "windowEnd+PT32M",
+        "payoutTableIdFormat": "${eventId}"
+      },
+      "percentileAccuracy": 1,
+      "requiredPlayerListings": [],
+      "scoringRuleSetId": "S35_ScoringRulesE_RankedCupTrios",
+      "tiebreakerFormula": {
+        "basePointsBits": 11,
+        "components": [
+          {
+            "aggregation": "sum",
+            "bits": 4,
+            "trackedStat": "VICTORY_ROYALE_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 13,
+            "multiplier": 100,
+            "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 14,
+            "multiplier": 100,
+            "trackedStat": "PLACEMENT_TIEBREAKER_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 11,
+            "trackedStat": "TIME_ALIVE_STAT"
+          }
+        ]
+      },
+      "useIndividualScores": true
+    },
+    {
+      "clampsToZero": true,
+      "gameId": "Fortnite",
+      "hidePlayerScores": false,
+      "leaderboardDefId": "S33_FNCSMajor1_FinalDay1_DefaultLeaderboardDef",
+      "leaderboardInstanceGroupingKeyFormat": "${eventId}",
+      "leaderboardInstanceIdFormat": "${windowId}",
+      "leaderboardStorageId": "Fortnite_GLOBAL",
+      "maxSessionHistorySize": 10,
+      "percentileAccuracy": 1,
+      "requiredPlayerListings": [],
+      "scoringRuleSetId": "S33_ScoringRules_FNCSMajor1_Final",
       "tiebreakerFormula": {
         "basePointsBits": 11,
         "components": [
@@ -5428,6 +7109,42 @@
         "scoringType": "rank"
       }
     ],
+    "epicgames_S35_RankedCupEliteDuos_ASIA": [
+      {
+        "ranks": [
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 1,
+                "rewardMode": "standard",
+                "rewardType": "game",
+                "value": "AthenaGlider:umbrella_rankedhalt"
+              }
+            ],
+            "threshold": 50
+          }
+        ],
+        "scoringType": "value"
+      },
+      {
+        "ranks": [
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 1,
+                "rewardMode": "standard",
+                "rewardType": "game",
+                "value": "AthenaCharacter:character_rankedtrooper_noble"
+              }
+            ],
+            "threshold": 10
+          }
+        ],
+        "scoringType": "rank"
+      }
+    ],
     "epicgames_S35_RankedCupEliteSolo_ASIA": [
       {
         "ranks": [
@@ -5459,6 +7176,78 @@
               }
             ],
             "threshold": 20
+          }
+        ],
+        "scoringType": "rank"
+      }
+    ],
+    "epicgames_S35_RankedCupEliteTrios_ASIA": [
+      {
+        "ranks": [
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 1,
+                "rewardMode": "standard",
+                "rewardType": "game",
+                "value": "AthenaGlider:umbrella_rankedhalt"
+              }
+            ],
+            "threshold": 50
+          }
+        ],
+        "scoringType": "value"
+      },
+      {
+        "ranks": [
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 1,
+                "rewardMode": "standard",
+                "rewardType": "game",
+                "value": "AthenaCharacter:character_rankedtrooper_noble"
+              }
+            ],
+            "threshold": 5
+          }
+        ],
+        "scoringType": "rank"
+      }
+    ],
+    "epicgames_S35_ReloadRankedCup_Elite_Duos_ASIA": [
+      {
+        "ranks": [
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 1,
+                "rewardMode": "standard",
+                "rewardType": "game",
+                "value": "AthenaGlider:umbrella_rankedhalt"
+              }
+            ],
+            "threshold": 50
+          }
+        ],
+        "scoringType": "value"
+      },
+      {
+        "ranks": [
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 1,
+                "rewardMode": "standard",
+                "rewardType": "game",
+                "value": "AthenaCharacter:character_rankedtrooper_noble"
+              }
+            ],
+            "threshold": 10
           }
         ],
         "scoringType": "rank"
@@ -5495,15 +7284,36 @@
     "Fortnite:epicgames_S35_RankedCupBSGSolo_ASIA:S35_RankedCupBSGSolo_Event1_ASIA": "S35_PayoutTableRankedCup",
     "Fortnite:epicgames_S35_RankedCupBSGSolo_ASIA:S35_RankedCupBSGSolo_Event2_ASIA": "S35_PayoutTableRankedCup",
     "Fortnite:epicgames_S35_RankedCupBSGSolo_ASIA:S35_RankedCupBSGSolo_Event3_ASIA": "S35_PayoutTableRankedCup",
+    "Fortnite:epicgames_S35_RankedCupBSGTrios_ASIA:S35_RankedCupBSGTrios_Event1_ASIA": "S35_PayoutTableRankedCup",
+    "Fortnite:epicgames_S35_RankedCupBSGTrios_ASIA:S35_RankedCupBSGTrios_Event2_ASIA": "S35_PayoutTableRankedCup",
+    "Fortnite:epicgames_S35_RankedCupBSGTrios_ASIA:S35_RankedCupBSGTrios_Event3_ASIA": "S35_PayoutTableRankedCup",
+    "Fortnite:epicgames_S35_RankedCupEliteDuos_ASIA:S35_RankedCupEliteDuos_Event1_ASIA": "epicgames_S35_RankedCupEliteDuos_ASIA",
+    "Fortnite:epicgames_S35_RankedCupEliteDuos_ASIA:S35_RankedCupEliteDuos_Event2_ASIA": "epicgames_S35_RankedCupEliteDuos_ASIA",
+    "Fortnite:epicgames_S35_RankedCupEliteDuos_ASIA:S35_RankedCupEliteDuos_Event3_ASIA": "epicgames_S35_RankedCupEliteDuos_ASIA",
     "Fortnite:epicgames_S35_RankedCupEliteSolo_ASIA:S35_RankedCupEliteSolo_Event1_ASIA": "epicgames_S35_RankedCupEliteSolo_ASIA",
     "Fortnite:epicgames_S35_RankedCupEliteSolo_ASIA:S35_RankedCupEliteSolo_Event2_ASIA": "epicgames_S35_RankedCupEliteSolo_ASIA",
     "Fortnite:epicgames_S35_RankedCupEliteSolo_ASIA:S35_RankedCupEliteSolo_Event3_ASIA": "epicgames_S35_RankedCupEliteSolo_ASIA",
+    "Fortnite:epicgames_S35_RankedCupEliteTrios_ASIA:S35_RankedCupEliteTrios_Event1_ASIA": "epicgames_S35_RankedCupEliteTrios_ASIA",
+    "Fortnite:epicgames_S35_RankedCupEliteTrios_ASIA:S35_RankedCupEliteTrios_Event2_ASIA": "epicgames_S35_RankedCupEliteTrios_ASIA",
+    "Fortnite:epicgames_S35_RankedCupEliteTrios_ASIA:S35_RankedCupEliteTrios_Event3_ASIA": "epicgames_S35_RankedCupEliteTrios_ASIA",
     "Fortnite:epicgames_S35_RankedCupPDDuos_ASIA:S35_RankedCupPDDuos_Event1_ASIA": "S35_PayoutTableRankedCup",
     "Fortnite:epicgames_S35_RankedCupPDDuos_ASIA:S35_RankedCupPDDuos_Event2_ASIA": "S35_PayoutTableRankedCup",
     "Fortnite:epicgames_S35_RankedCupPDDuos_ASIA:S35_RankedCupPDDuos_Event3_ASIA": "S35_PayoutTableRankedCup",
     "Fortnite:epicgames_S35_RankedCupPDSolo_ASIA:S35_RankedCupPDSolo_Event1_ASIA": "S35_PayoutTableRankedCup",
     "Fortnite:epicgames_S35_RankedCupPDSolo_ASIA:S35_RankedCupPDSolo_Event2_ASIA": "S35_PayoutTableRankedCup",
-    "Fortnite:epicgames_S35_RankedCupPDSolo_ASIA:S35_RankedCupPDSolo_Event3_ASIA": "S35_PayoutTableRankedCup"
+    "Fortnite:epicgames_S35_RankedCupPDSolo_ASIA:S35_RankedCupPDSolo_Event3_ASIA": "S35_PayoutTableRankedCup",
+    "Fortnite:epicgames_S35_RankedCupPDTrios_ASIA:S35_RankedCupPDTrios_Event1_ASIA": "S35_PayoutTableRankedCup",
+    "Fortnite:epicgames_S35_RankedCupPDTrios_ASIA:S35_RankedCupPDTrios_Event2_ASIA": "S35_PayoutTableRankedCup",
+    "Fortnite:epicgames_S35_RankedCupPDTrios_ASIA:S35_RankedCupPDTrios_Event3_ASIA": "S35_PayoutTableRankedCup",
+    "Fortnite:epicgames_S35_ReloadRankedCup_BSG_Duos_ASIA:S35_ReloadRankedCup_BSG_Duos_Event1_ASIA": "S35_PayoutTableRankedCup",
+    "Fortnite:epicgames_S35_ReloadRankedCup_BSG_Duos_ASIA:S35_ReloadRankedCup_BSG_Duos_Event2_ASIA": "S35_PayoutTableRankedCup",
+    "Fortnite:epicgames_S35_ReloadRankedCup_BSG_Duos_ASIA:S35_ReloadRankedCup_BSG_Duos_Event3_ASIA": "S35_PayoutTableRankedCup",
+    "Fortnite:epicgames_S35_ReloadRankedCup_Elite_Duos_ASIA:S35_ReloadRankedCup_Elite_Duos_Event1_ASIA": "epicgames_S35_ReloadRankedCup_Elite_Duos_ASIA",
+    "Fortnite:epicgames_S35_ReloadRankedCup_Elite_Duos_ASIA:S35_ReloadRankedCup_Elite_Duos_Event2_ASIA": "epicgames_S35_ReloadRankedCup_Elite_Duos_ASIA",
+    "Fortnite:epicgames_S35_ReloadRankedCup_Elite_Duos_ASIA:S35_ReloadRankedCup_Elite_Duos_Event3_ASIA": "epicgames_S35_ReloadRankedCup_Elite_Duos_ASIA",
+    "Fortnite:epicgames_S35_ReloadRankedCup_PD_Duos_ASIA:S35_ReloadRankedCup_PD_Duos_Event1_ASIA": "S35_PayoutTableRankedCup",
+    "Fortnite:epicgames_S35_ReloadRankedCup_PD_Duos_ASIA:S35_ReloadRankedCup_PD_Duos_Event2_ASIA": "S35_PayoutTableRankedCup",
+    "Fortnite:epicgames_S35_ReloadRankedCup_PD_Duos_ASIA:S35_ReloadRankedCup_PD_Duos_Event3_ASIA": "S35_PayoutTableRankedCup"
   },
   "scoringRuleSets": {
     "S33_ScoringRules_FNCSDivisionCup_Div1_Final": [
@@ -6407,6 +8217,254 @@
         "trackedStat": "TEAM_ELIMS_STAT_INDEX"
       }
     ],
+    "S35_ScoringRulesBSG_RankedCupTrios": [
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 11
+          },
+          {
+            "keyValue": 2,
+            "multiplicative": false,
+            "pointsEarned": 6
+          },
+          {
+            "keyValue": 3,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 4,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 5,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 6,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 7,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 8,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 9,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 10,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 11,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 12,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 13,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 14,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 15,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 16,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 17,
+            "multiplicative": false,
+            "pointsEarned": 3
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 1
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ],
+    "S35_ScoringRulesE_RankedCupDuos": [
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 9
+          },
+          {
+            "keyValue": 2,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 3,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 4,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 5,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 6,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 7,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 8,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 9,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 10,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 11,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 12,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 13,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 14,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 15,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 16,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 17,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 18,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 19,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 20,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 21,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 22,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 23,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 24,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 25,
+            "multiplicative": false,
+            "pointsEarned": 2
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 4
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ],
     "S35_ScoringRulesE_RankedCupSolo": [
       {
         "matchRule": "lte",
@@ -6498,6 +8556,110 @@
           },
           {
             "keyValue": 75,
+            "multiplicative": false,
+            "pointsEarned": 3
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 4
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ],
+    "S35_ScoringRulesE_RankedCupTrios": [
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 11
+          },
+          {
+            "keyValue": 2,
+            "multiplicative": false,
+            "pointsEarned": 6
+          },
+          {
+            "keyValue": 3,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 4,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 5,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 6,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 7,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 8,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 9,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 10,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 11,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 12,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 13,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 14,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 15,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 16,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 17,
             "multiplicative": false,
             "pointsEarned": 3
           }
@@ -6764,6 +8926,179 @@
             "keyValue": 1,
             "multiplicative": true,
             "pointsEarned": 2
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ],
+    "S35_ScoringRulesPD_RankedCupTrios": [
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 11
+          },
+          {
+            "keyValue": 2,
+            "multiplicative": false,
+            "pointsEarned": 6
+          },
+          {
+            "keyValue": 3,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 4,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 5,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 6,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 7,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 8,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 9,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 10,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 11,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 12,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 13,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 14,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 15,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 16,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 17,
+            "multiplicative": false,
+            "pointsEarned": 3
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 2
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ],
+    "S35_ScoringRules_RankedCupReloadDuos": [
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 2,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 3,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 4,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 5,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 6,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 7,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 8,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 9,
+            "multiplicative": false,
+            "pointsEarned": 1
+          },
+          {
+            "keyValue": 10,
+            "multiplicative": false,
+            "pointsEarned": 1
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 1
           }
         ],
         "trackedStat": "TEAM_ELIMS_STAT_INDEX"
@@ -7406,6 +9741,80 @@
       "matchCap": 10,
       "payoutTable": [],
       "playlistId": "Playlist_ShowdownTournament_FigmentNoBuildSquad",
+      "scoringRules": [],
+      "tiebreakerFormula": {
+        "basePointsBits": 11,
+        "components": [
+          {
+            "aggregation": "sum",
+            "bits": 4,
+            "trackedStat": "VICTORY_ROYALE_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 13,
+            "multiplier": 100,
+            "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 14,
+            "multiplier": 100,
+            "trackedStat": "PLACEMENT_TIEBREAKER_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 11,
+            "trackedStat": "TIME_ALIVE_STAT"
+          }
+        ]
+      }
+    },
+    {
+      "clampsToZero": false,
+      "eventTemplateId": "EventTemplate_S35_RankedCupTrios",
+      "gameId": "Fortnite",
+      "liveSessionAttributes": [],
+      "matchCap": 0,
+      "payoutTable": [],
+      "playlistId": "Playlist_ShowdownTournament_RC_Trios",
+      "scoringRules": [],
+      "tiebreakerFormula": {
+        "basePointsBits": 11,
+        "components": [
+          {
+            "aggregation": "sum",
+            "bits": 4,
+            "trackedStat": "VICTORY_ROYALE_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 13,
+            "multiplier": 100,
+            "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 14,
+            "multiplier": 100,
+            "trackedStat": "PLACEMENT_TIEBREAKER_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 11,
+            "trackedStat": "TIME_ALIVE_STAT"
+          }
+        ]
+      }
+    },
+    {
+      "clampsToZero": false,
+      "eventTemplateId": "EventTemplate_S35ReloadRankedCupDuos",
+      "gameId": "Fortnite",
+      "liveSessionAttributes": [],
+      "matchCap": 0,
+      "payoutTable": [],
+      "playlistId": "Playlist_ShowdownTournament_RC_DashBerryDuo_NoFill",
       "scoringRules": [],
       "tiebreakerFormula": {
         "basePointsBits": 11,
