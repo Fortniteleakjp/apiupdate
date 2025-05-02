@@ -5169,6 +5169,475 @@
         "NAC",
         "NAE"
       ]
+    },
+    {
+      "announcementTime": "2025-05-02T13:00:00Z",
+      "announcementTime_jst": "2025年05月02日22時00分00秒",
+      "announcementTime_unix": 1746190800,
+      "beginTime": "2025-05-09T23:00:00Z",
+      "beginTime_jst": "2025年05月10日08時00分00秒",
+      "beginTime_unix": 1746831600,
+      "displayData": {
+        "details_description": "このイベントに参加するには、FNCS ディビジョン1に所属している必要があります。このイベントでは、最新のアップデートにおける、トーナメントのシステムとゲームのパフォーマンスを最高レベルの試合でテストします。このイベントではパフォーマンスのデータを積極的に収集しているため、パフォーマンスが低下する場合があります。このイベントは2ラウンドにわたって開催され、上位33チームがラウンド2に進出します。ラウンド2のテストイベント終了時の上位のプレイヤーにはキャッシュの賞金が贈呈されます。参加するには13歳以上(お住まいの国/地域で定められている場合はそれよりも上の年齢)で、多段階認証が有効であり、過去180日の間に14種類以上のトーナメントに参加しており、かつアカウントレベルが350以上でなければなりません。詳細はこちら: www.epicgames.com/fortnite/competitive/news",
+        "flavor_description": "Epicの、最新アップデートにおける高レベルでの試合のパフォーマンス検証にご協力ください！",
+        "loading_screen_image": "https://cdn2.unrealengine.com/en-fneco-33-00-competitive-discoverytile-performanceevaluation-1080x1920-1920x1080-0d97208eb6f0.jpg",
+        "long_format_title": "フォートナイト パフォーマンス検証",
+        "poster_back_image": "https://cdn2.unrealengine.com/23comp-evergreens-ingame-black-poster-back-750x1080-462184e04b30.jpg",
+        "poster_front_image": "https://cdn2.unrealengine.com/23comp-evergreens-ingame-black-poster-front-750x1080-14c7fa95090e.jpg",
+        "round_names": null,
+        "short_format_title": "トリオ テストトーナメント",
+        "square_poster_image": "https://cdn2.unrealengine.com/en-fneco-33-00-competitive-discoverytile-performanceevaluation-1080x1920-1920x1080-0d97208eb6f0.jpg"
+      },
+      "displayDataId": "s34_perfeval",
+      "endTime": "2025-05-30T04:00:00Z",
+      "endTime_jst": "2025年05月30日13時00分00秒",
+      "endTime_unix": 1748577600,
+      "eventGroup": "Season35_PerformanceEvaluation",
+      "eventId": "epicgames_S35_PerformanceEvaluation_NAC",
+      "eventWindows": [
+        {
+          "additionalRequirements": [
+            "eula:s33_perfeval",
+            "mfa"
+          ],
+          "beginTime": "2025-05-09T23:00:00Z",
+          "beginTime_jst": "2025年05月10日08時00分00秒",
+          "beginTime_unix": 1746831600,
+          "blackoutPeriods": [],
+          "canLiveSpectate": false,
+          "countdownBeginTime": "2025-05-09T21:00:00Z",
+          "countdownBeginTime_jst": "2025年05月10日06時00分00秒",
+          "countdownBeginTime_unix": 1746824400,
+          "endTime": "2025-05-10T01:00:00Z",
+          "endTime_jst": "2025年05月10日10時00分00秒",
+          "endTime_unix": 1746838800,
+          "eventTemplateId": "EventTemplate_S35_PerformanceEvaluation_Round1",
+          "eventWindowId": "S35_PerformanceEvaluation_Event1Round1_NAC",
+          "isTBD": false,
+          "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+          },
+          "payoutDelay": 32,
+          "regionMappings": {},
+          "requireAllTokens": [],
+          "requireAllTokensCaller": [],
+          "requireAnyTokens": [
+            "S34_FNCS_Division1_BR",
+            "S34_FNCS_Division1_EU",
+            "S34_FNCS_Division1_OCE",
+            "S34_FNCS_Division1_NAW",
+            "S34_FNCS_Division1_NAC",
+            "S34_FNCS_Division1_ME",
+            "S34_FNCS_Division1_ASIA"
+          ],
+          "requireAnyTokensCaller": [],
+          "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+          ],
+          "round": 1,
+          "scoreLocations": [
+            {
+              "isMainWindowLeaderboard": true,
+              "leaderboardDefId": "S35_PerformanceEvaluation_Round1_DefaultLeaderboardDef"
+            }
+          ],
+          "teammateEligibility": "all",
+          "visibility": "locked"
+        },
+        {
+          "additionalRequirements": [
+            "eula:s33_perfeval",
+            "mfa"
+          ],
+          "beginTime": "2025-05-10T02:00:00Z",
+          "beginTime_jst": "2025年05月10日11時00分00秒",
+          "beginTime_unix": 1746842400,
+          "blackoutPeriods": [],
+          "canLiveSpectate": false,
+          "countdownBeginTime": "2025-05-10T00:00:00Z",
+          "countdownBeginTime_jst": "2025年05月10日09時00分00秒",
+          "countdownBeginTime_unix": 1746835200,
+          "endTime": "2025-05-10T04:00:00Z",
+          "endTime_jst": "2025年05月10日13時00分00秒",
+          "endTime_unix": 1746849600,
+          "eventTemplateId": "EventTemplate_S35_PerformanceEvaluation_Round2",
+          "eventWindowId": "S35_PerformanceEvaluation_Event1Round2_NAC",
+          "isTBD": false,
+          "metadata": {
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator"
+          },
+          "payoutDelay": 32,
+          "regionMappings": {
+            "NAC": "NACCOMPTEST",
+            "NAE": "NACCOMPTEST"
+          },
+          "requireAllTokens": [
+            "S35_PerformanceEvaluation_Event1Round2_NAC"
+          ],
+          "requireAllTokensCaller": [],
+          "requireAnyTokens": [],
+          "requireAnyTokensCaller": [],
+          "requireNoneTokensCaller": [],
+          "round": 1,
+          "scoreLocations": [
+            {
+              "isMainWindowLeaderboard": true,
+              "leaderboardDefId": "S35_PerformanceEvaluation_Round2_DefaultLeaderboardDef"
+            }
+          ],
+          "teammateEligibility": "all",
+          "visibility": "locked"
+        },
+        {
+          "additionalRequirements": [
+            "eula:s33_perfeval",
+            "mfa"
+          ],
+          "beginTime": "2025-05-15T23:00:00Z",
+          "beginTime_jst": "2025年05月16日08時00分00秒",
+          "beginTime_unix": 1747350000,
+          "blackoutPeriods": [],
+          "canLiveSpectate": false,
+          "countdownBeginTime": "2025-05-15T21:00:00Z",
+          "countdownBeginTime_jst": "2025年05月16日06時00分00秒",
+          "countdownBeginTime_unix": 1747342800,
+          "endTime": "2025-05-16T01:00:00Z",
+          "endTime_jst": "2025年05月16日10時00分00秒",
+          "endTime_unix": 1747357200,
+          "eventTemplateId": "EventTemplate_S35_PerformanceEvaluation_Round1",
+          "eventWindowId": "S35_PerformanceEvaluation_Event2Round1_NAC",
+          "isTBD": false,
+          "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+          },
+          "payoutDelay": 32,
+          "regionMappings": {},
+          "requireAllTokens": [],
+          "requireAllTokensCaller": [],
+          "requireAnyTokens": [
+            "S34_FNCS_Division1_BR",
+            "S34_FNCS_Division1_EU",
+            "S34_FNCS_Division1_OCE",
+            "S34_FNCS_Division1_NAW",
+            "S34_FNCS_Division1_NAC",
+            "S34_FNCS_Division1_ME",
+            "S34_FNCS_Division1_ASIA"
+          ],
+          "requireAnyTokensCaller": [],
+          "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+          ],
+          "round": 2,
+          "scoreLocations": [
+            {
+              "isMainWindowLeaderboard": true,
+              "leaderboardDefId": "S35_PerformanceEvaluation_Round1_DefaultLeaderboardDef"
+            }
+          ],
+          "teammateEligibility": "all",
+          "visibility": "locked"
+        },
+        {
+          "additionalRequirements": [
+            "eula:s33_perfeval",
+            "mfa"
+          ],
+          "beginTime": "2025-05-16T02:00:00Z",
+          "beginTime_jst": "2025年05月16日11時00分00秒",
+          "beginTime_unix": 1747360800,
+          "blackoutPeriods": [],
+          "canLiveSpectate": false,
+          "countdownBeginTime": "2025-05-16T00:00:00Z",
+          "countdownBeginTime_jst": "2025年05月16日09時00分00秒",
+          "countdownBeginTime_unix": 1747353600,
+          "endTime": "2025-05-16T04:00:00Z",
+          "endTime_jst": "2025年05月16日13時00分00秒",
+          "endTime_unix": 1747368000,
+          "eventTemplateId": "EventTemplate_S35_PerformanceEvaluation_Round2",
+          "eventWindowId": "S35_PerformanceEvaluation_Event2Round2_NAC",
+          "isTBD": false,
+          "metadata": {
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator"
+          },
+          "payoutDelay": 32,
+          "regionMappings": {
+            "NAC": "NACCOMPTEST",
+            "NAE": "NACCOMPTEST"
+          },
+          "requireAllTokens": [
+            "S35_PerformanceEvaluation_Event2Round2_NAC"
+          ],
+          "requireAllTokensCaller": [],
+          "requireAnyTokens": [],
+          "requireAnyTokensCaller": [],
+          "requireNoneTokensCaller": [],
+          "round": 2,
+          "scoreLocations": [
+            {
+              "isMainWindowLeaderboard": true,
+              "leaderboardDefId": "S35_PerformanceEvaluation_Round2_DefaultLeaderboardDef"
+            }
+          ],
+          "teammateEligibility": "all",
+          "visibility": "locked"
+        },
+        {
+          "additionalRequirements": [
+            "eula:s33_perfeval",
+            "mfa"
+          ],
+          "beginTime": "2025-05-22T23:00:00Z",
+          "beginTime_jst": "2025年05月23日08時00分00秒",
+          "beginTime_unix": 1747954800,
+          "blackoutPeriods": [],
+          "canLiveSpectate": false,
+          "countdownBeginTime": "2025-05-22T21:00:00Z",
+          "countdownBeginTime_jst": "2025年05月23日06時00分00秒",
+          "countdownBeginTime_unix": 1747947600,
+          "endTime": "2025-05-23T01:00:00Z",
+          "endTime_jst": "2025年05月23日10時00分00秒",
+          "endTime_unix": 1747962000,
+          "eventTemplateId": "EventTemplate_S35_PerformanceEvaluation_Round1",
+          "eventWindowId": "S35_PerformanceEvaluation_Event3Round1_NAC",
+          "isTBD": false,
+          "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+          },
+          "payoutDelay": 32,
+          "regionMappings": {},
+          "requireAllTokens": [],
+          "requireAllTokensCaller": [],
+          "requireAnyTokens": [
+            "S34_FNCS_Division1_BR",
+            "S34_FNCS_Division1_EU",
+            "S34_FNCS_Division1_OCE",
+            "S34_FNCS_Division1_NAW",
+            "S34_FNCS_Division1_NAC",
+            "S34_FNCS_Division1_ME",
+            "S34_FNCS_Division1_ASIA"
+          ],
+          "requireAnyTokensCaller": [],
+          "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+          ],
+          "round": 3,
+          "scoreLocations": [
+            {
+              "isMainWindowLeaderboard": true,
+              "leaderboardDefId": "S35_PerformanceEvaluation_Round1_DefaultLeaderboardDef"
+            }
+          ],
+          "teammateEligibility": "all",
+          "visibility": "locked"
+        },
+        {
+          "additionalRequirements": [
+            "eula:s33_perfeval",
+            "mfa"
+          ],
+          "beginTime": "2025-05-23T02:00:00Z",
+          "beginTime_jst": "2025年05月23日11時00分00秒",
+          "beginTime_unix": 1747965600,
+          "blackoutPeriods": [],
+          "canLiveSpectate": false,
+          "countdownBeginTime": "2025-05-23T00:00:00Z",
+          "countdownBeginTime_jst": "2025年05月23日09時00分00秒",
+          "countdownBeginTime_unix": 1747958400,
+          "endTime": "2025-05-23T04:00:00Z",
+          "endTime_jst": "2025年05月23日13時00分00秒",
+          "endTime_unix": 1747972800,
+          "eventTemplateId": "EventTemplate_S35_PerformanceEvaluation_Round2",
+          "eventWindowId": "S35_PerformanceEvaluation_Event3Round2_NAC",
+          "isTBD": false,
+          "metadata": {
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator"
+          },
+          "payoutDelay": 32,
+          "regionMappings": {
+            "NAC": "NACCOMPTEST",
+            "NAE": "NACCOMPTEST"
+          },
+          "requireAllTokens": [
+            "S35_PerformanceEvaluation_Event3Round2_NAC"
+          ],
+          "requireAllTokensCaller": [],
+          "requireAnyTokens": [],
+          "requireAnyTokensCaller": [],
+          "requireNoneTokensCaller": [],
+          "round": 3,
+          "scoreLocations": [
+            {
+              "isMainWindowLeaderboard": true,
+              "leaderboardDefId": "S35_PerformanceEvaluation_Round2_DefaultLeaderboardDef"
+            }
+          ],
+          "teammateEligibility": "all",
+          "visibility": "locked"
+        },
+        {
+          "additionalRequirements": [
+            "eula:s33_perfeval",
+            "mfa"
+          ],
+          "beginTime": "2025-05-29T23:00:00Z",
+          "beginTime_jst": "2025年05月30日08時00分00秒",
+          "beginTime_unix": 1748559600,
+          "blackoutPeriods": [],
+          "canLiveSpectate": false,
+          "countdownBeginTime": "2025-05-29T21:00:00Z",
+          "countdownBeginTime_jst": "2025年05月30日06時00分00秒",
+          "countdownBeginTime_unix": 1748552400,
+          "endTime": "2025-05-30T01:00:00Z",
+          "endTime_jst": "2025年05月30日10時00分00秒",
+          "endTime_unix": 1748566800,
+          "eventTemplateId": "EventTemplate_S35_PerformanceEvaluation_Round1",
+          "eventWindowId": "S35_PerformanceEvaluation_Event4Round1_NAC",
+          "isTBD": false,
+          "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+          },
+          "payoutDelay": 32,
+          "regionMappings": {},
+          "requireAllTokens": [],
+          "requireAllTokensCaller": [],
+          "requireAnyTokens": [
+            "S34_FNCS_Division1_BR",
+            "S34_FNCS_Division1_EU",
+            "S34_FNCS_Division1_OCE",
+            "S34_FNCS_Division1_NAW",
+            "S34_FNCS_Division1_NAC",
+            "S34_FNCS_Division1_ME",
+            "S34_FNCS_Division1_ASIA"
+          ],
+          "requireAnyTokensCaller": [],
+          "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+          ],
+          "round": 4,
+          "scoreLocations": [
+            {
+              "isMainWindowLeaderboard": true,
+              "leaderboardDefId": "S35_PerformanceEvaluation_Round1_DefaultLeaderboardDef"
+            }
+          ],
+          "teammateEligibility": "all",
+          "visibility": "locked"
+        },
+        {
+          "additionalRequirements": [
+            "eula:s33_perfeval",
+            "mfa"
+          ],
+          "beginTime": "2025-05-30T02:00:00Z",
+          "beginTime_jst": "2025年05月30日11時00分00秒",
+          "beginTime_unix": 1748570400,
+          "blackoutPeriods": [],
+          "canLiveSpectate": false,
+          "countdownBeginTime": "2025-05-30T00:00:00Z",
+          "countdownBeginTime_jst": "2025年05月30日09時00分00秒",
+          "countdownBeginTime_unix": 1748563200,
+          "endTime": "2025-05-30T04:00:00Z",
+          "endTime_jst": "2025年05月30日13時00分00秒",
+          "endTime_unix": 1748577600,
+          "eventTemplateId": "EventTemplate_S35_PerformanceEvaluation_Round2",
+          "eventWindowId": "S35_PerformanceEvaluation_Event4Round2_NAC",
+          "isTBD": false,
+          "metadata": {
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator"
+          },
+          "payoutDelay": 32,
+          "regionMappings": {
+            "NAC": "NACCOMPTEST",
+            "NAE": "NACCOMPTEST"
+          },
+          "requireAllTokens": [
+            "S35_PerformanceEvaluation_Event4Round2_NAC"
+          ],
+          "requireAllTokensCaller": [],
+          "requireAnyTokens": [],
+          "requireAnyTokensCaller": [],
+          "requireNoneTokensCaller": [],
+          "round": 4,
+          "scoreLocations": [
+            {
+              "isMainWindowLeaderboard": true,
+              "leaderboardDefId": "S35_PerformanceEvaluation_Round2_DefaultLeaderboardDef"
+            }
+          ],
+          "teammateEligibility": "all",
+          "visibility": "locked"
+        }
+      ],
+      "gameId": "Fortnite",
+      "link": {
+        "code": "tournament_epicgames_s35_performanceevaluation_nac",
+        "type": "br:tournament"
+      },
+      "metadata": {
+        "AccountLockType": "Window",
+        "DisqualifyType": "Window",
+        "TeamLockType": "Window",
+        "minimumAccountLevel": 350,
+        "requireSystemFeatures": [
+          "SecureBoot",
+          "CryptoProcessor"
+        ],
+        "tournamentType": "WorkshopCup",
+        "webId": "S35_PerformanceEvaluation"
+      },
+      "platformMappings": {},
+      "platforms": [
+        "XboxOneGDK",
+        "PS4",
+        "XCloud",
+        "Helios",
+        "Luna",
+        "IOS",
+        "XboxOne",
+        "XSX",
+        "Android",
+        "LunaMobile",
+        "PS5",
+        "XCloudMobile",
+        "Mac",
+        "HeliosMobile",
+        "GFN",
+        "Switch",
+        "GFNMobile",
+        "Windows"
+      ],
+      "regionMappings": {
+        "NAC": "NACCOMP",
+        "NAE": "NACCOMP"
+      },
+      "regions": [
+        "NAE",
+        "NAC"
+      ]
     }
   ],
   "leaderboardDefs": [
@@ -5398,6 +5867,51 @@
       "clampsToZero": true,
       "gameId": "Fortnite",
       "hidePlayerScores": false,
+      "leaderboardDefId": "S35_PerformanceEvaluation_Round2_DefaultLeaderboardDef",
+      "leaderboardInstanceGroupingKeyFormat": "${eventId}",
+      "leaderboardInstanceIdFormat": "${windowId}",
+      "leaderboardStorageId": "Fortnite_GLOBAL",
+      "maxSessionHistorySize": 10,
+      "payoutsConfig": {
+        "payoutDate": "windowEnd+PT32M",
+        "payoutTableIdFormat": "S35_PayoutTable_PerformanceEvaluation_Round2"
+      },
+      "percentileAccuracy": 1,
+      "requiredPlayerListings": [],
+      "scoringRuleSetId": "ScoringRules_PerformanceEvaluationRound2",
+      "tiebreakerFormula": {
+        "basePointsBits": 11,
+        "components": [
+          {
+            "aggregation": "sum",
+            "bits": 4,
+            "trackedStat": "VICTORY_ROYALE_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 13,
+            "multiplier": 100,
+            "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 14,
+            "multiplier": 100,
+            "trackedStat": "PLACEMENT_TIEBREAKER_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 11,
+            "trackedStat": "TIME_ALIVE_STAT"
+          }
+        ]
+      },
+      "useIndividualScores": false
+    },
+    {
+      "clampsToZero": true,
+      "gameId": "Fortnite",
+      "hidePlayerScores": false,
       "leaderboardDefId": "S35_RankedCupDuosE_DefaultLeaderboardDef",
       "leaderboardInstanceGroupingKeyFormat": "${eventId}",
       "leaderboardInstanceIdFormat": "${windowId}",
@@ -5457,52 +5971,6 @@
       "percentileAccuracy": 1,
       "requiredPlayerListings": [],
       "scoringRuleSetId": "S35_ScoringRulesPD_RankedCupDuos",
-      "tiebreakerFormula": {
-        "basePointsBits": 11,
-        "components": [
-          {
-            "aggregation": "sum",
-            "bits": 4,
-            "trackedStat": "VICTORY_ROYALE_STAT"
-          },
-          {
-            "aggregation": "avg",
-            "bits": 13,
-            "multiplier": 100,
-            "trackedStat": "TEAM_ELIMS_STAT_INDEX"
-          },
-          {
-            "aggregation": "avg",
-            "bits": 14,
-            "multiplier": 100,
-            "trackedStat": "PLACEMENT_TIEBREAKER_STAT"
-          },
-          {
-            "aggregation": "avg",
-            "bits": 11,
-            "trackedStat": "TIME_ALIVE_STAT"
-          }
-        ]
-      },
-      "useIndividualScores": true
-    },
-    {
-      "clampsToZero": true,
-      "gameId": "Fortnite",
-      "hidePlayerScores": false,
-      "leaderboardDefId": "S35_RankedCupSoloE_DefaultLeaderboardDef",
-      "leaderboardInstanceGroupingKeyFormat": "${eventId}",
-      "leaderboardInstanceIdFormat": "${windowId}",
-      "leaderboardStorageId": "Fortnite_GLOBAL",
-      "maxSessionHistorySize": 150,
-      "onlyScoreTopN": 4,
-      "payoutsConfig": {
-        "payoutDate": "windowEnd+PT32M",
-        "payoutTableIdFormat": "${eventId}"
-      },
-      "percentileAccuracy": 1,
-      "requiredPlayerListings": [],
-      "scoringRuleSetId": "S35_ScoringRulesE_RankedCupSolo",
       "tiebreakerFormula": {
         "basePointsBits": 11,
         "components": [
@@ -6247,6 +6715,97 @@
         ]
       },
       "useIndividualScores": false
+    },
+    {
+      "clampsToZero": true,
+      "gameId": "Fortnite",
+      "hidePlayerScores": false,
+      "leaderboardDefId": "S35_PerformanceEvaluation_Round1_DefaultLeaderboardDef",
+      "leaderboardInstanceGroupingKeyFormat": "${eventId}",
+      "leaderboardInstanceIdFormat": "${windowId}",
+      "leaderboardStorageId": "Fortnite_GLOBAL",
+      "maxSessionHistorySize": 10,
+      "payoutsConfig": {
+        "payoutDate": "windowEnd+PT32M",
+        "payoutTableIdFormat": "${windowId}"
+      },
+      "percentileAccuracy": 1,
+      "requiredPlayerListings": [],
+      "scoringRuleSetId": "ScoringRules_PerformanceEvaluationRound1_Trios",
+      "tiebreakerFormula": {
+        "basePointsBits": 11,
+        "components": [
+          {
+            "aggregation": "sum",
+            "bits": 4,
+            "trackedStat": "VICTORY_ROYALE_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 13,
+            "multiplier": 100,
+            "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 14,
+            "multiplier": 100,
+            "trackedStat": "PLACEMENT_TIEBREAKER_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 11,
+            "trackedStat": "TIME_ALIVE_STAT"
+          }
+        ]
+      },
+      "useIndividualScores": false
+    },
+    {
+      "clampsToZero": true,
+      "gameId": "Fortnite",
+      "hidePlayerScores": false,
+      "leaderboardDefId": "S35_RankedCupSoloE_DefaultLeaderboardDef",
+      "leaderboardInstanceGroupingKeyFormat": "${eventId}",
+      "leaderboardInstanceIdFormat": "${windowId}",
+      "leaderboardStorageId": "Fortnite_GLOBAL",
+      "maxSessionHistorySize": 150,
+      "onlyScoreTopN": 4,
+      "payoutsConfig": {
+        "payoutDate": "windowEnd+PT32M",
+        "payoutTableIdFormat": "${eventId}"
+      },
+      "percentileAccuracy": 1,
+      "requiredPlayerListings": [],
+      "scoringRuleSetId": "S35_ScoringRulesE_RankedCupSolo",
+      "tiebreakerFormula": {
+        "basePointsBits": 11,
+        "components": [
+          {
+            "aggregation": "sum",
+            "bits": 4,
+            "trackedStat": "VICTORY_ROYALE_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 13,
+            "multiplier": 100,
+            "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 14,
+            "multiplier": 100,
+            "trackedStat": "PLACEMENT_TIEBREAKER_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 11,
+            "trackedStat": "TIME_ALIVE_STAT"
+          }
+        ]
+      },
+      "useIndividualScores": true
     },
     {
       "clampsToZero": true,
@@ -7183,6 +7742,137 @@
         "scoringType": "value"
       }
     ],
+    "S35_PayoutTable_PerformanceEvaluation_Round2": [
+      {
+        "ranks": [
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 400,
+                "rewardMode": "standard",
+                "rewardType": "ecomm",
+                "value": "USD"
+              }
+            ],
+            "threshold": 100
+          },
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 800,
+                "rewardMode": "standard",
+                "rewardType": "ecomm",
+                "value": "USD"
+              }
+            ],
+            "threshold": 200
+          },
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 1200,
+                "rewardMode": "standard",
+                "rewardType": "ecomm",
+                "value": "USD"
+              }
+            ],
+            "threshold": 300
+          },
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 1600,
+                "rewardMode": "standard",
+                "rewardType": "ecomm",
+                "value": "USD"
+              }
+            ],
+            "threshold": 400
+          }
+        ],
+        "scoringType": "value"
+      }
+    ],
+    "S35_PerformanceEvaluation_Event1Round1_NAC": [
+      {
+        "ranks": [
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 1,
+                "rewardMode": "standard",
+                "rewardType": "token",
+                "value": "S35_PerformanceEvaluation_Event1Round2_NAC"
+              }
+            ],
+            "threshold": 33
+          }
+        ],
+        "scoringType": "rank"
+      }
+    ],
+    "S35_PerformanceEvaluation_Event2Round1_NAC": [
+      {
+        "ranks": [
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 1,
+                "rewardMode": "standard",
+                "rewardType": "token",
+                "value": "S35_PerformanceEvaluation_Event2Round2_NAC"
+              }
+            ],
+            "threshold": 33
+          }
+        ],
+        "scoringType": "rank"
+      }
+    ],
+    "S35_PerformanceEvaluation_Event3Round1_NAC": [
+      {
+        "ranks": [
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 1,
+                "rewardMode": "standard",
+                "rewardType": "token",
+                "value": "S35_PerformanceEvaluation_Event3Round2_NAC"
+              }
+            ],
+            "threshold": 33
+          }
+        ],
+        "scoringType": "rank"
+      }
+    ],
+    "S35_PerformanceEvaluation_Event4Round1_NAC": [
+      {
+        "ranks": [
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 1,
+                "rewardMode": "standard",
+                "rewardType": "token",
+                "value": "S35_PerformanceEvaluation_Event4Round2_NAC"
+              }
+            ],
+            "threshold": 33
+          }
+        ],
+        "scoringType": "rank"
+      }
+    ],
     "epicgames_S33_FNCSMajor1_GroupStage_NAC": [
       {
         "ranks": [
@@ -7524,6 +8214,14 @@
     "Fortnite:epicgames_S35_FNSCShowdown_NAC:S35_FNSCShowdown_Event2Round2_NAC": "epicgames_S35_FNSCShowdown_NAC",
     "Fortnite:epicgames_S35_FNSCShowdown_NAC:S35_FNSCShowdown_Event3Round1_NAC": "S35_FNSCShowdown_Event3Round1_NAC",
     "Fortnite:epicgames_S35_FNSCShowdown_NAC:S35_FNSCShowdown_Event3Round2_NAC": "epicgames_S35_FNSCShowdown_NAC",
+    "Fortnite:epicgames_S35_PerformanceEvaluation_NAC:S35_PerformanceEvaluation_Event1Round1_NAC": "S35_PerformanceEvaluation_Event1Round1_NAC",
+    "Fortnite:epicgames_S35_PerformanceEvaluation_NAC:S35_PerformanceEvaluation_Event1Round2_NAC": "S35_PayoutTable_PerformanceEvaluation_Round2",
+    "Fortnite:epicgames_S35_PerformanceEvaluation_NAC:S35_PerformanceEvaluation_Event2Round1_NAC": "S35_PerformanceEvaluation_Event2Round1_NAC",
+    "Fortnite:epicgames_S35_PerformanceEvaluation_NAC:S35_PerformanceEvaluation_Event2Round2_NAC": "S35_PayoutTable_PerformanceEvaluation_Round2",
+    "Fortnite:epicgames_S35_PerformanceEvaluation_NAC:S35_PerformanceEvaluation_Event3Round1_NAC": "S35_PerformanceEvaluation_Event3Round1_NAC",
+    "Fortnite:epicgames_S35_PerformanceEvaluation_NAC:S35_PerformanceEvaluation_Event3Round2_NAC": "S35_PayoutTable_PerformanceEvaluation_Round2",
+    "Fortnite:epicgames_S35_PerformanceEvaluation_NAC:S35_PerformanceEvaluation_Event4Round1_NAC": "S35_PerformanceEvaluation_Event4Round1_NAC",
+    "Fortnite:epicgames_S35_PerformanceEvaluation_NAC:S35_PerformanceEvaluation_Event4Round2_NAC": "S35_PayoutTable_PerformanceEvaluation_Round2",
     "Fortnite:epicgames_S35_RankedCupBSGDuos_NAC:S35_RankedCupBSGDuos_Event1_NAC": "S35_PayoutTableRankedCup",
     "Fortnite:epicgames_S35_RankedCupBSGDuos_NAC:S35_RankedCupBSGDuos_Event2_NAC": "S35_PayoutTableRankedCup",
     "Fortnite:epicgames_S35_RankedCupBSGDuos_NAC:S35_RankedCupBSGDuos_Event3_NAC": "S35_PayoutTableRankedCup",
@@ -9419,6 +10117,134 @@
         "trackedStat": "TEAM_ELIMS_STAT_INDEX"
       }
     ],
+    "ScoringRules_PerformanceEvaluationRound1_Trios": [
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 11
+          },
+          {
+            "keyValue": 2,
+            "multiplicative": false,
+            "pointsEarned": 6
+          },
+          {
+            "keyValue": 3,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 4,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 5,
+            "multiplicative": false,
+            "pointsEarned": 4
+          },
+          {
+            "keyValue": 6,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 7,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 8,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 9,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 10,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 11,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 12,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 13,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 14,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 15,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 16,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 17,
+            "multiplicative": false,
+            "pointsEarned": 3
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 1
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ],
+    "ScoringRules_PerformanceEvaluationRound2": [
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 100
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 0
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ],
     "Scoringrules_S35_FNCS_Community_Cups": [
       {
         "matchRule": "lte",
@@ -9609,6 +10435,43 @@
     ]
   },
   "templates": [
+    {
+      "clampsToZero": false,
+      "eventTemplateId": "EventTemplate_S35_PerformanceEvaluation_Round2",
+      "gameId": "Fortnite",
+      "liveSessionAttributes": [],
+      "matchCap": 4,
+      "payoutTable": [],
+      "playlistId": "Playlist_ShowdownTournament_Trios",
+      "scoringRules": [],
+      "tiebreakerFormula": {
+        "basePointsBits": 11,
+        "components": [
+          {
+            "aggregation": "sum",
+            "bits": 4,
+            "trackedStat": "VICTORY_ROYALE_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 13,
+            "multiplier": 100,
+            "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 14,
+            "multiplier": 100,
+            "trackedStat": "PLACEMENT_TIEBREAKER_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 11,
+            "trackedStat": "TIME_ALIVE_STAT"
+          }
+        ]
+      }
+    },
     {
       "clampsToZero": false,
       "eventTemplateId": "EventTemplate_S35_OGCup",
@@ -9981,43 +10844,6 @@
     },
     {
       "clampsToZero": false,
-      "eventTemplateId": "EventTemplate_S35_OGCupZB",
-      "gameId": "Fortnite",
-      "liveSessionAttributes": [],
-      "matchCap": 10,
-      "payoutTable": [],
-      "playlistId": "Playlist_ShowdownTournament_FigmentNoBuildSquad",
-      "scoringRules": [],
-      "tiebreakerFormula": {
-        "basePointsBits": 11,
-        "components": [
-          {
-            "aggregation": "sum",
-            "bits": 4,
-            "trackedStat": "VICTORY_ROYALE_STAT"
-          },
-          {
-            "aggregation": "avg",
-            "bits": 13,
-            "multiplier": 100,
-            "trackedStat": "TEAM_ELIMS_STAT_INDEX"
-          },
-          {
-            "aggregation": "avg",
-            "bits": 14,
-            "multiplier": 100,
-            "trackedStat": "PLACEMENT_TIEBREAKER_STAT"
-          },
-          {
-            "aggregation": "avg",
-            "bits": 11,
-            "trackedStat": "TIME_ALIVE_STAT"
-          }
-        ]
-      }
-    },
-    {
-      "clampsToZero": false,
       "eventTemplateId": "EventTemplate_S35_RankedCupTrios",
       "gameId": "Fortnite",
       "liveSessionAttributes": [],
@@ -10209,6 +11035,80 @@
       "matchCap": 10,
       "payoutTable": [],
       "playlistId": "Playlist_ShowdownTournament_Trios",
+      "scoringRules": [],
+      "tiebreakerFormula": {
+        "basePointsBits": 11,
+        "components": [
+          {
+            "aggregation": "sum",
+            "bits": 4,
+            "trackedStat": "VICTORY_ROYALE_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 13,
+            "multiplier": 100,
+            "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 14,
+            "multiplier": 100,
+            "trackedStat": "PLACEMENT_TIEBREAKER_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 11,
+            "trackedStat": "TIME_ALIVE_STAT"
+          }
+        ]
+      }
+    },
+    {
+      "clampsToZero": false,
+      "eventTemplateId": "EventTemplate_S35_OGCupZB",
+      "gameId": "Fortnite",
+      "liveSessionAttributes": [],
+      "matchCap": 10,
+      "payoutTable": [],
+      "playlistId": "Playlist_ShowdownTournament_FigmentNoBuildSquad",
+      "scoringRules": [],
+      "tiebreakerFormula": {
+        "basePointsBits": 11,
+        "components": [
+          {
+            "aggregation": "sum",
+            "bits": 4,
+            "trackedStat": "VICTORY_ROYALE_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 13,
+            "multiplier": 100,
+            "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 14,
+            "multiplier": 100,
+            "trackedStat": "PLACEMENT_TIEBREAKER_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 11,
+            "trackedStat": "TIME_ALIVE_STAT"
+          }
+        ]
+      }
+    },
+    {
+      "clampsToZero": false,
+      "eventTemplateId": "EventTemplate_S35_PerformanceEvaluation_Round1",
+      "gameId": "Fortnite",
+      "liveSessionAttributes": [],
+      "matchCap": 7,
+      "payoutTable": [],
+      "playlistId": "Playlist_ShowdownTournament_NPM_Trios",
       "scoringRules": [],
       "tiebreakerFormula": {
         "basePointsBits": 11,
