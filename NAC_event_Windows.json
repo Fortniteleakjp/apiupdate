@@ -1982,9 +1982,9 @@
       "eventWindows": [
         {
           "additionalRequirements": [
-            "eula:s35_fncs_showdown",
             "mfa",
-            "adps:g-a81a33a3b9a7"
+            "adps:g-a81a33a3b9a7",
+            "eula:s35_showdown_rules"
           ],
           "beginTime": "2025-05-13T23:00:00Z",
           "beginTime_jst": "2025年05月14日08時00分00秒",
@@ -2034,9 +2034,9 @@
         },
         {
           "additionalRequirements": [
-            "eula:s35_fncs_showdown",
             "mfa",
-            "adps:g-a81a33a3b9a7"
+            "adps:g-a81a33a3b9a7",
+            "eula:s35_showdown_rules"
           ],
           "beginTime": "2025-05-14T23:00:00Z",
           "beginTime_jst": "2025年05月15日08時00分00秒",
@@ -2085,9 +2085,9 @@
         },
         {
           "additionalRequirements": [
-            "eula:s35_fncs_showdown",
             "mfa",
-            "adps:g-a81a33a3b9a7"
+            "adps:g-a81a33a3b9a7",
+            "eula:s35_showdown_rules"
           ],
           "beginTime": "2025-05-20T23:00:00Z",
           "beginTime_jst": "2025年05月21日08時00分00秒",
@@ -2137,9 +2137,9 @@
         },
         {
           "additionalRequirements": [
-            "eula:s35_fncs_showdown",
             "mfa",
-            "adps:g-a81a33a3b9a7"
+            "adps:g-a81a33a3b9a7",
+            "eula:s35_showdown_rules"
           ],
           "beginTime": "2025-05-21T23:00:00Z",
           "beginTime_jst": "2025年05月22日08時00分00秒",
@@ -2188,9 +2188,9 @@
         },
         {
           "additionalRequirements": [
-            "eula:s35_fncs_showdown",
             "mfa",
-            "adps:g-a81a33a3b9a7"
+            "adps:g-a81a33a3b9a7",
+            "eula:s35_showdown_rules"
           ],
           "beginTime": "2025-05-27T23:00:00Z",
           "beginTime_jst": "2025年05月28日08時00分00秒",
@@ -2240,9 +2240,9 @@
         },
         {
           "additionalRequirements": [
-            "eula:s35_fncs_showdown",
             "mfa",
-            "adps:g-a81a33a3b9a7"
+            "adps:g-a81a33a3b9a7",
+            "eula:s35_showdown_rules"
           ],
           "beginTime": "2025-05-28T23:00:00Z",
           "beginTime_jst": "2025年05月29日08時00分00秒",
