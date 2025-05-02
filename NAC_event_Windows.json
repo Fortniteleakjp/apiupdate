@@ -3574,7 +3574,6 @@
       "eventWindows": [
         {
           "additionalRequirements": [
-            "currentRanking:ranked-br:15",
             "mfa",
             "adps:g-a81a33a3b9a7",
             "eula:s35_ranked_rules"
@@ -3618,7 +3617,6 @@
         },
         {
           "additionalRequirements": [
-            "currentRanking:ranked-br:15",
             "mfa",
             "adps:g-a81a33a3b9a7",
             "eula:s35_ranked_rules"
@@ -3662,7 +3660,6 @@
         },
         {
           "additionalRequirements": [
-            "currentRanking:ranked-br:15",
             "mfa",
             "adps:g-a81a33a3b9a7",
             "eula:s35_ranked_rules"
