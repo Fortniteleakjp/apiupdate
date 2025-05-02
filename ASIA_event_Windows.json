@@ -3237,7 +3237,6 @@
       "eventWindows": [
         {
           "additionalRequirements": [
-            "currentRanking:ranked-br:15",
             "mfa",
             "adps:g-a81a33a3b9a7",
             "eula:s35_ranked_rules"
@@ -3281,7 +3280,6 @@
         },
         {
           "additionalRequirements": [
-            "currentRanking:ranked-br:15",
             "mfa",
             "adps:g-a81a33a3b9a7",
             "eula:s35_ranked_rules"
@@ -3325,7 +3323,6 @@
         },
         {
           "additionalRequirements": [
-            "currentRanking:ranked-br:15",
             "mfa",
             "adps:g-a81a33a3b9a7",
             "eula:s35_ranked_rules"
@@ -3436,7 +3433,6 @@
       "eventWindows": [
         {
           "additionalRequirements": [
-            "currentRanking:ranked-br:15",
             "mfa",
             "adps:g-a81a33a3b9a7",
             "eula:s35_ranked_rules"
@@ -3480,7 +3476,6 @@
         },
         {
           "additionalRequirements": [
-            "currentRanking:ranked-br:15",
             "mfa",
             "adps:g-a81a33a3b9a7",
             "eula:s35_ranked_rules"
@@ -3524,7 +3519,6 @@
         },
         {
           "additionalRequirements": [
-            "currentRanking:ranked-br:15",
             "mfa",
             "adps:g-a81a33a3b9a7",
             "eula:s35_ranked_rules"
@@ -3635,7 +3629,6 @@
       "eventWindows": [
         {
           "additionalRequirements": [
-            "currentRanking:ranked-br:15",
             "mfa",
             "adps:g-a81a33a3b9a7",
             "eula:s35_ranked_rules"
@@ -3679,7 +3672,6 @@
         },
         {
           "additionalRequirements": [
-            "currentRanking:ranked-br:15",
             "mfa",
             "adps:g-a81a33a3b9a7",
             "eula:s35_ranked_rules"
@@ -3723,7 +3715,6 @@
         },
         {
           "additionalRequirements": [
-            "currentRanking:ranked-br:15",
             "mfa",
             "adps:g-a81a33a3b9a7",
             "eula:s35_ranked_rules"
@@ -4644,7 +4635,6 @@
           "additionalRequirements": [
             "mfa",
             "adps:g-a81a33a3b9a7",
-            "currentRanking:ranked_blastberry_build:15",
             "eula:s35_ranked_rules"
           ],
           "beginTime": "2025-05-11T09:00:00Z",
@@ -4688,7 +4678,6 @@
           "additionalRequirements": [
             "mfa",
             "adps:g-a81a33a3b9a7",
-            "currentRanking:ranked_blastberry_build:15",
             "eula:s35_ranked_rules"
           ],
           "beginTime": "2025-05-20T09:00:00Z",
@@ -4732,7 +4721,6 @@
           "additionalRequirements": [
             "mfa",
             "adps:g-a81a33a3b9a7",
-            "currentRanking:ranked_blastberry_build:15",
             "eula:s35_ranked_rules"
           ],
           "beginTime": "2025-05-27T09:00:00Z",
