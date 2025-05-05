@@ -1520,9 +1520,9 @@
         "square_poster_image": "https://cdn2.unrealengine.com/jp-jp-fnce-35-00-pro-am-reload-discoverytile-communitycup-1920x1080-1920x1080-5ae0baa1a052.jpg"
       },
       "displayDataId": "s35_fncs_clix",
-      "endTime": "2025-05-03T11:30:00Z",
-      "endTime_jst": "2025年05月03日20時30分00秒",
-      "endTime_unix": 1746271800,
+      "endTime": "2025-05-09T11:30:00Z",
+      "endTime_jst": "2025年05月09日20時30分00秒",
+      "endTime_unix": 1746790200,
       "eventGroup": "Season35_FNCSCommunityCup",
       "eventId": "epicgames_S35_FNCSCommunityCups_Clix_ASIA",
       "eventWindows": [
@@ -1545,6 +1545,49 @@
           "endTime_unix": 1746271800,
           "eventTemplateId": "EventTemplate_S35_FNCSCommunityCups",
           "eventWindowId": "S35_FNCSCommunityCups_Clix_ASIA",
+          "isTBD": false,
+          "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+          },
+          "payoutDelay": 32,
+          "requireAllTokens": [],
+          "requireAllTokensCaller": [],
+          "requireAnyTokens": [],
+          "requireAnyTokensCaller": [],
+          "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+          ],
+          "round": 0,
+          "scoreLocations": [
+            {
+              "isMainWindowLeaderboard": true,
+              "leaderboardDefId": "Leaderboard_S35_FNCS_Community_Cups"
+            }
+          ],
+          "teammateEligibility": "all",
+          "visibility": "public"
+        },
+        {
+          "additionalRequirements": [
+            "eula:s35_fncscommunity_rules",
+            "mfa",
+            "adps:g-a81a33a3b9a7"
+          ],
+          "beginTime": "2025-05-09T09:00:00Z",
+          "beginTime_jst": "2025年05月09日18時00分00秒",
+          "beginTime_unix": 1746781200,
+          "blackoutPeriods": [],
+          "canLiveSpectate": false,
+          "countdownBeginTime": "2025-05-09T07:00:00Z",
+          "countdownBeginTime_jst": "2025年05月09日16時00分00秒",
+          "countdownBeginTime_unix": 1746774000,
+          "endTime": "2025-05-09T11:30:00Z",
+          "endTime_jst": "2025年05月09日20時30分00秒",
+          "endTime_unix": 1746790200,
+          "eventTemplateId": "EventTemplate_S35_FNCSCommunityCups",
+          "eventWindowId": "S35_FNCSCommunityCups_Clix_ASIA_makegood",
           "isTBD": false,
           "metadata": {
             "RoundType": "Qualifiers",
@@ -6833,6 +6876,42 @@
         "scoringType": "rank"
       }
     ],
+    "S35_FNCSCommunityCups_Clix_ASIA_makegood": [
+      {
+        "ranks": [
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 1,
+                "rewardMode": "standard",
+                "rewardType": "game",
+                "value": "AthenaDance:spray_fncsprow1"
+              }
+            ],
+            "threshold": 8
+          }
+        ],
+        "scoringType": "value"
+      },
+      {
+        "ranks": [
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 1,
+                "rewardMode": "standard",
+                "rewardType": "game",
+                "value": "AthenaCharacter:character_cobsink"
+              }
+            ],
+            "threshold": 150
+          }
+        ],
+        "scoringType": "rank"
+      }
+    ],
     "S35_FNCSCommunityCups_Lachlan_ASIA": [
       {
         "ranks": [
@@ -7288,6 +7367,7 @@
     "Fortnite:epicgames_S34_FNCSMajor2_PlayInStage_ASIA:S34_FNCSMajor2_PlayInStage_Day2_ASIA": "epicgames_S34_FNCSMajor2_PlayInStage_ASIA",
     "Fortnite:epicgames_S35_FNCSCommunityCups_Bugha_ASIA:S35_FNCSCommunityCups_Bugha_ASIA": "S35_FNCSCommunityCups_Bugha_ASIA",
     "Fortnite:epicgames_S35_FNCSCommunityCups_Clix_ASIA:S35_FNCSCommunityCups_Clix_ASIA": "S35_FNCSCommunityCups_Clix_ASIA",
+    "Fortnite:epicgames_S35_FNCSCommunityCups_Clix_ASIA:S35_FNCSCommunityCups_Clix_ASIA_makegood": "S35_FNCSCommunityCups_Clix_ASIA_makegood",
     "Fortnite:epicgames_S35_FNCSCommunityCups_Lachlan_ASIA:S35_FNCSCommunityCups_Lachlan_ASIA": "S35_FNCSCommunityCups_Lachlan_ASIA",
     "Fortnite:epicgames_S35_FNCSCommunityCups_Loserfruit_ASIA:S35_FNCSCommunityCups_Loserfruit_ASIA": "S35_FNCSCommunityCups_Loserfruit_ASIA",
     "Fortnite:epicgames_S35_FNSCShowdown_ASIA:S35_FNSCShowdown_Event1Round1_ASIA": "S35_FNSCShowdown_Event1Round1_ASIA",
