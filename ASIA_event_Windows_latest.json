@@ -2655,10 +2655,10 @@
       "beginTime_jst": "2025年05月16日18時00分02秒",
       "beginTime_unix": 1747386002,
       "displayData": {
-        "details_description": "Compete against other Bronze, Silver, and Gold ranked players! You may play in as many matches as you like during the four hour window but only your top four matches will count towards your placement on the leaderboard. In any session, earn 50 points to earn the \"Ranker's Death Star\" In-Game Glider! ",
+        "details_description": "ブロンズ、シルバー、ゴールドランクの他のプレイヤーと競い合いましょう！ 4時間の開催時間内であれば何マッチでもプレイ可能ですが、ランキングでの順位に反映されるのは、参加した中で最も成績が良かったマッチ4つのみです。いずれかのセッションで50ポイント獲得すると、ゲーム内グライダー「ランカーのデス・スター」が手に入ります！ ",
         "flavor_description": "",
         "loading_screen_image": "https://cdn2.unrealengine.com/en-fneco-33-00-competitive-discoverytile-rankedcups-1080x1920-1920x1080-715a21161bce.jpg",
-        "long_format_title": "Bronze, Silver, & Gold Ranked Cup (Duos BR)",
+        "long_format_title": "ブロンズ、シルバー、ゴールドランクカップ(デュオ バトルロイヤル)",
         "poster_back_image": null,
         "poster_front_image": null,
         "round_names": null,
