@@ -302,177 +302,6 @@
       "announcementTime": "2024-11-15T15:00:00Z",
       "announcementTime_jst": "2024年11月16日00時00分00秒",
       "announcementTime_unix": 1731682800,
-      "beginTime": "2025-02-08T09:00:00Z",
-      "beginTime_jst": "2025年02月08日18時00分00秒",
-      "beginTime_unix": 1739005200,
-      "displayData": {
-        "details_description": "プレイインからグループステージに進出しましょう！ グループステージは、ヨーロッパとアメリカ中央では3つのグループ、その他の地域では2つのグループで構成されています。グループステージでVictory Royaleを達成すると、即座にメジャー決勝への進出決定です！ さらに、各グループで最も安定した成績を収めたトリオ(ヨーロッパとアメリカ中央では上位5組、その他の地域では上位10組)もメジャー決勝に進出します。参加するには13歳以上(お住まいの国/地域で定められている場合はそれよりも上の年齢)で、多段階認証が有効であり、過去180日の間に14種類以上のトーナメントに参加しており、かつアカウントレベルが350以上でなければなりません。詳細はこちら: https://www.epicgames.com/fortnite/competitive/rules-library",
-        "flavor_description": "Fortnite Champion Series: メジャー1で競い合い、賞金総額2百万ドルからの取り分獲得を目指しましょう。",
-        "loading_screen_image": "https://cdn2.unrealengine.com/jp-fnce-33-00-competitive-discoverytile-majorone-major-1080x1920-1920x1080-276e45afce53.jpg",
-        "long_format_title": "Fortnite Championship Series",
-        "poster_back_image": "https://cdn2.unrealengine.com/fncs-2024-poster-back-750x1080-5ee59587e601.jpg",
-        "poster_front_image": "https://cdn2.unrealengine.com/fncs-2024-poster-front-evergreen-logo-norank-750x1080-f17f0711f001.jpg",
-        "round_names": null,
-        "short_format_title": "FNCS",
-        "square_poster_image": "https://cdn2.unrealengine.com/jp-fnce-33-00-competitive-discoverytile-majorone-major-1080x1920-1920x1080-276e45afce53.jpg"
-      },
-      "displayDataId": "s33_major1_group",
-      "endTime": "2025-02-09T12:00:00Z",
-      "endTime_jst": "2025年02月09日21時00分00秒",
-      "endTime_unix": 1739102400,
-      "eventGroup": "Season33_FNCSMajor1",
-      "eventId": "epicgames_S33_FNCSMajor1_GroupStage_ASIA",
-      "eventWindows": [
-        {
-          "additionalRequirements": [
-            "eula:s33_fncs_rules",
-            "mfa"
-          ],
-          "beginTime": "2025-02-08T09:00:00Z",
-          "beginTime_jst": "2025年02月08日18時00分00秒",
-          "beginTime_unix": 1739005200,
-          "blackoutPeriods": [],
-          "canLiveSpectate": false,
-          "countdownBeginTime": "2025-02-08T05:00:00Z",
-          "countdownBeginTime_jst": "2025年02月08日14時00分00秒",
-          "countdownBeginTime_unix": 1738990800,
-          "endTime": "2025-02-08T12:00:00Z",
-          "endTime_jst": "2025年02月08日21時00分00秒",
-          "endTime_unix": 1739016000,
-          "eventTemplateId": "EventTemplate_S33_FNCSMajor1_GroupStage",
-          "eventWindowId": "S33_FNCSMajor1_GroupStage_Group1_ASIA",
-          "isTBD": false,
-          "metadata": {
-            "RoundType": "Qualifiers",
-            "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "ScheduledMatchmakingMatchDelaySeconds": 2280,
-            "ServerReplays": true
-          },
-          "payoutDelay": 32,
-          "requireAllTokens": [
-            "S33_FNCSMajor1_Group1_ASIA"
-          ],
-          "requireAllTokensCaller": [],
-          "requireAnyTokens": [],
-          "requireAnyTokensCaller": [],
-          "requireNoneTokensCaller": [
-            "EpicAccountPrizingRestriction_v2",
-            "S33_FNCS_Banned",
-            "S33_FNCSMajor1_GrandFinalist_ASIA"
-          ],
-          "round": 0,
-          "scoreLocations": [
-            {
-              "isMainWindowLeaderboard": true,
-              "leaderboardDefId": "S33_FNCSMajor1_GroupStage_DefaultLeaderboardDef"
-            }
-          ],
-          "teammateEligibility": "all",
-          "visibility": "locked"
-        },
-        {
-          "additionalRequirements": [
-            "eula:s33_fncs_rules",
-            "mfa"
-          ],
-          "beginTime": "2025-02-09T09:00:00Z",
-          "beginTime_jst": "2025年02月09日18時00分00秒",
-          "beginTime_unix": 1739091600,
-          "blackoutPeriods": [],
-          "canLiveSpectate": false,
-          "countdownBeginTime": "2025-02-09T07:00:00Z",
-          "countdownBeginTime_jst": "2025年02月09日16時00分00秒",
-          "countdownBeginTime_unix": 1739084400,
-          "endTime": "2025-02-09T12:00:00Z",
-          "endTime_jst": "2025年02月09日21時00分00秒",
-          "endTime_unix": 1739102400,
-          "eventTemplateId": "EventTemplate_S33_FNCSMajor1_GroupStage",
-          "eventWindowId": "S33_FNCSMajor1_GroupStage_Group2_ASIA",
-          "isTBD": false,
-          "metadata": {
-            "RoundType": "Qualifiers",
-            "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "ScheduledMatchmakingMatchDelaySeconds": 2280,
-            "ServerReplays": true,
-            "SubgroupId": "Group2"
-          },
-          "payoutDelay": 32,
-          "requireAllTokens": [
-            "S33_FNCSMajor1_Group2_ASIA"
-          ],
-          "requireAllTokensCaller": [],
-          "requireAnyTokens": [],
-          "requireAnyTokensCaller": [],
-          "requireNoneTokensCaller": [
-            "EpicAccountPrizingRestriction_v2",
-            "S33_FNCS_Banned",
-            "S33_FNCSMajor1_GrandFinalist_ASIA"
-          ],
-          "round": 0,
-          "scoreLocations": [
-            {
-              "isMainWindowLeaderboard": true,
-              "leaderboardDefId": "S33_FNCSMajor1_GroupStage_DefaultLeaderboardDef"
-            }
-          ],
-          "teammateEligibility": "all",
-          "visibility": "locked"
-        }
-      ],
-      "gameId": "Fortnite",
-      "link": {
-        "code": "tournament_epicgames_s33_fncsmajor1_groupstage_asia",
-        "type": "br:tournament",
-        "version": 1
-      },
-      "metadata": {
-        "AccountLockType": "Week",
-        "DisqualifyType": "Floating",
-        "RegionLockType": "Season",
-        "TeamLockType": "Season",
-        "TrackedStats": [
-          "Headshots",
-          "DamageDealt",
-          "DamageReceived",
-          "GainedHealthTimes",
-          "GainedShieldTimes",
-          "Travel_Distance_Ground"
-        ],
-        "minimumAccountLevel": 350
-      },
-      "platformMappings": {},
-      "platforms": [
-        "XboxOneGDK",
-        "PS4",
-        "XCloud",
-        "Helios",
-        "Luna",
-        "IOS",
-        "XB1",
-        "XboxOne",
-        "XSX",
-        "Android",
-        "LunaMobile",
-        "PS5",
-        "XCloudMobile",
-        "Mac",
-        "HeliosMobile",
-        "GFN",
-        "Switch",
-        "GFNMobile",
-        "Windows"
-      ],
-      "regionMappings": {
-        "ASIA": "ASIACOMP"
-      },
-      "regions": [
-        "ASIA"
-      ]
-    },
-    {
-      "announcementTime": "2024-11-15T15:00:00Z",
-      "announcementTime_jst": "2024年11月16日00時00分00秒",
-      "announcementTime_unix": 1731682800,
       "beginTime": "2025-02-12T09:00:00Z",
       "beginTime_jst": "2025年02月12日18時00分00秒",
       "beginTime_unix": 1739350800,
@@ -5191,51 +5020,6 @@
       "clampsToZero": true,
       "gameId": "Fortnite",
       "hidePlayerScores": false,
-      "leaderboardDefId": "S33_FNCSMajor1_GroupStage_DefaultLeaderboardDef",
-      "leaderboardInstanceGroupingKeyFormat": "${eventId}",
-      "leaderboardInstanceIdFormat": "${windowId}",
-      "leaderboardStorageId": "Fortnite_GLOBAL",
-      "maxSessionHistorySize": 10,
-      "payoutsConfig": {
-        "payoutDate": "windowEnd+PT32M",
-        "payoutTableIdFormat": "${eventId}"
-      },
-      "percentileAccuracy": 1,
-      "requiredPlayerListings": [],
-      "scoringRuleSetId": "S33_ScoringRules_FNCSMajor1_GroupStage",
-      "tiebreakerFormula": {
-        "basePointsBits": 11,
-        "components": [
-          {
-            "aggregation": "sum",
-            "bits": 4,
-            "trackedStat": "VICTORY_ROYALE_STAT"
-          },
-          {
-            "aggregation": "avg",
-            "bits": 13,
-            "multiplier": 100,
-            "trackedStat": "TEAM_ELIMS_STAT_INDEX"
-          },
-          {
-            "aggregation": "avg",
-            "bits": 14,
-            "multiplier": 100,
-            "trackedStat": "PLACEMENT_TIEBREAKER_STAT"
-          },
-          {
-            "aggregation": "avg",
-            "bits": 11,
-            "trackedStat": "TIME_ALIVE_STAT"
-          }
-        ]
-      },
-      "useIndividualScores": false
-    },
-    {
-      "clampsToZero": true,
-      "gameId": "Fortnite",
-      "hidePlayerScores": false,
       "leaderboardDefId": "S34_FNCSMajor2_GroupStage_DefaultLeaderboardDef",
       "leaderboardInstanceGroupingKeyFormat": "${eventId}",
       "leaderboardInstanceIdFormat": "${windowId}",
@@ -7054,42 +6838,6 @@
         "scoringType": "value"
       }
     ],
-    "epicgames_S33_FNCSMajor1_GroupStage_ASIA": [
-      {
-        "ranks": [
-          {
-            "payouts": [
-              {
-                "notifiesPlayer": false,
-                "quantity": 1,
-                "rewardMode": "rolling",
-                "rewardType": "token",
-                "value": "S33_FNCSMajor1_GrandFinalist_ASIA"
-              }
-            ],
-            "threshold": 1000
-          }
-        ],
-        "scoringType": "value"
-      },
-      {
-        "ranks": [
-          {
-            "payouts": [
-              {
-                "notifiesPlayer": false,
-                "quantity": 1,
-                "rewardMode": "standard",
-                "rewardType": "token",
-                "value": "S33_FNCSMajor1_GrandFinalist_ASIA"
-              }
-            ],
-            "threshold": 15
-          }
-        ],
-        "scoringType": "rank"
-      }
-    ],
     "epicgames_S34_FNCSMajor2_GroupStage_ASIA": [
       {
         "ranks": [
@@ -7348,8 +7096,6 @@
   "scoreLocationPayoutTables": {
     "Fortnite:epicgames_Acrocanthosaurus_Official:Acrocanthosaurus_Official": "PayoutTable_Acrocanthosaurus_Day1",
     "Fortnite:epicgames_S33_FNCSMajor1_Final_ASIA:S33_FNCSMajor1_Final_Day2_ASIA": "S33_FNCSMajor1_Final_Day2_ASIA",
-    "Fortnite:epicgames_S33_FNCSMajor1_GroupStage_ASIA:S33_FNCSMajor1_GroupStage_Group1_ASIA": "epicgames_S33_FNCSMajor1_GroupStage_ASIA",
-    "Fortnite:epicgames_S33_FNCSMajor1_GroupStage_ASIA:S33_FNCSMajor1_GroupStage_Group2_ASIA": "epicgames_S33_FNCSMajor1_GroupStage_ASIA",
     "Fortnite:epicgames_S33_FNCSMajor1_LastChanceQualifier_ASIA:S33_FNCSMajor1_LastChanceLobby_ASIA": "S33_FNCSMajor1_LastChanceLobby_ASIA",
     "Fortnite:epicgames_S33_FNCSMajor1_LastChanceQualifier_ASIA:S33_FNCSMajor1_LastChanceQualifier_ASIA": "S33_FNCSMajor1_LastChanceQualifier_ASIA",
     "Fortnite:epicgames_S34_FNCSMajor2_Final_ASIA:S34_FNCSMajor2_Final_Day2_ASIA": "S34_FNCSMajor2_Final_Day2_ASIA",
@@ -9722,43 +9468,6 @@
       "matchCap": 10,
       "payoutTable": [],
       "playlistId": "Playlist_ShowdownTournament_DashBerryDuo_NoFill",
-      "scoringRules": [],
-      "tiebreakerFormula": {
-        "basePointsBits": 11,
-        "components": [
-          {
-            "aggregation": "sum",
-            "bits": 4,
-            "trackedStat": "VICTORY_ROYALE_STAT"
-          },
-          {
-            "aggregation": "avg",
-            "bits": 13,
-            "multiplier": 100,
-            "trackedStat": "TEAM_ELIMS_STAT_INDEX"
-          },
-          {
-            "aggregation": "avg",
-            "bits": 14,
-            "multiplier": 100,
-            "trackedStat": "PLACEMENT_TIEBREAKER_STAT"
-          },
-          {
-            "aggregation": "avg",
-            "bits": 11,
-            "trackedStat": "TIME_ALIVE_STAT"
-          }
-        ]
-      }
-    },
-    {
-      "clampsToZero": false,
-      "eventTemplateId": "EventTemplate_S33_FNCSMajor1_GroupStage",
-      "gameId": "Fortnite",
-      "liveSessionAttributes": [],
-      "matchCap": 5,
-      "payoutTable": [],
-      "playlistId": "Playlist_ShowdownTournament_Trios",
       "scoringRules": [],
       "tiebreakerFormula": {
         "basePointsBits": 11,
