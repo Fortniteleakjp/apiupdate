@@ -1788,7 +1788,9 @@
           "requireAllTokensCaller": [],
           "requireAnyTokens": [
             "S34_FNCS_Division1_NAC",
-            "S34_FNCS_Division2_NAC"
+            "S34_FNCS_Division2_NAC",
+            "S33_FNCS_Division1_NAC",
+            "S33_FNCS_Division2_NAC"
           ],
           "requireAnyTokensCaller": [],
           "requireNoneTokensCaller": [
@@ -1889,7 +1891,9 @@
           "requireAllTokensCaller": [],
           "requireAnyTokens": [
             "S34_FNCS_Division1_NAC",
-            "S34_FNCS_Division2_NAC"
+            "S34_FNCS_Division2_NAC",
+            "S33_FNCS_Division1_NAC",
+            "S33_FNCS_Division2_NAC"
           ],
           "requireAnyTokensCaller": [],
           "requireNoneTokensCaller": [
@@ -1990,7 +1994,9 @@
           "requireAllTokensCaller": [],
           "requireAnyTokens": [
             "S34_FNCS_Division1_NAC",
-            "S34_FNCS_Division2_NAC"
+            "S34_FNCS_Division2_NAC",
+            "S33_FNCS_Division1_NAC",
+            "S33_FNCS_Division2_NAC"
           ],
           "requireAnyTokensCaller": [],
           "requireNoneTokensCaller": [
