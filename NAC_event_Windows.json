@@ -4973,7 +4973,7 @@
       "eventWindows": [
         {
           "additionalRequirements": [
-            "eula:s33_perfeval_rules",
+            "eula:s33_perfeval",
             "mfa"
           ],
           "beginTime": "2025-05-09T23:00:00Z",
@@ -5024,7 +5024,7 @@
         },
         {
           "additionalRequirements": [
-            "eula:s33_perfeval_rules",
+            "eula:s33_perfeval",
             "mfa"
           ],
           "beginTime": "2025-05-10T02:00:00Z",
@@ -5045,8 +5045,7 @@
             "RoundType": "Qualifiers",
             "ScheduledMatchmakingInitialDelaySeconds": 600,
             "ScheduledMatchmakingMatchDelaySeconds": 1920,
-            "ServerReplays": true,
-            "liveSpectateAccessToken": "WeeklyTournamentSpectator"
+            "ServerReplays": true
           },
           "payoutDelay": 32,
           "regionMappings": {
@@ -5072,7 +5071,7 @@
         },
         {
           "additionalRequirements": [
-            "eula:s33_perfeval_rules",
+            "eula:s33_perfeval",
             "mfa"
           ],
           "beginTime": "2025-05-16T23:00:00Z",
@@ -5123,7 +5122,7 @@
         },
         {
           "additionalRequirements": [
-            "eula:s33_perfeval_rules",
+            "eula:s33_perfeval",
             "mfa"
           ],
           "beginTime": "2025-05-17T02:00:00Z",
@@ -5144,8 +5143,7 @@
             "RoundType": "Qualifiers",
             "ScheduledMatchmakingInitialDelaySeconds": 600,
             "ScheduledMatchmakingMatchDelaySeconds": 1920,
-            "ServerReplays": true,
-            "liveSpectateAccessToken": "WeeklyTournamentSpectator"
+            "ServerReplays": true
           },
           "payoutDelay": 32,
           "regionMappings": {
@@ -5171,7 +5169,7 @@
         },
         {
           "additionalRequirements": [
-            "eula:s33_perfeval_rules",
+            "eula:s33_perfeval",
             "mfa"
           ],
           "beginTime": "2025-05-22T23:00:00Z",
@@ -5222,7 +5220,7 @@
         },
         {
           "additionalRequirements": [
-            "eula:s33_perfeval_rules",
+            "eula:s33_perfeval",
             "mfa"
           ],
           "beginTime": "2025-05-23T02:00:00Z",
@@ -5243,8 +5241,7 @@
             "RoundType": "Qualifiers",
             "ScheduledMatchmakingInitialDelaySeconds": 600,
             "ScheduledMatchmakingMatchDelaySeconds": 1920,
-            "ServerReplays": true,
-            "liveSpectateAccessToken": "WeeklyTournamentSpectator"
+            "ServerReplays": true
           },
           "payoutDelay": 32,
           "regionMappings": {
@@ -5270,7 +5267,7 @@
         },
         {
           "additionalRequirements": [
-            "eula:s33_perfeval_rules",
+            "eula:s33_perfeval",
             "mfa"
           ],
           "beginTime": "2025-05-29T23:00:00Z",
@@ -5321,7 +5318,7 @@
         },
         {
           "additionalRequirements": [
-            "eula:s33_perfeval_rules",
+            "eula:s33_perfeval",
             "mfa"
           ],
           "beginTime": "2025-05-30T02:00:00Z",
@@ -5342,8 +5339,7 @@
             "RoundType": "Qualifiers",
             "ScheduledMatchmakingInitialDelaySeconds": 600,
             "ScheduledMatchmakingMatchDelaySeconds": 1920,
-            "ServerReplays": true,
-            "liveSpectateAccessToken": "WeeklyTournamentSpectator"
+            "ServerReplays": true
           },
           "payoutDelay": 32,
           "regionMappings": {
@@ -5377,13 +5373,7 @@
         "AccountLockType": "Window",
         "DisqualifyType": "Window",
         "TeamLockType": "Window",
-        "minimumAccountLevel": 350,
-        "requireSystemFeatures": [
-          "SecureBoot",
-          "CryptoProcessor"
-        ],
-        "tournamentType": "WorkshopCup",
-        "webId": "S35_PerformanceEvaluation"
+        "minimumAccountLevel": 350
       },
       "platformMappings": {},
       "platforms": [
