@@ -68,13 +68,19 @@ API_TARGETS = [
     },
     {
         "name": "DefaultGame",
-        "url": "https://fljpapi.onrender.com/api/v2/cloudstorage/a22d837b6a2b46349421259c0a5411bf",
+        "url": "https://fljpapi-zqlw.onrender.com/api/v2/cloudstorage/a22d837b6a2b46349421259c0a5411bf",
         "snapshot_file": "DefaultGame.ini.diff",
         "latest_file": "DefaultGame_latest.ini.diff"
     },
     {
+        "name": "ASIA_PS5",
+        "url": "https://tournamentapi.onrender.com/api/tournamentlist?region=ASIA&platform=PS5",
+        "snapshot_file": "BR_event_PS5.json",
+        "latest_file": "BR_event_PS5_latest.json"
+    },
+    {
         "name": "cloudstorage",
-        "url": "https://fljpapi.onrender.com/api/v2/cloudstorage",
+        "url": "https://fljpapi-zqlw.onrender.com/api/v2/cloudstorage",
         "snapshot_file": "cloudstorage.json",
         "latest_file": "cloudstorage_latest.json"
     },
