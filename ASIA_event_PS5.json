@@ -4737,7 +4737,6 @@
       "eventWindows": [
         {
           "additionalRequirements": [
-            "eeula:s35_duosconsole_rules",
             "mfa",
             [
               "currentRanking:ranked-figment-nobuild:6",
@@ -4747,7 +4746,8 @@
               "currentRanking:ranked_blastberry_build:6",
               "currentRanking:ranked_blastberry_nobuild:6"
             ],
-            "adps:g-a81a33a3b9a7"
+            "adps:g-a81a33a3b9a7",
+            "eula:s35_duosconsole_rules"
           ],
           "beginTime": "2025-05-17T05:00:00Z",
           "beginTime_jst": "2025年05月17日14時00分00秒",
@@ -4788,9 +4788,9 @@
         },
         {
           "additionalRequirements": [
-            "eeula:s35_duosconsole_rules",
             "mfa",
-            "adps:g-a81a33a3b9a7"
+            "adps:g-a81a33a3b9a7",
+            "eula:s35_duosconsole_rules"
           ],
           "beginTime": "2025-05-17T08:00:00Z",
           "beginTime_jst": "2025年05月17日17時00分00秒",
@@ -4833,7 +4833,6 @@
         },
         {
           "additionalRequirements": [
-            "eeula:s35_duosconsole_rules",
             "mfa",
             [
               "currentRanking:ranked-figment-nobuild:6",
@@ -4843,7 +4842,8 @@
               "currentRanking:ranked_blastberry_build:6",
               "currentRanking:ranked_blastberry_nobuild:6"
             ],
-            "adps:g-a81a33a3b9a7"
+            "adps:g-a81a33a3b9a7",
+            "eula:s35_duosconsole_rules"
           ],
           "beginTime": "2025-05-24T05:00:00Z",
           "beginTime_jst": "2025年05月24日14時00分00秒",
@@ -4884,9 +4884,9 @@
         },
         {
           "additionalRequirements": [
-            "eeula:s35_duosconsole_rules",
             "mfa",
-            "adps:g-a81a33a3b9a7"
+            "adps:g-a81a33a3b9a7",
+            "eula:s35_duosconsole_rules"
           ],
           "beginTime": "2025-05-24T08:00:00Z",
           "beginTime_jst": "2025年05月24日17時00分00秒",
@@ -4929,7 +4929,6 @@
         },
         {
           "additionalRequirements": [
-            "eeula:s35_duosconsole_rules",
             "mfa",
             [
               "currentRanking:ranked-figment-nobuild:6",
@@ -4939,7 +4938,8 @@
               "currentRanking:ranked_blastberry_build:6",
               "currentRanking:ranked_blastberry_nobuild:6"
             ],
-            "adps:g-a81a33a3b9a7"
+            "adps:g-a81a33a3b9a7",
+            "eula:s35_duosconsole_rules"
           ],
           "beginTime": "2025-05-31T05:00:00Z",
           "beginTime_jst": "2025年05月31日14時00分00秒",
@@ -4980,9 +4980,9 @@
         },
         {
           "additionalRequirements": [
-            "eeula:s35_duosconsole_rules",
             "mfa",
-            "adps:g-a81a33a3b9a7"
+            "adps:g-a81a33a3b9a7",
+            "eula:s35_duosconsole_rules"
           ],
           "beginTime": "2025-05-31T08:00:00Z",
           "beginTime_jst": "2025年05月31日17時00分00秒",
