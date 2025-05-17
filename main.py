@@ -75,8 +75,14 @@ API_TARGETS = [
     {
         "name": "ASIA_PS5",
         "url": "https://tournamentapi.onrender.com/api/tournamentlist?region=ASIA&platform=PS5",
-        "snapshot_file": "BR_event_PS5.json",
-        "latest_file": "BR_event_PS5_latest.json"
+        "snapshot_file": "ASIA_event_PS5.json",
+        "latest_file": "ASIA_event_PS5_latest.json"
+    },
+    {
+        "name": "NAE_PS5",
+        "url": "https://tournamentapi.onrender.com/api/tournamentlist?region=NAE&platform=PS5",
+        "snapshot_file": "NAE_event_PS5.json",
+        "latest_file": "NAE_event_PS5_latest.json"
     },
     {
         "name": "cloudstorage",
