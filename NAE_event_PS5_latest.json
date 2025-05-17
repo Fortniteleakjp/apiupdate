@@ -4964,7 +4964,7 @@
           },
           "payoutDelay": 32,
           "requireAllTokens": [
-            "S35_VictoryDuoCup_Event2Round2_NAC"
+            "S35_VictoryDuosCup_Event2Round2_NAC"
           ],
           "requireAllTokensCaller": [],
           "requireAnyTokens": [],
@@ -5060,7 +5060,7 @@
           },
           "payoutDelay": 32,
           "requireAllTokens": [
-            "S35_VictoryDuoCup_Event3Round2_NAC"
+            "S35_VictoryDuosCup_Event3Round2_NAC"
           ],
           "requireAllTokensCaller": [],
           "requireAnyTokens": [],

@@ -4800,9 +4800,9 @@
           "countdownBeginTime": "2025-05-17T07:00:00Z",
           "countdownBeginTime_jst": "2025年05月17日16時00分00秒",
           "countdownBeginTime_unix": 1747465200,
-          "endTime": "2025-05-17T09:45:00Z",
-          "endTime_jst": "2025年05月17日18時45分00秒",
-          "endTime_unix": 1747475100,
+          "endTime": "2025-05-17T09:00:00Z",
+          "endTime_jst": "2025年05月17日18時00分00秒",
+          "endTime_unix": 1747472400,
           "eventTemplateId": "EventTemplate_S35_VictoryDuosCup_Round2",
           "eventWindowId": "S35_VictoryDuosCup_Event1Round2_ASIA",
           "isTBD": false,
@@ -4908,7 +4908,7 @@
           },
           "payoutDelay": 32,
           "requireAllTokens": [
-            "S35_VictoryDuoCup_Event2Round2_ASIA"
+            "S35_VictoryDuosCup_Event2Round2_ASIA"
           ],
           "requireAllTokensCaller": [],
           "requireAnyTokens": [],
@@ -5004,7 +5004,7 @@
           },
           "payoutDelay": 32,
           "requireAllTokens": [
-            "S35_VictoryDuoCup_Event3Round2_ASIA"
+            "S35_VictoryDuosCup_Event3Round2_ASIA"
           ],
           "requireAllTokensCaller": [],
           "requireAnyTokens": [],
