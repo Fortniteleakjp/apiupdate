@@ -86,18 +86,27 @@ API_TARGETS = [
     },
 ]
 
-def fetch_api_data(url, name=None):
+def fetch_api_data(url, name=None, is_json=True):
     print(f"🔄 APIデータを取得中... ({name or url})")
     response = requests.get(url)
     print(f"📥 ステータスコード: {response.status_code}")
     print(f"📥 レスポンステキスト: {response.text[:200]}...")
-    response.raise_for_status()
-    if name and name.lower().endswith(".ini") or "DefaultGame" in (name or ""):
-        return response.text  # INI形式として文字列をそのまま返す
+
+    if not response.ok:
+        print(f"❌ リクエスト失敗: {response.status_code}")
+        return None
+
     try:
-        return response.json()
+        if is_json:
+            return response.json()
+        else:
+            return response.text
     except json.JSONDecodeError as e:
         print(f"❌ JSONデコード失敗: {e}")
+        debug_file = f"{name or 'response'}_debug.txt"
+        with open(debug_file, "w", encoding="utf-8") as f:
+            f.write(response.text)
+        print(f"📁 デバッグ用に {debug_file} に保存しました")
         return None
 
 def load_snapshot(file_path):
@@ -111,18 +120,29 @@ def load_snapshot(file_path):
 
 def save_snapshot(file_path, data):
     with open(file_path, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=2, ensure_ascii=False)
+        if file_path.endswith(".json"):
+            json.dump(data, f, indent=2, ensure_ascii=False)
+        else:
+            f.write(data)
 
 def hash_data(data):
-    return hashlib.sha256(json.dumps(data, sort_keys=True).encode()).hexdigest()
+    if isinstance(data, dict) or isinstance(data, list):
+        return hashlib.sha256(json.dumps(data, sort_keys=True).encode()).hexdigest()
+    elif isinstance(data, str):
+        return hashlib.sha256(data.encode()).hexdigest()
+    else:
+        return hashlib.sha256(str(data).encode()).hexdigest()
 
 def main():
     changed = False
     try:
         for target in API_TARGETS:
-            current = fetch_api_data(target["url"])
+            is_json = target["snapshot_file"].endswith(".json")
+            current = fetch_api_data(target["url"], name=target["name"], is_json=is_json)
             previous = load_snapshot(target["snapshot_file"])
-
+            if current is None:
+                print(f"⚠️ {target['name']} の取得に失敗。スキップします。")
+                continue
             if previous is None or hash_data(current) != hash_data(previous):
                 print(f"✅ 差分あり: {target['name']} スナップショットを更新します。")
                 save_snapshot(target["snapshot_file"], current)
