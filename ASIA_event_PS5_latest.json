@@ -6751,7 +6751,7 @@
                 "value": "AthenaCharacter:character_rankedtroopernoble"
               }
             ],
-            "threshold": 10
+            "threshold": 20
           }
         ],
         "scoringType": "rank"
@@ -6859,7 +6859,7 @@
                 "value": "AthenaCharacter:character_rankedtroopernoble"
               }
             ],
-            "threshold": 10
+            "threshold": 20
           }
         ],
         "scoringType": "rank"
