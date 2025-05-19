@@ -1368,6 +1368,387 @@
       "endTime_jst": "2025年05月28日20時00分00秒",
       "endTime_unix": 1748430000,
       "eventGroup": "Season35_FNSCShowdown",
+      "eventId": "epicgames_S35_FNCSShowdown_OCE",
+      "eventWindows": [
+        {
+          "additionalRequirements": [
+            "mfa",
+            "adps:g-a81a33a3b9a7",
+            "eula:s35_showdown_rules"
+          ],
+          "beginTime": "2025-05-13T08:00:00Z",
+          "beginTime_jst": "2025年05月13日17時00分00秒",
+          "beginTime_unix": 1747123200,
+          "blackoutPeriods": [],
+          "canLiveSpectate": false,
+          "countdownBeginTime": "2025-05-13T07:00:00Z",
+          "countdownBeginTime_jst": "2025年05月13日16時00分00秒",
+          "countdownBeginTime_unix": 1747119600,
+          "endTime": "2025-05-13T11:00:00Z",
+          "endTime_jst": "2025年05月13日20時00分00秒",
+          "endTime_unix": 1747134000,
+          "eventTemplateId": "EventTemplate_S35_FNSCShowdown_Round1",
+          "eventWindowId": "S35_FNSCShowdown_Event1Round1_OCE",
+          "isTBD": false,
+          "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "SubgroupId": "Week1_OCE"
+          },
+          "payoutDelay": 32,
+          "requireAllTokens": [
+            "S35_CashCup_Qualified"
+          ],
+          "requireAllTokensCaller": [],
+          "requireAnyTokens": [
+            "S34_FNCS_Division1_OCE",
+            "S34_FNCS_Division2_OCE",
+            "S33_FNCS_Division1_OCE",
+            "S33_FNCS_Division2_OCE"
+          ],
+          "requireAnyTokensCaller": [],
+          "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S35_FNCS_Banned"
+          ],
+          "round": 0,
+          "scoreLocations": [
+            {
+              "isMainWindowLeaderboard": true,
+              "leaderboardDefId": "S35_FNSCShowdown_Round1_DefaultLeaderboardDef"
+            }
+          ],
+          "teammateEligibility": "all",
+          "visibility": "locked"
+        },
+        {
+          "additionalRequirements": [
+            "mfa",
+            "adps:g-a81a33a3b9a7",
+            "eula:s35_showdown_rules"
+          ],
+          "beginTime": "2025-05-14T08:00:00Z",
+          "beginTime_jst": "2025年05月14日17時00分00秒",
+          "beginTime_unix": 1747209600,
+          "blackoutPeriods": [],
+          "canLiveSpectate": false,
+          "countdownBeginTime": "2025-05-14T07:00:00Z",
+          "countdownBeginTime_jst": "2025年05月14日16時00分00秒",
+          "countdownBeginTime_unix": 1747206000,
+          "endTime": "2025-05-14T11:00:00Z",
+          "endTime_jst": "2025年05月14日20時00分00秒",
+          "endTime_unix": 1747220400,
+          "eventTemplateId": "EventTemplate_S35_FNSCShowdown_Round2",
+          "eventWindowId": "S35_FNSCShowdown_Event1Round2_OCE",
+          "isTBD": false,
+          "metadata": {
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "SubgroupId": "Week1_OCE"
+          },
+          "payoutDelay": 32,
+          "requireAllTokens": [
+            "S35_CashCup_Qualified"
+          ],
+          "requireAllTokensCaller": [],
+          "requireAnyTokens": [
+            "S35_FNSCShowdown_Event1Round2_OCE"
+          ],
+          "requireAnyTokensCaller": [],
+          "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S35_FNCS_Banned"
+          ],
+          "round": 0,
+          "scoreLocations": [
+            {
+              "isMainWindowLeaderboard": true,
+              "leaderboardDefId": "S35_FNSCShowdown_Round2_DefaultLeaderboardDef"
+            }
+          ],
+          "teammateEligibility": "all",
+          "visibility": "locked"
+        },
+        {
+          "additionalRequirements": [
+            "mfa",
+            "adps:g-a81a33a3b9a7",
+            "eula:s35_showdown_rules"
+          ],
+          "beginTime": "2025-05-20T08:00:00Z",
+          "beginTime_jst": "2025年05月20日17時00分00秒",
+          "beginTime_unix": 1747728000,
+          "blackoutPeriods": [],
+          "canLiveSpectate": false,
+          "countdownBeginTime": "2025-05-20T07:00:00Z",
+          "countdownBeginTime_jst": "2025年05月20日16時00分00秒",
+          "countdownBeginTime_unix": 1747724400,
+          "endTime": "2025-05-20T11:00:00Z",
+          "endTime_jst": "2025年05月20日20時00分00秒",
+          "endTime_unix": 1747738800,
+          "eventTemplateId": "EventTemplate_S35_FNSCShowdown_Round1",
+          "eventWindowId": "S35_FNCSShowdown_Event2Round1_OCE",
+          "isTBD": false,
+          "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "SubgroupId": "Week2_OCE"
+          },
+          "payoutDelay": 32,
+          "requireAllTokens": [
+            "S35_CashCup_Qualified"
+          ],
+          "requireAllTokensCaller": [],
+          "requireAnyTokens": [
+            "S34_FNCS_Division1_OCE",
+            "S34_FNCS_Division2_OCE",
+            "S33_FNCS_Division1_OCE",
+            "S33_FNCS_Division2_OCE"
+          ],
+          "requireAnyTokensCaller": [],
+          "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S35_FNCS_Banned"
+          ],
+          "round": 0,
+          "scoreLocations": [
+            {
+              "isMainWindowLeaderboard": true,
+              "leaderboardDefId": "S35_FNSCShowdown_Round1_DefaultLeaderboardDef"
+            }
+          ],
+          "teammateEligibility": "all",
+          "visibility": "locked"
+        },
+        {
+          "additionalRequirements": [
+            "mfa",
+            "adps:g-a81a33a3b9a7",
+            "eula:s35_showdown_rules"
+          ],
+          "beginTime": "2025-05-21T08:00:00Z",
+          "beginTime_jst": "2025年05月21日17時00分00秒",
+          "beginTime_unix": 1747814400,
+          "blackoutPeriods": [],
+          "canLiveSpectate": false,
+          "countdownBeginTime": "2025-05-21T07:00:00Z",
+          "countdownBeginTime_jst": "2025年05月21日16時00分00秒",
+          "countdownBeginTime_unix": 1747810800,
+          "endTime": "2025-05-21T11:00:00Z",
+          "endTime_jst": "2025年05月21日20時00分00秒",
+          "endTime_unix": 1747825200,
+          "eventTemplateId": "EventTemplate_S35_FNSCShowdown_Round2",
+          "eventWindowId": "S35_FNCSShowdown_Event2Round2_OCE",
+          "isTBD": false,
+          "metadata": {
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "SubgroupId": "Week2_OCE"
+          },
+          "payoutDelay": 32,
+          "requireAllTokens": [
+            "S35_CashCup_Qualified"
+          ],
+          "requireAllTokensCaller": [],
+          "requireAnyTokens": [
+            "S35_FNCSShowdown_Event2Round2_OCE"
+          ],
+          "requireAnyTokensCaller": [],
+          "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S35_FNCS_Banned"
+          ],
+          "round": 0,
+          "scoreLocations": [
+            {
+              "isMainWindowLeaderboard": true,
+              "leaderboardDefId": "S35_FNSCShowdown_Round2_DefaultLeaderboardDef"
+            }
+          ],
+          "teammateEligibility": "all",
+          "visibility": "locked"
+        },
+        {
+          "additionalRequirements": [
+            "mfa",
+            "adps:g-a81a33a3b9a7",
+            "eula:s35_showdown_rules"
+          ],
+          "beginTime": "2025-05-27T08:00:00Z",
+          "beginTime_jst": "2025年05月27日17時00分00秒",
+          "beginTime_unix": 1748332800,
+          "blackoutPeriods": [],
+          "canLiveSpectate": false,
+          "countdownBeginTime": "2025-05-27T07:00:00Z",
+          "countdownBeginTime_jst": "2025年05月27日16時00分00秒",
+          "countdownBeginTime_unix": 1748329200,
+          "endTime": "2025-05-27T11:00:00Z",
+          "endTime_jst": "2025年05月27日20時00分00秒",
+          "endTime_unix": 1748343600,
+          "eventTemplateId": "EventTemplate_S35_FNSCShowdown_Round1",
+          "eventWindowId": "S35_FNCSShowdown_Event3Round1_OCE",
+          "isTBD": false,
+          "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "SubgroupId": "Week3_OCE"
+          },
+          "payoutDelay": 32,
+          "requireAllTokens": [
+            "S35_CashCup_Qualified"
+          ],
+          "requireAllTokensCaller": [],
+          "requireAnyTokens": [
+            "S34_FNCS_Division1_OCE",
+            "S34_FNCS_Division2_OCE",
+            "S33_FNCS_Division1_OCE",
+            "S33_FNCS_Division2_OCE"
+          ],
+          "requireAnyTokensCaller": [],
+          "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S35_FNCS_Banned"
+          ],
+          "round": 0,
+          "scoreLocations": [
+            {
+              "isMainWindowLeaderboard": true,
+              "leaderboardDefId": "S35_FNSCShowdown_Round1_DefaultLeaderboardDef"
+            }
+          ],
+          "teammateEligibility": "all",
+          "visibility": "locked"
+        },
+        {
+          "additionalRequirements": [
+            "mfa",
+            "adps:g-a81a33a3b9a7",
+            "eula:s35_showdown_rules"
+          ],
+          "beginTime": "2025-05-28T08:00:00Z",
+          "beginTime_jst": "2025年05月28日17時00分00秒",
+          "beginTime_unix": 1748419200,
+          "blackoutPeriods": [],
+          "canLiveSpectate": false,
+          "countdownBeginTime": "2025-05-28T07:00:00Z",
+          "countdownBeginTime_jst": "2025年05月28日16時00分00秒",
+          "countdownBeginTime_unix": 1748415600,
+          "endTime": "2025-05-28T11:00:00Z",
+          "endTime_jst": "2025年05月28日20時00分00秒",
+          "endTime_unix": 1748430000,
+          "eventTemplateId": "EventTemplate_S35_FNSCShowdown_Round2",
+          "eventWindowId": "S35_FNCSShowdown_Event3Round2_OCE",
+          "isTBD": false,
+          "metadata": {
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "SubgroupId": "Week3_OCE"
+          },
+          "payoutDelay": 32,
+          "requireAllTokens": [
+            "S35_CashCup_Qualified"
+          ],
+          "requireAllTokensCaller": [],
+          "requireAnyTokens": [
+            "S35_FNCSShowdown_Event3Round2_OCE"
+          ],
+          "requireAnyTokensCaller": [],
+          "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S35_FNCS_Banned"
+          ],
+          "round": 0,
+          "scoreLocations": [
+            {
+              "isMainWindowLeaderboard": true,
+              "leaderboardDefId": "S35_FNSCShowdown_Round2_DefaultLeaderboardDef"
+            }
+          ],
+          "teammateEligibility": "all",
+          "visibility": "locked"
+        }
+      ],
+      "gameId": "Fortnite",
+      "link": {
+        "code": "tournament_epicgames_s35_fncsshowdown_oce",
+        "type": "br:tournament",
+        "version": 1
+      },
+      "metadata": {
+        "AccountLockType": "Window",
+        "TeamLockType": "Window",
+        "minimumAccountLevel": 350,
+        "requireSystemFeatures": [
+          "SecureBoot",
+          "CryptoProcessor"
+        ],
+        "tournamentType": "FNCS",
+        "webId": "S35_FNSCShowdown"
+      },
+      "platformMappings": {},
+      "platforms": [
+        "XboxOneGDK",
+        "PS4",
+        "XCloud",
+        "Helios",
+        "Luna",
+        "IOS",
+        "XB1",
+        "XboxOne",
+        "XSX",
+        "Android",
+        "LunaMobile",
+        "PS5",
+        "XCloudMobile",
+        "Mac",
+        "HeliosMobile",
+        "GFN",
+        "Switch",
+        "GFNMobile",
+        "Windows"
+      ],
+      "regionMappings": {
+        "OCE": "OCECOMP"
+      },
+      "regions": [
+        "OCE"
+      ]
+    },
+    {
+      "announcementTime": "2025-02-21T08:00:00Z",
+      "announcementTime_jst": "2025年02月21日17時00分00秒",
+      "announcementTime_unix": 1740124800,
+      "beginTime": "2025-05-13T08:00:00Z",
+      "beginTime_jst": "2025年05月13日17時00分00秒",
+      "beginTime_unix": 1747123200,
+      "displayData": {
+        "details_description": "トリオを組んで、賞金獲得を目指しましょう！前シーズンにFNCS ディビジョン1または2に所属し、それに加えて過去180日間に14種のトーナメントに参加したプレイヤーは、本イベントに参加する資格があります。各FNCS ショーダウンのラウンド1での、各地域の上位33チームがラウンド2に進出し、賞金の獲得を目指して競い合います。",
+        "flavor_description": "",
+        "loading_screen_image": "https://cdn2.unrealengine.com/en-fnce-33-30-competitive-discoverytile-major-1920x1080-1920x1080-a24ebbb7bf9a.jpg",
+        "long_format_title": "FNCS ショーダウン",
+        "poster_back_image": null,
+        "poster_front_image": "https://cdn2.unrealengine.com/fnce-33-00-competitive-keyart-posterfront-750x1080-750x1080-0f8ed2de08b6.jpg",
+        "round_names": null,
+        "short_format_title": "",
+        "square_poster_image": "https://cdn2.unrealengine.com/en-fnce-33-30-competitive-discoverytile-major-1920x1080-1920x1080-a24ebbb7bf9a.jpg"
+      },
+      "displayDataId": "s35_fncsshowdown",
+      "endTime": "2025-05-28T11:00:00Z",
+      "endTime_jst": "2025年05月28日20時00分00秒",
+      "endTime_unix": 1748430000,
+      "eventGroup": "Season35_FNSCShowdown",
       "eventId": "epicgames_S35_FNSCShowdown_OCE",
       "eventWindows": [
         {
@@ -6046,6 +6427,44 @@
         "scoringType": "rank"
       }
     ],
+    "S35_FNCSShowdown_Event2Round1_OCE": [
+      {
+        "ranks": [
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 1,
+                "rewardMode": "standard",
+                "rewardType": "token",
+                "value": "S35_FNCSShowdown_Event2Round2_OCE"
+              }
+            ],
+            "threshold": 33
+          }
+        ],
+        "scoringType": "rank"
+      }
+    ],
+    "S35_FNCSShowdown_Event3Round1_OCE": [
+      {
+        "ranks": [
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 1,
+                "rewardMode": "standard",
+                "rewardType": "token",
+                "value": "S35_FNCSShowdown_Event3Round2_OCE"
+              }
+            ],
+            "threshold": 33
+          }
+        ],
+        "scoringType": "rank"
+      }
+    ],
     "S35_FNSCShowdown_Event1Round1_OCE": [
       {
         "ranks": [
@@ -6175,6 +6594,61 @@
           }
         ],
         "scoringType": "value"
+      }
+    ],
+    "epicgames_S35_FNCSShowdown_OCE": [
+      {
+        "ranks": [
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 600,
+                "rewardMode": "standard",
+                "rewardType": "ecomm",
+                "value": "USD"
+              }
+            ],
+            "threshold": 1
+          },
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 300,
+                "rewardMode": "standard",
+                "rewardType": "ecomm",
+                "value": "USD"
+              }
+            ],
+            "threshold": 2
+          },
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 200,
+                "rewardMode": "standard",
+                "rewardType": "ecomm",
+                "value": "USD"
+              }
+            ],
+            "threshold": 3
+          },
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 100,
+                "rewardMode": "standard",
+                "rewardType": "ecomm",
+                "value": "USD"
+              }
+            ],
+            "threshold": 25
+          }
+        ],
+        "scoringType": "rank"
       }
     ],
     "epicgames_S35_FNSCShowdown_OCE": [
@@ -6391,6 +6865,12 @@
     "Fortnite:epicgames_S35_FNCSCommunityCups_Clix_OCE:S35_FNCSCommunityCups_Clix_OCE_makegood": "S35_FNCSCommunityCups_Clix_OCE_makegood",
     "Fortnite:epicgames_S35_FNCSCommunityCups_Lachlan_OCE:S35_FNCSCommunityCups_Lachlan_OCE": "S35_FNCSCommunityCups_Lachlan_OCE",
     "Fortnite:epicgames_S35_FNCSCommunityCups_Loserfruit_OCE:S35_FNCSCommunityCups_Loserfruit_OCE": "S35_FNCSCommunityCups_Loserfruit_OCE",
+    "Fortnite:epicgames_S35_FNCSShowdown_OCE:S35_FNCSShowdown_Event2Round1_OCE": "S35_FNCSShowdown_Event2Round1_OCE",
+    "Fortnite:epicgames_S35_FNCSShowdown_OCE:S35_FNCSShowdown_Event2Round2_OCE": "epicgames_S35_FNCSShowdown_OCE",
+    "Fortnite:epicgames_S35_FNCSShowdown_OCE:S35_FNCSShowdown_Event3Round1_OCE": "S35_FNCSShowdown_Event3Round1_OCE",
+    "Fortnite:epicgames_S35_FNCSShowdown_OCE:S35_FNCSShowdown_Event3Round2_OCE": "epicgames_S35_FNCSShowdown_OCE",
+    "Fortnite:epicgames_S35_FNCSShowdown_OCE:S35_FNSCShowdown_Event1Round1_OCE": "S35_FNSCShowdown_Event1Round1_OCE",
+    "Fortnite:epicgames_S35_FNCSShowdown_OCE:S35_FNSCShowdown_Event1Round2_OCE": "epicgames_S35_FNCSShowdown_OCE",
     "Fortnite:epicgames_S35_FNSCShowdown_OCE:S35_FNSCShowdown_Event1Round1_OCE": "S35_FNSCShowdown_Event1Round1_OCE",
     "Fortnite:epicgames_S35_FNSCShowdown_OCE:S35_FNSCShowdown_Event1Round2_OCE": "epicgames_S35_FNSCShowdown_OCE",
     "Fortnite:epicgames_S35_FNSCShowdown_OCE:S35_FNSCShowdown_Event2Round1_OCE": "S35_FNSCShowdown_Event2Round1_OCE",

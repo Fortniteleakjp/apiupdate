@@ -1447,7 +1447,7 @@
           "endTime_jst": "2025年05月21日13時00分00秒",
           "endTime_unix": 1747800000,
           "eventTemplateId": "EventTemplate_S35_FNSCShowdown_Round1",
-          "eventWindowId": "S35_FNSCShowdown_Event2Round1_NAW",
+          "eventWindowId": "S35_FNCSShowdown_Event2Round1_NAW",
           "isTBD": false,
           "metadata": {
             "RoundType": "Qualifiers",
@@ -1499,7 +1499,7 @@
           "endTime_jst": "2025年05月22日13時00分00秒",
           "endTime_unix": 1747886400,
           "eventTemplateId": "EventTemplate_S35_FNSCShowdown_Round2",
-          "eventWindowId": "S35_FNSCShowdown_Event2Round2_NAW",
+          "eventWindowId": "S35_FNCSShowdown_Event2Round2_NAW",
           "isTBD": false,
           "metadata": {
             "RoundType": "Qualifiers",
@@ -1514,7 +1514,7 @@
           ],
           "requireAllTokensCaller": [],
           "requireAnyTokens": [
-            "S35_FNSCShowdown_Event2Round2_NAW"
+            "S35_FNCSShowdown_Event2Round2_NAW"
           ],
           "requireAnyTokensCaller": [],
           "requireNoneTokensCaller": [
@@ -1550,7 +1550,7 @@
           "endTime_jst": "2025年05月28日13時00分00秒",
           "endTime_unix": 1748404800,
           "eventTemplateId": "EventTemplate_S35_FNSCShowdown_Round1",
-          "eventWindowId": "S35_FNSCShowdown_Event3Round1_NAW",
+          "eventWindowId": "S35_FNCSShowdown_Event3Round1_NAW",
           "isTBD": false,
           "metadata": {
             "RoundType": "Qualifiers",
@@ -1602,7 +1602,7 @@
           "endTime_jst": "2025年05月29日13時00分00秒",
           "endTime_unix": 1748491200,
           "eventTemplateId": "EventTemplate_S35_FNSCShowdown_Round2",
-          "eventWindowId": "S35_FNSCShowdown_Event3Round2_NAW",
+          "eventWindowId": "S35_FNCSShowdown_Event3Round2_NAW",
           "isTBD": false,
           "metadata": {
             "RoundType": "Qualifiers",
@@ -1617,7 +1617,7 @@
           ],
           "requireAllTokensCaller": [],
           "requireAnyTokens": [
-            "S35_FNSCShowdown_Event3Round2_NAW"
+            "S35_FNCSShowdown_Event3Round2_NAW"
           ],
           "requireAnyTokensCaller": [],
           "requireNoneTokensCaller": [
@@ -6229,6 +6229,44 @@
         "scoringType": "rank"
       }
     ],
+    "S35_FNCSShowdown_Event2Round1_NAW": [
+      {
+        "ranks": [
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 1,
+                "rewardMode": "standard",
+                "rewardType": "token",
+                "value": "S35_FNCSShowdown_Event2Round2_NAW"
+              }
+            ],
+            "threshold": 33
+          }
+        ],
+        "scoringType": "rank"
+      }
+    ],
+    "S35_FNCSShowdown_Event3Round1_NAW": [
+      {
+        "ranks": [
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 1,
+                "rewardMode": "standard",
+                "rewardType": "token",
+                "value": "S35_FNCSShowdown_Event3Round2_NAW"
+              }
+            ],
+            "threshold": 33
+          }
+        ],
+        "scoringType": "rank"
+      }
+    ],
     "S35_FNSCShowdown_Event1Round1_NAW": [
       {
         "ranks": [
@@ -6240,44 +6278,6 @@
                 "rewardMode": "standard",
                 "rewardType": "token",
                 "value": "S35_FNSCShowdown_Event1Round2_NAW"
-              }
-            ],
-            "threshold": 33
-          }
-        ],
-        "scoringType": "rank"
-      }
-    ],
-    "S35_FNSCShowdown_Event2Round1_NAW": [
-      {
-        "ranks": [
-          {
-            "payouts": [
-              {
-                "notifiesPlayer": false,
-                "quantity": 1,
-                "rewardMode": "standard",
-                "rewardType": "token",
-                "value": "S35_FNSCShowdown_Event2Round2_NAW"
-              }
-            ],
-            "threshold": 33
-          }
-        ],
-        "scoringType": "rank"
-      }
-    ],
-    "S35_FNSCShowdown_Event3Round1_NAW": [
-      {
-        "ranks": [
-          {
-            "payouts": [
-              {
-                "notifiesPlayer": false,
-                "quantity": 1,
-                "rewardMode": "standard",
-                "rewardType": "token",
-                "value": "S35_FNSCShowdown_Event3Round2_NAW"
               }
             ],
             "threshold": 33
@@ -6573,12 +6573,12 @@
     "Fortnite:epicgames_S35_FNCSCommunityCups_Clix_NAW:S35_FNCSCommunityCups_Clix_NAW": "S35_FNCSCommunityCups_Clix_NAW",
     "Fortnite:epicgames_S35_FNCSCommunityCups_Lachlan_NAW:S35_FNCSCommunityCups_Lachlan_NAW": "S35_FNCSCommunityCups_Lachlan_NAW",
     "Fortnite:epicgames_S35_FNCSCommunityCups_Loserfruit_NAW:S35_FNCSCommunityCups_Loserfruit_NAW": "S35_FNCSCommunityCups_Loserfruit_NAW",
+    "Fortnite:epicgames_S35_FNSCShowdown_NAW:S35_FNCSShowdown_Event2Round1_NAW": "S35_FNCSShowdown_Event2Round1_NAW",
+    "Fortnite:epicgames_S35_FNSCShowdown_NAW:S35_FNCSShowdown_Event2Round2_NAW": "epicgames_S35_FNSCShowdown_NAW",
+    "Fortnite:epicgames_S35_FNSCShowdown_NAW:S35_FNCSShowdown_Event3Round1_NAW": "S35_FNCSShowdown_Event3Round1_NAW",
+    "Fortnite:epicgames_S35_FNSCShowdown_NAW:S35_FNCSShowdown_Event3Round2_NAW": "epicgames_S35_FNSCShowdown_NAW",
     "Fortnite:epicgames_S35_FNSCShowdown_NAW:S35_FNSCShowdown_Event1Round1_NAW": "S35_FNSCShowdown_Event1Round1_NAW",
     "Fortnite:epicgames_S35_FNSCShowdown_NAW:S35_FNSCShowdown_Event1Round2_NAW": "epicgames_S35_FNSCShowdown_NAW",
-    "Fortnite:epicgames_S35_FNSCShowdown_NAW:S35_FNSCShowdown_Event2Round1_NAW": "S35_FNSCShowdown_Event2Round1_NAW",
-    "Fortnite:epicgames_S35_FNSCShowdown_NAW:S35_FNSCShowdown_Event2Round2_NAW": "epicgames_S35_FNSCShowdown_NAW",
-    "Fortnite:epicgames_S35_FNSCShowdown_NAW:S35_FNSCShowdown_Event3Round1_NAW": "S35_FNSCShowdown_Event3Round1_NAW",
-    "Fortnite:epicgames_S35_FNSCShowdown_NAW:S35_FNSCShowdown_Event3Round2_NAW": "epicgames_S35_FNSCShowdown_NAW",
     "Fortnite:epicgames_S35_RankedCupBSGDuos_NAW:S35_RankedCupBSGDuos_Event1_NAW": "S35_PayoutTableRankedCup",
     "Fortnite:epicgames_S35_RankedCupBSGDuos_NAW:S35_RankedCupBSGDuos_Event2_NAW": "S35_PayoutTableRankedCup",
     "Fortnite:epicgames_S35_RankedCupBSGDuos_NAW:S35_RankedCupBSGDuos_Event3_NAW": "S35_PayoutTableRankedCup",
