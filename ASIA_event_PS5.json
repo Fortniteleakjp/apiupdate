@@ -6823,7 +6823,7 @@
                 "value": "AthenaCharacter:character_rankedtroopernoble"
               }
             ],
-            "threshold": 5
+            "threshold": 15
           }
         ],
         "scoringType": "rank"
