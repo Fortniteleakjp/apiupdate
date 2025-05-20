@@ -54533,6 +54533,32 @@
           "_type": "ShopOfferPresentationData",
           "presentations": [
             {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-character-grandscheme-group-1024x1024-e61d7916074f.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/tathenabundlescharactergrandschemegroup-02-1024x1024-727e67af2e48.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-grandschemea-1024x1024-b5a09d60c9a5.png",
+              "productTag": "Product.Juno",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/tathenabundlesgrandscheme-02-1024x1024-2045edb90c44.png",
+              "productTag": "Product.Juno",
+              "_type": "ShopOfferPresentation"
+            }
+          ],
+          "visualId": "/OfferCatalog/NewDisplayAssets/S26/DAv2_Bundle_Featured_GrandScheme.DAv2_Bundle_Featured_GrandScheme"
+        },
+        {
+          "_type": "ShopOfferPresentationData",
+          "presentations": [
+            {
               "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-geneaglet-1024x1024-d9d5737710d6.png",
               "productTag": "Product.BR",
               "_type": "ShopOfferPresentation"
@@ -55516,8 +55542,8 @@
     },
     "_title": "shopOfferVisuals",
     "_noIndex": true,
-    "_activeDate": "2025-04-18T23:00:00.000Z",
-    "lastModified": "2025-05-09T21:50:11.150Z",
+    "_activeDate": "2025-05-20T23:00:00.000Z",
+    "lastModified": "2025-05-20T19:06:31.142Z",
     "_locale": "en-US",
     "_templateName": "FortniteGameShopOfferVisuals"
   },
