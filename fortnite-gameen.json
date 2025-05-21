@@ -1,7 +1,7 @@
 {
   "_title": "Fortnite Game",
   "_activeDate": "2017-08-30T03:20:48.050Z",
-  "lastModified": "2025-05-20T21:46:10.067Z",
+  "lastModified": "2025-05-21T00:42:52.519Z",
   "_locale": "en-US",
   "_templateName": "blank",
   "subgameinfo": {
@@ -21378,10 +21378,21 @@
     "_title": "emergencynoticev2",
     "_noIndex": false,
     "emergencynotices": {
-      "_type": "Emergency Notices"
+      "_type": "Emergency Notices",
+      "emergencynotices": [
+        {
+          "hidden": false,
+          "_type": "CommonUI Emergency Notice Base",
+          "title": "Voice Chat Disabled",
+          "body": "Voice Chat has been temporarily disabled while we investigate an issue.",
+          "platforms": [
+            "IOS"
+          ]
+        }
+      ]
     },
     "_activeDate": "2023-09-26T03:00:00.000Z",
-    "lastModified": "2025-05-16T07:36:02.428Z",
+    "lastModified": "2025-05-21T00:42:52.519Z",
     "_locale": "en-US",
     "_templateName": "FortniteGameMOTD"
   },
