@@ -1,7 +1,7 @@
 {
   "_title": "Fortnite Game",
   "_activeDate": "2017-08-30T03:20:48.050Z",
-  "lastModified": "2025-05-21T00:42:52.519Z",
+  "lastModified": "2025-05-21T18:38:26.477Z",
   "_locale": "en-US",
   "_templateName": "blank",
   "subgameinfo": {
@@ -46546,9 +46546,85 @@
                     },
                     {
                       "bUseWidePreview": false,
-                      "displayType": "tileGrid",
+                      "displayType": "billboard",
                       "metadata": {
-                        "_type": "MP Item Shop - Offer Group Metadata"
+                        "_type": "MP Item Shop - Offer Group Metadata",
+                        "textureMetadata": [
+                          {
+                            "_type": "MP Item Shop - Offer Group Texture Metadata",
+                            "value": "https://cdn2.unrealengine.com/sk-Billboard_SWE_JJ_BG-ed4f81a7.png",
+                            "key": "background"
+                          },
+                          {
+                            "_type": "MP Item Shop - Offer Group Texture Metadata",
+                            "value": "https://cdn2.unrealengine.com/sk-Billboard_SWE_JJ_Character-f5c152a5.png",
+                            "key": "foreground"
+                          },
+                          {
+                            "_type": "MP Item Shop - Offer Group Texture Metadata",
+                            "value": "https://cdn2.unrealengine.com/sk-BillBoard_GuineaPig_Logo-afb17931.png",
+                            "key": "banner"
+                          },
+                          {
+                            "_type": "MP Item Shop - Offer Group Texture Metadata",
+                            "value": "https://cdn2.unrealengine.com/sk-Billboard_SWE_JJ_Figure-dc94f56a.png",
+                            "key": "foreground_juno"
+                          },
+                          {
+                            "_type": "MP Item Shop - Offer Group Texture Metadata",
+                            "value": "https://cdn2.unrealengine.com/sk-Billboard_SWE_JJ_ItemStack-624c25c4.png",
+                            "key": "bodyImage"
+                          }
+                        ],
+                        "textMetadata": [
+                          {
+                            "_type": "MP Item Shop - Offer Group Text Metadata",
+                            "value": "Jar Jar Binks",
+                            "key": "title"
+                          },
+                          {
+                            "_type": "MP Item Shop - Offer Group Text Metadata",
+                            "value": "5 ITEM BUNDLE",
+                            "key": "subtitle"
+                          },
+                          {
+                            "_type": "MP Item Shop - Offer Group Text Metadata",
+                            "value": "View Offer",
+                            "key": "cta"
+                          }
+                        ],
+                        "stringMetadata": [
+                          {
+                            "_type": "MP Item Shop - Offer Group String Metadata",
+                            "value": "left",
+                            "key": "alignment"
+                          },
+                          {
+                            "_type": "MP Item Shop - Offer Group String Metadata",
+                            "value": true,
+                            "key": "parallaxEnabled"
+                          },
+                          {
+                            "_type": "MP Item Shop - Offer Group String Metadata",
+                            "value": true,
+                            "key": "highlightEnabled"
+                          },
+                          {
+                            "_type": "MP Item Shop - Offer Group String Metadata",
+                            "value": "FFFFFF",
+                            "key": "titleColorA"
+                          },
+                          {
+                            "_type": "MP Item Shop - Offer Group String Metadata",
+                            "value": "FFFFFF",
+                            "key": "titleColorB"
+                          },
+                          {
+                            "_type": "MP Item Shop - Offer Group String Metadata",
+                            "value": "allowshopbillboardoffergroups_91",
+                            "key": "billboardExperiment"
+                          }
+                        ]
                       },
                       "_type": "MP Item Shop - Row",
                       "offerGroupId": "98",
@@ -47063,8 +47139,8 @@
     },
     "_title": "mp-item-shop",
     "_noIndex": false,
-    "_activeDate": "2025-05-20T21:46:10.067Z",
-    "lastModified": "2025-05-20T21:46:10.067Z",
+    "_activeDate": "2025-05-21T18:38:26.477Z",
+    "lastModified": "2025-05-21T18:38:26.477Z",
     "_locale": "en-US",
     "_templateName": "FortniteGameMPItemShop",
     "_suggestedPrefetch": [],
