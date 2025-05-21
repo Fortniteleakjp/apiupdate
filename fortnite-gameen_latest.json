@@ -1,7 +1,7 @@
 {
   "_title": "Fortnite Game",
   "_activeDate": "2017-08-30T03:20:48.050Z",
-  "lastModified": "2025-05-21T18:57:08.211Z",
+  "lastModified": "2025-05-21T19:26:00.926Z",
   "_locale": "en-US",
   "_templateName": "blank",
   "subgameinfo": {
@@ -22834,7 +22834,7 @@
                               "type": "Platform"
                             },
                             {
-                              "comparisonValue": "0.1",
+                              "comparisonValue": "0.01",
                               "_type": "Player Survey V2 - Condition Level 5",
                               "type": "Random",
                               "operation": "LessThan"
@@ -22969,7 +22969,7 @@
                               "type": "Platform"
                             },
                             {
-                              "comparisonValue": "0.1",
+                              "comparisonValue": "0.01",
                               "_type": "Player Survey V2 - Condition Level 5",
                               "type": "Random",
                               "operation": "LessThan"
@@ -23122,7 +23122,7 @@
                               "type": "Platform"
                             },
                             {
-                              "comparisonValue": "0.1",
+                              "comparisonValue": "0.01",
                               "_type": "Player Survey V2 - Condition Level 5",
                               "type": "Random",
                               "operation": "LessThan"
@@ -23257,7 +23257,7 @@
                               "type": "Platform"
                             },
                             {
-                              "comparisonValue": "0.1",
+                              "comparisonValue": "0.01",
                               "_type": "Player Survey V2 - Condition Level 5",
                               "type": "Random",
                               "operation": "LessThan"
@@ -37444,6 +37444,21 @@
           "_type": "Player Survey V2 - Custom Text Replacements",
           "textReplacementValues": [
             {
+              "textID": "Amban Sniper Rifle",
+              "_type": "Player Survey V2 - Localizable Text",
+              "localizedText": "Amban Sniper Rifle"
+            },
+            {
+              "textID": "WESTAR-34 Blaster Pistols",
+              "_type": "Player Survey V2 - Localizable Text",
+              "localizedText": "WESTAR-34 Blaster Pistols"
+            },
+            {
+              "textID": "Mandalorian Jetpack",
+              "_type": "Player Survey V2 - Localizable Text",
+              "localizedText": "Mandalorian Jetpack"
+            },
+            {
               "textID": "CA-87 Jawa Scatter Blaster",
               "_type": "Player Survey V2 - Localizable Text",
               "localizedText": "CA-87 Jawa Scatter Blaster"
@@ -39003,9 +39018,29 @@
           "_type": "Player Survey V2 - Custom Text Replacements",
           "textReplacementValues": [
             {
+              "textID": "Amban Sniper Rifle",
+              "_type": "Player Survey V2 - Localizable Text",
+              "localizedText": "Amban Sniper Rifle"
+            },
+            {
+              "textID": "WESTAR-34 Blaster Pistols",
+              "_type": "Player Survey V2 - Localizable Text",
+              "localizedText": "WESTAR-34 Blaster Pistols"
+            },
+            {
+              "textID": "Mandalorian Jetpack",
+              "_type": "Player Survey V2 - Localizable Text",
+              "localizedText": "Mandalorian Jetpack"
+            },
+            {
               "textID": "CA-87 Jawa Scatter Blaster",
               "_type": "Player Survey V2 - Localizable Text",
               "localizedText": "CA-87 Jawa Scatter Blaster"
+            },
+            {
+              "textID": "Wookiee Bowcaster",
+              "_type": "Player Survey V2 - Localizable Text",
+              "localizedText": "Wookiee Bowcaster"
             },
             {
               "textID": "Force Pull",
@@ -39218,8 +39253,8 @@
     },
     "_title": "playersurveyv2",
     "_noIndex": false,
-    "_activeDate": "2025-05-16T10:00:00.000Z",
-    "lastModified": "2025-05-15T16:02:02.718Z",
+    "_activeDate": "2025-05-21T20:00:00.000Z",
+    "lastModified": "2025-05-21T19:26:00.926Z",
     "_locale": "en-US",
     "_templateName": "FortniteGamePlayerSurveyV2"
   },
