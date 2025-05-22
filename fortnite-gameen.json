@@ -1,7 +1,7 @@
 {
   "_title": "Fortnite Game",
   "_activeDate": "2017-08-30T03:20:48.050Z",
-  "lastModified": "2025-05-21T22:31:43.528Z",
+  "lastModified": "2025-05-22T00:38:39.021Z",
   "_locale": "en-US",
   "_templateName": "blank",
   "subgameinfo": {
@@ -39423,7 +39423,7 @@
           ]
         },
         {
-          "leaderboard_id": "epicgames_S35_FreeingFortniteCup_NAW:S35_FreeingFortniteCup_NAW_apples",
+          "leaderboard_id": "epicgames_S35_FreeingFortniteCup_NAW:S35_FreeingFortniteCup_NAW_Apples",
           "show_details_panel": true,
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Apples Consumed",
@@ -39432,7 +39432,7 @@
           ]
         },
         {
-          "leaderboard_id": "epicgames_S35_FreeingFortniteCup_NAC:S35_FreeingFortniteCup_NAC_apples",
+          "leaderboard_id": "epicgames_S35_FreeingFortniteCup_NAC:S35_FreeingFortniteCup_NAC_Apples",
           "show_details_panel": true,
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Apples Consumed",
@@ -39441,7 +39441,7 @@
           ]
         },
         {
-          "leaderboard_id": "epicgames_S35_FreeingFortniteCup_BR:S35_FreeingFortniteCup_BR_apples",
+          "leaderboard_id": "epicgames_S35_FreeingFortniteCup_BR:S35_FreeingFortniteCup_BR_Apples",
           "show_details_panel": true,
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Apples Consumed",
@@ -39450,7 +39450,7 @@
           ]
         },
         {
-          "leaderboard_id": "epicgames_S35_FreeingFortniteCup_EU:S35_FreeingFortniteCup_EU_apples",
+          "leaderboard_id": "epicgames_S35_FreeingFortniteCup_EU:S35_FreeingFortniteCup_EU_Apples",
           "show_details_panel": true,
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Apples Consumed",
@@ -39459,7 +39459,7 @@
           ]
         },
         {
-          "leaderboard_id": "epicgames_S35_FreeingFortniteCup_ME:S35_FreeingFortniteCup_ME_apples",
+          "leaderboard_id": "epicgames_S35_FreeingFortniteCup_ME:S35_FreeingFortniteCup_ME_Apples",
           "show_details_panel": true,
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Apples Consumed",
@@ -39468,7 +39468,7 @@
           ]
         },
         {
-          "leaderboard_id": "epicgames_S35_FreeingFortniteCup_ASIA:S35_FreeingFortniteCup_ASIA_apples",
+          "leaderboard_id": "epicgames_S35_FreeingFortniteCup_ASIA:S35_FreeingFortniteCup_ASIA_Apples",
           "show_details_panel": true,
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Apples Consumed",
@@ -39477,7 +39477,7 @@
           ]
         },
         {
-          "leaderboard_id": "epicgames_S35_FreeingFortniteCup_OCE:S35_FreeingFortniteCup_OCE_apples",
+          "leaderboard_id": "epicgames_S35_FreeingFortniteCup_OCE:S35_FreeingFortniteCup_OCE_Apples",
           "show_details_panel": true,
           "_type": "Leaderboard Display Info",
           "leaderboard_name": "Apples Consumed",
@@ -41327,7 +41327,7 @@
     "_title": "leaderboardinformation",
     "_noIndex": false,
     "_activeDate": "2022-09-18T06:00:00.000Z",
-    "lastModified": "2025-05-13T14:54:35.776Z",
+    "lastModified": "2025-05-22T00:38:39.021Z",
     "_locale": "en-US",
     "_templateName": "FortniteGameLeaderboardInfo"
   },
