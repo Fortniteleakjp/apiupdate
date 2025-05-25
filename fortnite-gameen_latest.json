@@ -53449,6 +53449,22 @@
           "_type": "ShopOfferPresentationData",
           "presentations": [
             {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-freedrive-jn-1024x1024-5238d6ce757d.png",
+              "productTag": "Product.Juno",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-freedrive-1024x1024-6ff68205d386.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            }
+          ],
+          "visualId": "/OfferCatalog/NewDisplayAssets/S31/DAv2_Bundle_Featured_FreeDrive.DAv2_Bundle_Featured_FreeDrive"
+        },
+        {
+          "_type": "ShopOfferPresentationData",
+          "presentations": [
+            {
               "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-character-grandscheme-group-1024x1024-e61d7916074f.png",
               "productTag": "Product.BR",
               "_type": "ShopOfferPresentation"
@@ -54458,8 +54474,8 @@
     },
     "_title": "shopOfferVisuals",
     "_noIndex": true,
-    "_activeDate": "2025-05-20T23:00:00.000Z",
-    "lastModified": "2025-05-21T18:57:08.211Z",
+    "_activeDate": "2025-05-25T23:00:00.000Z",
+    "lastModified": "2025-05-25T20:18:46.450Z",
     "_locale": "en-US",
     "_templateName": "FortniteGameShopOfferVisuals"
   },
