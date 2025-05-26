@@ -41859,25 +41859,25 @@
           "nextDetails": {
             "colorA": "",
             "colorB": "",
-            "secondaryTileImageURL": "https://cdn2.unrealengine.com/2025may-crew-benefits---recurring-benefits-crew-pack-tile-260x160-199f2d997d0e.png",
-            "tileImageURL": "https://cdn2.unrealengine.com/2025may-crew-benefits---recurring-benefits-crew-pack-tile-260x160-199f2d997d0e.png",
+            "secondaryTileImageURL": "https://cdn2.unrealengine.com/2025june-crew-benefits---recurring-benefits-crew-pack-tile-260x160-5ded3be823a3.png",
+            "tileImageURL": "https://cdn2.unrealengine.com/2025june-crew-benefits---recurring-benefits-crew-pack-tile-260x160-5ded3be823a3.png",
             "_type": "Crew Tile Details Data",
             "color3Hex": "",
-            "description": "Get the Kwame Outfit, Back Bling, and Pickaxe!",
-            "color4Hex": "12272F",
-            "title": "May Crew Pack",
-            "color2Hex": "178C83",
-            "color1Hex": "113B3B",
+            "description": "Get the Ayla Winn Outfit, Back Bling, and Pickaxe!",
+            "color4Hex": "5238EC",
+            "title": "June Crew Pack",
+            "color2Hex": "87CEFA",
+            "color1Hex": "7E6DE6",
             "tag": "MonthlyBenefit",
             "colorC": "",
-            "backgroundImageURL": "https://cdn2.unrealengine.com/2025may-crew-benefits-screen---crew-pack-background-texture-1922x1082-caccb5d57e9e.png"
+            "backgroundImageURL": "https://cdn2.unrealengine.com/2025june-crew-benefits-screen---crew-pack-background-texture-1922x1082-a86b44b6f93d.png"
           },
           "nextCrewPackItems": [
-            "AthenaCharacter:character_mutedsheath",
-            "AthenaBackpack:backpack_mutedsheath",
-            "AthenaPickaxe:pickaxe_mutedsheath"
+            "AthenaCharacter:character_bluntwhimsy",
+            "AthenaBackpack:backpack_bluntwhimsy",
+            "AthenaPickaxe:pickaxe_bluntwhimsy"
           ],
-          "bHasNextCrewPackDetails": false,
+          "bHasNextCrewPackDetails": true,
           "_type": "Crew Tile Data",
           "details": {
             "colorA": "",
@@ -42829,8 +42829,8 @@
         }
       ]
     },
-    "_activeDate": "2025-05-02T06:00:00.000Z",
-    "lastModified": "2025-05-10T00:06:07.975Z",
+    "_activeDate": "2025-05-26T17:00:00.000Z",
+    "lastModified": "2025-05-22T20:59:24.759Z",
     "_locale": "en-US",
     "_templateName": "FortniteGameCrewScreenData"
   },
