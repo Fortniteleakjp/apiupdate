@@ -8,49 +8,49 @@ from datetime import datetime
 API_TARGETS = [
     {
         "name": "ASIA_Windows",
-        "url": "https://tournamentapi.onrender.com/api/tournamentlist?region=ASIA&platform=Windows",
+        "url": os.getenv("URL_ASIA_WINDOWS"),
         "snapshot_file": "ASIA_event_Windows.json",
         "latest_file": "ASIA_event_Windows_latest.json"
     },
     {
         "name": "NAE_Windows",
-        "url": "https://tournamentapi.onrender.com/api/tournamentlist?region=NAE&platform=Windows",
+        "url": os.getenv("URL_NAE_WINDOWS"),
         "snapshot_file": "NAE_event_Windows.json",
         "latest_file": "NAE_event_Windows_latest.json"
     },
     {
         "name": "NAC_Windows",
-        "url": "https://tournamentapi.onrender.com/api/tournamentlist?region=NAC&platform=Windows",
+        "url": os.getenv("URL_NAC_WINDOWS"),
         "snapshot_file": "NAC_event_Windows.json",
         "latest_file": "NAC_event_Windows_latest.json"
     },
     {
         "name": "NAW_Windows",
-        "url": "https://tournamentapi.onrender.com/api/tournamentlist?region=NAW&platform=Windows",
+        "url": os.getenv("URL_NAW_WINDOWS"),
         "snapshot_file": "NAW_event_Windows.json",
         "latest_file": "NAW_event_Windows_latest.json"
     },
     {
         "name": "OCE_Windows",
-        "url": "https://tournamentapi.onrender.com/api/tournamentlist?region=OCE&platform=Windows",
+        "url": os.getenv("URL_OCE_WINDOWS"),
         "snapshot_file": "OCE_event_Windows.json",
         "latest_file": "OCE_event_Windows_latest.json"
     },
     {
         "name": "ME_Windows",
-        "url": "https://tournamentapi.onrender.com/api/tournamentlist?region=ME&platform=Windows",
+        "url": os.getenv("URL_ME_WINDOWS"),
         "snapshot_file": "ME_event_Windows.json",
         "latest_file": "ME_event_Windows_latest.json"
     },
     {
         "name": "EU_Windows",
-        "url": "https://tournamentapi.onrender.com/api/tournamentlist?region=EU&platform=Windows",
+        "url": os.getenv("URL_EU_WINDOWS"),
         "snapshot_file": "EU_event_Windows.json",
         "latest_file": "EU_event_Windows_latest.json"
     },
     {
         "name": "BR_Windows",
-        "url": "https://tournamentapi.onrender.com/api/tournamentlist?region=BR&platform=Windows",
+        "url": os.getenv("URL_BR_WINDOWS"),
         "snapshot_file": "BR_event_Windows.json",
         "latest_file": "BR_event_Windows_latest.json"
     },
@@ -68,25 +68,25 @@ API_TARGETS = [
     },
     {
         "name": "DefaultGame",
-        "url": "https://fljpapi-zqlw.onrender.com/api/v2/cloudstorage/a22d837b6a2b46349421259c0a5411bf",
+        "url": os.getenv("URL_DEFAULTGAME"),
         "snapshot_file": "DefaultGame.ini.diff",
         "latest_file": "DefaultGame_latest.ini.diff"
     },
     {
         "name": "ASIA_PS5",
-        "url": "https://tournamentapi.onrender.com/api/tournamentlist?region=ASIA&platform=PS5",
+        "url": os.getenv("URL_ASIA_PS5"),
         "snapshot_file": "ASIA_event_PS5.json",
         "latest_file": "ASIA_event_PS5_latest.json"
     },
     {
         "name": "NAE_PS5",
-        "url": "https://tournamentapi.onrender.com/api/tournamentlist?region=NAE&platform=PS5",
+        "url": os.getenv("URL_NAE_PS5"),
         "snapshot_file": "NAE_event_PS5.json",
         "latest_file": "NAE_event_PS5_latest.json"
     },
     {
         "name": "cloudstorage",
-        "url": "https://fljpapi-zqlw.onrender.com/api/v2/cloudstorage",
+        "url": os.getenv("URL_CLOUDSTORAGE"),
         "snapshot_file": "cloudstorage.json",
         "latest_file": "cloudstorage_latest.json"
     },
