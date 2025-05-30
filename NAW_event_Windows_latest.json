@@ -2,13 +2,13 @@
   "events": [
     {
       "announcementTime": "2025-04-28T07:00:00Z",
-      "announcementTime_jst": "2025\u5e7404\u670828\u65e516\u664200\u520600\u79d2",
+      "announcementTime_jst": "2025年04月28日16時00分00秒",
       "announcementTime_unix": 1745823600,
       "beginTime": "2025-05-10T07:00:00Z",
-      "beginTime_jst": "2025\u5e7405\u670810\u65e516\u664200\u520600\u79d2",
+      "beginTime_jst": "2025年05月10日16時00分00秒",
       "beginTime_unix": 1746860400,
       "displayData": {
-        "details_description": "2025 FNCS Pro-Am\u3067\u306f\u3001\u4e16\u754c\u6700\u9ad8\u306eFNCS\u30d7\u30ec\u30a4\u30e4\u30fc20\u540d\u3068\u3001\u624d\u80fd\u306b\u3042\u3075\u308c\u308b\u30d5\u30a9\u30fc\u30c8\u30ca\u30a4\u30c8 \u30b3\u30f3\u30c6\u30f3\u30c4\u30af\u30ea\u30a8\u30a4\u30bf\u30fc20\u540d\u304c\u30c1\u30fc\u30e0\u3092\u7d44\u307f\u307e\u3059\uff01 \u30c7\u30e5\u30aa\u305f\u3061\u306f\u7dcf\u984d500,000\u30c9\u30eb\u306e\u8cde\u91d1\u304b\u3089\u306e\u53d6\u308a\u5206\u3092\u76ee\u6307\u3057\u3066\u6226\u3044\u307e\u3059\u3002twitch.tv/fortnite \u3067\u8996\u8074\u3057\u3066\u3001\u8ab0\u304c\u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u306b\u306a\u308b\u306e\u304b\u3092\u76ee\u6483\u3057\u307e\u3057\u3087\u3046\uff01",
+        "details_description": "2025 FNCS Pro-Amでは、世界最高のFNCSプレイヤー20名と、才能にあふれるフォートナイト コンテンツクリエイター20名がチームを組みます！ デュオたちは総額500,000ドルの賞金からの取り分を目指して戦います。twitch.tv/fortnite で視聴して、誰がチャンピオンになるのかを目撃しましょう！",
         "flavor_description": "",
         "loading_screen_image": "https://cdn2.unrealengine.com/proam-logolockup-1920x1080-local-en-v1-1920x1080-d42115bc70d7.png",
         "long_format_title": "FNCS Pro-Am",
@@ -20,7 +20,7 @@
       },
       "displayDataId": "s35_proam_2025",
       "endTime": "2025-05-11T07:00:00Z",
-      "endTime_jst": "2025\u5e7405\u670811\u65e516\u664200\u520600\u79d2",
+      "endTime_jst": "2025年05月11日16時00分00秒",
       "endTime_unix": 1746946800,
       "eventGroup": "2025_Pro-Am",
       "eventId": "epicgames_Acrocanthosaurus_Official",
@@ -28,15 +28,15 @@
         {
           "additionalRequirements": [],
           "beginTime": "2025-05-10T07:00:00Z",
-          "beginTime_jst": "2025\u5e7405\u670810\u65e516\u664200\u520600\u79d2",
+          "beginTime_jst": "2025年05月10日16時00分00秒",
           "beginTime_unix": 1746860400,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-10T06:00:00Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670810\u65e515\u664200\u520600\u79d2",
+          "countdownBeginTime_jst": "2025年05月10日15時00分00秒",
           "countdownBeginTime_unix": 1746856800,
           "endTime": "2025-05-11T07:00:00Z",
-          "endTime_jst": "2025\u5e7405\u670811\u65e516\u664200\u520600\u79d2",
+          "endTime_jst": "2025年05月11日16時00分00秒",
           "endTime_unix": 1746946800,
           "eventTemplateId": "EventTemplate_Acrocanthosaurus",
           "eventWindowId": "Acrocanthosaurus_Official",
@@ -118,196 +118,15 @@
       ]
     },
     {
-      "announcementTime": "2024-11-15T15:00:00Z",
-      "announcementTime_jst": "2024\u5e7411\u670816\u65e500\u664200\u520600\u79d2",
-      "announcementTime_unix": 1731682800,
-      "beginTime": "2025-02-16T02:00:00Z",
-      "beginTime_jst": "2025\u5e7402\u670816\u65e511\u664200\u520600\u79d2",
-      "beginTime_unix": 1739671200,
-      "displayData": {
-        "details_description": "\u3053\u306e\u30a4\u30d9\u30f3\u30c8\u3067\u306f2\u65e5\u9593\u306712\u30de\u30c3\u30c1\u3092\u884c\u3044\u3001FNCS\u30e1\u30b8\u30e3\u30fc\u306e\u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u3092\u6c7a\u5b9a\u3057\u307e\u3059\u3002\u30e1\u30b8\u30e3\u30fc\u306e\u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u306f\u3001\u8cde\u91d1\u306e\u5206\u524d\u3068\u5730\u57df\u3067\u6700\u9ad8\u306e\u30d5\u30a9\u30fc\u30c8\u30ca\u30a4\u30c8\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u306e\u79f0\u53f7\u3092\u5f97\u308b\u3060\u3051\u3067\u306a\u304f\u3001\u6b21\u306e\u30b7\u30fc\u30ba\u30f3\u4e2d\u306f\u300c\u30d6\u30ec\u30a4\u30c9\u30fb\u30aa\u30d6\u30fb\u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u300d\u3092\u632f\u308b\u3063\u3066\u305d\u306e\u529f\u7e3e\u3092\u30a2\u30d4\u30fc\u30eb\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3059\uff01 \u53c2\u52a0\u3059\u308b\u306b\u306f13\u6b73\u4ee5\u4e0a(\u304a\u4f4f\u307e\u3044\u306e\u56fd/\u5730\u57df\u3067\u5b9a\u3081\u3089\u308c\u3066\u3044\u308b\u5834\u5408\u306f\u305d\u308c\u3088\u308a\u3082\u4e0a\u306e\u5e74\u9f62)\u3067\u3001\u591a\u6bb5\u968e\u8a8d\u8a3c\u304c\u6709\u52b9\u3067\u3042\u308a\u3001\u904e\u53bb180\u65e5\u306e\u9593\u306b14\u7a2e\u985e\u4ee5\u4e0a\u306e\u30c8\u30fc\u30ca\u30e1\u30f3\u30c8\u306b\u53c2\u52a0\u3057\u3066\u304a\u308a\u3001\u304b\u3064\u30a2\u30ab\u30a6\u30f3\u30c8\u30ec\u30d9\u30eb\u304c350\u4ee5\u4e0a\u3067\u306a\u3051\u308c\u3070\u306a\u308a\u307e\u305b\u3093\u3002\u8a73\u7d30\u306f\u3053\u3061\u3089: https://www.epicgames.com/fortnite/competitive/rules-library",
-        "flavor_description": "Fortnite Championship Series: \u30e1\u30b8\u30e3\u30fc1\u3067\u7af6\u3044\u5408\u3044\u3001\u8cde\u91d1\u7dcf\u984d2\u767e\u4e07\u30c9\u30eb\u304b\u3089\u306e\u53d6\u308a\u5206\u7372\u5f97\u3092\u76ee\u6307\u3057\u307e\u3057\u3087\u3046\u3002",
-        "loading_screen_image": "https://cdn2.unrealengine.com/jp-fnce-33-00-competitive-discoverytile-majorone-major-1080x1920-1920x1080-276e45afce53.jpg",
-        "long_format_title": "Fortnite Championship Series",
-        "poster_back_image": "https://cdn2.unrealengine.com/fncs-2024-poster-back-750x1080-5ee59587e601.jpg",
-        "poster_front_image": "https://cdn2.unrealengine.com/fnce-33-00-competitive-keyart-posterfront-750x1080-750x1080-0f8ed2de08b6.jpg",
-        "round_names": null,
-        "short_format_title": "FNCS",
-        "square_poster_image": "https://cdn2.unrealengine.com/jp-fnce-33-00-competitive-discoverytile-majorone-major-1080x1920-1920x1080-276e45afce53.jpg"
-      },
-      "displayDataId": "s33_major1_finals",
-      "endTime": "2025-02-17T05:30:00Z",
-      "endTime_jst": "2025\u5e7402\u670817\u65e514\u664230\u520600\u79d2",
-      "endTime_unix": 1739770200,
-      "eventGroup": "Season33_FNCSMajor1",
-      "eventId": "epicgames_S33_FNCSMajor1_Final_NAW",
-      "eventWindows": [
-        {
-          "additionalRequirements": [
-            "eula:s33_fncs_rules",
-            "mfa"
-          ],
-          "beginTime": "2025-02-16T02:00:00Z",
-          "beginTime_jst": "2025\u5e7402\u670816\u65e511\u664200\u520600\u79d2",
-          "beginTime_unix": 1739671200,
-          "blackoutPeriods": [],
-          "canLiveSpectate": false,
-          "countdownBeginTime": "2025-02-15T23:00:00Z",
-          "countdownBeginTime_jst": "2025\u5e7402\u670816\u65e508\u664200\u520600\u79d2",
-          "countdownBeginTime_unix": 1739660400,
-          "endTime": "2025-02-16T05:30:00Z",
-          "endTime_jst": "2025\u5e7402\u670816\u65e514\u664230\u520600\u79d2",
-          "endTime_unix": 1739683800,
-          "eventTemplateId": "EventTemplate_S33_FNCSMajor1_Final",
-          "eventWindowId": "S33_FNCSMajor1_Final_Day1_NAW",
-          "isTBD": false,
-          "metadata": {
-            "RoundType": "Qualifiers",
-            "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "ScheduledMatchmakingMatchDelaySeconds": 2280,
-            "ServerReplays": true,
-            "SubgroupId": "Final",
-            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
-            "relevantFloatingScoreId": "cumulative:epicgames_S33_FNCSMajor1_Final_NAW_cumulative"
-          },
-          "payoutDelay": 32,
-          "requireAllTokens": [
-            "S33_FNCSMajor1_GrandFinalist_NAWv2"
-          ],
-          "requireAllTokensCaller": [],
-          "requireAnyTokens": [],
-          "requireAnyTokensCaller": [],
-          "requireNoneTokensCaller": [
-            "EpicAccountPrizingRestriction_v2",
-            "S33_FNCS_Banned"
-          ],
-          "round": 0,
-          "scoreLocations": [
-            {
-              "isMainWindowLeaderboard": true,
-              "leaderboardDefId": "S33_FNCSMajor1_FinalDay1_DefaultLeaderboardDef"
-            },
-            {
-              "isMainWindowLeaderboard": false,
-              "leaderboardDefId": "S33_FNCSMajor1_Final_CumulativeLeaderboardDef"
-            }
-          ],
-          "teammateEligibility": "all",
-          "visibility": "locked"
-        },
-        {
-          "additionalRequirements": [
-            "eula:s33_fncs_rules",
-            "mfa"
-          ],
-          "beginTime": "2025-02-17T02:00:00Z",
-          "beginTime_jst": "2025\u5e7402\u670817\u65e511\u664200\u520600\u79d2",
-          "beginTime_unix": 1739757600,
-          "blackoutPeriods": [],
-          "canLiveSpectate": false,
-          "countdownBeginTime": "2025-02-17T00:00:00Z",
-          "countdownBeginTime_jst": "2025\u5e7402\u670817\u65e509\u664200\u520600\u79d2",
-          "countdownBeginTime_unix": 1739750400,
-          "endTime": "2025-02-17T05:30:00Z",
-          "endTime_jst": "2025\u5e7402\u670817\u65e514\u664230\u520600\u79d2",
-          "endTime_unix": 1739770200,
-          "eventTemplateId": "EventTemplate_S33_FNCSMajor1_Final",
-          "eventWindowId": "S33_FNCSMajor1_Final_Day2_NAW",
-          "isTBD": false,
-          "metadata": {
-            "RoundType": "Qualifiers",
-            "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "ScheduledMatchmakingMatchDelaySeconds": 2280,
-            "ServerReplays": true,
-            "SubgroupId": "Final",
-            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
-            "relevantFloatingScoreId": "cumulative:epicgames_S33_FNCSMajor1_Final_NAW_cumulative"
-          },
-          "payoutDelay": 32,
-          "requireAllTokens": [
-            "S33_FNCSMajor1_GrandFinalist_NAWv2"
-          ],
-          "requireAllTokensCaller": [],
-          "requireAnyTokens": [],
-          "requireAnyTokensCaller": [],
-          "requireNoneTokensCaller": [
-            "EpicAccountPrizingRestriction_v2",
-            "S33_FNCS_Banned"
-          ],
-          "round": 0,
-          "scoreLocations": [
-            {
-              "isMainWindowLeaderboard": true,
-              "leaderboardDefId": "S33_FNCSMajor1_FinalDay2_DefaultLeaderboardDef"
-            },
-            {
-              "isMainWindowLeaderboard": false,
-              "leaderboardDefId": "S33_FNCSMajor1_Final_CumulativeLeaderboardDef"
-            }
-          ],
-          "teammateEligibility": "all",
-          "visibility": "locked"
-        }
-      ],
-      "gameId": "Fortnite",
-      "link": {
-        "code": "tournament_epicgames_s33_fncsmajor1_final_naw",
-        "type": "br:tournament",
-        "version": 1
-      },
-      "metadata": {
-        "AccountLockType": "Week",
-        "DisqualifyType": "Floating",
-        "RegionLockType": "Season",
-        "TrackedStats": [
-          "Headshots",
-          "DamageDealt",
-          "DamageReceived",
-          "GainedHealthTimes",
-          "GainedShieldTimes",
-          "Travel_Distance_Ground"
-        ],
-        "minimumAccountLevel": 350
-      },
-      "platformMappings": {},
-      "platforms": [
-        "XboxOneGDK",
-        "PS4",
-        "XCloud",
-        "Helios",
-        "Luna",
-        "IOS",
-        "XB1",
-        "XboxOne",
-        "XSX",
-        "Android",
-        "LunaMobile",
-        "PS5",
-        "XCloudMobile",
-        "Mac",
-        "HeliosMobile",
-        "GFN",
-        "Switch",
-        "GFNMobile",
-        "Windows"
-      ],
-      "regionMappings": {
-        "NAW": "NAWCOMP"
-      },
-      "regions": [
-        "NAW"
-      ]
-    },
-    {
       "announcementTime": "2025-02-21T09:00:00Z",
-      "announcementTime_jst": "2025\u5e7402\u670821\u65e518\u664200\u520600\u79d2",
+      "announcementTime_jst": "2025年02月21日18時00分00秒",
       "announcementTime_unix": 1740128400,
       "beginTime": "2025-04-27T01:00:00Z",
-      "beginTime_jst": "2025\u5e7404\u670827\u65e510\u664200\u520600\u79d2",
+      "beginTime_jst": "2025年04月27日10時00分00秒",
       "beginTime_unix": 1745715600,
       "displayData": {
-        "details_description": "\u3053\u306e\u30a4\u30d9\u30f3\u30c8\u3067\u306f2\u65e5\u9593\u306712\u30de\u30c3\u30c1\u3092\u884c\u3044\u3001FNCS\u30e1\u30b8\u30e3\u30fc\u306e\u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u3092\u6c7a\u5b9a\u3057\u307e\u3059\u3002\u30e1\u30b8\u30e3\u30fc\u306e\u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u306f\u3001\u8cde\u91d1\u306e\u5206\u524d\u3068\u5730\u57df\u3067\u6700\u9ad8\u306e\u30d5\u30a9\u30fc\u30c8\u30ca\u30a4\u30c8\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u306e\u79f0\u53f7\u3092\u5f97\u308b\u3060\u3051\u3067\u306a\u304f\u3001\u6b21\u306e\u30b7\u30fc\u30ba\u30f3\u4e2d\u306f\u300c\u30d6\u30ec\u30a4\u30c9\u30fb\u30aa\u30d6\u30fb\u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u300d\u3092\u632f\u308b\u3063\u3066\u305d\u306e\u529f\u7e3e\u3092\u30a2\u30d4\u30fc\u30eb\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3059\uff01 \u53c2\u52a0\u3059\u308b\u306b\u306f13\u6b73\u4ee5\u4e0a(\u304a\u4f4f\u307e\u3044\u306e\u56fd/\u5730\u57df\u3067\u5b9a\u3081\u3089\u308c\u3066\u3044\u308b\u5834\u5408\u306f\u305d\u308c\u3088\u308a\u3082\u4e0a\u306e\u5e74\u9f62)\u3067\u3001\u591a\u6bb5\u968e\u8a8d\u8a3c\u304c\u6709\u52b9\u3067\u3042\u308a\u3001\u904e\u53bb180\u65e5\u306e\u9593\u306b14\u7a2e\u985e\u4ee5\u4e0a\u306e\u30c8\u30fc\u30ca\u30e1\u30f3\u30c8\u306b\u53c2\u52a0\u3057\u3066\u304a\u308a\u3001\u304b\u3064\u30a2\u30ab\u30a6\u30f3\u30c8\u30ec\u30d9\u30eb\u304c350\u4ee5\u4e0a\u3067\u306a\u3051\u308c\u3070\u306a\u308a\u307e\u305b\u3093\u3002\u8a73\u7d30\u306f\u3053\u3061\u3089: https://www.epicgames.com/fortnite/competitive/rules-library",
-        "flavor_description": "Fortnite Championship Series: \u30e1\u30b8\u30e3\u30fc2\u3067\u7af6\u3044\u5408\u3044\u3001\u8cde\u91d1\u7dcf\u984d2\u767e\u4e07\u30c9\u30eb\u304b\u3089\u306e\u53d6\u308a\u5206\u7372\u5f97\u3092\u76ee\u6307\u3057\u307e\u3057\u3087\u3046\u3002",
+        "details_description": "このイベントでは2日間で12マッチを行い、FNCSメジャーのチャンピオンを決定します。メジャーのチャンピオンは、賞金の分前と地域で最高のフォートナイトのプレイヤーの称号を得るだけでなく、次のシーズン中は「ブレイド・オブ・チャンピオン」を振るってその功績をアピールすることができます！ 参加するには13歳以上(お住まいの国/地域で定められている場合はそれよりも上の年齢)で、多段階認証が有効であり、過去180日の間に14種類以上のトーナメントに参加しており、かつアカウントレベルが350以上でなければなりません。詳細はこちら: https://www.epicgames.com/fortnite/competitive/rules-library",
+        "flavor_description": "Fortnite Championship Series: メジャー2で競い合い、賞金総額2百万ドルからの取り分獲得を目指しましょう。",
         "loading_screen_image": "https://cdn2.unrealengine.com/jp-fnce-33-30-competitive-discoverytile-major-1920x1080-1920x1080-ed9ceeb0a3ac.jpg",
         "long_format_title": "Fortnite Championship Series",
         "poster_back_image": "https://cdn2.unrealengine.com/fncs-2024-poster-back-750x1080-5ee59587e601.jpg",
@@ -318,7 +137,7 @@
       },
       "displayDataId": "s34_major2_finals",
       "endTime": "2025-04-28T04:30:00Z",
-      "endTime_jst": "2025\u5e7404\u670828\u65e513\u664230\u520600\u79d2",
+      "endTime_jst": "2025年04月28日13時30分00秒",
       "endTime_unix": 1745814600,
       "eventGroup": "Season34_FNCSMajor2",
       "eventId": "epicgames_S34_FNCSMajor2_Final_NAW",
@@ -329,15 +148,15 @@
             "mfa"
           ],
           "beginTime": "2025-04-27T01:00:00Z",
-          "beginTime_jst": "2025\u5e7404\u670827\u65e510\u664200\u520600\u79d2",
+          "beginTime_jst": "2025年04月27日10時00分00秒",
           "beginTime_unix": 1745715600,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-04-26T23:00:00Z",
-          "countdownBeginTime_jst": "2025\u5e7404\u670827\u65e508\u664200\u520600\u79d2",
+          "countdownBeginTime_jst": "2025年04月27日08時00分00秒",
           "countdownBeginTime_unix": 1745708400,
           "endTime": "2025-04-27T04:30:00Z",
-          "endTime_jst": "2025\u5e7404\u670827\u65e513\u664230\u520600\u79d2",
+          "endTime_jst": "2025年04月27日13時30分00秒",
           "endTime_unix": 1745728200,
           "eventTemplateId": "EventTemplate_S34_FNCSMajor2_Final",
           "eventWindowId": "S34_FNCSMajor2_Final_Day1_NAW",
@@ -382,15 +201,15 @@
             "mfa"
           ],
           "beginTime": "2025-04-28T01:00:00Z",
-          "beginTime_jst": "2025\u5e7404\u670828\u65e510\u664200\u520600\u79d2",
+          "beginTime_jst": "2025年04月28日10時00分00秒",
           "beginTime_unix": 1745802000,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-04-27T23:00:00Z",
-          "countdownBeginTime_jst": "2025\u5e7404\u670828\u65e508\u664200\u520600\u79d2",
+          "countdownBeginTime_jst": "2025年04月28日08時00分00秒",
           "countdownBeginTime_unix": 1745794800,
           "endTime": "2025-04-28T04:30:00Z",
-          "endTime_jst": "2025\u5e7404\u670828\u65e513\u664230\u520600\u79d2",
+          "endTime_jst": "2025年04月28日13時30分00秒",
           "endTime_unix": 1745814600,
           "eventTemplateId": "EventTemplate_S34_FNCSMajor2_Final",
           "eventWindowId": "S34_FNCSMajor2_Final_Day2_NAW",
@@ -487,14 +306,14 @@
     },
     {
       "announcementTime": "2025-02-21T09:00:00Z",
-      "announcementTime_jst": "2025\u5e7402\u670821\u65e518\u664200\u520600\u79d2",
+      "announcementTime_jst": "2025年02月21日18時00分00秒",
       "announcementTime_unix": 1740128400,
       "beginTime": "2025-04-20T01:00:00Z",
-      "beginTime_jst": "2025\u5e7404\u670820\u65e510\u664200\u520600\u79d2",
+      "beginTime_jst": "2025年04月20日10時00分00秒",
       "beginTime_unix": 1745110800,
       "displayData": {
-        "details_description": "\u30d7\u30ec\u30a4\u30a4\u30f3\u304b\u3089\u30b0\u30eb\u30fc\u30d7\u30b9\u30c6\u30fc\u30b8\u306b\u9032\u51fa\u3057\u307e\u3057\u3087\u3046\uff01 \u30b0\u30eb\u30fc\u30d7\u30b9\u30c6\u30fc\u30b8\u306f\u3001\u30e8\u30fc\u30ed\u30c3\u30d1\u3068\u30a2\u30e1\u30ea\u30ab\u4e2d\u592e\u3067\u306f3\u3064\u306e\u30b0\u30eb\u30fc\u30d7\u3001\u305d\u306e\u4ed6\u306e\u5730\u57df\u3067\u306f2\u3064\u306e\u30b0\u30eb\u30fc\u30d7\u3067\u69cb\u6210\u3055\u308c\u3066\u3044\u307e\u3059\u3002\u30b0\u30eb\u30fc\u30d7\u30b9\u30c6\u30fc\u30b8\u3067Victory Royale\u3092\u9054\u6210\u3059\u308b\u3068\u3001\u5373\u5ea7\u306b\u30e1\u30b8\u30e3\u30fc\u6c7a\u52dd\u3078\u306e\u9032\u51fa\u6c7a\u5b9a\u3067\u3059\uff01 \u3055\u3089\u306b\u3001\u5404\u30b0\u30eb\u30fc\u30d7\u3067\u6700\u3082\u5b89\u5b9a\u3057\u305f\u6210\u7e3e\u3092\u53ce\u3081\u305f\u30c8\u30ea\u30aa(\u30e8\u30fc\u30ed\u30c3\u30d1\u3068\u30a2\u30e1\u30ea\u30ab\u4e2d\u592e\u3067\u306f\u4e0a\u4f4d5\u7d44\u3001\u305d\u306e\u4ed6\u306e\u5730\u57df\u3067\u306f\u4e0a\u4f4d10\u7d44)\u3082\u30e1\u30b8\u30e3\u30fc\u6c7a\u52dd\u306b\u9032\u51fa\u3057\u307e\u3059\u3002\u53c2\u52a0\u3059\u308b\u306b\u306f13\u6b73\u4ee5\u4e0a(\u304a\u4f4f\u307e\u3044\u306e\u56fd/\u5730\u57df\u3067\u5b9a\u3081\u3089\u308c\u3066\u3044\u308b\u5834\u5408\u306f\u305d\u308c\u3088\u308a\u3082\u4e0a\u306e\u5e74\u9f62)\u3067\u3001\u591a\u6bb5\u968e\u8a8d\u8a3c\u304c\u6709\u52b9\u3067\u3042\u308a\u3001\u904e\u53bb180\u65e5\u306e\u9593\u306b14\u7a2e\u985e\u4ee5\u4e0a\u306e\u30c8\u30fc\u30ca\u30e1\u30f3\u30c8\u306b\u53c2\u52a0\u3057\u3066\u304a\u308a\u3001\u304b\u3064\u30a2\u30ab\u30a6\u30f3\u30c8\u30ec\u30d9\u30eb\u304c350\u4ee5\u4e0a\u3067\u306a\u3051\u308c\u3070\u306a\u308a\u307e\u305b\u3093\u3002\u8a73\u7d30\u306f\u3053\u3061\u3089: https://www.epicgames.com/fortnite/competitive/rules-library",
-        "flavor_description": "Fortnite Championship Series: \u30e1\u30b8\u30e3\u30fc2\u3067\u7af6\u3044\u5408\u3044\u3001\u8cde\u91d1\u7dcf\u984d2\u767e\u4e07\u30c9\u30eb\u304b\u3089\u306e\u53d6\u308a\u5206\u7372\u5f97\u3092\u76ee\u6307\u3057\u307e\u3057\u3087\u3046\u3002",
+        "details_description": "プレイインからグループステージに進出しましょう！ グループステージは、ヨーロッパとアメリカ中央では3つのグループ、その他の地域では2つのグループで構成されています。グループステージでVictory Royaleを達成すると、即座にメジャー決勝への進出決定です！ さらに、各グループで最も安定した成績を収めたトリオ(ヨーロッパとアメリカ中央では上位5組、その他の地域では上位10組)もメジャー決勝に進出します。参加するには13歳以上(お住まいの国/地域で定められている場合はそれよりも上の年齢)で、多段階認証が有効であり、過去180日の間に14種類以上のトーナメントに参加しており、かつアカウントレベルが350以上でなければなりません。詳細はこちら: https://www.epicgames.com/fortnite/competitive/rules-library",
+        "flavor_description": "Fortnite Championship Series: メジャー2で競い合い、賞金総額2百万ドルからの取り分獲得を目指しましょう。",
         "loading_screen_image": "https://cdn2.unrealengine.com/jp-fnce-33-30-competitive-discoverytile-major-1920x1080-1920x1080-ed9ceeb0a3ac.jpg",
         "long_format_title": "Fortnite Championship Series",
         "poster_back_image": "https://cdn2.unrealengine.com/fncs-2024-poster-back-750x1080-5ee59587e601.jpg",
@@ -505,7 +324,7 @@
       },
       "displayDataId": "s34_major2_group",
       "endTime": "2025-04-21T04:00:00Z",
-      "endTime_jst": "2025\u5e7404\u670821\u65e513\u664200\u520600\u79d2",
+      "endTime_jst": "2025年04月21日13時00分00秒",
       "endTime_unix": 1745208000,
       "eventGroup": "Season34_FNCSMajor2",
       "eventId": "epicgames_S34_FNCSMajor2_GroupStage_NAW",
@@ -516,15 +335,15 @@
             "mfa"
           ],
           "beginTime": "2025-04-20T01:00:00Z",
-          "beginTime_jst": "2025\u5e7404\u670820\u65e510\u664200\u520600\u79d2",
+          "beginTime_jst": "2025年04月20日10時00分00秒",
           "beginTime_unix": 1745110800,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-04-20T00:00:00Z",
-          "countdownBeginTime_jst": "2025\u5e7404\u670820\u65e509\u664200\u520600\u79d2",
+          "countdownBeginTime_jst": "2025年04月20日09時00分00秒",
           "countdownBeginTime_unix": 1745107200,
           "endTime": "2025-04-20T04:00:00Z",
-          "endTime_jst": "2025\u5e7404\u670820\u65e513\u664200\u520600\u79d2",
+          "endTime_jst": "2025年04月20日13時00分00秒",
           "endTime_unix": 1745121600,
           "eventTemplateId": "EventTemplate_S34_FNCSMajor2_GroupStage",
           "eventWindowId": "S34_FNCSMajor2_GroupStage_Group1_NAW",
@@ -563,15 +382,15 @@
             "mfa"
           ],
           "beginTime": "2025-04-21T01:00:00Z",
-          "beginTime_jst": "2025\u5e7404\u670821\u65e510\u664200\u520600\u79d2",
+          "beginTime_jst": "2025年04月21日10時00分00秒",
           "beginTime_unix": 1745197200,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-04-21T00:00:00Z",
-          "countdownBeginTime_jst": "2025\u5e7404\u670821\u65e509\u664200\u520600\u79d2",
+          "countdownBeginTime_jst": "2025年04月21日09時00分00秒",
           "countdownBeginTime_unix": 1745193600,
           "endTime": "2025-04-21T04:00:00Z",
-          "endTime_jst": "2025\u5e7404\u670821\u65e513\u664200\u520600\u79d2",
+          "endTime_jst": "2025年04月21日13時00分00秒",
           "endTime_unix": 1745208000,
           "eventTemplateId": "EventTemplate_S34_FNCSMajor2_GroupStage",
           "eventWindowId": "S34_FNCSMajor2_GroupStage_Group2_NAW",
@@ -664,14 +483,14 @@
     },
     {
       "announcementTime": "2025-02-21T09:00:00Z",
-      "announcementTime_jst": "2025\u5e7402\u670821\u65e518\u664200\u520600\u79d2",
+      "announcementTime_jst": "2025年02月21日18時00分00秒",
       "announcementTime_unix": 1740128400,
       "beginTime": "2025-04-24T01:00:00Z",
-      "beginTime_jst": "2025\u5e7404\u670824\u65e510\u664200\u520600\u79d2",
+      "beginTime_jst": "2025年04月24日10時00分00秒",
       "beginTime_unix": 1745456400,
       "displayData": {
-        "details_description": "\u30e9\u30b9\u30c8\u30c1\u30e3\u30f3\u30b9\u4e88\u9078\u306f\u30c7\u30a3\u30d3\u30b8\u30e7\u30f31\u30012\u30013\u306e\u5168\u30d7\u30ec\u30a4\u30e4\u30fc\u304c\u53c2\u52a0\u53ef\u80fd\u3067\u3059\u3002\u5404\u5730\u57df\u306e\u4e0a\u4f4d33\u30c1\u30fc\u30e0\u304c\u30e9\u30b9\u30c8\u30c1\u30e3\u30f3\u30b9\u30ed\u30d3\u30fc\u306b\u9032\u51fa\u3057\u3001\u30e9\u30b9\u30c8\u30c1\u30e3\u30f3\u30b9\u30ed\u30d3\u30fc\u3067\u306f\u5404\u30de\u30c3\u30c1\u3067Victory Royale\u3092\u9054\u6210\u3057\u305f\u52dd\u8005\u304c\u30e1\u30b8\u30e3\u30fc\u6c7a\u52dd\u3078\u306e\u30c1\u30b1\u30c3\u30c8\u3092\u7372\u5f97\u3057\u307e\u3059\uff01 \u53c2\u52a0\u3059\u308b\u306b\u306f13\u6b73\u4ee5\u4e0a(\u304a\u4f4f\u307e\u3044\u306e\u56fd/\u5730\u57df\u3067\u5b9a\u3081\u3089\u308c\u3066\u3044\u308b\u5834\u5408\u306f\u305d\u308c\u3088\u308a\u3082\u4e0a\u306e\u5e74\u9f62)\u3067\u3001\u591a\u6bb5\u968e\u8a8d\u8a3c\u304c\u6709\u52b9\u3067\u3042\u308a\u3001\u904e\u53bb180\u65e5\u306e\u9593\u306b14\u7a2e\u985e\u4ee5\u4e0a\u306e\u30c8\u30fc\u30ca\u30e1\u30f3\u30c8\u306b\u53c2\u52a0\u3057\u3066\u304a\u308a\u3001\u304b\u3064\u30a2\u30ab\u30a6\u30f3\u30c8\u30ec\u30d9\u30eb\u304c350\u4ee5\u4e0a\u3067\u306a\u3051\u308c\u3070\u306a\u308a\u307e\u305b\u3093\u3002\u8a73\u7d30\u306f\u3053\u3061\u3089: https://www.epicgames.com/fortnite/competitive/rules-library",
-        "flavor_description": "Fortnite Championship Series: \u30e1\u30b8\u30e3\u30fc2\u3067\u7af6\u3044\u5408\u3044\u3001\u8cde\u91d1\u7dcf\u984d2\u767e\u4e07\u30c9\u30eb\u304b\u3089\u306e\u53d6\u308a\u5206\u7372\u5f97\u3092\u76ee\u6307\u3057\u307e\u3057\u3087\u3046\u3002",
+        "details_description": "ラストチャンス予選はディビジョン1、2、3の全プレイヤーが参加可能です。各地域の上位33チームがラストチャンスロビーに進出し、ラストチャンスロビーでは各マッチでVictory Royaleを達成した勝者がメジャー決勝へのチケットを獲得します！ 参加するには13歳以上(お住まいの国/地域で定められている場合はそれよりも上の年齢)で、多段階認証が有効であり、過去180日の間に14種類以上のトーナメントに参加しており、かつアカウントレベルが350以上でなければなりません。詳細はこちら: https://www.epicgames.com/fortnite/competitive/rules-library",
+        "flavor_description": "Fortnite Championship Series: メジャー2で競い合い、賞金総額2百万ドルからの取り分獲得を目指しましょう。",
         "loading_screen_image": "https://cdn2.unrealengine.com/en-fnce-33-30-competitive-discoverytile-major-1920x1080-1920x1080-a24ebbb7bf9a.jpg",
         "long_format_title": "Fortnite Championship Series",
         "poster_back_image": "https://cdn2.unrealengine.com/fncs-2024-poster-back-750x1080-5ee59587e601.jpg",
@@ -682,7 +501,7 @@
       },
       "displayDataId": "s34_major2_lcq",
       "endTime": "2025-04-25T02:30:00Z",
-      "endTime_jst": "2025\u5e7404\u670825\u65e511\u664230\u520600\u79d2",
+      "endTime_jst": "2025年04月25日11時30分00秒",
       "endTime_unix": 1745548200,
       "eventGroup": "Season34_FNCSMajor2",
       "eventId": "epicgames_S34_FNCSMajor2_LastChanceQualifier_NAW",
@@ -693,15 +512,15 @@
             "mfa"
           ],
           "beginTime": "2025-04-24T01:00:00Z",
-          "beginTime_jst": "2025\u5e7404\u670824\u65e510\u664200\u520600\u79d2",
+          "beginTime_jst": "2025年04月24日10時00分00秒",
           "beginTime_unix": 1745456400,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-04-24T00:00:00Z",
-          "countdownBeginTime_jst": "2025\u5e7404\u670824\u65e509\u664200\u520600\u79d2",
+          "countdownBeginTime_jst": "2025年04月24日09時00分00秒",
           "countdownBeginTime_unix": 1745452800,
           "endTime": "2025-04-24T04:00:00Z",
-          "endTime_jst": "2025\u5e7404\u670824\u65e513\u664200\u520600\u79d2",
+          "endTime_jst": "2025年04月24日13時00分00秒",
           "endTime_unix": 1745467200,
           "eventTemplateId": "EventTemplate_S34_FNCSMajor2_LastChanceQualifier",
           "eventWindowId": "S34_FNCSMajor2_LastChanceQualifier_NAW",
@@ -748,15 +567,15 @@
             "mfa"
           ],
           "beginTime": "2025-04-25T01:00:00Z",
-          "beginTime_jst": "2025\u5e7404\u670825\u65e510\u664200\u520600\u79d2",
+          "beginTime_jst": "2025年04月25日10時00分00秒",
           "beginTime_unix": 1745542800,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-04-25T00:00:00Z",
-          "countdownBeginTime_jst": "2025\u5e7404\u670825\u65e509\u664200\u520600\u79d2",
+          "countdownBeginTime_jst": "2025年04月25日09時00分00秒",
           "countdownBeginTime_unix": 1745539200,
           "endTime": "2025-04-25T02:30:00Z",
-          "endTime_jst": "2025\u5e7404\u670825\u65e511\u664230\u520600\u79d2",
+          "endTime_jst": "2025年04月25日11時30分00秒",
           "endTime_unix": 1745548200,
           "eventTemplateId": "EventTemplate_S34_FNCSMajor2_LastChanceLobby",
           "eventWindowId": "S34_FNCSMajor2_LastChanceLobby_NAW",
@@ -850,14 +669,14 @@
     },
     {
       "announcementTime": "2025-02-21T09:00:00Z",
-      "announcementTime_jst": "2025\u5e7402\u670821\u65e518\u664200\u520600\u79d2",
+      "announcementTime_jst": "2025年02月21日18時00分00秒",
       "announcementTime_unix": 1740128400,
       "beginTime": "2025-04-10T01:00:00Z",
-      "beginTime_jst": "2025\u5e7404\u670810\u65e510\u664200\u520600\u79d2",
+      "beginTime_jst": "2025年04月10日10時00分00秒",
       "beginTime_unix": 1744246800,
       "displayData": {
-        "details_description": "\u3053\u306e\u30a4\u30d9\u30f3\u30c8\u306fFNCS \u30c7\u30a3\u30d3\u30b8\u30e7\u30f31\u306b\u6607\u683c\u3059\u308b\u3068\u30a2\u30f3\u30ed\u30c3\u30af\u3055\u308c\u307e\u3059\u3002\u30d7\u30ec\u30a4\u30a4\u30f3\u30b9\u30c6\u30fc\u30b8\u306f2\u65e5\u306b\u308f\u305f\u3063\u3066\u5b9f\u65bd\u3055\u308c\u3001\u30e9\u30f3\u30ad\u30f3\u30b0\u306b\u306f\u7d2f\u7a4d\u306e\u6210\u7e3e\u304c\u8a18\u9332\u3055\u308c\u307e\u3059\u3002\u30e9\u30f3\u30ad\u30f3\u30b0\u4e0a\u4f4d\u306e\u30c8\u30ea\u30aa(\u30e8\u30fc\u30ed\u30c3\u30d1\u3068\u30a2\u30e1\u30ea\u30ab\u4e2d\u592e\u3067\u306f\u4e0a\u4f4d99\u7d44\u3001\u305d\u306e\u4ed6\u306e\u5730\u57df\u3067\u306f\u4e0a\u4f4d66\u7d44)\u304c\u30b0\u30eb\u30fc\u30d7\u30b9\u30c6\u30fc\u30b8\u306b\u9032\u51fa\u3057\u3001\u30b7\u30fc\u30c9\u304c\u8a2d\u5b9a\u3055\u308c\u307e\u3059\u3002\u53c2\u52a0\u3059\u308b\u306b\u306f13\u6b73\u4ee5\u4e0a(\u304a\u4f4f\u307e\u3044\u306e\u56fd/\u5730\u57df\u3067\u5b9a\u3081\u3089\u308c\u3066\u3044\u308b\u5834\u5408\u306f\u305d\u308c\u3088\u308a\u3082\u4e0a\u306e\u5e74\u9f62)\u3067\u3001\u591a\u6bb5\u968e\u8a8d\u8a3c\u304c\u6709\u52b9\u3067\u3042\u308a\u3001\u904e\u53bb180\u65e5\u306e\u9593\u306b14\u7a2e\u985e\u4ee5\u4e0a\u306e\u30c8\u30fc\u30ca\u30e1\u30f3\u30c8\u306b\u53c2\u52a0\u3057\u3066\u304a\u308a\u3001\u304b\u3064\u30a2\u30ab\u30a6\u30f3\u30c8\u30ec\u30d9\u30eb\u304c350\u4ee5\u4e0a\u3067\u306a\u3051\u308c\u3070\u306a\u308a\u307e\u305b\u3093\u3002\u8a73\u7d30\u306f\u3053\u3061\u3089: https://www.epicgames.com/fortnite/competitive/rules-library",
-        "flavor_description": "Fortnite Championship Series: \u30e1\u30b8\u30e3\u30fc2\u3067\u7af6\u3044\u5408\u3044\u3001\u8cde\u91d1\u7dcf\u984d2\u767e\u4e07\u30c9\u30eb\u304b\u3089\u306e\u53d6\u308a\u5206\u7372\u5f97\u3092\u76ee\u6307\u3057\u307e\u3057\u3087\u3046\u3002",
+        "details_description": "このイベントはFNCS ディビジョン1に昇格するとアンロックされます。プレイインステージは2日にわたって実施され、ランキングには累積の成績が記録されます。ランキング上位のトリオ(ヨーロッパとアメリカ中央では上位99組、その他の地域では上位66組)がグループステージに進出し、シードが設定されます。参加するには13歳以上(お住まいの国/地域で定められている場合はそれよりも上の年齢)で、多段階認証が有効であり、過去180日の間に14種類以上のトーナメントに参加しており、かつアカウントレベルが350以上でなければなりません。詳細はこちら: https://www.epicgames.com/fortnite/competitive/rules-library",
+        "flavor_description": "Fortnite Championship Series: メジャー2で競い合い、賞金総額2百万ドルからの取り分獲得を目指しましょう。",
         "loading_screen_image": "https://cdn2.unrealengine.com/jp-fnce-33-30-competitive-discoverytile-major-1920x1080-1920x1080-ed9ceeb0a3ac.jpg",
         "long_format_title": "Fortnite Championship Series",
         "poster_back_image": "https://cdn2.unrealengine.com/fncs-2024-poster-back-750x1080-5ee59587e601.jpg",
@@ -868,7 +687,7 @@
       },
       "displayDataId": "s34_major2_playin",
       "endTime": "2025-04-11T04:00:00Z",
-      "endTime_jst": "2025\u5e7404\u670811\u65e513\u664200\u520600\u79d2",
+      "endTime_jst": "2025年04月11日13時00分00秒",
       "endTime_unix": 1744344000,
       "eventGroup": "Season34_FNCSMajor2",
       "eventId": "epicgames_S34_FNCSMajor2_PlayInStage_NAW",
@@ -879,15 +698,15 @@
             "mfa"
           ],
           "beginTime": "2025-04-10T01:00:00Z",
-          "beginTime_jst": "2025\u5e7404\u670810\u65e510\u664200\u520600\u79d2",
+          "beginTime_jst": "2025年04月10日10時00分00秒",
           "beginTime_unix": 1744246800,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-04-09T23:00:00Z",
-          "countdownBeginTime_jst": "2025\u5e7404\u670810\u65e508\u664200\u520600\u79d2",
+          "countdownBeginTime_jst": "2025年04月10日08時00分00秒",
           "countdownBeginTime_unix": 1744239600,
           "endTime": "2025-04-10T04:00:00Z",
-          "endTime_jst": "2025\u5e7404\u670810\u65e513\u664200\u520600\u79d2",
+          "endTime_jst": "2025年04月10日13時00分00秒",
           "endTime_unix": 1744257600,
           "eventTemplateId": "EventTemplate_S34_FNCSMajor2_PlayInStage",
           "eventWindowId": "S34_FNCSMajor2_PlayInStage_Day1_NAW",
@@ -935,15 +754,15 @@
             "mfa"
           ],
           "beginTime": "2025-04-11T01:00:00Z",
-          "beginTime_jst": "2025\u5e7404\u670811\u65e510\u664200\u520600\u79d2",
+          "beginTime_jst": "2025年04月11日10時00分00秒",
           "beginTime_unix": 1744333200,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-04-10T23:00:00Z",
-          "countdownBeginTime_jst": "2025\u5e7404\u670811\u65e508\u664200\u520600\u79d2",
+          "countdownBeginTime_jst": "2025年04月11日08時00分00秒",
           "countdownBeginTime_unix": 1744326000,
           "endTime": "2025-04-11T04:00:00Z",
-          "endTime_jst": "2025\u5e7404\u670811\u65e513\u664200\u520600\u79d2",
+          "endTime_jst": "2025年04月11日13時00分00秒",
           "endTime_unix": 1744344000,
           "eventTemplateId": "EventTemplate_S34_FNCSMajor2_PlayInStage",
           "eventWindowId": "S34_FNCSMajor2_PlayInStage_Day2_NAW",
@@ -1044,16 +863,16 @@
     },
     {
       "announcementTime": "2025-04-29T15:00:00Z",
-      "announcementTime_jst": "2025\u5e7404\u670830\u65e500\u664200\u520600\u79d2",
+      "announcementTime_jst": "2025年04月30日00時00分00秒",
       "announcementTime_unix": 1745938800,
       "beginTime": "2025-05-06T01:00:00Z",
-      "beginTime_jst": "2025\u5e7405\u670806\u65e510\u664200\u520600\u79d2",
+      "beginTime_jst": "2025年05月06日10時00分00秒",
       "beginTime_unix": 1746493200,
       "displayData": {
-        "details_description": "Fortnite World Cup\u306e\u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u304c\u30012025 FNCS Pro-Am\u306e\u795d\u5178\u306bFNCS\u306e\u30b9\u30bf\u30a4\u30eb\u3092\u3082\u305f\u3089\u3059\uff01 \u30c7\u30e5\u30aa\u3092\u7d44\u3093\u3067\u53c2\u52a0\u3057\u3088\u3046\u3002\u30b7\u30e7\u30c3\u30d7\u3067\u306e\u914d\u4fe1\u524d\u306b\u30b3\u30b9\u30c1\u30e5\u30fc\u30e0\u300c\u30c1\u30e3\u30f3\u30d4\u30aa\u30f3 Bugha\u300d\u3092\u7372\u5f97\u3059\u308b\u30c1\u30e3\u30f3\u30b9\u3060\uff01 8\u30dd\u30a4\u30f3\u30c8\u3092\u7372\u5f97\u3057\u305f\u30d7\u30ec\u30a4\u30e4\u30fc\u306b\u306f\u3001\u30b9\u30d7\u30ec\u30fc\u300c\u30b9\u30a6\u30a7\u30c3\u30c6\u30a3\u30f3\u300d\u304c\u8d08\u5448\u3055\u308c\u308b\u305e\uff01",
+        "details_description": "Fortnite World Cupのチャンピオンが、2025 FNCS Pro-Amの祝典にFNCSのスタイルをもたらす！ デュオを組んで参加しよう。ショップでの配信前にコスチューム「チャンピオン Bugha」を獲得するチャンスだ！ 8ポイントを獲得したプレイヤーには、スプレー「スウェッティン」が贈呈されるぞ！",
         "flavor_description": "",
         "loading_screen_image": "https://cdn2.unrealengine.com/jp-jp-fnce-35-00-pro-am-reload-discoverytile-communitycup-1920x1080-1920x1080-5ae0baa1a052.jpg",
-        "long_format_title": "FNCS Bugha \u30a2\u30a4\u30b3\u30f3\u30ab\u30c3\u30d7",
+        "long_format_title": "FNCS Bugha アイコンカップ",
         "poster_back_image": null,
         "poster_front_image": "https://cdn2.unrealengine.com/fncs-35-00-proam-bugha-fncs-comp-in-game-poster-poster-front-750x1080-9f4b4c21c65c.jpg",
         "round_names": null,
@@ -1062,7 +881,7 @@
       },
       "displayDataId": "s35_fncs_bugha",
       "endTime": "2025-05-06T03:30:00Z",
-      "endTime_jst": "2025\u5e7405\u670806\u65e512\u664230\u520600\u79d2",
+      "endTime_jst": "2025年05月06日12時30分00秒",
       "endTime_unix": 1746502200,
       "eventGroup": "Season35_FNCSCommunityCup",
       "eventId": "epicgames_S35_FNCSCommunityCups_Bugha_NAW",
@@ -1074,15 +893,15 @@
             "adps:g-a81a33a3b9a7"
           ],
           "beginTime": "2025-05-06T01:00:00Z",
-          "beginTime_jst": "2025\u5e7405\u670806\u65e510\u664200\u520600\u79d2",
+          "beginTime_jst": "2025年05月06日10時00分00秒",
           "beginTime_unix": 1746493200,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-05T23:00:00Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670806\u65e508\u664200\u520600\u79d2",
+          "countdownBeginTime_jst": "2025年05月06日08時00分00秒",
           "countdownBeginTime_unix": 1746486000,
           "endTime": "2025-05-06T03:30:00Z",
-          "endTime_jst": "2025\u5e7405\u670806\u65e512\u664230\u520600\u79d2",
+          "endTime_jst": "2025年05月06日12時30分00秒",
           "endTime_unix": 1746502200,
           "eventTemplateId": "EventTemplate_S35_FNCSCommunityCups",
           "eventWindowId": "S35_FNCSCommunityCups_Bugha_NAW",
@@ -1154,16 +973,16 @@
     },
     {
       "announcementTime": "2025-04-08T14:00:00Z",
-      "announcementTime_jst": "2025\u5e7404\u670808\u65e523\u664200\u520600\u79d2",
+      "announcementTime_jst": "2025年04月08日23時00分00秒",
       "announcementTime_unix": 1744120800,
       "beginTime": "2025-05-04T01:00:00Z",
-      "beginTime_jst": "2025\u5e7405\u670804\u65e510\u664200\u520600\u79d2",
+      "beginTime_jst": "2025年05月04日10時00分00秒",
       "beginTime_unix": 1746320400,
       "displayData": {
-        "details_description": "2025 FNCS Pro-Am\u3092\u8a18\u5ff5\u3057\u3001Clix\u304c\u65b0\u305f\u306aFNCS\u306e\u30b9\u30bf\u30a4\u30eb\u3092\u5f15\u3063\u3055\u3052\u3066\u518d\u767b\u5834\uff01 \u30c7\u30e5\u30aa\u3092\u7d44\u3093\u3067\u53c2\u52a0\u3057\u3088\u3046\u3002\u30b7\u30e7\u30c3\u30d7\u3067\u306e\u914d\u4fe1\u524d\u306b\u30b3\u30b9\u30c1\u30e5\u30fc\u30e0\u300c\u30c1\u30e3\u30f3\u30d4\u30aa\u30f3 Clix\u300d\u3092\u7372\u5f97\u3059\u308b\u30c1\u30e3\u30f3\u30b9\u3060\uff01 8\u30dd\u30a4\u30f3\u30c8\u3092\u7372\u5f97\u3057\u305f\u30d7\u30ec\u30a4\u30e4\u30fc\u306b\u306f\u3001\u30b9\u30d7\u30ec\u30fc\u300c\u30b9\u30a6\u30a7\u30c3\u30c6\u30a3\u30f3\u300d\u304c\u8d08\u5448\u3055\u308c\u308b\u305e\uff01",
+        "details_description": "2025 FNCS Pro-Amを記念し、Clixが新たなFNCSのスタイルを引っさげて再登場！ デュオを組んで参加しよう。ショップでの配信前にコスチューム「チャンピオン Clix」を獲得するチャンスだ！ 8ポイントを獲得したプレイヤーには、スプレー「スウェッティン」が贈呈されるぞ！",
         "flavor_description": "",
         "loading_screen_image": "https://cdn2.unrealengine.com/jp-jp-fnce-35-00-pro-am-reload-discoverytile-communitycup-1920x1080-1920x1080-5ae0baa1a052.jpg",
-        "long_format_title": "FNCS Clix \u30a2\u30a4\u30b3\u30f3\u30ab\u30c3\u30d7",
+        "long_format_title": "FNCS Clix アイコンカップ",
         "poster_back_image": null,
         "poster_front_image": "https://cdn2.unrealengine.com/fncs-35-00-proam-lachlan-fncs-comp-in-game-poster-poster-front-750x1080-e00184850b21.jpg",
         "round_names": null,
@@ -1172,7 +991,7 @@
       },
       "displayDataId": "s35_fncs_clix",
       "endTime": "2025-05-04T03:30:00Z",
-      "endTime_jst": "2025\u5e7405\u670804\u65e512\u664230\u520600\u79d2",
+      "endTime_jst": "2025年05月04日12時30分00秒",
       "endTime_unix": 1746329400,
       "eventGroup": "Season35_FNCSCommunityCup",
       "eventId": "epicgames_S35_FNCSCommunityCups_Clix_NAW",
@@ -1184,15 +1003,15 @@
             "adps:g-a81a33a3b9a7"
           ],
           "beginTime": "2025-05-04T01:00:00Z",
-          "beginTime_jst": "2025\u5e7405\u670804\u65e510\u664200\u520600\u79d2",
+          "beginTime_jst": "2025年05月04日10時00分00秒",
           "beginTime_unix": 1746320400,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-03T23:00:00Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670804\u65e508\u664200\u520600\u79d2",
+          "countdownBeginTime_jst": "2025年05月04日08時00分00秒",
           "countdownBeginTime_unix": 1746313200,
           "endTime": "2025-05-04T03:30:00Z",
-          "endTime_jst": "2025\u5e7405\u670804\u65e512\u664230\u520600\u79d2",
+          "endTime_jst": "2025年05月04日12時30分00秒",
           "endTime_unix": 1746329400,
           "eventTemplateId": "EventTemplate_S35_FNCSCommunityCups",
           "eventWindowId": "S35_FNCSCommunityCups_Clix_NAW",
@@ -1264,16 +1083,16 @@
     },
     {
       "announcementTime": "2025-04-30T15:00:00Z",
-      "announcementTime_jst": "2025\u5e7405\u670801\u65e500\u664200\u520600\u79d2",
+      "announcementTime_jst": "2025年05月01日00時00分00秒",
       "announcementTime_unix": 1746025200,
       "beginTime": "2025-05-08T01:00:00Z",
-      "beginTime_jst": "2025\u5e7405\u670808\u65e510\u664200\u520600\u79d2",
+      "beginTime_jst": "2025年05月08日10時00分00秒",
       "beginTime_unix": 1746666000,
       "displayData": {
-        "details_description": "2025 FNCS Pro-Am\u3092\u8a18\u5ff5\u3057\u3001Lachlan\u304c\u65b0\u305f\u306aFNCS\u306e\u30eb\u30c3\u30af\u30b9\u3092\u307e\u3068\u3063\u3066\u518d\u767b\u5834\uff01 \u30c7\u30e5\u30aa\u3092\u7d44\u3093\u3067\u53c2\u52a0\u3057\u3088\u3046\u3002\u30b7\u30e7\u30c3\u30d7\u3067\u306e\u914d\u4fe1\u524d\u306b\u30b3\u30b9\u30c1\u30e5\u30fc\u30e0\u300c\u30c1\u30e3\u30f3\u30d4\u30aa\u30f3 Lachlan\u300d\u3092\u7372\u5f97\u3059\u308b\u30c1\u30e3\u30f3\u30b9\u3060\uff01 8\u30dd\u30a4\u30f3\u30c8\u3092\u7372\u5f97\u3057\u305f\u30d7\u30ec\u30a4\u30e4\u30fc\u306b\u306f\u3001\u30b9\u30d7\u30ec\u30fc\u300c\u30b9\u30a6\u30a7\u30c3\u30c6\u30a3\u30f3\u300d\u304c\u8d08\u5448\u3055\u308c\u308b\u305e\uff01",
+        "details_description": "2025 FNCS Pro-Amを記念し、Lachlanが新たなFNCSのルックスをまとって再登場！ デュオを組んで参加しよう。ショップでの配信前にコスチューム「チャンピオン Lachlan」を獲得するチャンスだ！ 8ポイントを獲得したプレイヤーには、スプレー「スウェッティン」が贈呈されるぞ！",
         "flavor_description": "",
         "loading_screen_image": "https://cdn2.unrealengine.com/en-fnce-35-00-pro-am-reload-discoverytile-communitycup-1920x1080-1920x1080-470ebe19aae7.jpg",
-        "long_format_title": "FNCS Lachlan \u30a2\u30a4\u30b3\u30f3\u30ab\u30c3\u30d7",
+        "long_format_title": "FNCS Lachlan アイコンカップ",
         "poster_back_image": null,
         "poster_front_image": "https://cdn2.unrealengine.com/fncs-35-00-proam-lachlan-fncs-comp-in-game-poster-poster-frontfnce-33-00-competitive-keyart-posterfront-750x1080-750x1080-195beedc6624.jpg",
         "round_names": null,
@@ -1282,7 +1101,7 @@
       },
       "displayDataId": "s35_fncs_lachlan",
       "endTime": "2025-05-08T03:30:00Z",
-      "endTime_jst": "2025\u5e7405\u670808\u65e512\u664230\u520600\u79d2",
+      "endTime_jst": "2025年05月08日12時30分00秒",
       "endTime_unix": 1746675000,
       "eventGroup": "Season35_FNCSCommunityCup",
       "eventId": "epicgames_S35_FNCSCommunityCups_Lachlan_NAW",
@@ -1294,15 +1113,15 @@
             "adps:g-a81a33a3b9a7"
           ],
           "beginTime": "2025-05-08T01:00:00Z",
-          "beginTime_jst": "2025\u5e7405\u670808\u65e510\u664200\u520600\u79d2",
+          "beginTime_jst": "2025年05月08日10時00分00秒",
           "beginTime_unix": 1746666000,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-07T23:00:00Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670808\u65e508\u664200\u520600\u79d2",
+          "countdownBeginTime_jst": "2025年05月08日08時00分00秒",
           "countdownBeginTime_unix": 1746658800,
           "endTime": "2025-05-08T03:30:00Z",
-          "endTime_jst": "2025\u5e7405\u670808\u65e512\u664230\u520600\u79d2",
+          "endTime_jst": "2025年05月08日12時30分00秒",
           "endTime_unix": 1746675000,
           "eventTemplateId": "EventTemplate_S35_FNCSCommunityCups",
           "eventWindowId": "S35_FNCSCommunityCups_Lachlan_NAW",
@@ -1374,16 +1193,16 @@
     },
     {
       "announcementTime": "2025-05-01T11:00:00Z",
-      "announcementTime_jst": "2025\u5e7405\u670801\u65e520\u664200\u520600\u79d2",
+      "announcementTime_jst": "2025年05月01日20時00分00秒",
       "announcementTime_unix": 1746097200,
       "beginTime": "2025-05-09T01:00:00Z",
-      "beginTime_jst": "2025\u5e7405\u670809\u65e510\u664200\u520600\u79d2",
+      "beginTime_jst": "2025年05月09日10時00分00秒",
       "beginTime_unix": 1746752400,
       "displayData": {
-        "details_description": "\u7279\u5fb4\u7684\u306aFNCS\u30b9\u30bf\u30a4\u30eb\u306b\u8eab\u3092\u5305\u307f\u3001Loserfruit\u304c2025 FNCS Pro-Am\u306e\u795d\u5178\u306b\u53c2\u52a0\u3059\u308b\u305e\uff01 \u30c7\u30e5\u30aa\u3092\u7d44\u3093\u3067\u53c2\u52a0\u3057\u3088\u3046\u3002\u30b7\u30e7\u30c3\u30d7\u3067\u306e\u914d\u4fe1\u524d\u306b\u30b3\u30b9\u30c1\u30e5\u30fc\u30e0\u300c\u30c1\u30e3\u30f3\u30d4\u30aa\u30f3 Loserfruit\u300d\u3092\u7372\u5f97\u3059\u308b\u30c1\u30e3\u30f3\u30b9\u3060\uff01 8\u30dd\u30a4\u30f3\u30c8\u3092\u7372\u5f97\u3057\u305f\u30d7\u30ec\u30a4\u30e4\u30fc\u306b\u306f\u3001\u30b9\u30d7\u30ec\u30fc\u300c\u30b9\u30a6\u30a7\u30c3\u30c6\u30a3\u30f3\u300d\u304c\u8d08\u5448\u3055\u308c\u308b\u305e\uff01",
+        "details_description": "特徴的なFNCSスタイルに身を包み、Loserfruitが2025 FNCS Pro-Amの祝典に参加するぞ！ デュオを組んで参加しよう。ショップでの配信前にコスチューム「チャンピオン Loserfruit」を獲得するチャンスだ！ 8ポイントを獲得したプレイヤーには、スプレー「スウェッティン」が贈呈されるぞ！",
         "flavor_description": "",
         "loading_screen_image": "https://cdn2.unrealengine.com/en-fnce-35-00-pro-am-reload-discoverytile-communitycup-1920x1080-1920x1080-470ebe19aae7.jpg",
-        "long_format_title": "FNCS Loserfruit \u30a2\u30a4\u30b3\u30f3\u30ab\u30c3\u30d7",
+        "long_format_title": "FNCS Loserfruit アイコンカップ",
         "poster_back_image": null,
         "poster_front_image": "https://cdn2.unrealengine.com/fncs-35-00-proam-loserfruit-fncs-comp-in-game-poster-poster-front-750x1080-a59d5b487f9a.jpg",
         "round_names": null,
@@ -1392,7 +1211,7 @@
       },
       "displayDataId": "s35_fncs_loserfruit",
       "endTime": "2025-05-09T03:30:00Z",
-      "endTime_jst": "2025\u5e7405\u670809\u65e512\u664230\u520600\u79d2",
+      "endTime_jst": "2025年05月09日12時30分00秒",
       "endTime_unix": 1746761400,
       "eventGroup": "Season35_FNCSCommunityCup",
       "eventId": "epicgames_S35_FNCSCommunityCups_Loserfruit_NAW",
@@ -1404,15 +1223,15 @@
             "adps:g-a81a33a3b9a7"
           ],
           "beginTime": "2025-05-09T01:00:00Z",
-          "beginTime_jst": "2025\u5e7405\u670809\u65e510\u664200\u520600\u79d2",
+          "beginTime_jst": "2025年05月09日10時00分00秒",
           "beginTime_unix": 1746752400,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-08T23:00:00Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670809\u65e508\u664200\u520600\u79d2",
+          "countdownBeginTime_jst": "2025年05月09日08時00分00秒",
           "countdownBeginTime_unix": 1746745200,
           "endTime": "2025-05-09T03:30:00Z",
-          "endTime_jst": "2025\u5e7405\u670809\u65e512\u664230\u520600\u79d2",
+          "endTime_jst": "2025年05月09日12時30分00秒",
           "endTime_unix": 1746761400,
           "eventTemplateId": "EventTemplate_S35_FNCSCommunityCups",
           "eventWindowId": "S35_FNCSCommunityCups_Loserfruit_NAW",
@@ -1484,16 +1303,16 @@
     },
     {
       "announcementTime": "2025-02-21T23:00:00Z",
-      "announcementTime_jst": "2025\u5e7402\u670822\u65e508\u664200\u520600\u79d2",
+      "announcementTime_jst": "2025年02月22日08時00分00秒",
       "announcementTime_unix": 1740178800,
       "beginTime": "2025-05-14T01:00:00Z",
-      "beginTime_jst": "2025\u5e7405\u670814\u65e510\u664200\u520600\u79d2",
+      "beginTime_jst": "2025年05月14日10時00分00秒",
       "beginTime_unix": 1747184400,
       "displayData": {
-        "details_description": "\u30c8\u30ea\u30aa\u3092\u7d44\u3093\u3067\u3001\u8cde\u91d1\u7372\u5f97\u3092\u76ee\u6307\u3057\u307e\u3057\u3087\u3046\uff01\u524d\u30b7\u30fc\u30ba\u30f3\u306bFNCS \u30c7\u30a3\u30d3\u30b8\u30e7\u30f31\u307e\u305f\u306f2\u306b\u6240\u5c5e\u3057\u3001\u305d\u308c\u306b\u52a0\u3048\u3066\u904e\u53bb180\u65e5\u9593\u306b14\u7a2e\u306e\u30c8\u30fc\u30ca\u30e1\u30f3\u30c8\u306b\u53c2\u52a0\u3057\u305f\u30d7\u30ec\u30a4\u30e4\u30fc\u306f\u3001\u672c\u30a4\u30d9\u30f3\u30c8\u306b\u53c2\u52a0\u3059\u308b\u8cc7\u683c\u304c\u3042\u308a\u307e\u3059\u3002\u5404FNCS \u30b7\u30e7\u30fc\u30c0\u30a6\u30f3\u306e\u30e9\u30a6\u30f3\u30c91\u3067\u306e\u3001\u5404\u5730\u57df\u306e\u4e0a\u4f4d33\u30c1\u30fc\u30e0\u304c\u30e9\u30a6\u30f3\u30c92\u306b\u9032\u51fa\u3057\u3001\u8cde\u91d1\u306e\u7372\u5f97\u3092\u76ee\u6307\u3057\u3066\u7af6\u3044\u5408\u3044\u307e\u3059\u3002",
+        "details_description": "トリオを組んで、賞金獲得を目指しましょう！前シーズンにFNCS ディビジョン1または2に所属し、それに加えて過去180日間に14種のトーナメントに参加したプレイヤーは、本イベントに参加する資格があります。各FNCS ショーダウンのラウンド1での、各地域の上位33チームがラウンド2に進出し、賞金の獲得を目指して競い合います。",
         "flavor_description": "",
         "loading_screen_image": "https://cdn2.unrealengine.com/en-fnce-33-30-competitive-discoverytile-major-1920x1080-1920x1080-a24ebbb7bf9a.jpg",
-        "long_format_title": "FNCS \u30b7\u30e7\u30fc\u30c0\u30a6\u30f3",
+        "long_format_title": "FNCS ショーダウン",
         "poster_back_image": null,
         "poster_front_image": "https://cdn2.unrealengine.com/fnce-33-00-competitive-keyart-posterfront-750x1080-750x1080-0f8ed2de08b6.jpg",
         "round_names": null,
@@ -1502,7 +1321,7 @@
       },
       "displayDataId": "s35_fncsshowdown",
       "endTime": "2025-05-29T04:00:00Z",
-      "endTime_jst": "2025\u5e7405\u670829\u65e513\u664200\u520600\u79d2",
+      "endTime_jst": "2025年05月29日13時00分00秒",
       "endTime_unix": 1748491200,
       "eventGroup": "Season35_FNSCShowdown",
       "eventId": "epicgames_S35_FNSCShowdown_NAW",
@@ -1514,15 +1333,15 @@
             "eula:s35_showdown_rules"
           ],
           "beginTime": "2025-05-14T01:00:00Z",
-          "beginTime_jst": "2025\u5e7405\u670814\u65e510\u664200\u520600\u79d2",
+          "beginTime_jst": "2025年05月14日10時00分00秒",
           "beginTime_unix": 1747184400,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-13T23:00:00Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670814\u65e508\u664200\u520600\u79d2",
+          "countdownBeginTime_jst": "2025年05月14日08時00分00秒",
           "countdownBeginTime_unix": 1747177200,
           "endTime": "2025-05-14T04:00:00Z",
-          "endTime_jst": "2025\u5e7405\u670814\u65e513\u664200\u520600\u79d2",
+          "endTime_jst": "2025年05月14日13時00分00秒",
           "endTime_unix": 1747195200,
           "eventTemplateId": "EventTemplate_S35_FNSCShowdown_Round1",
           "eventWindowId": "S35_FNSCShowdown_Event1Round1_NAW",
@@ -1566,15 +1385,15 @@
             "eula:s35_showdown_rules"
           ],
           "beginTime": "2025-05-15T01:00:00Z",
-          "beginTime_jst": "2025\u5e7405\u670815\u65e510\u664200\u520600\u79d2",
+          "beginTime_jst": "2025年05月15日10時00分00秒",
           "beginTime_unix": 1747270800,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-14T23:00:00Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670815\u65e508\u664200\u520600\u79d2",
+          "countdownBeginTime_jst": "2025年05月15日08時00分00秒",
           "countdownBeginTime_unix": 1747263600,
           "endTime": "2025-05-15T04:00:00Z",
-          "endTime_jst": "2025\u5e7405\u670815\u65e513\u664200\u520600\u79d2",
+          "endTime_jst": "2025年05月15日13時00分00秒",
           "endTime_unix": 1747281600,
           "eventTemplateId": "EventTemplate_S35_FNSCShowdown_Round2",
           "eventWindowId": "S35_FNSCShowdown_Event1Round2_NAW",
@@ -1617,18 +1436,18 @@
             "eula:s35_showdown_rules"
           ],
           "beginTime": "2025-05-21T01:00:00Z",
-          "beginTime_jst": "2025\u5e7405\u670821\u65e510\u664200\u520600\u79d2",
+          "beginTime_jst": "2025年05月21日10時00分00秒",
           "beginTime_unix": 1747789200,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-20T23:00:00Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670821\u65e508\u664200\u520600\u79d2",
+          "countdownBeginTime_jst": "2025年05月21日08時00分00秒",
           "countdownBeginTime_unix": 1747782000,
           "endTime": "2025-05-21T04:00:00Z",
-          "endTime_jst": "2025\u5e7405\u670821\u65e513\u664200\u520600\u79d2",
+          "endTime_jst": "2025年05月21日13時00分00秒",
           "endTime_unix": 1747800000,
           "eventTemplateId": "EventTemplate_S35_FNSCShowdown_Round1",
-          "eventWindowId": "S35_FNSCShowdown_Event2Round1_NAW",
+          "eventWindowId": "S35_FNCSShowdown_Event2Round1_NAW",
           "isTBD": false,
           "metadata": {
             "RoundType": "Qualifiers",
@@ -1669,18 +1488,18 @@
             "eula:s35_showdown_rules"
           ],
           "beginTime": "2025-05-22T01:00:00Z",
-          "beginTime_jst": "2025\u5e7405\u670822\u65e510\u664200\u520600\u79d2",
+          "beginTime_jst": "2025年05月22日10時00分00秒",
           "beginTime_unix": 1747875600,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-21T23:00:00Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670822\u65e508\u664200\u520600\u79d2",
+          "countdownBeginTime_jst": "2025年05月22日08時00分00秒",
           "countdownBeginTime_unix": 1747868400,
           "endTime": "2025-05-22T04:00:00Z",
-          "endTime_jst": "2025\u5e7405\u670822\u65e513\u664200\u520600\u79d2",
+          "endTime_jst": "2025年05月22日13時00分00秒",
           "endTime_unix": 1747886400,
           "eventTemplateId": "EventTemplate_S35_FNSCShowdown_Round2",
-          "eventWindowId": "S35_FNSCShowdown_Event2Round2_NAW",
+          "eventWindowId": "S35_FNCSShowdown_Event2Round2_NAW",
           "isTBD": false,
           "metadata": {
             "RoundType": "Qualifiers",
@@ -1695,7 +1514,7 @@
           ],
           "requireAllTokensCaller": [],
           "requireAnyTokens": [
-            "S35_FNSCShowdown_Event2Round2_NAW"
+            "S35_FNCSShowdown_Event2Round2_NAW"
           ],
           "requireAnyTokensCaller": [],
           "requireNoneTokensCaller": [
@@ -1720,18 +1539,18 @@
             "eula:s35_showdown_rules"
           ],
           "beginTime": "2025-05-28T01:00:00Z",
-          "beginTime_jst": "2025\u5e7405\u670828\u65e510\u664200\u520600\u79d2",
+          "beginTime_jst": "2025年05月28日10時00分00秒",
           "beginTime_unix": 1748394000,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-27T23:00:00Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670828\u65e508\u664200\u520600\u79d2",
+          "countdownBeginTime_jst": "2025年05月28日08時00分00秒",
           "countdownBeginTime_unix": 1748386800,
           "endTime": "2025-05-28T04:00:00Z",
-          "endTime_jst": "2025\u5e7405\u670828\u65e513\u664200\u520600\u79d2",
+          "endTime_jst": "2025年05月28日13時00分00秒",
           "endTime_unix": 1748404800,
           "eventTemplateId": "EventTemplate_S35_FNSCShowdown_Round1",
-          "eventWindowId": "S35_FNSCShowdown_Event3Round1_NAW",
+          "eventWindowId": "S35_FNCSShowdown_Event3Round1_NAW",
           "isTBD": false,
           "metadata": {
             "RoundType": "Qualifiers",
@@ -1772,18 +1591,18 @@
             "eula:s35_showdown_rules"
           ],
           "beginTime": "2025-05-29T01:00:00Z",
-          "beginTime_jst": "2025\u5e7405\u670829\u65e510\u664200\u520600\u79d2",
+          "beginTime_jst": "2025年05月29日10時00分00秒",
           "beginTime_unix": 1748480400,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-28T23:00:00Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670829\u65e508\u664200\u520600\u79d2",
+          "countdownBeginTime_jst": "2025年05月29日08時00分00秒",
           "countdownBeginTime_unix": 1748473200,
           "endTime": "2025-05-29T04:00:00Z",
-          "endTime_jst": "2025\u5e7405\u670829\u65e513\u664200\u520600\u79d2",
+          "endTime_jst": "2025年05月29日13時00分00秒",
           "endTime_unix": 1748491200,
           "eventTemplateId": "EventTemplate_S35_FNSCShowdown_Round2",
-          "eventWindowId": "S35_FNSCShowdown_Event3Round2_NAW",
+          "eventWindowId": "S35_FNCSShowdown_Event3Round2_NAW",
           "isTBD": false,
           "metadata": {
             "RoundType": "Qualifiers",
@@ -1798,7 +1617,7 @@
           ],
           "requireAllTokensCaller": [],
           "requireAnyTokens": [
-            "S35_FNSCShowdown_Event3Round2_NAW"
+            "S35_FNCSShowdown_Event3Round2_NAW"
           ],
           "requireAnyTokensCaller": [],
           "requireNoneTokensCaller": [
@@ -1865,25 +1684,25 @@
     },
     {
       "announcementTime": "2025-05-02T08:00:00Z",
-      "announcementTime_jst": "2025\u5e7405\u670802\u65e517\u664200\u520600\u79d2",
+      "announcementTime_jst": "2025年05月02日17時00分00秒",
       "announcementTime_unix": 1746172800,
       "beginTime": "2025-05-18T21:00:00Z",
-      "beginTime_jst": "2025\u5e7405\u670819\u65e506\u664200\u520600\u79d2",
+      "beginTime_jst": "2025年05月19日06時00分00秒",
       "beginTime_unix": 1747602000,
       "displayData": {
-        "details_description": "\u30d5\u30ec\u30f3\u30c9\u3068\u30b9\u30af\u30ef\u30c3\u30c9\u3092\u7d44\u3080\u304b\u3001\u4ed6\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u3068\u30de\u30c3\u30c1\u30e1\u30a4\u30ad\u30f3\u30b0\u3057\u307e\u3057\u3087\u3046\uff01 \u7372\u5f97\u3057\u305f\u30dd\u30a4\u30f3\u30c8\u306f\u30c1\u30fc\u30e0\u3054\u3068\u3067\u306f\u306a\u304f\u3001\u30d7\u30ec\u30a4\u30e4\u30fc\u3054\u3068\u306b\u30c8\u30e9\u30c3\u30ad\u30f3\u30b0\u3055\u308c\u307e\u3059\u3002\u53c2\u52a0\u3059\u308b\u306b\u306f13\u6b73\u4ee5\u4e0a(\u304a\u4f4f\u307e\u3044\u306e\u56fd/\u5730\u57df\u3067\u5b9a\u3081\u3089\u308c\u3066\u3044\u308b\u5834\u5408\u306f\u305d\u308c\u3088\u308a\u3082\u4e0a\u306e\u5e74\u9f62)\u3067\u3001\u591a\u6bb5\u968e\u8a8d\u8a3c\u304c\u6709\u52b9\u3067\u3042\u308a\u3001\u30a2\u30ab\u30a6\u30f3\u30c8\u30ec\u30d9\u30eb\u304c50\u4ee5\u4e0a\u3067\u306a\u3051\u308c\u3070\u306a\u308a\u307e\u305b\u3093\u3002\u8a73\u7d30\u306f\u3053\u3061\u3089: www.epicgames.com/fortnite/competitive/news",
-        "flavor_description": "\u6642\u3092\u5dfb\u304d\u623b\u3057\u3066\u30b9\u30af\u30ef\u30c3\u30c9\u3092\u7d44\u307f\u307e\u3057\u3087\u3046\uff01",
+        "details_description": "フレンドとスクワッドを組むか、他のプレイヤーとマッチメイキングしましょう！ 獲得したポイントはチームごとではなく、プレイヤーごとにトラッキングされます。参加するには13歳以上(お住まいの国/地域で定められている場合はそれよりも上の年齢)で、多段階認証が有効であり、アカウントレベルが50以上でなければなりません。詳細はこちら: www.epicgames.com/fortnite/competitive/news",
+        "flavor_description": "時を巻き戻してスクワッドを組みましょう！",
         "loading_screen_image": "https://cdn2.unrealengine.com/jp-fneco-33-00-competitive-discoverytile-ogcup-1080x1920-1920x1080-2adc64418485.jpg",
-        "long_format_title": "\u30bc\u30ed\u30d3\u30eb\u30c9 ORIGIN\u30ab\u30c3\u30d7",
+        "long_format_title": "ゼロビルド ORIGINカップ",
         "poster_back_image": "https://cdn2.unrealengine.com/30comp-in-game-figment-poster-back-750x1080-b2b689db02aa.jpg",
         "poster_front_image": "https://cdn2.unrealengine.com/30comp-in-game-figment-poster-front-4-750x1080-9a9db5442d16.jpg",
         "round_names": null,
-        "short_format_title": "\u30b9\u30af\u30ef\u30c3\u30c9\u30c8\u30fc\u30ca\u30e1\u30f3\u30c8",
+        "short_format_title": "スクワッドトーナメント",
         "square_poster_image": "https://cdn2.unrealengine.com/jp-fneco-33-00-competitive-discoverytile-ogcup-1080x1920-1920x1080-2adc64418485.jpg"
       },
       "displayDataId": "s34_og_cupzb",
       "endTime": "2025-06-02T00:00:00Z",
-      "endTime_jst": "2025\u5e7406\u670802\u65e509\u664200\u520600\u79d2",
+      "endTime_jst": "2025年06月02日09時00分00秒",
       "endTime_unix": 1748822400,
       "eventGroup": "Season35_OGCup",
       "eventId": "epicgames_S35_OGCupZB_NAW",
@@ -1895,15 +1714,15 @@
             "eula:s33_og_rules"
           ],
           "beginTime": "2025-05-18T21:00:00Z",
-          "beginTime_jst": "2025\u5e7405\u670819\u65e506\u664200\u520600\u79d2",
+          "beginTime_jst": "2025年05月19日06時00分00秒",
           "beginTime_unix": 1747602000,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-18T19:00:00Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670819\u65e504\u664200\u520600\u79d2",
+          "countdownBeginTime_jst": "2025年05月19日04時00分00秒",
           "countdownBeginTime_unix": 1747594800,
           "endTime": "2025-05-19T00:00:00Z",
-          "endTime_jst": "2025\u5e7405\u670819\u65e509\u664200\u520600\u79d2",
+          "endTime_jst": "2025年05月19日09時00分00秒",
           "endTime_unix": 1747612800,
           "eventTemplateId": "EventTemplate_S35_OGCupZB",
           "eventWindowId": "S35_OGCupZB_Event1_NAW",
@@ -1938,15 +1757,15 @@
             "eula:s33_og_rules"
           ],
           "beginTime": "2025-05-25T21:00:00Z",
-          "beginTime_jst": "2025\u5e7405\u670826\u65e506\u664200\u520600\u79d2",
+          "beginTime_jst": "2025年05月26日06時00分00秒",
           "beginTime_unix": 1748206800,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-25T19:00:00Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670826\u65e504\u664200\u520600\u79d2",
+          "countdownBeginTime_jst": "2025年05月26日04時00分00秒",
           "countdownBeginTime_unix": 1748199600,
           "endTime": "2025-05-26T00:00:00Z",
-          "endTime_jst": "2025\u5e7405\u670826\u65e509\u664200\u520600\u79d2",
+          "endTime_jst": "2025年05月26日09時00分00秒",
           "endTime_unix": 1748217600,
           "eventTemplateId": "EventTemplate_S35_OGCupZB",
           "eventWindowId": "S35_OGCupZB_Event2_NAW",
@@ -1981,15 +1800,15 @@
             "eula:s33_og_rules"
           ],
           "beginTime": "2025-06-01T21:00:00Z",
-          "beginTime_jst": "2025\u5e7406\u670802\u65e506\u664200\u520600\u79d2",
+          "beginTime_jst": "2025年06月02日06時00分00秒",
           "beginTime_unix": 1748811600,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-06-01T19:00:00Z",
-          "countdownBeginTime_jst": "2025\u5e7406\u670802\u65e504\u664200\u520600\u79d2",
+          "countdownBeginTime_jst": "2025年06月02日04時00分00秒",
           "countdownBeginTime_unix": 1748804400,
           "endTime": "2025-06-02T00:00:00Z",
-          "endTime_jst": "2025\u5e7406\u670802\u65e509\u664200\u520600\u79d2",
+          "endTime_jst": "2025年06月02日09時00分00秒",
           "endTime_unix": 1748822400,
           "eventTemplateId": "EventTemplate_S35_OGCupZB",
           "eventWindowId": "S35_OGCupZB_Event3_NAW",
@@ -2061,25 +1880,25 @@
     },
     {
       "announcementTime": "2025-05-02T08:00:00Z",
-      "announcementTime_jst": "2025\u5e7405\u670802\u65e517\u664200\u520600\u79d2",
+      "announcementTime_jst": "2025年05月02日17時00分00秒",
       "announcementTime_unix": 1746172800,
       "beginTime": "2025-05-18T21:00:00Z",
-      "beginTime_jst": "2025\u5e7405\u670819\u65e506\u664200\u520600\u79d2",
+      "beginTime_jst": "2025年05月19日06時00分00秒",
       "beginTime_unix": 1747602000,
       "displayData": {
-        "details_description": "\u30d5\u30ec\u30f3\u30c9\u3068\u30b9\u30af\u30ef\u30c3\u30c9\u3092\u7d44\u3080\u304b\u3001\u4ed6\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u3068\u30de\u30c3\u30c1\u30e1\u30a4\u30ad\u30f3\u30b0\u3057\u307e\u3057\u3087\u3046\uff01 \u7372\u5f97\u3057\u305f\u30dd\u30a4\u30f3\u30c8\u306f\u30c1\u30fc\u30e0\u3054\u3068\u3067\u306f\u306a\u304f\u3001\u30d7\u30ec\u30a4\u30e4\u30fc\u3054\u3068\u306b\u30c8\u30e9\u30c3\u30ad\u30f3\u30b0\u3055\u308c\u307e\u3059\u3002\u53c2\u52a0\u3059\u308b\u306b\u306f13\u6b73\u4ee5\u4e0a(\u304a\u4f4f\u307e\u3044\u306e\u56fd/\u5730\u57df\u3067\u5b9a\u3081\u3089\u308c\u3066\u3044\u308b\u5834\u5408\u306f\u305d\u308c\u3088\u308a\u3082\u4e0a\u306e\u5e74\u9f62)\u3067\u3001\u591a\u6bb5\u968e\u8a8d\u8a3c\u304c\u6709\u52b9\u3067\u3042\u308a\u3001\u30a2\u30ab\u30a6\u30f3\u30c8\u30ec\u30d9\u30eb\u304c50\u4ee5\u4e0a\u3067\u306a\u3051\u308c\u3070\u306a\u308a\u307e\u305b\u3093\u3002\u8a73\u7d30\u306f\u3053\u3061\u3089: www.epicgames.com/fortnite/competitive/news",
-        "flavor_description": "\u6642\u3092\u5dfb\u304d\u623b\u3057\u3066\u30b9\u30af\u30ef\u30c3\u30c9\u3092\u7d44\u307f\u307e\u3057\u3087\u3046\uff01",
+        "details_description": "フレンドとスクワッドを組むか、他のプレイヤーとマッチメイキングしましょう！ 獲得したポイントはチームごとではなく、プレイヤーごとにトラッキングされます。参加するには13歳以上(お住まいの国/地域で定められている場合はそれよりも上の年齢)で、多段階認証が有効であり、アカウントレベルが50以上でなければなりません。詳細はこちら: www.epicgames.com/fortnite/competitive/news",
+        "flavor_description": "時を巻き戻してスクワッドを組みましょう！",
         "loading_screen_image": "https://cdn2.unrealengine.com/jp-fneco-33-00-competitive-discoverytile-ogcup-1080x1920-1920x1080-2adc64418485.jpg",
-        "long_format_title": "ORIGIN\u30ab\u30c3\u30d7",
+        "long_format_title": "ORIGINカップ",
         "poster_back_image": "https://cdn2.unrealengine.com/30comp-in-game-figment-poster-back-750x1080-b2b689db02aa.jpg",
         "poster_front_image": "https://cdn2.unrealengine.com/30comp-in-game-figment-poster-front-1-750x1080-8998656fdae5.jpg",
         "round_names": null,
-        "short_format_title": "\u30b9\u30af\u30ef\u30c3\u30c9\u30c8\u30fc\u30ca\u30e1\u30f3\u30c8",
+        "short_format_title": "スクワッドトーナメント",
         "square_poster_image": "https://cdn2.unrealengine.com/jp-fneco-33-00-competitive-discoverytile-ogcup-1080x1920-1920x1080-2adc64418485.jpg"
       },
       "displayDataId": "s34_og_cup",
       "endTime": "2025-06-02T00:00:00Z",
-      "endTime_jst": "2025\u5e7406\u670802\u65e509\u664200\u520600\u79d2",
+      "endTime_jst": "2025年06月02日09時00分00秒",
       "endTime_unix": 1748822400,
       "eventGroup": "Season35_OGCup",
       "eventId": "epicgames_S35_OGCup_NAW",
@@ -2091,15 +1910,15 @@
             "eula:s33_og_rules"
           ],
           "beginTime": "2025-05-18T21:00:00Z",
-          "beginTime_jst": "2025\u5e7405\u670819\u65e506\u664200\u520600\u79d2",
+          "beginTime_jst": "2025年05月19日06時00分00秒",
           "beginTime_unix": 1747602000,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-18T19:00:00Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670819\u65e504\u664200\u520600\u79d2",
+          "countdownBeginTime_jst": "2025年05月19日04時00分00秒",
           "countdownBeginTime_unix": 1747594800,
           "endTime": "2025-05-19T00:00:00Z",
-          "endTime_jst": "2025\u5e7405\u670819\u65e509\u664200\u520600\u79d2",
+          "endTime_jst": "2025年05月19日09時00分00秒",
           "endTime_unix": 1747612800,
           "eventTemplateId": "EventTemplate_S35_OGCup",
           "eventWindowId": "S35_OGCup_Event1_NAW",
@@ -2134,15 +1953,15 @@
             "eula:s33_og_rules"
           ],
           "beginTime": "2025-05-25T21:00:00Z",
-          "beginTime_jst": "2025\u5e7405\u670826\u65e506\u664200\u520600\u79d2",
+          "beginTime_jst": "2025年05月26日06時00分00秒",
           "beginTime_unix": 1748206800,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-25T19:00:00Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670826\u65e504\u664200\u520600\u79d2",
+          "countdownBeginTime_jst": "2025年05月26日04時00分00秒",
           "countdownBeginTime_unix": 1748199600,
           "endTime": "2025-05-26T00:00:00Z",
-          "endTime_jst": "2025\u5e7405\u670826\u65e509\u664200\u520600\u79d2",
+          "endTime_jst": "2025年05月26日09時00分00秒",
           "endTime_unix": 1748217600,
           "eventTemplateId": "EventTemplate_S35_OGCup",
           "eventWindowId": "S35_OGCup_Event2_NAW",
@@ -2177,15 +1996,15 @@
             "eula:s33_og_rules"
           ],
           "beginTime": "2025-06-01T21:00:00Z",
-          "beginTime_jst": "2025\u5e7406\u670802\u65e506\u664200\u520600\u79d2",
+          "beginTime_jst": "2025年06月02日06時00分00秒",
           "beginTime_unix": 1748811600,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-06-01T19:00:00Z",
-          "countdownBeginTime_jst": "2025\u5e7406\u670802\u65e504\u664200\u520600\u79d2",
+          "countdownBeginTime_jst": "2025年06月02日04時00分00秒",
           "countdownBeginTime_unix": 1748804400,
           "endTime": "2025-06-02T00:00:00Z",
-          "endTime_jst": "2025\u5e7406\u670802\u65e509\u664200\u520600\u79d2",
+          "endTime_jst": "2025年06月02日09時00分00秒",
           "endTime_unix": 1748822400,
           "eventTemplateId": "EventTemplate_S35_OGCup",
           "eventWindowId": "S35_OGCup_Event3_NAW",
@@ -2257,16 +2076,16 @@
     },
     {
       "announcementTime": "2025-05-02T08:00:02Z",
-      "announcementTime_jst": "2025\u5e7405\u670802\u65e517\u664200\u520602\u79d2",
+      "announcementTime_jst": "2025年05月02日17時00分02秒",
       "announcementTime_unix": 1746172802,
       "beginTime": "2025-05-16T01:00:02Z",
-      "beginTime_jst": "2025\u5e7405\u670816\u65e510\u664200\u520602\u79d2",
+      "beginTime_jst": "2025年05月16日10時00分02秒",
       "beginTime_unix": 1747357202,
       "displayData": {
-        "details_description": "\u30d6\u30ed\u30f3\u30ba\u3001\u30b7\u30eb\u30d0\u30fc\u3001\u30b4\u30fc\u30eb\u30c9\u30e9\u30f3\u30af\u306e\u4ed6\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u3068\u7af6\u3044\u5408\u3044\u307e\u3057\u3087\u3046\uff01 4\u6642\u9593\u306e\u958b\u50ac\u6642\u9593\u5185\u3067\u3042\u308c\u3070\u4f55\u30de\u30c3\u30c1\u3067\u3082\u30d7\u30ec\u30a4\u53ef\u80fd\u3067\u3059\u304c\u3001\u30e9\u30f3\u30ad\u30f3\u30b0\u3067\u306e\u9806\u4f4d\u306b\u53cd\u6620\u3055\u308c\u308b\u306e\u306f\u3001\u53c2\u52a0\u3057\u305f\u4e2d\u3067\u6700\u3082\u6210\u7e3e\u304c\u826f\u304b\u3063\u305f\u30de\u30c3\u30c14\u3064\u306e\u307f\u3067\u3059\u3002\u3044\u305a\u308c\u304b\u306e\u30bb\u30c3\u30b7\u30e7\u30f3\u306750\u30dd\u30a4\u30f3\u30c8\u7372\u5f97\u3059\u308b\u3068\u3001\u30b2\u30fc\u30e0\u5185\u30b0\u30e9\u30a4\u30c0\u30fc\u300c\u30e9\u30f3\u30ab\u30fc\u306e\u30c7\u30b9\u30fb\u30b9\u30bf\u30fc\u300d\u304c\u624b\u306b\u5165\u308a\u307e\u3059\uff01 ",
+        "details_description": "ブロンズ、シルバー、ゴールドランクの他のプレイヤーと競い合いましょう！ 4時間の開催時間内であれば何マッチでもプレイ可能ですが、ランキングでの順位に反映されるのは、参加した中で最も成績が良かったマッチ4つのみです。いずれかのセッションで50ポイント獲得すると、ゲーム内グライダー「ランカーのデス・スター」が手に入ります！ ",
         "flavor_description": "",
         "loading_screen_image": "https://cdn2.unrealengine.com/en-fneco-33-00-competitive-discoverytile-rankedcups-1080x1920-1920x1080-715a21161bce.jpg",
-        "long_format_title": "\u30d6\u30ed\u30f3\u30ba\u3001\u30b7\u30eb\u30d0\u30fc\u3001\u30b4\u30fc\u30eb\u30c9\u30e9\u30f3\u30af\u30ab\u30c3\u30d7(\u30c7\u30e5\u30aa \u30d0\u30c8\u30eb\u30ed\u30a4\u30e4\u30eb)",
+        "long_format_title": "ブロンズ、シルバー、ゴールドランクカップ(デュオ バトルロイヤル)",
         "poster_back_image": null,
         "poster_front_image": null,
         "round_names": null,
@@ -2275,7 +2094,7 @@
       },
       "displayDataId": "s35_ranked_duos_bsg",
       "endTime": "2025-05-31T05:00:02Z",
-      "endTime_jst": "2025\u5e7405\u670831\u65e514\u664200\u520602\u79d2",
+      "endTime_jst": "2025年05月31日14時00分02秒",
       "endTime_unix": 1748667602,
       "eventGroup": "Season35_RankedCupBSGDuos",
       "eventId": "epicgames_S35_RankedCupBSGDuos_NAW",
@@ -2289,15 +2108,15 @@
             "currentRankingMax:ranked-br:8"
           ],
           "beginTime": "2025-05-16T01:00:02Z",
-          "beginTime_jst": "2025\u5e7405\u670816\u65e510\u664200\u520602\u79d2",
+          "beginTime_jst": "2025年05月16日10時00分02秒",
           "beginTime_unix": 1747357202,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-15T23:00:02Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670816\u65e508\u664200\u520602\u79d2",
+          "countdownBeginTime_jst": "2025年05月16日08時00分02秒",
           "countdownBeginTime_unix": 1747350002,
           "endTime": "2025-05-16T05:00:02Z",
-          "endTime_jst": "2025\u5e7405\u670816\u65e514\u664200\u520602\u79d2",
+          "endTime_jst": "2025年05月16日14時00分02秒",
           "endTime_unix": 1747371602,
           "eventTemplateId": "EventTemplate_S35_RankedCupDuos",
           "eventWindowId": "S35_RankedCupBSGDuos_Event1_NAW",
@@ -2334,15 +2153,15 @@
             "currentRankingMax:ranked-br:8"
           ],
           "beginTime": "2025-05-24T01:00:02Z",
-          "beginTime_jst": "2025\u5e7405\u670824\u65e510\u664200\u520602\u79d2",
+          "beginTime_jst": "2025年05月24日10時00分02秒",
           "beginTime_unix": 1748048402,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-23T23:00:02Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670824\u65e508\u664200\u520602\u79d2",
+          "countdownBeginTime_jst": "2025年05月24日08時00分02秒",
           "countdownBeginTime_unix": 1748041202,
           "endTime": "2025-05-24T05:00:02Z",
-          "endTime_jst": "2025\u5e7405\u670824\u65e514\u664200\u520602\u79d2",
+          "endTime_jst": "2025年05月24日14時00分02秒",
           "endTime_unix": 1748062802,
           "eventTemplateId": "EventTemplate_S35_RankedCupDuos",
           "eventWindowId": "S35_RankedCupBSGDuos_Event2_NAW",
@@ -2379,15 +2198,15 @@
             "currentRankingMax:ranked-br:8"
           ],
           "beginTime": "2025-05-31T01:00:02Z",
-          "beginTime_jst": "2025\u5e7405\u670831\u65e510\u664200\u520602\u79d2",
+          "beginTime_jst": "2025年05月31日10時00分02秒",
           "beginTime_unix": 1748653202,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-30T23:00:02Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670831\u65e508\u664200\u520602\u79d2",
+          "countdownBeginTime_jst": "2025年05月31日08時00分02秒",
           "countdownBeginTime_unix": 1748646002,
           "endTime": "2025-05-31T05:00:02Z",
-          "endTime_jst": "2025\u5e7405\u670831\u65e514\u664200\u520602\u79d2",
+          "endTime_jst": "2025年05月31日14時00分02秒",
           "endTime_unix": 1748667602,
           "eventTemplateId": "EventTemplate_S35_RankedCupDuos",
           "eventWindowId": "S35_RankedCupBSGDuos_Event3_NAW",
@@ -2459,16 +2278,16 @@
     },
     {
       "announcementTime": "2025-05-02T08:00:02Z",
-      "announcementTime_jst": "2025\u5e7405\u670802\u65e517\u664200\u520602\u79d2",
+      "announcementTime_jst": "2025年05月02日17時00分02秒",
       "announcementTime_unix": 1746172802,
       "beginTime": "2025-05-15T01:00:02Z",
-      "beginTime_jst": "2025\u5e7405\u670815\u65e510\u664200\u520602\u79d2",
+      "beginTime_jst": "2025年05月15日10時00分02秒",
       "beginTime_unix": 1747270802,
       "displayData": {
-        "details_description": "\u30d6\u30ed\u30f3\u30ba\u3001\u30b7\u30eb\u30d0\u30fc\u3001\u30b4\u30fc\u30eb\u30c9\u30e9\u30f3\u30af\u306e\u4ed6\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u3068\u7af6\u3044\u5408\u3044\u307e\u3057\u3087\u3046\uff01 4\u6642\u9593\u306e\u958b\u50ac\u6642\u9593\u5185\u3067\u3042\u308c\u3070\u4f55\u30de\u30c3\u30c1\u3067\u3082\u30d7\u30ec\u30a4\u53ef\u80fd\u3067\u3059\u304c\u3001\u30e9\u30f3\u30ad\u30f3\u30b0\u3067\u306e\u9806\u4f4d\u306b\u53cd\u6620\u3055\u308c\u308b\u306e\u306f\u3001\u53c2\u52a0\u3057\u305f\u4e2d\u3067\u6700\u3082\u6210\u7e3e\u304c\u826f\u304b\u3063\u305f\u30de\u30c3\u30c14\u3064\u306e\u307f\u3067\u3059\u3002\u3044\u305a\u308c\u304b\u306e\u30bb\u30c3\u30b7\u30e7\u30f3\u306750\u30dd\u30a4\u30f3\u30c8\u7372\u5f97\u3059\u308b\u3068\u3001\u30b2\u30fc\u30e0\u5185\u30b0\u30e9\u30a4\u30c0\u30fc\u300c\u30e9\u30f3\u30ab\u30fc\u306e\u30c7\u30b9\u30fb\u30b9\u30bf\u30fc\u300d\u304c\u624b\u306b\u5165\u308a\u307e\u3059\uff01 ",
+        "details_description": "ブロンズ、シルバー、ゴールドランクの他のプレイヤーと競い合いましょう！ 4時間の開催時間内であれば何マッチでもプレイ可能ですが、ランキングでの順位に反映されるのは、参加した中で最も成績が良かったマッチ4つのみです。いずれかのセッションで50ポイント獲得すると、ゲーム内グライダー「ランカーのデス・スター」が手に入ります！ ",
         "flavor_description": "",
         "loading_screen_image": "https://cdn2.unrealengine.com/en-fneco-33-00-competitive-discoverytile-rankedcups-1080x1920-1920x1080-715a21161bce.jpg",
-        "long_format_title": "\u30d6\u30ed\u30f3\u30ba\u3001\u30b7\u30eb\u30d0\u30fc\u3001\u30b4\u30fc\u30eb\u30c9\u30e9\u30f3\u30af\u30ab\u30c3\u30d7(\u30bd\u30ed \u30d0\u30c8\u30eb\u30ed\u30a4\u30e4\u30eb)",
+        "long_format_title": "ブロンズ、シルバー、ゴールドランクカップ(ソロ バトルロイヤル)",
         "poster_back_image": null,
         "poster_front_image": null,
         "round_names": null,
@@ -2477,7 +2296,7 @@
       },
       "displayDataId": "s35_ranked_solo_bsg",
       "endTime": "2025-05-29T05:00:02Z",
-      "endTime_jst": "2025\u5e7405\u670829\u65e514\u664200\u520602\u79d2",
+      "endTime_jst": "2025年05月29日14時00分02秒",
       "endTime_unix": 1748494802,
       "eventGroup": "Season35_RankedCupBSGSolo",
       "eventId": "epicgames_S35_RankedCupBSGSolo_NAW",
@@ -2491,15 +2310,15 @@
             "currentRankingMax:ranked-br:8"
           ],
           "beginTime": "2025-05-15T01:00:02Z",
-          "beginTime_jst": "2025\u5e7405\u670815\u65e510\u664200\u520602\u79d2",
+          "beginTime_jst": "2025年05月15日10時00分02秒",
           "beginTime_unix": 1747270802,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-14T23:00:02Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670815\u65e508\u664200\u520602\u79d2",
+          "countdownBeginTime_jst": "2025年05月15日08時00分02秒",
           "countdownBeginTime_unix": 1747263602,
           "endTime": "2025-05-15T05:00:02Z",
-          "endTime_jst": "2025\u5e7405\u670815\u65e514\u664200\u520602\u79d2",
+          "endTime_jst": "2025年05月15日14時00分02秒",
           "endTime_unix": 1747285202,
           "eventTemplateId": "EventTemplate_S35_RankedCupSolo",
           "eventWindowId": "S35_RankedCupBSGSolo_Event1_NAW",
@@ -2536,15 +2355,15 @@
             "currentRankingMax:ranked-br:8"
           ],
           "beginTime": "2025-05-22T01:00:02Z",
-          "beginTime_jst": "2025\u5e7405\u670822\u65e510\u664200\u520602\u79d2",
+          "beginTime_jst": "2025年05月22日10時00分02秒",
           "beginTime_unix": 1747875602,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-21T23:00:02Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670822\u65e508\u664200\u520602\u79d2",
+          "countdownBeginTime_jst": "2025年05月22日08時00分02秒",
           "countdownBeginTime_unix": 1747868402,
           "endTime": "2025-05-22T05:00:02Z",
-          "endTime_jst": "2025\u5e7405\u670822\u65e514\u664200\u520602\u79d2",
+          "endTime_jst": "2025年05月22日14時00分02秒",
           "endTime_unix": 1747890002,
           "eventTemplateId": "EventTemplate_S35_RankedCupSolo",
           "eventWindowId": "S35_RankedCupBSGSolo_Event2_NAW",
@@ -2581,15 +2400,15 @@
             "currentRankingMax:ranked-br:8"
           ],
           "beginTime": "2025-05-29T01:00:02Z",
-          "beginTime_jst": "2025\u5e7405\u670829\u65e510\u664200\u520602\u79d2",
+          "beginTime_jst": "2025年05月29日10時00分02秒",
           "beginTime_unix": 1748480402,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-28T23:00:02Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670829\u65e508\u664200\u520602\u79d2",
+          "countdownBeginTime_jst": "2025年05月29日08時00分02秒",
           "countdownBeginTime_unix": 1748473202,
           "endTime": "2025-05-29T05:00:02Z",
-          "endTime_jst": "2025\u5e7405\u670829\u65e514\u664200\u520602\u79d2",
+          "endTime_jst": "2025年05月29日14時00分02秒",
           "endTime_unix": 1748494802,
           "eventTemplateId": "EventTemplate_S35_RankedCupSolo",
           "eventWindowId": "S35_RankedCupBSGSolo_Event3_NAW",
@@ -2661,16 +2480,16 @@
     },
     {
       "announcementTime": "2025-05-02T08:00:02Z",
-      "announcementTime_jst": "2025\u5e7405\u670802\u65e517\u664200\u520602\u79d2",
+      "announcementTime_jst": "2025年05月02日17時00分02秒",
       "announcementTime_unix": 1746172802,
       "beginTime": "2025-05-19T01:00:02Z",
-      "beginTime_jst": "2025\u5e7405\u670819\u65e510\u664200\u520602\u79d2",
+      "beginTime_jst": "2025年05月19日10時00分02秒",
       "beginTime_unix": 1747616402,
       "displayData": {
-        "details_description": "\u30d6\u30ed\u30f3\u30ba\u3001\u30b7\u30eb\u30d0\u30fc\u3001\u30b4\u30fc\u30eb\u30c9\u30e9\u30f3\u30af\u306e\u4ed6\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u3068\u7af6\u3044\u5408\u3044\u307e\u3057\u3087\u3046\uff01 4\u6642\u9593\u306e\u958b\u50ac\u6642\u9593\u5185\u3067\u3042\u308c\u3070\u4f55\u30de\u30c3\u30c1\u3067\u3082\u30d7\u30ec\u30a4\u53ef\u80fd\u3067\u3059\u304c\u3001\u30e9\u30f3\u30ad\u30f3\u30b0\u3067\u306e\u9806\u4f4d\u306b\u53cd\u6620\u3055\u308c\u308b\u306e\u306f\u3001\u53c2\u52a0\u3057\u305f\u4e2d\u3067\u6700\u3082\u6210\u7e3e\u304c\u826f\u304b\u3063\u305f\u30de\u30c3\u30c14\u3064\u306e\u307f\u3067\u3059\u3002\u3044\u305a\u308c\u304b\u306e\u30bb\u30c3\u30b7\u30e7\u30f3\u306750\u30dd\u30a4\u30f3\u30c8\u7372\u5f97\u3059\u308b\u3068\u3001\u30b2\u30fc\u30e0\u5185\u30b0\u30e9\u30a4\u30c0\u30fc\u300c\u30e9\u30f3\u30ab\u30fc\u306e\u30c7\u30b9\u30fb\u30b9\u30bf\u30fc\u300d\u304c\u624b\u306b\u5165\u308a\u307e\u3059\uff01 ",
+        "details_description": "ブロンズ、シルバー、ゴールドランクの他のプレイヤーと競い合いましょう！ 4時間の開催時間内であれば何マッチでもプレイ可能ですが、ランキングでの順位に反映されるのは、参加した中で最も成績が良かったマッチ4つのみです。いずれかのセッションで50ポイント獲得すると、ゲーム内グライダー「ランカーのデス・スター」が手に入ります！ ",
         "flavor_description": "",
         "loading_screen_image": "https://cdn2.unrealengine.com/en-fneco-33-00-competitive-discoverytile-rankedcups-1080x1920-1920x1080-715a21161bce.jpg",
-        "long_format_title": "\u30d6\u30ed\u30f3\u30ba\u3001\u30b7\u30eb\u30d0\u30fc\u3001\u30b4\u30fc\u30eb\u30c9\u30e9\u30f3\u30af\u30ab\u30c3\u30d7(\u30c8\u30ea\u30aa \u30d0\u30c8\u30eb\u30ed\u30a4\u30e4\u30eb)",
+        "long_format_title": "ブロンズ、シルバー、ゴールドランクカップ(トリオ バトルロイヤル)",
         "poster_back_image": null,
         "poster_front_image": null,
         "round_names": null,
@@ -2679,7 +2498,7 @@
       },
       "displayDataId": "s35_ranked_trios_bsg",
       "endTime": "2025-06-02T05:00:02Z",
-      "endTime_jst": "2025\u5e7406\u670802\u65e514\u664200\u520602\u79d2",
+      "endTime_jst": "2025年06月02日14時00分02秒",
       "endTime_unix": 1748840402,
       "eventGroup": "Season35_RankedCupBSGTrios",
       "eventId": "epicgames_S35_RankedCupBSGTrios_NAW",
@@ -2693,15 +2512,15 @@
             "currentRankingMax:ranked-br:8"
           ],
           "beginTime": "2025-05-19T01:00:02Z",
-          "beginTime_jst": "2025\u5e7405\u670819\u65e510\u664200\u520602\u79d2",
+          "beginTime_jst": "2025年05月19日10時00分02秒",
           "beginTime_unix": 1747616402,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-18T23:00:02Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670819\u65e508\u664200\u520602\u79d2",
+          "countdownBeginTime_jst": "2025年05月19日08時00分02秒",
           "countdownBeginTime_unix": 1747609202,
           "endTime": "2025-05-19T05:00:02Z",
-          "endTime_jst": "2025\u5e7405\u670819\u65e514\u664200\u520602\u79d2",
+          "endTime_jst": "2025年05月19日14時00分02秒",
           "endTime_unix": 1747630802,
           "eventTemplateId": "EventTemplate_S35_RankedCupTrios",
           "eventWindowId": "S35_RankedCupBSGTrios_Event1_NAW",
@@ -2738,15 +2557,15 @@
             "currentRankingMax:ranked-br:8"
           ],
           "beginTime": "2025-05-26T01:00:02Z",
-          "beginTime_jst": "2025\u5e7405\u670826\u65e510\u664200\u520602\u79d2",
+          "beginTime_jst": "2025年05月26日10時00分02秒",
           "beginTime_unix": 1748221202,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-25T23:00:02Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670826\u65e508\u664200\u520602\u79d2",
+          "countdownBeginTime_jst": "2025年05月26日08時00分02秒",
           "countdownBeginTime_unix": 1748214002,
           "endTime": "2025-05-26T05:00:02Z",
-          "endTime_jst": "2025\u5e7405\u670826\u65e514\u664200\u520602\u79d2",
+          "endTime_jst": "2025年05月26日14時00分02秒",
           "endTime_unix": 1748235602,
           "eventTemplateId": "EventTemplate_S35_RankedCupTrios",
           "eventWindowId": "S35_RankedCupBSGTrios_Event2_NAW",
@@ -2783,15 +2602,15 @@
             "currentRankingMax:ranked-br:8"
           ],
           "beginTime": "2025-06-02T01:00:02Z",
-          "beginTime_jst": "2025\u5e7406\u670802\u65e510\u664200\u520602\u79d2",
+          "beginTime_jst": "2025年06月02日10時00分02秒",
           "beginTime_unix": 1748826002,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-06-01T23:00:02Z",
-          "countdownBeginTime_jst": "2025\u5e7406\u670802\u65e508\u664200\u520602\u79d2",
+          "countdownBeginTime_jst": "2025年06月02日08時00分02秒",
           "countdownBeginTime_unix": 1748818802,
           "endTime": "2025-06-02T05:00:02Z",
-          "endTime_jst": "2025\u5e7406\u670802\u65e514\u664200\u520602\u79d2",
+          "endTime_jst": "2025年06月02日14時00分02秒",
           "endTime_unix": 1748840402,
           "eventTemplateId": "EventTemplate_S35_RankedCupTrios",
           "eventWindowId": "S35_RankedCupBSGTrios_Event3_NAW",
@@ -2863,16 +2682,16 @@
     },
     {
       "announcementTime": "2025-05-02T08:00:00Z",
-      "announcementTime_jst": "2025\u5e7405\u670802\u65e517\u664200\u520600\u79d2",
+      "announcementTime_jst": "2025年05月02日17時00分00秒",
       "announcementTime_unix": 1746172800,
       "beginTime": "2025-05-16T01:00:00Z",
-      "beginTime_jst": "2025\u5e7405\u670816\u65e510\u664200\u520600\u79d2",
+      "beginTime_jst": "2025年05月16日10時00分00秒",
       "beginTime_unix": 1747357200,
       "displayData": {
-        "details_description": "\u63d0\u7763\u30e9\u30f3\u30af\u4ee5\u4e0a\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u3068\u7af6\u3044\u5408\u3044\u307e\u3057\u3087\u3046\uff01 4\u6642\u9593\u306e\u958b\u50ac\u6642\u9593\u5185\u3067\u3042\u308c\u3070\u4f55\u30de\u30c3\u30c1\u3067\u3082\u30d7\u30ec\u30a4\u53ef\u80fd\u3067\u3059\u304c\u3001\u30e9\u30f3\u30ad\u30f3\u30b0\u3067\u306e\u9806\u4f4d\u306b\u53cd\u6620\u3055\u308c\u308b\u306e\u306f\u3001\u53c2\u52a0\u3057\u305f\u4e2d\u3067\u6700\u3082\u6210\u7e3e\u304c\u826f\u304b\u3063\u305f\u30de\u30c3\u30c14\u3064\u306e\u307f\u3067\u3059\u3002\u3044\u305a\u308c\u304b\u306e\u30bb\u30c3\u30b7\u30e7\u30f3\u306750\u30dd\u30a4\u30f3\u30c8\u7372\u5f97\u3059\u308b\u3068\u3001\u30b2\u30fc\u30e0\u5185\u30b0\u30e9\u30a4\u30c0\u30fc\u300c\u30e9\u30f3\u30ab\u30fc\u306e\u30c7\u30b9\u30fb\u30b9\u30bf\u30fc\u300d\u304c\u624b\u306b\u5165\u308a\u307e\u3059\uff01 \u3055\u3089\u306b\u3001\u5404\u30bb\u30c3\u30b7\u30e7\u30f3\u3067\u30e9\u30f3\u30ad\u30f3\u30b0\u306e\u4e0a\u4f4d\u306b\u5165\u3063\u305f\u30d7\u30ec\u30a4\u30e4\u30fc\u306b\u306f\u3001\u30b3\u30b9\u30c1\u30e5\u30fc\u30e0\u300c\u30a8\u30ea\u30fc\u30c8 \u30bc\u30a4\u30c7\u30a3\u30fc\u300d\u3092\u8d08\u5448\uff01 ",
+        "details_description": "提督ランク以上のプレイヤーと競い合いましょう！ 4時間の開催時間内であれば何マッチでもプレイ可能ですが、ランキングでの順位に反映されるのは、参加した中で最も成績が良かったマッチ4つのみです。いずれかのセッションで50ポイント獲得すると、ゲーム内グライダー「ランカーのデス・スター」が手に入ります！ さらに、各セッションでランキングの上位に入ったプレイヤーには、コスチューム「エリート ゼイディー」を贈呈！ ",
         "flavor_description": "",
         "loading_screen_image": "https://cdn2.unrealengine.com/en-fnce-35-00-dashberry-elitezadie-rankedcups-br-discoverytile-1920x1080-1920x1080-39785b12b3d9.jpg",
-        "long_format_title": "\u30a8\u30ea\u30fc\u30c8 \u30bc\u30a4\u30c7\u30a3\u30fc \u30e9\u30f3\u30af\u30ab\u30c3\u30d7(\u30c7\u30e5\u30aa \u30d0\u30c8\u30eb\u30ed\u30a4\u30e4\u30eb)",
+        "long_format_title": "エリート ゼイディー ランクカップ(デュオ バトルロイヤル)",
         "poster_back_image": null,
         "poster_front_image": "https://cdn2.unrealengine.com/fnce-35-00-competitive-zadierankedcup-poster-front-750x1080-9bdc64fd8901.jpg",
         "round_names": null,
@@ -2881,7 +2700,7 @@
       },
       "displayDataId": "s35_zadieranked_duos",
       "endTime": "2025-05-31T05:00:00Z",
-      "endTime_jst": "2025\u5e7405\u670831\u65e514\u664200\u520600\u79d2",
+      "endTime_jst": "2025年05月31日14時00分00秒",
       "endTime_unix": 1748667600,
       "eventGroup": "Season35_RankedCupEliteDuos",
       "eventId": "epicgames_S35_RankedCupEliteDuos_NAW",
@@ -2894,15 +2713,15 @@
             "eula:s35_ranked_rules"
           ],
           "beginTime": "2025-05-16T01:00:00Z",
-          "beginTime_jst": "2025\u5e7405\u670816\u65e510\u664200\u520600\u79d2",
+          "beginTime_jst": "2025年05月16日10時00分00秒",
           "beginTime_unix": 1747357200,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-15T23:00:00Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670816\u65e508\u664200\u520600\u79d2",
+          "countdownBeginTime_jst": "2025年05月16日08時00分00秒",
           "countdownBeginTime_unix": 1747350000,
           "endTime": "2025-05-16T05:00:00Z",
-          "endTime_jst": "2025\u5e7405\u670816\u65e514\u664200\u520600\u79d2",
+          "endTime_jst": "2025年05月16日14時00分00秒",
           "endTime_unix": 1747371600,
           "eventTemplateId": "EventTemplate_S35_RankedCupDuos",
           "eventWindowId": "S35_RankedCupEliteDuos_Event1_NAW",
@@ -2938,15 +2757,15 @@
             "eula:s35_ranked_rules"
           ],
           "beginTime": "2025-05-24T01:00:00Z",
-          "beginTime_jst": "2025\u5e7405\u670824\u65e510\u664200\u520600\u79d2",
+          "beginTime_jst": "2025年05月24日10時00分00秒",
           "beginTime_unix": 1748048400,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-23T23:00:00Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670824\u65e508\u664200\u520600\u79d2",
+          "countdownBeginTime_jst": "2025年05月24日08時00分00秒",
           "countdownBeginTime_unix": 1748041200,
           "endTime": "2025-05-24T05:00:00Z",
-          "endTime_jst": "2025\u5e7405\u670824\u65e514\u664200\u520600\u79d2",
+          "endTime_jst": "2025年05月24日14時00分00秒",
           "endTime_unix": 1748062800,
           "eventTemplateId": "EventTemplate_S35_RankedCupDuos",
           "eventWindowId": "S35_RankedCupEliteDuos_Event2_NAW",
@@ -2982,15 +2801,15 @@
             "eula:s35_ranked_rules"
           ],
           "beginTime": "2025-05-31T01:00:00Z",
-          "beginTime_jst": "2025\u5e7405\u670831\u65e510\u664200\u520600\u79d2",
+          "beginTime_jst": "2025年05月31日10時00分00秒",
           "beginTime_unix": 1748653200,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-30T23:00:00Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670831\u65e508\u664200\u520600\u79d2",
+          "countdownBeginTime_jst": "2025年05月31日08時00分00秒",
           "countdownBeginTime_unix": 1748646000,
           "endTime": "2025-05-31T05:00:00Z",
-          "endTime_jst": "2025\u5e7405\u670831\u65e514\u664200\u520600\u79d2",
+          "endTime_jst": "2025年05月31日14時00分00秒",
           "endTime_unix": 1748667600,
           "eventTemplateId": "EventTemplate_S35_RankedCupDuos",
           "eventWindowId": "S35_RankedCupEliteDuos_Event3_NAW",
@@ -3062,16 +2881,16 @@
     },
     {
       "announcementTime": "2025-05-02T08:00:00Z",
-      "announcementTime_jst": "2025\u5e7405\u670802\u65e517\u664200\u520600\u79d2",
+      "announcementTime_jst": "2025年05月02日17時00分00秒",
       "announcementTime_unix": 1746172800,
       "beginTime": "2025-05-15T01:00:00Z",
-      "beginTime_jst": "2025\u5e7405\u670815\u65e510\u664200\u520600\u79d2",
+      "beginTime_jst": "2025年05月15日10時00分00秒",
       "beginTime_unix": 1747270800,
       "displayData": {
-        "details_description": "\u63d0\u7763\u30e9\u30f3\u30af\u4ee5\u4e0a\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u3068\u7af6\u3044\u5408\u3044\u307e\u3057\u3087\u3046\uff01 4\u6642\u9593\u306e\u958b\u50ac\u6642\u9593\u5185\u3067\u3042\u308c\u3070\u4f55\u30de\u30c3\u30c1\u3067\u3082\u30d7\u30ec\u30a4\u53ef\u80fd\u3067\u3059\u304c\u3001\u30e9\u30f3\u30ad\u30f3\u30b0\u3067\u306e\u9806\u4f4d\u306b\u53cd\u6620\u3055\u308c\u308b\u306e\u306f\u3001\u53c2\u52a0\u3057\u305f\u4e2d\u3067\u6700\u3082\u6210\u7e3e\u304c\u826f\u304b\u3063\u305f\u30de\u30c3\u30c14\u3064\u306e\u307f\u3067\u3059\u3002\u3044\u305a\u308c\u304b\u306e\u30bb\u30c3\u30b7\u30e7\u30f3\u306750\u30dd\u30a4\u30f3\u30c8\u7372\u5f97\u3059\u308b\u3068\u3001\u30b2\u30fc\u30e0\u5185\u30b0\u30e9\u30a4\u30c0\u30fc\u300c\u30e9\u30f3\u30ab\u30fc\u306e\u30c7\u30b9\u30fb\u30b9\u30bf\u30fc\u300d\u304c\u624b\u306b\u5165\u308a\u307e\u3059\uff01 \u3055\u3089\u306b\u3001\u5404\u30bb\u30c3\u30b7\u30e7\u30f3\u3067\u30e9\u30f3\u30ad\u30f3\u30b0\u306e\u4e0a\u4f4d\u306b\u5165\u3063\u305f\u30d7\u30ec\u30a4\u30e4\u30fc\u306b\u306f\u3001\u30b3\u30b9\u30c1\u30e5\u30fc\u30e0\u300c\u30a8\u30ea\u30fc\u30c8 \u30bc\u30a4\u30c7\u30a3\u30fc\u300d\u3092\u8d08\u5448\uff01 ",
+        "details_description": "提督ランク以上のプレイヤーと競い合いましょう！ 4時間の開催時間内であれば何マッチでもプレイ可能ですが、ランキングでの順位に反映されるのは、参加した中で最も成績が良かったマッチ4つのみです。いずれかのセッションで50ポイント獲得すると、ゲーム内グライダー「ランカーのデス・スター」が手に入ります！ さらに、各セッションでランキングの上位に入ったプレイヤーには、コスチューム「エリート ゼイディー」を贈呈！ ",
         "flavor_description": "",
         "loading_screen_image": "https://cdn2.unrealengine.com/en-fnce-35-00-dashberry-elitezadie-rankedcups-br-discoverytile-1920x1080-1920x1080-39785b12b3d9.jpg",
-        "long_format_title": "\u30a8\u30ea\u30fc\u30c8 \u30bc\u30a4\u30c7\u30a3\u30fc \u30e9\u30f3\u30af\u30ab\u30c3\u30d7(\u30bd\u30ed \u30d0\u30c8\u30eb\u30ed\u30a4\u30e4\u30eb)",
+        "long_format_title": "エリート ゼイディー ランクカップ(ソロ バトルロイヤル)",
         "poster_back_image": null,
         "poster_front_image": "https://cdn2.unrealengine.com/fnce-35-00-competitive-zadierankedcup-poster-front-750x1080-9bdc64fd8901.jpg",
         "round_names": null,
@@ -3080,7 +2899,7 @@
       },
       "displayDataId": "s35_zadieranked_solo",
       "endTime": "2025-05-29T05:00:00Z",
-      "endTime_jst": "2025\u5e7405\u670829\u65e514\u664200\u520600\u79d2",
+      "endTime_jst": "2025年05月29日14時00分00秒",
       "endTime_unix": 1748494800,
       "eventGroup": "Season35_RankedCupEliteSolo",
       "eventId": "epicgames_S35_RankedCupEliteSolo_NAW",
@@ -3093,15 +2912,15 @@
             "eula:s35_ranked_rules"
           ],
           "beginTime": "2025-05-15T01:00:00Z",
-          "beginTime_jst": "2025\u5e7405\u670815\u65e510\u664200\u520600\u79d2",
+          "beginTime_jst": "2025年05月15日10時00分00秒",
           "beginTime_unix": 1747270800,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-14T23:00:00Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670815\u65e508\u664200\u520600\u79d2",
+          "countdownBeginTime_jst": "2025年05月15日08時00分00秒",
           "countdownBeginTime_unix": 1747263600,
           "endTime": "2025-05-15T05:00:00Z",
-          "endTime_jst": "2025\u5e7405\u670815\u65e514\u664200\u520600\u79d2",
+          "endTime_jst": "2025年05月15日14時00分00秒",
           "endTime_unix": 1747285200,
           "eventTemplateId": "EventTemplate_S35_RankedCupSolo",
           "eventWindowId": "S35_RankedCupEliteSolo_Event1_NAW",
@@ -3137,15 +2956,15 @@
             "eula:s35_ranked_rules"
           ],
           "beginTime": "2025-05-22T01:00:00Z",
-          "beginTime_jst": "2025\u5e7405\u670822\u65e510\u664200\u520600\u79d2",
+          "beginTime_jst": "2025年05月22日10時00分00秒",
           "beginTime_unix": 1747875600,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-21T23:00:00Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670822\u65e508\u664200\u520600\u79d2",
+          "countdownBeginTime_jst": "2025年05月22日08時00分00秒",
           "countdownBeginTime_unix": 1747868400,
           "endTime": "2025-05-22T05:00:00Z",
-          "endTime_jst": "2025\u5e7405\u670822\u65e514\u664200\u520600\u79d2",
+          "endTime_jst": "2025年05月22日14時00分00秒",
           "endTime_unix": 1747890000,
           "eventTemplateId": "EventTemplate_S35_RankedCupSolo",
           "eventWindowId": "S35_RankedCupEliteSolo_Event2_NAW",
@@ -3181,15 +3000,15 @@
             "eula:s35_ranked_rules"
           ],
           "beginTime": "2025-05-29T01:00:00Z",
-          "beginTime_jst": "2025\u5e7405\u670829\u65e510\u664200\u520600\u79d2",
+          "beginTime_jst": "2025年05月29日10時00分00秒",
           "beginTime_unix": 1748480400,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-28T23:00:00Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670829\u65e508\u664200\u520600\u79d2",
+          "countdownBeginTime_jst": "2025年05月29日08時00分00秒",
           "countdownBeginTime_unix": 1748473200,
           "endTime": "2025-05-29T05:00:00Z",
-          "endTime_jst": "2025\u5e7405\u670829\u65e514\u664200\u520600\u79d2",
+          "endTime_jst": "2025年05月29日14時00分00秒",
           "endTime_unix": 1748494800,
           "eventTemplateId": "EventTemplate_S35_RankedCupSolo",
           "eventWindowId": "S35_RankedCupEliteSolo_Event3_NAW",
@@ -3261,16 +3080,16 @@
     },
     {
       "announcementTime": "2025-05-02T08:00:00Z",
-      "announcementTime_jst": "2025\u5e7405\u670802\u65e517\u664200\u520600\u79d2",
+      "announcementTime_jst": "2025年05月02日17時00分00秒",
       "announcementTime_unix": 1746172800,
       "beginTime": "2025-05-19T01:00:00Z",
-      "beginTime_jst": "2025\u5e7405\u670819\u65e510\u664200\u520600\u79d2",
+      "beginTime_jst": "2025年05月19日10時00分00秒",
       "beginTime_unix": 1747616400,
       "displayData": {
-        "details_description": "\u63d0\u7763\u30e9\u30f3\u30af\u4ee5\u4e0a\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u3068\u7af6\u3044\u5408\u3044\u307e\u3057\u3087\u3046\uff01 4\u6642\u9593\u306e\u958b\u50ac\u6642\u9593\u5185\u3067\u3042\u308c\u3070\u4f55\u30de\u30c3\u30c1\u3067\u3082\u30d7\u30ec\u30a4\u53ef\u80fd\u3067\u3059\u304c\u3001\u30e9\u30f3\u30ad\u30f3\u30b0\u3067\u306e\u9806\u4f4d\u306b\u53cd\u6620\u3055\u308c\u308b\u306e\u306f\u3001\u53c2\u52a0\u3057\u305f\u4e2d\u3067\u6700\u3082\u6210\u7e3e\u304c\u826f\u304b\u3063\u305f\u30de\u30c3\u30c14\u3064\u306e\u307f\u3067\u3059\u3002\u3044\u305a\u308c\u304b\u306e\u30bb\u30c3\u30b7\u30e7\u30f3\u306750\u30dd\u30a4\u30f3\u30c8\u7372\u5f97\u3059\u308b\u3068\u3001\u30b2\u30fc\u30e0\u5185\u30b0\u30e9\u30a4\u30c0\u30fc\u300c\u30e9\u30f3\u30ab\u30fc\u306e\u30c7\u30b9\u30fb\u30b9\u30bf\u30fc\u300d\u304c\u624b\u306b\u5165\u308a\u307e\u3059\uff01 \u3055\u3089\u306b\u3001\u5404\u30bb\u30c3\u30b7\u30e7\u30f3\u3067\u30e9\u30f3\u30ad\u30f3\u30b0\u306e\u4e0a\u4f4d\u306b\u5165\u3063\u305f\u30d7\u30ec\u30a4\u30e4\u30fc\u306b\u306f\u3001\u30b3\u30b9\u30c1\u30e5\u30fc\u30e0\u300c\u30a8\u30ea\u30fc\u30c8 \u30bc\u30a4\u30c7\u30a3\u30fc\u300d\u3092\u8d08\u5448\uff01 ",
+        "details_description": "提督ランク以上のプレイヤーと競い合いましょう！ 4時間の開催時間内であれば何マッチでもプレイ可能ですが、ランキングでの順位に反映されるのは、参加した中で最も成績が良かったマッチ4つのみです。いずれかのセッションで50ポイント獲得すると、ゲーム内グライダー「ランカーのデス・スター」が手に入ります！ さらに、各セッションでランキングの上位に入ったプレイヤーには、コスチューム「エリート ゼイディー」を贈呈！ ",
         "flavor_description": "",
         "loading_screen_image": "https://cdn2.unrealengine.com/en-fnce-35-00-dashberry-elitezadie-rankedcups-br-discoverytile-1920x1080-1920x1080-39785b12b3d9.jpg",
-        "long_format_title": "\u30a8\u30ea\u30fc\u30c8 \u30bc\u30a4\u30c7\u30a3\u30fc \u30e9\u30f3\u30af\u30ab\u30c3\u30d7(\u30c8\u30ea\u30aa \u30d0\u30c8\u30eb\u30ed\u30a4\u30e4\u30eb)",
+        "long_format_title": "エリート ゼイディー ランクカップ(トリオ バトルロイヤル)",
         "poster_back_image": null,
         "poster_front_image": "https://cdn2.unrealengine.com/fnce-35-00-competitive-zadierankedcup-poster-front-750x1080-9bdc64fd8901.jpg",
         "round_names": null,
@@ -3279,7 +3098,7 @@
       },
       "displayDataId": "s35_zadieranked_trios",
       "endTime": "2025-06-02T05:00:00Z",
-      "endTime_jst": "2025\u5e7406\u670802\u65e514\u664200\u520600\u79d2",
+      "endTime_jst": "2025年06月02日14時00分00秒",
       "endTime_unix": 1748840400,
       "eventGroup": "Season35_RankedCupEliteTrios",
       "eventId": "epicgames_S35_RankedCupEliteTrios_NAW",
@@ -3292,15 +3111,15 @@
             "eula:s35_ranked_rules"
           ],
           "beginTime": "2025-05-19T01:00:00Z",
-          "beginTime_jst": "2025\u5e7405\u670819\u65e510\u664200\u520600\u79d2",
+          "beginTime_jst": "2025年05月19日10時00分00秒",
           "beginTime_unix": 1747616400,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-18T23:00:00Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670819\u65e508\u664200\u520600\u79d2",
+          "countdownBeginTime_jst": "2025年05月19日08時00分00秒",
           "countdownBeginTime_unix": 1747609200,
           "endTime": "2025-05-19T05:00:00Z",
-          "endTime_jst": "2025\u5e7405\u670819\u65e514\u664200\u520600\u79d2",
+          "endTime_jst": "2025年05月19日14時00分00秒",
           "endTime_unix": 1747630800,
           "eventTemplateId": "EventTemplate_S35_RankedCupTrios",
           "eventWindowId": "S35_RankedCupEliteTrios_Event1_NAW",
@@ -3336,15 +3155,15 @@
             "eula:s35_ranked_rules"
           ],
           "beginTime": "2025-05-26T01:00:00Z",
-          "beginTime_jst": "2025\u5e7405\u670826\u65e510\u664200\u520600\u79d2",
+          "beginTime_jst": "2025年05月26日10時00分00秒",
           "beginTime_unix": 1748221200,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-25T23:00:00Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670826\u65e508\u664200\u520600\u79d2",
+          "countdownBeginTime_jst": "2025年05月26日08時00分00秒",
           "countdownBeginTime_unix": 1748214000,
           "endTime": "2025-05-26T05:00:00Z",
-          "endTime_jst": "2025\u5e7405\u670826\u65e514\u664200\u520600\u79d2",
+          "endTime_jst": "2025年05月26日14時00分00秒",
           "endTime_unix": 1748235600,
           "eventTemplateId": "EventTemplate_S35_RankedCupTrios",
           "eventWindowId": "S35_RankedCupEliteTrios_Event2_NAW",
@@ -3380,15 +3199,15 @@
             "eula:s35_ranked_rules"
           ],
           "beginTime": "2025-06-02T01:00:00Z",
-          "beginTime_jst": "2025\u5e7406\u670802\u65e510\u664200\u520600\u79d2",
+          "beginTime_jst": "2025年06月02日10時00分00秒",
           "beginTime_unix": 1748826000,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-06-01T23:00:00Z",
-          "countdownBeginTime_jst": "2025\u5e7406\u670802\u65e508\u664200\u520600\u79d2",
+          "countdownBeginTime_jst": "2025年06月02日08時00分00秒",
           "countdownBeginTime_unix": 1748818800,
           "endTime": "2025-06-02T05:00:00Z",
-          "endTime_jst": "2025\u5e7406\u670802\u65e514\u664200\u520600\u79d2",
+          "endTime_jst": "2025年06月02日14時00分00秒",
           "endTime_unix": 1748840400,
           "eventTemplateId": "EventTemplate_S35_RankedCupTrios",
           "eventWindowId": "S35_RankedCupEliteTrios_Event3_NAW",
@@ -3460,16 +3279,16 @@
     },
     {
       "announcementTime": "2025-05-02T08:00:01Z",
-      "announcementTime_jst": "2025\u5e7405\u670802\u65e517\u664200\u520601\u79d2",
+      "announcementTime_jst": "2025年05月02日17時00分01秒",
       "announcementTime_unix": 1746172801,
       "beginTime": "2025-05-16T01:00:01Z",
-      "beginTime_jst": "2025\u5e7405\u670816\u65e510\u664200\u520601\u79d2",
+      "beginTime_jst": "2025年05月16日10時00分01秒",
       "beginTime_unix": 1747357201,
       "displayData": {
-        "details_description": "\u30d7\u30e9\u30c1\u30ca&\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9\u30e9\u30f3\u30af\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u3068\u7af6\u3044\u5408\u3044\u307e\u3057\u3087\u3046\uff01 4\u6642\u9593\u306e\u958b\u50ac\u6642\u9593\u5185\u3067\u3042\u308c\u3070\u4f55\u30de\u30c3\u30c1\u3067\u3082\u30d7\u30ec\u30a4\u53ef\u80fd\u3067\u3059\u304c\u3001\u30e9\u30f3\u30ad\u30f3\u30b0\u3067\u306e\u9806\u4f4d\u306b\u53cd\u6620\u3055\u308c\u308b\u306e\u306f\u3001\u53c2\u52a0\u3057\u305f\u4e2d\u3067\u6700\u3082\u6210\u7e3e\u304c\u826f\u304b\u3063\u305f\u30de\u30c3\u30c14\u3064\u306e\u307f\u3067\u3059\u3002\u3044\u305a\u308c\u304b\u306e\u30bb\u30c3\u30b7\u30e7\u30f3\u306750\u30dd\u30a4\u30f3\u30c8\u7372\u5f97\u3059\u308b\u3068\u3001\u30b2\u30fc\u30e0\u5185\u30b0\u30e9\u30a4\u30c0\u30fc\u300c\u30e9\u30f3\u30ab\u30fc\u306e\u30c7\u30b9\u30fb\u30b9\u30bf\u30fc\u300d\u304c\u624b\u306b\u5165\u308a\u307e\u3059\uff01 ",
+        "details_description": "プラチナ&ダイヤモンドランクのプレイヤーと競い合いましょう！ 4時間の開催時間内であれば何マッチでもプレイ可能ですが、ランキングでの順位に反映されるのは、参加した中で最も成績が良かったマッチ4つのみです。いずれかのセッションで50ポイント獲得すると、ゲーム内グライダー「ランカーのデス・スター」が手に入ります！ ",
         "flavor_description": "",
         "loading_screen_image": "https://cdn2.unrealengine.com/en-fneco-33-00-competitive-discoverytile-rankedcups-1080x1920-1920x1080-715a21161bce.jpg",
-        "long_format_title": "\u30d7\u30e9\u30c1\u30ca&\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9\u30e9\u30f3\u30af\u30ab\u30c3\u30d7(\u30c7\u30e5\u30aa \u30d0\u30c8\u30eb\u30ed\u30a4\u30e4\u30eb)",
+        "long_format_title": "プラチナ&ダイヤモンドランクカップ(デュオ バトルロイヤル)",
         "poster_back_image": null,
         "poster_front_image": "https://cdn2.unrealengine.com/fnce-33-30-tileview-ranked-cups-01-800x800-800x800-f243c2a689fa.jpg",
         "round_names": null,
@@ -3478,7 +3297,7 @@
       },
       "displayDataId": "s35_ranked_duos_pd",
       "endTime": "2025-05-31T05:00:01Z",
-      "endTime_jst": "2025\u5e7405\u670831\u65e514\u664200\u520601\u79d2",
+      "endTime_jst": "2025年05月31日14時00分01秒",
       "endTime_unix": 1748667601,
       "eventGroup": "Season35_RankedCupPDDuos",
       "eventId": "epicgames_S35_RankedCupPDDuos_NAW",
@@ -3492,15 +3311,15 @@
             "currentRanking:ranked-br:9"
           ],
           "beginTime": "2025-05-16T01:00:01Z",
-          "beginTime_jst": "2025\u5e7405\u670816\u65e510\u664200\u520601\u79d2",
+          "beginTime_jst": "2025年05月16日10時00分01秒",
           "beginTime_unix": 1747357201,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-15T23:00:01Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670816\u65e508\u664200\u520601\u79d2",
+          "countdownBeginTime_jst": "2025年05月16日08時00分01秒",
           "countdownBeginTime_unix": 1747350001,
           "endTime": "2025-05-16T05:00:01Z",
-          "endTime_jst": "2025\u5e7405\u670816\u65e514\u664200\u520601\u79d2",
+          "endTime_jst": "2025年05月16日14時00分01秒",
           "endTime_unix": 1747371601,
           "eventTemplateId": "EventTemplate_S35_RankedCupDuos",
           "eventWindowId": "S35_RankedCupPDDuos_Event1_NAW",
@@ -3537,15 +3356,15 @@
             "currentRanking:ranked-br:9"
           ],
           "beginTime": "2025-05-24T01:00:01Z",
-          "beginTime_jst": "2025\u5e7405\u670824\u65e510\u664200\u520601\u79d2",
+          "beginTime_jst": "2025年05月24日10時00分01秒",
           "beginTime_unix": 1748048401,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-23T23:00:01Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670824\u65e508\u664200\u520601\u79d2",
+          "countdownBeginTime_jst": "2025年05月24日08時00分01秒",
           "countdownBeginTime_unix": 1748041201,
           "endTime": "2025-05-24T05:00:01Z",
-          "endTime_jst": "2025\u5e7405\u670824\u65e514\u664200\u520601\u79d2",
+          "endTime_jst": "2025年05月24日14時00分01秒",
           "endTime_unix": 1748062801,
           "eventTemplateId": "EventTemplate_S35_RankedCupDuos",
           "eventWindowId": "S35_RankedCupPDDuos_Event2_NAW",
@@ -3582,15 +3401,15 @@
             "currentRanking:ranked-br:9"
           ],
           "beginTime": "2025-05-31T01:00:01Z",
-          "beginTime_jst": "2025\u5e7405\u670831\u65e510\u664200\u520601\u79d2",
+          "beginTime_jst": "2025年05月31日10時00分01秒",
           "beginTime_unix": 1748653201,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-30T23:00:01Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670831\u65e508\u664200\u520601\u79d2",
+          "countdownBeginTime_jst": "2025年05月31日08時00分01秒",
           "countdownBeginTime_unix": 1748646001,
           "endTime": "2025-05-31T05:00:01Z",
-          "endTime_jst": "2025\u5e7405\u670831\u65e514\u664200\u520601\u79d2",
+          "endTime_jst": "2025年05月31日14時00分01秒",
           "endTime_unix": 1748667601,
           "eventTemplateId": "EventTemplate_S35_RankedCupDuos",
           "eventWindowId": "S35_RankedCupPDDuos_Event3_NAW",
@@ -3662,16 +3481,16 @@
     },
     {
       "announcementTime": "2025-05-02T08:00:01Z",
-      "announcementTime_jst": "2025\u5e7405\u670802\u65e517\u664200\u520601\u79d2",
+      "announcementTime_jst": "2025年05月02日17時00分01秒",
       "announcementTime_unix": 1746172801,
       "beginTime": "2025-05-15T01:00:01Z",
-      "beginTime_jst": "2025\u5e7405\u670815\u65e510\u664200\u520601\u79d2",
+      "beginTime_jst": "2025年05月15日10時00分01秒",
       "beginTime_unix": 1747270801,
       "displayData": {
-        "details_description": "\u30d7\u30e9\u30c1\u30ca&\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9\u30e9\u30f3\u30af\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u3068\u7af6\u3044\u5408\u3044\u307e\u3057\u3087\u3046\uff01 4\u6642\u9593\u306e\u958b\u50ac\u6642\u9593\u5185\u3067\u3042\u308c\u3070\u4f55\u30de\u30c3\u30c1\u3067\u3082\u30d7\u30ec\u30a4\u53ef\u80fd\u3067\u3059\u304c\u3001\u30e9\u30f3\u30ad\u30f3\u30b0\u3067\u306e\u9806\u4f4d\u306b\u53cd\u6620\u3055\u308c\u308b\u306e\u306f\u3001\u53c2\u52a0\u3057\u305f\u4e2d\u3067\u6700\u3082\u6210\u7e3e\u304c\u826f\u304b\u3063\u305f\u30de\u30c3\u30c14\u3064\u306e\u307f\u3067\u3059\u3002\u3044\u305a\u308c\u304b\u306e\u30bb\u30c3\u30b7\u30e7\u30f3\u306750\u30dd\u30a4\u30f3\u30c8\u7372\u5f97\u3059\u308b\u3068\u3001\u30b2\u30fc\u30e0\u5185\u30b0\u30e9\u30a4\u30c0\u30fc\u300c\u30e9\u30f3\u30ab\u30fc\u306e\u30c7\u30b9\u30fb\u30b9\u30bf\u30fc\u300d\u304c\u624b\u306b\u5165\u308a\u307e\u3059\uff01 ",
+        "details_description": "プラチナ&ダイヤモンドランクのプレイヤーと競い合いましょう！ 4時間の開催時間内であれば何マッチでもプレイ可能ですが、ランキングでの順位に反映されるのは、参加した中で最も成績が良かったマッチ4つのみです。いずれかのセッションで50ポイント獲得すると、ゲーム内グライダー「ランカーのデス・スター」が手に入ります！ ",
         "flavor_description": "",
         "loading_screen_image": "https://cdn2.unrealengine.com/en-fneco-33-00-competitive-discoverytile-rankedcups-1080x1920-1920x1080-715a21161bce.jpg",
-        "long_format_title": "\u30d7\u30e9\u30c1\u30ca&\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9\u30e9\u30f3\u30af\u30ab\u30c3\u30d7(\u30bd\u30ed \u30d0\u30c8\u30eb\u30ed\u30a4\u30e4\u30eb)",
+        "long_format_title": "プラチナ&ダイヤモンドランクカップ(ソロ バトルロイヤル)",
         "poster_back_image": null,
         "poster_front_image": "https://cdn2.unrealengine.com/fnce-33-30-tileview-ranked-cups-01-800x800-800x800-f243c2a689fa.jpg",
         "round_names": null,
@@ -3680,7 +3499,7 @@
       },
       "displayDataId": "s35_ranked_solo_pd",
       "endTime": "2025-05-29T05:00:01Z",
-      "endTime_jst": "2025\u5e7405\u670829\u65e514\u664200\u520601\u79d2",
+      "endTime_jst": "2025年05月29日14時00分01秒",
       "endTime_unix": 1748494801,
       "eventGroup": "Season35_RankedCupPDSolo",
       "eventId": "epicgames_S35_RankedCupPDSolo_NAW",
@@ -3694,15 +3513,15 @@
             "currentRanking:ranked-br:9"
           ],
           "beginTime": "2025-05-15T01:00:01Z",
-          "beginTime_jst": "2025\u5e7405\u670815\u65e510\u664200\u520601\u79d2",
+          "beginTime_jst": "2025年05月15日10時00分01秒",
           "beginTime_unix": 1747270801,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-14T23:00:01Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670815\u65e508\u664200\u520601\u79d2",
+          "countdownBeginTime_jst": "2025年05月15日08時00分01秒",
           "countdownBeginTime_unix": 1747263601,
           "endTime": "2025-05-15T05:00:01Z",
-          "endTime_jst": "2025\u5e7405\u670815\u65e514\u664200\u520601\u79d2",
+          "endTime_jst": "2025年05月15日14時00分01秒",
           "endTime_unix": 1747285201,
           "eventTemplateId": "EventTemplate_S35_RankedCupSolo",
           "eventWindowId": "S35_RankedCupPDSolo_Event1_NAW",
@@ -3739,15 +3558,15 @@
             "currentRanking:ranked-br:9"
           ],
           "beginTime": "2025-05-22T01:00:01Z",
-          "beginTime_jst": "2025\u5e7405\u670822\u65e510\u664200\u520601\u79d2",
+          "beginTime_jst": "2025年05月22日10時00分01秒",
           "beginTime_unix": 1747875601,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-21T23:00:01Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670822\u65e508\u664200\u520601\u79d2",
+          "countdownBeginTime_jst": "2025年05月22日08時00分01秒",
           "countdownBeginTime_unix": 1747868401,
           "endTime": "2025-05-22T05:00:01Z",
-          "endTime_jst": "2025\u5e7405\u670822\u65e514\u664200\u520601\u79d2",
+          "endTime_jst": "2025年05月22日14時00分01秒",
           "endTime_unix": 1747890001,
           "eventTemplateId": "EventTemplate_S35_RankedCupSolo",
           "eventWindowId": "S35_RankedCupPDSolo_Event2_NAW",
@@ -3784,15 +3603,15 @@
             "currentRanking:ranked-br:9"
           ],
           "beginTime": "2025-05-29T01:00:01Z",
-          "beginTime_jst": "2025\u5e7405\u670829\u65e510\u664200\u520601\u79d2",
+          "beginTime_jst": "2025年05月29日10時00分01秒",
           "beginTime_unix": 1748480401,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-28T23:00:01Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670829\u65e508\u664200\u520601\u79d2",
+          "countdownBeginTime_jst": "2025年05月29日08時00分01秒",
           "countdownBeginTime_unix": 1748473201,
           "endTime": "2025-05-29T05:00:01Z",
-          "endTime_jst": "2025\u5e7405\u670829\u65e514\u664200\u520601\u79d2",
+          "endTime_jst": "2025年05月29日14時00分01秒",
           "endTime_unix": 1748494801,
           "eventTemplateId": "EventTemplate_S35_RankedCupSolo",
           "eventWindowId": "S35_RankedCupPDSolo_Event3_NAW",
@@ -3864,16 +3683,16 @@
     },
     {
       "announcementTime": "2025-05-02T08:00:01Z",
-      "announcementTime_jst": "2025\u5e7405\u670802\u65e517\u664200\u520601\u79d2",
+      "announcementTime_jst": "2025年05月02日17時00分01秒",
       "announcementTime_unix": 1746172801,
       "beginTime": "2025-05-19T01:00:01Z",
-      "beginTime_jst": "2025\u5e7405\u670819\u65e510\u664200\u520601\u79d2",
+      "beginTime_jst": "2025年05月19日10時00分01秒",
       "beginTime_unix": 1747616401,
       "displayData": {
-        "details_description": "\u30d7\u30e9\u30c1\u30ca&\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9\u30e9\u30f3\u30af\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u3068\u7af6\u3044\u5408\u3044\u307e\u3057\u3087\u3046\uff01 4\u6642\u9593\u306e\u958b\u50ac\u6642\u9593\u5185\u3067\u3042\u308c\u3070\u4f55\u30de\u30c3\u30c1\u3067\u3082\u30d7\u30ec\u30a4\u53ef\u80fd\u3067\u3059\u304c\u3001\u30e9\u30f3\u30ad\u30f3\u30b0\u3067\u306e\u9806\u4f4d\u306b\u53cd\u6620\u3055\u308c\u308b\u306e\u306f\u3001\u53c2\u52a0\u3057\u305f\u4e2d\u3067\u6700\u3082\u6210\u7e3e\u304c\u826f\u304b\u3063\u305f\u30de\u30c3\u30c14\u3064\u306e\u307f\u3067\u3059\u3002\u3044\u305a\u308c\u304b\u306e\u30bb\u30c3\u30b7\u30e7\u30f3\u306750\u30dd\u30a4\u30f3\u30c8\u7372\u5f97\u3059\u308b\u3068\u3001\u30b2\u30fc\u30e0\u5185\u30b0\u30e9\u30a4\u30c0\u30fc\u300c\u30e9\u30f3\u30ab\u30fc\u306e\u30c7\u30b9\u30fb\u30b9\u30bf\u30fc\u300d\u304c\u624b\u306b\u5165\u308a\u307e\u3059\uff01 ",
+        "details_description": "プラチナ&ダイヤモンドランクのプレイヤーと競い合いましょう！ 4時間の開催時間内であれば何マッチでもプレイ可能ですが、ランキングでの順位に反映されるのは、参加した中で最も成績が良かったマッチ4つのみです。いずれかのセッションで50ポイント獲得すると、ゲーム内グライダー「ランカーのデス・スター」が手に入ります！ ",
         "flavor_description": "",
         "loading_screen_image": "https://cdn2.unrealengine.com/en-fneco-33-00-competitive-discoverytile-rankedcups-1080x1920-1920x1080-715a21161bce.jpg",
-        "long_format_title": "\u30d7\u30e9\u30c1\u30ca&\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9\u30e9\u30f3\u30af\u30ab\u30c3\u30d7(\u30c8\u30ea\u30aa \u30d0\u30c8\u30eb\u30ed\u30a4\u30e4\u30eb)",
+        "long_format_title": "プラチナ&ダイヤモンドランクカップ(トリオ バトルロイヤル)",
         "poster_back_image": null,
         "poster_front_image": "https://cdn2.unrealengine.com/fnce-33-30-tileview-ranked-cups-01-800x800-800x800-f243c2a689fa.jpg",
         "round_names": null,
@@ -3882,7 +3701,7 @@
       },
       "displayDataId": "s35_ranked_trios_pd",
       "endTime": "2025-06-02T05:00:01Z",
-      "endTime_jst": "2025\u5e7406\u670802\u65e514\u664200\u520601\u79d2",
+      "endTime_jst": "2025年06月02日14時00分01秒",
       "endTime_unix": 1748840401,
       "eventGroup": "Season35_RankedCupPDTrios",
       "eventId": "epicgames_S35_RankedCupPDTrios_NAW",
@@ -3896,15 +3715,15 @@
             "currentRanking:ranked-br:9"
           ],
           "beginTime": "2025-05-19T01:00:01Z",
-          "beginTime_jst": "2025\u5e7405\u670819\u65e510\u664200\u520601\u79d2",
+          "beginTime_jst": "2025年05月19日10時00分01秒",
           "beginTime_unix": 1747616401,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-18T23:00:01Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670819\u65e508\u664200\u520601\u79d2",
+          "countdownBeginTime_jst": "2025年05月19日08時00分01秒",
           "countdownBeginTime_unix": 1747609201,
           "endTime": "2025-05-19T05:00:01Z",
-          "endTime_jst": "2025\u5e7405\u670819\u65e514\u664200\u520601\u79d2",
+          "endTime_jst": "2025年05月19日14時00分01秒",
           "endTime_unix": 1747630801,
           "eventTemplateId": "EventTemplate_S35_RankedCupTrios",
           "eventWindowId": "S35_RankedCupPDTrios_Event1_NAW",
@@ -3941,15 +3760,15 @@
             "currentRanking:ranked-br:9"
           ],
           "beginTime": "2025-05-26T01:00:01Z",
-          "beginTime_jst": "2025\u5e7405\u670826\u65e510\u664200\u520601\u79d2",
+          "beginTime_jst": "2025年05月26日10時00分01秒",
           "beginTime_unix": 1748221201,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-25T23:00:01Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670826\u65e508\u664200\u520601\u79d2",
+          "countdownBeginTime_jst": "2025年05月26日08時00分01秒",
           "countdownBeginTime_unix": 1748214001,
           "endTime": "2025-05-26T05:00:01Z",
-          "endTime_jst": "2025\u5e7405\u670826\u65e514\u664200\u520601\u79d2",
+          "endTime_jst": "2025年05月26日14時00分01秒",
           "endTime_unix": 1748235601,
           "eventTemplateId": "EventTemplate_S35_RankedCupTrios",
           "eventWindowId": "S35_RankedCupPDTrios_Event2_NAW",
@@ -3986,15 +3805,15 @@
             "currentRanking:ranked-br:9"
           ],
           "beginTime": "2025-06-02T01:00:01Z",
-          "beginTime_jst": "2025\u5e7406\u670802\u65e510\u664200\u520601\u79d2",
+          "beginTime_jst": "2025年06月02日10時00分01秒",
           "beginTime_unix": 1748826001,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-06-01T23:00:01Z",
-          "countdownBeginTime_jst": "2025\u5e7406\u670802\u65e508\u664200\u520601\u79d2",
+          "countdownBeginTime_jst": "2025年06月02日08時00分01秒",
           "countdownBeginTime_unix": 1748818801,
           "endTime": "2025-06-02T05:00:01Z",
-          "endTime_jst": "2025\u5e7406\u670802\u65e514\u664200\u520601\u79d2",
+          "endTime_jst": "2025年06月02日14時00分01秒",
           "endTime_unix": 1748840401,
           "eventTemplateId": "EventTemplate_S35_RankedCupTrios",
           "eventWindowId": "S35_RankedCupPDTrios_Event3_NAW",
@@ -4066,10 +3885,10 @@
     },
     {
       "announcementTime": "2024-11-02T06:00:00Z",
-      "announcementTime_jst": "2024\u5e7411\u670802\u65e515\u664200\u520600\u79d2",
+      "announcementTime_jst": "2024年11月02日15時00分00秒",
       "announcementTime_unix": 1730527200,
       "beginTime": "2025-05-07T19:00:00Z",
-      "beginTime_jst": "2025\u5e7405\u670808\u65e504\u664200\u520600\u79d2",
+      "beginTime_jst": "2025年05月08日04時00分00秒",
       "beginTime_unix": 1746644400,
       "displayData": {
         "details_description": "Players must be at least 13 years old (or such other age, if greater, as may be required in their country of residence), have MFA enabled, and have an account level of 50 or greater. For more details see: www.epicgames.com/fortnite/competitive/news.",
@@ -4084,7 +3903,7 @@
       },
       "displayDataId": "s34_reloadopen",
       "endTime": "2025-05-09T19:50:00Z",
-      "endTime_jst": "2025\u5e7405\u670810\u65e504\u664250\u520600\u79d2",
+      "endTime_jst": "2025年05月10日04時50分00秒",
       "endTime_unix": 1746820200,
       "eventGroup": "Season35_ReloadOpen",
       "eventId": "epicgames_S35_ReloadOpen_NAW",
@@ -4096,15 +3915,15 @@
             "eula:s34_reloadopen_rules"
           ],
           "beginTime": "2025-05-07T19:00:00Z",
-          "beginTime_jst": "2025\u5e7405\u670808\u65e504\u664200\u520600\u79d2",
+          "beginTime_jst": "2025年05月08日04時00分00秒",
           "beginTime_unix": 1746644400,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-07T17:00:00Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670808\u65e502\u664200\u520600\u79d2",
+          "countdownBeginTime_jst": "2025年05月08日02時00分00秒",
           "countdownBeginTime_unix": 1746637200,
           "endTime": "2025-05-08T00:00:00Z",
-          "endTime_jst": "2025\u5e7405\u670808\u65e509\u664200\u520600\u79d2",
+          "endTime_jst": "2025年05月08日09時00分00秒",
           "endTime_unix": 1746662400,
           "eventTemplateId": "EventTemplate_S35_ReloadOpen",
           "eventWindowId": "S35_ReloadOpen_Event1_NAW",
@@ -4138,15 +3957,15 @@
             "eula:s34_reloadopen_rules"
           ],
           "beginTime": "2025-05-08T19:00:00Z",
-          "beginTime_jst": "2025\u5e7405\u670809\u65e504\u664200\u520600\u79d2",
+          "beginTime_jst": "2025年05月09日04時00分00秒",
           "beginTime_unix": 1746730800,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-08T17:00:00Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670809\u65e502\u664200\u520600\u79d2",
+          "countdownBeginTime_jst": "2025年05月09日02時00分00秒",
           "countdownBeginTime_unix": 1746723600,
           "endTime": "2025-05-09T00:00:00Z",
-          "endTime_jst": "2025\u5e7405\u670809\u65e509\u664200\u520600\u79d2",
+          "endTime_jst": "2025年05月09日09時00分00秒",
           "endTime_unix": 1746748800,
           "eventTemplateId": "EventTemplate_S35_ReloadOpen",
           "eventWindowId": "S35_ReloadOpen_Event2_NAW",
@@ -4180,15 +3999,15 @@
             "eula:s34_reloadopen_rules"
           ],
           "beginTime": "2025-05-09T19:00:00Z",
-          "beginTime_jst": "2025\u5e7405\u670810\u65e504\u664200\u520600\u79d2",
+          "beginTime_jst": "2025年05月10日04時00分00秒",
           "beginTime_unix": 1746817200,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-09T17:00:00Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670810\u65e502\u664200\u520600\u79d2",
+          "countdownBeginTime_jst": "2025年05月10日02時00分00秒",
           "countdownBeginTime_unix": 1746810000,
           "endTime": "2025-05-09T19:50:00Z",
-          "endTime_jst": "2025\u5e7405\u670810\u65e504\u664250\u520600\u79d2",
+          "endTime_jst": "2025年05月10日04時50分00秒",
           "endTime_unix": 1746820200,
           "eventTemplateId": "EventTemplate_S35_ReloadOpen",
           "eventWindowId": "S35_ReloadOpen_Event3_NAW",
@@ -4276,16 +4095,16 @@
     },
     {
       "announcementTime": "2025-05-02T08:00:06Z",
-      "announcementTime_jst": "2025\u5e7405\u670802\u65e517\u664200\u520606\u79d2",
+      "announcementTime_jst": "2025年05月02日17時00分06秒",
       "announcementTime_unix": 1746172806,
       "beginTime": "2025-05-12T01:00:02Z",
-      "beginTime_jst": "2025\u5e7405\u670812\u65e510\u664200\u520602\u79d2",
+      "beginTime_jst": "2025年05月12日10時00分02秒",
       "beginTime_unix": 1747011602,
       "displayData": {
-        "details_description": "\u30d6\u30ed\u30f3\u30ba\u3001\u30b7\u30eb\u30d0\u30fc\u3001\u30b4\u30fc\u30eb\u30c9\u30e9\u30f3\u30af\u306e\u4ed6\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u3068\u7af6\u3044\u5408\u3044\u307e\u3057\u3087\u3046\uff01 4\u6642\u9593\u306e\u958b\u50ac\u6642\u9593\u5185\u3067\u3042\u308c\u3070\u4f55\u30de\u30c3\u30c1\u3067\u3082\u30d7\u30ec\u30a4\u53ef\u80fd\u3067\u3059\u304c\u3001\u30e9\u30f3\u30ad\u30f3\u30b0\u3067\u306e\u9806\u4f4d\u306b\u53cd\u6620\u3055\u308c\u308b\u306e\u306f\u3001\u53c2\u52a0\u3057\u305f\u4e2d\u3067\u6700\u3082\u6210\u7e3e\u304c\u826f\u304b\u3063\u305f\u30de\u30c3\u30c14\u3064\u306e\u307f\u3067\u3059\u3002\u3044\u305a\u308c\u304b\u306e\u30bb\u30c3\u30b7\u30e7\u30f3\u306750\u30dd\u30a4\u30f3\u30c8\u7372\u5f97\u3059\u308b\u3068\u3001\u30b2\u30fc\u30e0\u5185\u30b0\u30e9\u30a4\u30c0\u30fc\u300c\u30e9\u30f3\u30ab\u30fc\u306e\u30c7\u30b9\u30fb\u30b9\u30bf\u30fc\u300d\u304c\u624b\u306b\u5165\u308a\u307e\u3059\uff01 ",
+        "details_description": "ブロンズ、シルバー、ゴールドランクの他のプレイヤーと競い合いましょう！ 4時間の開催時間内であれば何マッチでもプレイ可能ですが、ランキングでの順位に反映されるのは、参加した中で最も成績が良かったマッチ4つのみです。いずれかのセッションで50ポイント獲得すると、ゲーム内グライダー「ランカーのデス・スター」が手に入ります！ ",
         "flavor_description": "",
         "loading_screen_image": "https://cdn2.unrealengine.com/en-fneco-33-00-competitive-discoverytile-rankedcups-1080x1920-1920x1080-715a21161bce.jpg",
-        "long_format_title": "\u30d6\u30ed\u30f3\u30ba\u3001\u30b7\u30eb\u30d0\u30fc\u3001\u30b4\u30fc\u30eb\u30c9\u30e9\u30f3\u30af\u30ab\u30c3\u30d7(\u30ea\u30ed\u30fc\u30c9 \u30d0\u30c8\u30eb\u30ed\u30a4\u30e4\u30eb)",
+        "long_format_title": "ブロンズ、シルバー、ゴールドランクカップ(リロード バトルロイヤル)",
         "poster_back_image": null,
         "poster_front_image": null,
         "round_names": null,
@@ -4294,7 +4113,7 @@
       },
       "displayDataId": "s35_ranked_duosreload_bsg",
       "endTime": "2025-05-28T05:00:02Z",
-      "endTime_jst": "2025\u5e7405\u670828\u65e514\u664200\u520602\u79d2",
+      "endTime_jst": "2025年05月28日14時00分02秒",
       "endTime_unix": 1748408402,
       "eventGroup": "Season35ReloadRankedCupBSGDuos",
       "eventId": "epicgames_S35_ReloadRankedCup_BSG_Duos_NAW",
@@ -4308,15 +4127,15 @@
             "eula:s35_ranked_rules"
           ],
           "beginTime": "2025-05-12T01:00:02Z",
-          "beginTime_jst": "2025\u5e7405\u670812\u65e510\u664200\u520602\u79d2",
+          "beginTime_jst": "2025年05月12日10時00分02秒",
           "beginTime_unix": 1747011602,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-11T23:00:02Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670812\u65e508\u664200\u520602\u79d2",
+          "countdownBeginTime_jst": "2025年05月12日08時00分02秒",
           "countdownBeginTime_unix": 1747004402,
           "endTime": "2025-05-12T05:00:02Z",
-          "endTime_jst": "2025\u5e7405\u670812\u65e514\u664200\u520602\u79d2",
+          "endTime_jst": "2025年05月12日14時00分02秒",
           "endTime_unix": 1747026002,
           "eventTemplateId": "EventTemplate_S35ReloadRankedCupDuos",
           "eventWindowId": "S35_ReloadRankedCup_BSG_Duos_Event1_NAW",
@@ -4353,15 +4172,15 @@
             "eula:s35_ranked_rules"
           ],
           "beginTime": "2025-05-21T01:00:02Z",
-          "beginTime_jst": "2025\u5e7405\u670821\u65e510\u664200\u520602\u79d2",
+          "beginTime_jst": "2025年05月21日10時00分02秒",
           "beginTime_unix": 1747789202,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-20T23:00:02Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670821\u65e508\u664200\u520602\u79d2",
+          "countdownBeginTime_jst": "2025年05月21日08時00分02秒",
           "countdownBeginTime_unix": 1747782002,
           "endTime": "2025-05-21T05:00:02Z",
-          "endTime_jst": "2025\u5e7405\u670821\u65e514\u664200\u520602\u79d2",
+          "endTime_jst": "2025年05月21日14時00分02秒",
           "endTime_unix": 1747803602,
           "eventTemplateId": "EventTemplate_S35ReloadRankedCupDuos",
           "eventWindowId": "S35_ReloadRankedCup_BSG_Duos_Event2_NAW",
@@ -4398,15 +4217,15 @@
             "eula:s35_ranked_rules"
           ],
           "beginTime": "2025-05-28T01:00:02Z",
-          "beginTime_jst": "2025\u5e7405\u670828\u65e510\u664200\u520602\u79d2",
+          "beginTime_jst": "2025年05月28日10時00分02秒",
           "beginTime_unix": 1748394002,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-27T23:00:02Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670828\u65e508\u664200\u520602\u79d2",
+          "countdownBeginTime_jst": "2025年05月28日08時00分02秒",
           "countdownBeginTime_unix": 1748386802,
           "endTime": "2025-05-28T05:00:02Z",
-          "endTime_jst": "2025\u5e7405\u670828\u65e514\u664200\u520602\u79d2",
+          "endTime_jst": "2025年05月28日14時00分02秒",
           "endTime_unix": 1748408402,
           "eventTemplateId": "EventTemplate_S35ReloadRankedCupDuos",
           "eventWindowId": "S35_ReloadRankedCup_BSG_Duos_Event3_NAW",
@@ -4478,16 +4297,16 @@
     },
     {
       "announcementTime": "2025-05-02T08:00:06Z",
-      "announcementTime_jst": "2025\u5e7405\u670802\u65e517\u664200\u520606\u79d2",
+      "announcementTime_jst": "2025年05月02日17時00分06秒",
       "announcementTime_unix": 1746172806,
       "beginTime": "2025-05-12T01:00:00Z",
-      "beginTime_jst": "2025\u5e7405\u670812\u65e510\u664200\u520600\u79d2",
+      "beginTime_jst": "2025年05月12日10時00分00秒",
       "beginTime_unix": 1747011600,
       "displayData": {
-        "details_description": "\u30a8\u30ea\u30fc\u30c8\u4ee5\u4e0a\u306e\u30e9\u30f3\u30af\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u3068\u7af6\u3044\u5408\u3044\u307e\u3057\u3087\u3046\uff01 4\u6642\u9593\u306e\u958b\u50ac\u6642\u9593\u5185\u3067\u3042\u308c\u3070\u4f55\u30de\u30c3\u30c1\u3067\u3082\u30d7\u30ec\u30a4\u53ef\u80fd\u3067\u3059\u304c\u3001\u30e9\u30f3\u30ad\u30f3\u30b0\u3067\u306e\u9806\u4f4d\u306b\u53cd\u6620\u3055\u308c\u308b\u306e\u306f\u3001\u53c2\u52a0\u3057\u305f\u4e2d\u3067\u6700\u3082\u6210\u7e3e\u304c\u826f\u304b\u3063\u305f\u30de\u30c3\u30c14\u3064\u306e\u307f\u3067\u3059\u3002\u3044\u305a\u308c\u304b\u306e\u30bb\u30c3\u30b7\u30e7\u30f3\u306750\u30dd\u30a4\u30f3\u30c8\u7372\u5f97\u3059\u308b\u3068\u3001\u30b2\u30fc\u30e0\u5185\u30b0\u30e9\u30a4\u30c0\u30fc\u300c\u30e9\u30f3\u30ab\u30fc\u306e\u30c7\u30b9\u30fb\u30b9\u30bf\u30fc\u300d\u304c\u624b\u306b\u5165\u308a\u307e\u3059\uff01 \u3055\u3089\u306b\u3001\u5404\u30bb\u30c3\u30b7\u30e7\u30f3\u3067\u30e9\u30f3\u30ad\u30f3\u30b0\u306e\u4e0a\u4f4d\u306b\u5165\u3063\u305f\u30d7\u30ec\u30a4\u30e4\u30fc\u306b\u306f\u3001\u30b3\u30b9\u30c1\u30e5\u30fc\u30e0\u300c\u30a8\u30ea\u30fc\u30c8 \u30bc\u30a4\u30c7\u30a3\u30fc\u300d\u3092\u8d08\u5448\uff01 ",
+        "details_description": "エリート以上のランクのプレイヤーと競い合いましょう！ 4時間の開催時間内であれば何マッチでもプレイ可能ですが、ランキングでの順位に反映されるのは、参加した中で最も成績が良かったマッチ4つのみです。いずれかのセッションで50ポイント獲得すると、ゲーム内グライダー「ランカーのデス・スター」が手に入ります！ さらに、各セッションでランキングの上位に入ったプレイヤーには、コスチューム「エリート ゼイディー」を贈呈！ ",
         "flavor_description": "",
         "loading_screen_image": "https://cdn2.unrealengine.com/en-fnce-35-00-dashberry-elitezadie-rankedcups-br-discoverytile-1920x1080-1920x1080-39785b12b3d9.jpg",
-        "long_format_title": "\u30a8\u30ea\u30fc\u30c8 \u30bc\u30a4\u30c7\u30a3\u30fc \u30e9\u30f3\u30af\u30ab\u30c3\u30d7(\u30c7\u30e5\u30aa \u30ea\u30ed\u30fc\u30c9)",
+        "long_format_title": "エリート ゼイディー ランクカップ(デュオ リロード)",
         "poster_back_image": null,
         "poster_front_image": "https://cdn2.unrealengine.com/fnce-35-00-competitive-zadierankedcup-poster-front-750x1080-9bdc64fd8901.jpg",
         "round_names": null,
@@ -4496,7 +4315,7 @@
       },
       "displayDataId": "s35_zadieranked_duosreload",
       "endTime": "2025-05-28T05:00:00Z",
-      "endTime_jst": "2025\u5e7405\u670828\u65e514\u664200\u520600\u79d2",
+      "endTime_jst": "2025年05月28日14時00分00秒",
       "endTime_unix": 1748408400,
       "eventGroup": "Season35ReloadRankedCupEliteDuos",
       "eventId": "epicgames_S35_ReloadRankedCup_Elite_Duos_NAW",
@@ -4509,15 +4328,15 @@
             "eula:s35_ranked_rules"
           ],
           "beginTime": "2025-05-12T01:00:00Z",
-          "beginTime_jst": "2025\u5e7405\u670812\u65e510\u664200\u520600\u79d2",
+          "beginTime_jst": "2025年05月12日10時00分00秒",
           "beginTime_unix": 1747011600,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-11T23:00:00Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670812\u65e508\u664200\u520600\u79d2",
+          "countdownBeginTime_jst": "2025年05月12日08時00分00秒",
           "countdownBeginTime_unix": 1747004400,
           "endTime": "2025-05-12T05:00:00Z",
-          "endTime_jst": "2025\u5e7405\u670812\u65e514\u664200\u520600\u79d2",
+          "endTime_jst": "2025年05月12日14時00分00秒",
           "endTime_unix": 1747026000,
           "eventTemplateId": "EventTemplate_S35ReloadRankedCupDuos",
           "eventWindowId": "S35_ReloadRankedCup_Elite_Duos_Event1_NAW",
@@ -4553,15 +4372,15 @@
             "eula:s35_ranked_rules"
           ],
           "beginTime": "2025-05-21T01:00:00Z",
-          "beginTime_jst": "2025\u5e7405\u670821\u65e510\u664200\u520600\u79d2",
+          "beginTime_jst": "2025年05月21日10時00分00秒",
           "beginTime_unix": 1747789200,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-20T23:00:00Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670821\u65e508\u664200\u520600\u79d2",
+          "countdownBeginTime_jst": "2025年05月21日08時00分00秒",
           "countdownBeginTime_unix": 1747782000,
           "endTime": "2025-05-21T05:00:00Z",
-          "endTime_jst": "2025\u5e7405\u670821\u65e514\u664200\u520600\u79d2",
+          "endTime_jst": "2025年05月21日14時00分00秒",
           "endTime_unix": 1747803600,
           "eventTemplateId": "EventTemplate_S35ReloadRankedCupDuos",
           "eventWindowId": "S35_ReloadRankedCup_Elite_Duos_Event2_NAW",
@@ -4597,15 +4416,15 @@
             "eula:s35_ranked_rules"
           ],
           "beginTime": "2025-05-28T01:00:00Z",
-          "beginTime_jst": "2025\u5e7405\u670828\u65e510\u664200\u520600\u79d2",
+          "beginTime_jst": "2025年05月28日10時00分00秒",
           "beginTime_unix": 1748394000,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-27T23:00:00Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670828\u65e508\u664200\u520600\u79d2",
+          "countdownBeginTime_jst": "2025年05月28日08時00分00秒",
           "countdownBeginTime_unix": 1748386800,
           "endTime": "2025-05-28T05:00:00Z",
-          "endTime_jst": "2025\u5e7405\u670828\u65e514\u664200\u520600\u79d2",
+          "endTime_jst": "2025年05月28日14時00分00秒",
           "endTime_unix": 1748408400,
           "eventTemplateId": "EventTemplate_S35ReloadRankedCupDuos",
           "eventWindowId": "S35_ReloadRankedCup_Elite_Duos_Event3_NAW",
@@ -4677,16 +4496,16 @@
     },
     {
       "announcementTime": "2025-05-02T08:00:06Z",
-      "announcementTime_jst": "2025\u5e7405\u670802\u65e517\u664200\u520606\u79d2",
+      "announcementTime_jst": "2025年05月02日17時00分06秒",
       "announcementTime_unix": 1746172806,
       "beginTime": "2025-05-12T01:00:01Z",
-      "beginTime_jst": "2025\u5e7405\u670812\u65e510\u664200\u520601\u79d2",
+      "beginTime_jst": "2025年05月12日10時00分01秒",
       "beginTime_unix": 1747011601,
       "displayData": {
-        "details_description": "\u30d7\u30e9\u30c1\u30ca&\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9\u30e9\u30f3\u30af\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u3068\u7af6\u3044\u5408\u3044\u307e\u3057\u3087\u3046\uff01 4\u6642\u9593\u306e\u958b\u50ac\u6642\u9593\u5185\u3067\u3042\u308c\u3070\u4f55\u30de\u30c3\u30c1\u3067\u3082\u30d7\u30ec\u30a4\u53ef\u80fd\u3067\u3059\u304c\u3001\u30e9\u30f3\u30ad\u30f3\u30b0\u3067\u306e\u9806\u4f4d\u306b\u53cd\u6620\u3055\u308c\u308b\u306e\u306f\u3001\u53c2\u52a0\u3057\u305f\u4e2d\u3067\u6700\u3082\u6210\u7e3e\u304c\u826f\u304b\u3063\u305f\u30de\u30c3\u30c14\u3064\u306e\u307f\u3067\u3059\u3002\u3044\u305a\u308c\u304b\u306e\u30bb\u30c3\u30b7\u30e7\u30f3\u306750\u30dd\u30a4\u30f3\u30c8\u7372\u5f97\u3059\u308b\u3068\u3001\u30b2\u30fc\u30e0\u5185\u30b0\u30e9\u30a4\u30c0\u30fc\u300c\u30e9\u30f3\u30ab\u30fc\u306e\u30c7\u30b9\u30fb\u30b9\u30bf\u30fc\u300d\u304c\u624b\u306b\u5165\u308a\u307e\u3059\uff01 ",
+        "details_description": "プラチナ&ダイヤモンドランクのプレイヤーと競い合いましょう！ 4時間の開催時間内であれば何マッチでもプレイ可能ですが、ランキングでの順位に反映されるのは、参加した中で最も成績が良かったマッチ4つのみです。いずれかのセッションで50ポイント獲得すると、ゲーム内グライダー「ランカーのデス・スター」が手に入ります！ ",
         "flavor_description": "",
         "loading_screen_image": "https://cdn2.unrealengine.com/en-fneco-33-00-competitive-discoverytile-rankedcups-1080x1920-1920x1080-715a21161bce.jpg",
-        "long_format_title": "\u30d7\u30e9\u30c1\u30ca&\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9\u30e9\u30f3\u30af\u30ab\u30c3\u30d7(\u30c7\u30e5\u30aa \u30ea\u30ed\u30fc\u30c9)",
+        "long_format_title": "プラチナ&ダイヤモンドランクカップ(デュオ リロード)",
         "poster_back_image": null,
         "poster_front_image": "https://cdn2.unrealengine.com/fnce-33-30-tileview-ranked-cups-01-800x800-800x800-f243c2a689fa.jpg",
         "round_names": null,
@@ -4695,7 +4514,7 @@
       },
       "displayDataId": "s35_ranked_duosreload_pd",
       "endTime": "2025-05-28T05:00:01Z",
-      "endTime_jst": "2025\u5e7405\u670828\u65e514\u664200\u520601\u79d2",
+      "endTime_jst": "2025年05月28日14時00分01秒",
       "endTime_unix": 1748408401,
       "eventGroup": "Season35ReloadRankedCupPDDuos",
       "eventId": "epicgames_S35_ReloadRankedCup_PD_Duos_NAW",
@@ -4709,15 +4528,15 @@
             "currentRanking:ranked_blastberry_build:9"
           ],
           "beginTime": "2025-05-12T01:00:01Z",
-          "beginTime_jst": "2025\u5e7405\u670812\u65e510\u664200\u520601\u79d2",
+          "beginTime_jst": "2025年05月12日10時00分01秒",
           "beginTime_unix": 1747011601,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-11T23:00:01Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670812\u65e508\u664200\u520601\u79d2",
+          "countdownBeginTime_jst": "2025年05月12日08時00分01秒",
           "countdownBeginTime_unix": 1747004401,
           "endTime": "2025-05-12T05:00:01Z",
-          "endTime_jst": "2025\u5e7405\u670812\u65e514\u664200\u520601\u79d2",
+          "endTime_jst": "2025年05月12日14時00分01秒",
           "endTime_unix": 1747026001,
           "eventTemplateId": "EventTemplate_S35ReloadRankedCupDuos",
           "eventWindowId": "S35_ReloadRankedCup_PD_Duos_Event1_NAW",
@@ -4754,15 +4573,15 @@
             "currentRanking:ranked_blastberry_build:9"
           ],
           "beginTime": "2025-05-21T01:00:01Z",
-          "beginTime_jst": "2025\u5e7405\u670821\u65e510\u664200\u520601\u79d2",
+          "beginTime_jst": "2025年05月21日10時00分01秒",
           "beginTime_unix": 1747789201,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-20T23:00:01Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670821\u65e508\u664200\u520601\u79d2",
+          "countdownBeginTime_jst": "2025年05月21日08時00分01秒",
           "countdownBeginTime_unix": 1747782001,
           "endTime": "2025-05-21T05:00:01Z",
-          "endTime_jst": "2025\u5e7405\u670821\u65e514\u664200\u520601\u79d2",
+          "endTime_jst": "2025年05月21日14時00分01秒",
           "endTime_unix": 1747803601,
           "eventTemplateId": "EventTemplate_S35ReloadRankedCupDuos",
           "eventWindowId": "S35_ReloadRankedCup_PD_Duos_Event2_NAW",
@@ -4799,15 +4618,15 @@
             "currentRanking:ranked_blastberry_build:9"
           ],
           "beginTime": "2025-05-28T01:00:01Z",
-          "beginTime_jst": "2025\u5e7405\u670828\u65e510\u664200\u520601\u79d2",
+          "beginTime_jst": "2025年05月28日10時00分01秒",
           "beginTime_unix": 1748394001,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
           "countdownBeginTime": "2025-05-27T23:00:01Z",
-          "countdownBeginTime_jst": "2025\u5e7405\u670828\u65e508\u664200\u520601\u79d2",
+          "countdownBeginTime_jst": "2025年05月28日08時00分01秒",
           "countdownBeginTime_unix": 1748386801,
           "endTime": "2025-05-28T05:00:01Z",
-          "endTime_jst": "2025\u5e7405\u670828\u65e514\u664200\u520601\u79d2",
+          "endTime_jst": "2025年05月28日14時00分01秒",
           "endTime_unix": 1748408401,
           "eventTemplateId": "EventTemplate_S35ReloadRankedCupDuos",
           "eventWindowId": "S35_ReloadRankedCup_PD_Duos_Event3_NAW",
@@ -4879,51 +4698,6 @@
     }
   ],
   "leaderboardDefs": [
-    {
-      "clampsToZero": true,
-      "gameId": "Fortnite",
-      "hidePlayerScores": false,
-      "leaderboardDefId": "S33_FNCSMajor1_FinalDay2_DefaultLeaderboardDef",
-      "leaderboardInstanceGroupingKeyFormat": "${eventId}",
-      "leaderboardInstanceIdFormat": "${windowId}",
-      "leaderboardStorageId": "Fortnite_GLOBAL",
-      "maxSessionHistorySize": 10,
-      "payoutsConfig": {
-        "payoutDate": "windowEnd+PT32M",
-        "payoutTableIdFormat": "${windowId}"
-      },
-      "percentileAccuracy": 1,
-      "requiredPlayerListings": [],
-      "scoringRuleSetId": "S33_ScoringRules_FNCSMajor1_Final",
-      "tiebreakerFormula": {
-        "basePointsBits": 11,
-        "components": [
-          {
-            "aggregation": "sum",
-            "bits": 4,
-            "trackedStat": "VICTORY_ROYALE_STAT"
-          },
-          {
-            "aggregation": "avg",
-            "bits": 13,
-            "multiplier": 100,
-            "trackedStat": "TEAM_ELIMS_STAT_INDEX"
-          },
-          {
-            "aggregation": "avg",
-            "bits": 14,
-            "multiplier": 100,
-            "trackedStat": "PLACEMENT_TIEBREAKER_STAT"
-          },
-          {
-            "aggregation": "avg",
-            "bits": 11,
-            "trackedStat": "TIME_ALIVE_STAT"
-          }
-        ]
-      },
-      "useIndividualScores": false
-    },
     {
       "clampsToZero": true,
       "gameId": "Fortnite",
@@ -5010,6 +4784,52 @@
         ]
       },
       "useIndividualScores": false
+    },
+    {
+      "clampsToZero": true,
+      "gameId": "Fortnite",
+      "hidePlayerScores": false,
+      "leaderboardDefId": "S35_RankedCupTriosPD_DefaultLeaderboardDef",
+      "leaderboardInstanceGroupingKeyFormat": "${eventId}",
+      "leaderboardInstanceIdFormat": "${windowId}",
+      "leaderboardStorageId": "Fortnite_GLOBAL",
+      "maxSessionHistorySize": 150,
+      "onlyScoreTopN": 4,
+      "payoutsConfig": {
+        "payoutDate": "windowEnd+PT32M",
+        "payoutTableIdFormat": "S35_PayoutTableRankedCup"
+      },
+      "percentileAccuracy": 1,
+      "requiredPlayerListings": [],
+      "scoringRuleSetId": "S35_ScoringRulesPD_RankedCupTrios",
+      "tiebreakerFormula": {
+        "basePointsBits": 11,
+        "components": [
+          {
+            "aggregation": "sum",
+            "bits": 4,
+            "trackedStat": "VICTORY_ROYALE_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 13,
+            "multiplier": 100,
+            "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 14,
+            "multiplier": 100,
+            "trackedStat": "PLACEMENT_TIEBREAKER_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 11,
+            "trackedStat": "TIME_ALIVE_STAT"
+          }
+        ]
+      },
+      "useIndividualScores": true
     },
     {
       "clampsToZero": true,
@@ -5288,6 +5108,52 @@
       "clampsToZero": true,
       "gameId": "Fortnite",
       "hidePlayerScores": false,
+      "leaderboardDefId": "S35_RankedCupTriosE_DefaultLeaderboardDef",
+      "leaderboardInstanceGroupingKeyFormat": "${eventId}",
+      "leaderboardInstanceIdFormat": "${windowId}",
+      "leaderboardStorageId": "Fortnite_GLOBAL",
+      "maxSessionHistorySize": 150,
+      "onlyScoreTopN": 4,
+      "payoutsConfig": {
+        "payoutDate": "windowEnd+PT32M",
+        "payoutTableIdFormat": "${eventId}"
+      },
+      "percentileAccuracy": 1,
+      "requiredPlayerListings": [],
+      "scoringRuleSetId": "S35_ScoringRulesE_RankedCupTrios",
+      "tiebreakerFormula": {
+        "basePointsBits": 11,
+        "components": [
+          {
+            "aggregation": "sum",
+            "bits": 4,
+            "trackedStat": "VICTORY_ROYALE_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 13,
+            "multiplier": 100,
+            "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 14,
+            "multiplier": 100,
+            "trackedStat": "PLACEMENT_TIEBREAKER_STAT"
+          },
+          {
+            "aggregation": "avg",
+            "bits": 11,
+            "trackedStat": "TIME_ALIVE_STAT"
+          }
+        ]
+      },
+      "useIndividualScores": true
+    },
+    {
+      "clampsToZero": true,
+      "gameId": "Fortnite",
+      "hidePlayerScores": false,
       "leaderboardDefId": "S34_FNCSMajor2_LastChanceLobby_DefaultLeaderboardDef",
       "leaderboardInstanceGroupingKeyFormat": "${eventId}",
       "leaderboardInstanceIdFormat": "${windowId}",
@@ -5529,93 +5395,6 @@
       "percentileAccuracy": 1,
       "requiredPlayerListings": [],
       "scoringRuleSetId": "S33_ScoringRules_FNCSDivisionCup_Div1_Final",
-      "tiebreakerFormula": {
-        "basePointsBits": 11,
-        "components": [
-          {
-            "aggregation": "sum",
-            "bits": 4,
-            "trackedStat": "VICTORY_ROYALE_STAT"
-          },
-          {
-            "aggregation": "avg",
-            "bits": 13,
-            "multiplier": 100,
-            "trackedStat": "TEAM_ELIMS_STAT_INDEX"
-          },
-          {
-            "aggregation": "avg",
-            "bits": 14,
-            "multiplier": 100,
-            "trackedStat": "PLACEMENT_TIEBREAKER_STAT"
-          },
-          {
-            "aggregation": "avg",
-            "bits": 11,
-            "trackedStat": "TIME_ALIVE_STAT"
-          }
-        ]
-      },
-      "useIndividualScores": false
-    },
-    {
-      "clampsToZero": true,
-      "gameId": "Fortnite",
-      "hidePlayerScores": false,
-      "leaderboardDefId": "S35_RankedCupTriosPD_DefaultLeaderboardDef",
-      "leaderboardInstanceGroupingKeyFormat": "${eventId}",
-      "leaderboardInstanceIdFormat": "${windowId}",
-      "leaderboardStorageId": "Fortnite_GLOBAL",
-      "maxSessionHistorySize": 150,
-      "onlyScoreTopN": 4,
-      "payoutsConfig": {
-        "payoutDate": "windowEnd+PT32M",
-        "payoutTableIdFormat": "S35_PayoutTableRankedCup"
-      },
-      "percentileAccuracy": 1,
-      "requiredPlayerListings": [],
-      "scoringRuleSetId": "S35_ScoringRulesPD_RankedCupTrios",
-      "tiebreakerFormula": {
-        "basePointsBits": 11,
-        "components": [
-          {
-            "aggregation": "sum",
-            "bits": 4,
-            "trackedStat": "VICTORY_ROYALE_STAT"
-          },
-          {
-            "aggregation": "avg",
-            "bits": 13,
-            "multiplier": 100,
-            "trackedStat": "TEAM_ELIMS_STAT_INDEX"
-          },
-          {
-            "aggregation": "avg",
-            "bits": 14,
-            "multiplier": 100,
-            "trackedStat": "PLACEMENT_TIEBREAKER_STAT"
-          },
-          {
-            "aggregation": "avg",
-            "bits": 11,
-            "trackedStat": "TIME_ALIVE_STAT"
-          }
-        ]
-      },
-      "useIndividualScores": true
-    },
-    {
-      "clampsToZero": true,
-      "gameId": "Fortnite",
-      "hidePlayerScores": false,
-      "leaderboardDefId": "S33_FNCSMajor1_Final_CumulativeLeaderboardDef",
-      "leaderboardInstanceGroupingKeyFormat": "cumulative",
-      "leaderboardInstanceIdFormat": "${eventId}_cumulative",
-      "leaderboardStorageId": "Fortnite_GLOBAL",
-      "maxSessionHistorySize": 20,
-      "percentileAccuracy": 1,
-      "requiredPlayerListings": [],
-      "scoringRuleSetId": "S33_ScoringRules_FNCSMajor1_Final",
       "tiebreakerFormula": {
         "basePointsBits": 11,
         "components": [
@@ -6040,93 +5819,6 @@
         ]
       },
       "useIndividualScores": false
-    },
-    {
-      "clampsToZero": true,
-      "gameId": "Fortnite",
-      "hidePlayerScores": false,
-      "leaderboardDefId": "S35_RankedCupTriosE_DefaultLeaderboardDef",
-      "leaderboardInstanceGroupingKeyFormat": "${eventId}",
-      "leaderboardInstanceIdFormat": "${windowId}",
-      "leaderboardStorageId": "Fortnite_GLOBAL",
-      "maxSessionHistorySize": 150,
-      "onlyScoreTopN": 4,
-      "payoutsConfig": {
-        "payoutDate": "windowEnd+PT32M",
-        "payoutTableIdFormat": "${eventId}"
-      },
-      "percentileAccuracy": 1,
-      "requiredPlayerListings": [],
-      "scoringRuleSetId": "S35_ScoringRulesE_RankedCupTrios",
-      "tiebreakerFormula": {
-        "basePointsBits": 11,
-        "components": [
-          {
-            "aggregation": "sum",
-            "bits": 4,
-            "trackedStat": "VICTORY_ROYALE_STAT"
-          },
-          {
-            "aggregation": "avg",
-            "bits": 13,
-            "multiplier": 100,
-            "trackedStat": "TEAM_ELIMS_STAT_INDEX"
-          },
-          {
-            "aggregation": "avg",
-            "bits": 14,
-            "multiplier": 100,
-            "trackedStat": "PLACEMENT_TIEBREAKER_STAT"
-          },
-          {
-            "aggregation": "avg",
-            "bits": 11,
-            "trackedStat": "TIME_ALIVE_STAT"
-          }
-        ]
-      },
-      "useIndividualScores": true
-    },
-    {
-      "clampsToZero": true,
-      "gameId": "Fortnite",
-      "hidePlayerScores": false,
-      "leaderboardDefId": "S33_FNCSMajor1_FinalDay1_DefaultLeaderboardDef",
-      "leaderboardInstanceGroupingKeyFormat": "${eventId}",
-      "leaderboardInstanceIdFormat": "${windowId}",
-      "leaderboardStorageId": "Fortnite_GLOBAL",
-      "maxSessionHistorySize": 10,
-      "percentileAccuracy": 1,
-      "requiredPlayerListings": [],
-      "scoringRuleSetId": "S33_ScoringRules_FNCSMajor1_Final",
-      "tiebreakerFormula": {
-        "basePointsBits": 11,
-        "components": [
-          {
-            "aggregation": "sum",
-            "bits": 4,
-            "trackedStat": "VICTORY_ROYALE_STAT"
-          },
-          {
-            "aggregation": "avg",
-            "bits": 13,
-            "multiplier": 100,
-            "trackedStat": "TEAM_ELIMS_STAT_INDEX"
-          },
-          {
-            "aggregation": "avg",
-            "bits": 14,
-            "multiplier": 100,
-            "trackedStat": "PLACEMENT_TIEBREAKER_STAT"
-          },
-          {
-            "aggregation": "avg",
-            "bits": 11,
-            "trackedStat": "TIME_ALIVE_STAT"
-          }
-        ]
-      },
-      "useIndividualScores": false
     }
   ],
   "payoutTables": {
@@ -6231,110 +5923,6 @@
           }
         ],
         "scoreId": "null",
-        "scoringType": "rank"
-      }
-    ],
-    "S33_FNCSMajor1_Final_Day2_NAW": [
-      {
-        "ranks": [
-          {
-            "payouts": [
-              {
-                "notifiesPlayer": false,
-                "quantity": 15000,
-                "rewardMode": "standard",
-                "rewardType": "ecomm",
-                "value": "USD"
-              }
-            ],
-            "threshold": 1
-          },
-          {
-            "payouts": [
-              {
-                "notifiesPlayer": false,
-                "quantity": 9000,
-                "rewardMode": "standard",
-                "rewardType": "ecomm",
-                "value": "USD"
-              }
-            ],
-            "threshold": 2
-          },
-          {
-            "payouts": [
-              {
-                "notifiesPlayer": false,
-                "quantity": 6000,
-                "rewardMode": "standard",
-                "rewardType": "ecomm",
-                "value": "USD"
-              }
-            ],
-            "threshold": 3
-          },
-          {
-            "payouts": [
-              {
-                "notifiesPlayer": false,
-                "quantity": 5100,
-                "rewardMode": "standard",
-                "rewardType": "ecomm",
-                "value": "USD"
-              }
-            ],
-            "threshold": 4
-          },
-          {
-            "payouts": [
-              {
-                "notifiesPlayer": false,
-                "quantity": 3900,
-                "rewardMode": "standard",
-                "rewardType": "ecomm",
-                "value": "USD"
-              }
-            ],
-            "threshold": 5
-          },
-          {
-            "payouts": [
-              {
-                "notifiesPlayer": false,
-                "quantity": 2400,
-                "rewardMode": "standard",
-                "rewardType": "ecomm",
-                "value": "USD"
-              }
-            ],
-            "threshold": 10
-          },
-          {
-            "payouts": [
-              {
-                "notifiesPlayer": false,
-                "quantity": 1200,
-                "rewardMode": "standard",
-                "rewardType": "ecomm",
-                "value": "USD"
-              }
-            ],
-            "threshold": 15
-          },
-          {
-            "payouts": [
-              {
-                "notifiesPlayer": false,
-                "quantity": 600,
-                "rewardMode": "standard",
-                "rewardType": "ecomm",
-                "value": "USD"
-              }
-            ],
-            "threshold": 20
-          }
-        ],
-        "scoreId": "cumulative:epicgames_S33_FNCSMajor1_Final_NAW_cumulative",
         "scoringType": "rank"
       }
     ],
@@ -6641,6 +6229,44 @@
         "scoringType": "rank"
       }
     ],
+    "S35_FNCSShowdown_Event2Round1_NAW": [
+      {
+        "ranks": [
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 1,
+                "rewardMode": "standard",
+                "rewardType": "token",
+                "value": "S35_FNCSShowdown_Event2Round2_NAW"
+              }
+            ],
+            "threshold": 33
+          }
+        ],
+        "scoringType": "rank"
+      }
+    ],
+    "S35_FNCSShowdown_Event3Round1_NAW": [
+      {
+        "ranks": [
+          {
+            "payouts": [
+              {
+                "notifiesPlayer": false,
+                "quantity": 1,
+                "rewardMode": "standard",
+                "rewardType": "token",
+                "value": "S35_FNCSShowdown_Event3Round2_NAW"
+              }
+            ],
+            "threshold": 33
+          }
+        ],
+        "scoringType": "rank"
+      }
+    ],
     "S35_FNSCShowdown_Event1Round1_NAW": [
       {
         "ranks": [
@@ -6652,44 +6278,6 @@
                 "rewardMode": "standard",
                 "rewardType": "token",
                 "value": "S35_FNSCShowdown_Event1Round2_NAW"
-              }
-            ],
-            "threshold": 33
-          }
-        ],
-        "scoringType": "rank"
-      }
-    ],
-    "S35_FNSCShowdown_Event2Round1_NAW": [
-      {
-        "ranks": [
-          {
-            "payouts": [
-              {
-                "notifiesPlayer": false,
-                "quantity": 1,
-                "rewardMode": "standard",
-                "rewardType": "token",
-                "value": "S35_FNSCShowdown_Event2Round2_NAW"
-              }
-            ],
-            "threshold": 33
-          }
-        ],
-        "scoringType": "rank"
-      }
-    ],
-    "S35_FNSCShowdown_Event3Round1_NAW": [
-      {
-        "ranks": [
-          {
-            "payouts": [
-              {
-                "notifiesPlayer": false,
-                "quantity": 1,
-                "rewardMode": "standard",
-                "rewardType": "token",
-                "value": "S35_FNSCShowdown_Event3Round2_NAW"
               }
             ],
             "threshold": 33
@@ -6857,7 +6445,7 @@
                 "value": "AthenaCharacter:character_rankedtroopernoble"
               }
             ],
-            "threshold": 10
+            "threshold": 20
           }
         ],
         "scoringType": "rank"
@@ -6929,7 +6517,7 @@
                 "value": "AthenaCharacter:character_rankedtroopernoble"
               }
             ],
-            "threshold": 5
+            "threshold": 15
           }
         ],
         "scoringType": "rank"
@@ -6965,7 +6553,7 @@
                 "value": "AthenaCharacter:character_rankedtroopernoble"
               }
             ],
-            "threshold": 10
+            "threshold": 20
           }
         ],
         "scoringType": "rank"
@@ -6974,7 +6562,6 @@
   },
   "scoreLocationPayoutTables": {
     "Fortnite:epicgames_Acrocanthosaurus_Official:Acrocanthosaurus_Official": "PayoutTable_Acrocanthosaurus_Day1",
-    "Fortnite:epicgames_S33_FNCSMajor1_Final_NAW:S33_FNCSMajor1_Final_Day2_NAW": "S33_FNCSMajor1_Final_Day2_NAW",
     "Fortnite:epicgames_S34_FNCSMajor2_Final_NAW:S34_FNCSMajor2_Final_Day2_NAW": "S34_FNCSMajor2_Final_Day2_NAW",
     "Fortnite:epicgames_S34_FNCSMajor2_GroupStage_NAW:S34_FNCSMajor2_GroupStage_Group1_NAW": "epicgames_S34_FNCSMajor2_GroupStage_NAW",
     "Fortnite:epicgames_S34_FNCSMajor2_GroupStage_NAW:S34_FNCSMajor2_GroupStage_Group2_NAW": "epicgames_S34_FNCSMajor2_GroupStage_NAW",
@@ -6986,12 +6573,12 @@
     "Fortnite:epicgames_S35_FNCSCommunityCups_Clix_NAW:S35_FNCSCommunityCups_Clix_NAW": "S35_FNCSCommunityCups_Clix_NAW",
     "Fortnite:epicgames_S35_FNCSCommunityCups_Lachlan_NAW:S35_FNCSCommunityCups_Lachlan_NAW": "S35_FNCSCommunityCups_Lachlan_NAW",
     "Fortnite:epicgames_S35_FNCSCommunityCups_Loserfruit_NAW:S35_FNCSCommunityCups_Loserfruit_NAW": "S35_FNCSCommunityCups_Loserfruit_NAW",
+    "Fortnite:epicgames_S35_FNSCShowdown_NAW:S35_FNCSShowdown_Event2Round1_NAW": "S35_FNCSShowdown_Event2Round1_NAW",
+    "Fortnite:epicgames_S35_FNSCShowdown_NAW:S35_FNCSShowdown_Event2Round2_NAW": "epicgames_S35_FNSCShowdown_NAW",
+    "Fortnite:epicgames_S35_FNSCShowdown_NAW:S35_FNCSShowdown_Event3Round1_NAW": "S35_FNCSShowdown_Event3Round1_NAW",
+    "Fortnite:epicgames_S35_FNSCShowdown_NAW:S35_FNCSShowdown_Event3Round2_NAW": "epicgames_S35_FNSCShowdown_NAW",
     "Fortnite:epicgames_S35_FNSCShowdown_NAW:S35_FNSCShowdown_Event1Round1_NAW": "S35_FNSCShowdown_Event1Round1_NAW",
     "Fortnite:epicgames_S35_FNSCShowdown_NAW:S35_FNSCShowdown_Event1Round2_NAW": "epicgames_S35_FNSCShowdown_NAW",
-    "Fortnite:epicgames_S35_FNSCShowdown_NAW:S35_FNSCShowdown_Event2Round1_NAW": "S35_FNSCShowdown_Event2Round1_NAW",
-    "Fortnite:epicgames_S35_FNSCShowdown_NAW:S35_FNSCShowdown_Event2Round2_NAW": "epicgames_S35_FNSCShowdown_NAW",
-    "Fortnite:epicgames_S35_FNSCShowdown_NAW:S35_FNSCShowdown_Event3Round1_NAW": "S35_FNSCShowdown_Event3Round1_NAW",
-    "Fortnite:epicgames_S35_FNSCShowdown_NAW:S35_FNSCShowdown_Event3Round2_NAW": "epicgames_S35_FNSCShowdown_NAW",
     "Fortnite:epicgames_S35_RankedCupBSGDuos_NAW:S35_RankedCupBSGDuos_Event1_NAW": "S35_PayoutTableRankedCup",
     "Fortnite:epicgames_S35_RankedCupBSGDuos_NAW:S35_RankedCupBSGDuos_Event2_NAW": "S35_PayoutTableRankedCup",
     "Fortnite:epicgames_S35_RankedCupBSGDuos_NAW:S35_RankedCupBSGDuos_Event3_NAW": "S35_PayoutTableRankedCup",
@@ -9222,43 +8809,6 @@
     },
     {
       "clampsToZero": false,
-      "eventTemplateId": "EventTemplate_S33_FNCSMajor1_Final",
-      "gameId": "Fortnite",
-      "liveSessionAttributes": [],
-      "matchCap": 6,
-      "payoutTable": [],
-      "playlistId": "Playlist_ShowdownTournament_Trios",
-      "scoringRules": [],
-      "tiebreakerFormula": {
-        "basePointsBits": 11,
-        "components": [
-          {
-            "aggregation": "sum",
-            "bits": 4,
-            "trackedStat": "VICTORY_ROYALE_STAT"
-          },
-          {
-            "aggregation": "avg",
-            "bits": 13,
-            "multiplier": 100,
-            "trackedStat": "TEAM_ELIMS_STAT_INDEX"
-          },
-          {
-            "aggregation": "avg",
-            "bits": 14,
-            "multiplier": 100,
-            "trackedStat": "PLACEMENT_TIEBREAKER_STAT"
-          },
-          {
-            "aggregation": "avg",
-            "bits": 11,
-            "trackedStat": "TIME_ALIVE_STAT"
-          }
-        ]
-      }
-    },
-    {
-      "clampsToZero": false,
       "eventTemplateId": "EventTemplate_Acrocanthosaurus",
       "gameId": "Fortnite",
       "liveSessionAttributes": [],
@@ -9301,7 +8851,7 @@
       "liveSessionAttributes": [],
       "matchCap": 10,
       "payoutTable": [],
-      "playlistId": "Playlist_ShowdownTournament_NPM_Trios",
+      "playlistId": "Playlist_ShowdownTournament_Trios",
       "scoringRules": [],
       "tiebreakerFormula": {
         "basePointsBits": 11,
