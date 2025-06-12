@@ -157,6 +157,8 @@ bBattleRoyaleMatchmakingEnabled=true
 +ChallengeSuppressedHotfixes=(Quest="Quest:Quest_Juno_Diana_Survive_Days",bSuppressed=true)
 +ChallengeSuppressedHotfixes=(Quest="Quest:Quest_S35_Weekly_W01_Q01",bSuppressed=true)
 +ChallengeSuppressedHotfixes=(Quest="Quest:Quest_S35_Weekly_W01_Suppressed01",bSuppressed=false,Replacing="Quest:Quest_S35_Weekly_W01_Q01")
++ChallengeSuppressedHotfixes=(Quest="Quest:quest_figment_s04_weekly_w01_q02",bSuppressed=true)
++ChallengeSuppressedHotfixes=(Quest="Quest:quest_figment_s04_weekly_w01_suppressed",bSuppressed=false,Replacing="Quest:quest_figment_s04_weekly_w01_q02")
 [/Script/FortniteGame.FortClientSettingsRecord]
 !ContextBehaviorDefinitions=ClearArray
 +ContextBehaviorDefinitions=(Name="UPictureInPictureSubsystem::StoreLastUsedPartner", bAllowRequestSave=false)
