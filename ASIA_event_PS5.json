@@ -5028,7 +5028,7 @@
       "eventWindows": [
         {
           "additionalRequirements": [
-            "eula:TBD",
+            "eula:s36_duosconsole_rules",
             "adps:g-a81a33a3b9a7",
             "mfa",
             [
@@ -5078,7 +5078,7 @@
         },
         {
           "additionalRequirements": [
-            "eula:TBD",
+            "eula:s36_duosconsole_rules",
             "adps:g-a81a33a3b9a7",
             "mfa"
           ],
@@ -5124,7 +5124,7 @@
         },
         {
           "additionalRequirements": [
-            "eula:TBD",
+            "eula:s36_duosconsole_rules",
             "adps:g-a81a33a3b9a7",
             "mfa",
             [
@@ -5174,7 +5174,7 @@
         },
         {
           "additionalRequirements": [
-            "eula:TBD",
+            "eula:s36_duosconsole_rules",
             "adps:g-a81a33a3b9a7",
             "mfa"
           ],
@@ -5220,7 +5220,7 @@
         },
         {
           "additionalRequirements": [
-            "eula:TBD",
+            "eula:s36_duosconsole_rules",
             "adps:g-a81a33a3b9a7",
             "mfa",
             [
@@ -5270,7 +5270,7 @@
         },
         {
           "additionalRequirements": [
-            "eula:TBD",
+            "eula:s36_duosconsole_rules",
             "adps:g-a81a33a3b9a7",
             "mfa"
           ],
@@ -5316,7 +5316,7 @@
         },
         {
           "additionalRequirements": [
-            "eula:TBD",
+            "eula:s36_duosconsole_rules",
             "adps:g-a81a33a3b9a7",
             "mfa",
             [
@@ -5366,7 +5366,7 @@
         },
         {
           "additionalRequirements": [
-            "eula:TBD",
+            "eula:s36_duosconsole_rules",
             "adps:g-a81a33a3b9a7",
             "mfa"
           ],
@@ -5412,7 +5412,7 @@
         },
         {
           "additionalRequirements": [
-            "eula:TBD",
+            "eula:s36_duosconsole_rules",
             "adps:g-a81a33a3b9a7",
             "mfa",
             [
@@ -5462,7 +5462,7 @@
         },
         {
           "additionalRequirements": [
-            "eula:TBD",
+            "eula:s36_duosconsole_rules",
             "adps:g-a81a33a3b9a7",
             "mfa"
           ],
@@ -5508,7 +5508,7 @@
         },
         {
           "additionalRequirements": [
-            "eula:TBD",
+            "eula:s36_duosconsole_rules",
             "adps:g-a81a33a3b9a7",
             "mfa",
             [
@@ -5558,7 +5558,7 @@
         },
         {
           "additionalRequirements": [
-            "eula:TBD",
+            "eula:s36_duosconsole_rules",
             "adps:g-a81a33a3b9a7",
             "mfa"
           ],
