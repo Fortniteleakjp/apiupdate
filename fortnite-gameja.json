@@ -43287,6 +43287,37 @@
           "_type": "ShopOfferPresentationData",
           "presentations": [
             {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-cid-385-athena-commando-m-pilotskull-01-1024x1024-5f778f58a673.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-cid-385-athena-commando-m-pilotskull-02-1024x1024-6b7855ab21d7.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-cid-385-athena-commando-m-pilotskull-03-1024x1024-d58d4e2fc631.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-cid-385-athena-commando-m-pilotskull-04-1024x1024-65e7d866df37.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/tuifeaturedfigurepilotskulla-1024x1024-9621029174ae.png",
+              "productTag": "Product.Juno",
+              "_type": "ShopOfferPresentation"
+            }
+          ],
+          "visualId": "/Game/Catalog/NewDisplayAssets/DAv2_CID_385_M_PilotSkull.DAv2_CID_385_M_PilotSkull"
+        },
+        {
+          "_type": "ShopOfferPresentationData",
+          "presentations": [
+            {
               "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-tacticalprince-br-2048x2048-89ed1565d7de.png",
               "productTag": "Product.BR",
               "_type": "ShopOfferPresentation"
