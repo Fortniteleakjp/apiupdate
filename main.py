@@ -3,6 +3,9 @@ import json
 import hashlib
 import os
 from datetime import datetime
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # 監視対象APIとスナップショットファイルの対応リスト
 API_TARGETS = [

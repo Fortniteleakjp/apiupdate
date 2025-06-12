@@ -2,29 +2,38 @@ name: Check API Update
 
 on:
   schedule:
-    - cron: '*/1 * * * *'  # 1分ごと
+    - cron: '*/1 * * * *'
   workflow_dispatch:
 
 jobs:
   check:
     runs-on: ubuntu-latest
+    env:
+      URL_ASIA_WINDOWS: ${{ secrets.URL_ASIA_WINDOWS }}
+      URL_NAE_WINDOWS: ${{ secrets.URL_NAE_WINDOWS }}
+      URL_NAC_WINDOWS: ${{ secrets.URL_NAC_WINDOWS }}
+      URL_NAW_WINDOWS: ${{ secrets.URL_NAW_WINDOWS }}
+      URL_OCE_WINDOWS: ${{ secrets.URL_OCE_WINDOWS }}
+      URL_ME_WINDOWS: ${{ secrets.URL_ME_WINDOWS }}
+      URL_EU_WINDOWS: ${{ secrets.URL_EU_WINDOWS }}
+      URL_BR_WINDOWS: ${{ secrets.URL_BR_WINDOWS }}
+      URL_DEFAULTGAME: ${{ secrets.URL_DEFAULTGAME }}
+      URL_ASIA_PS5: ${{ secrets.URL_ASIA_PS5 }}
+      URL_NAE_PS5: ${{ secrets.URL_NAE_PS5 }}
+      URL_CLOUDSTORAGE: ${{ secrets.URL_CLOUDSTORAGE }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
           persist-credentials: false
-
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
-
       - name: Install dependencies
-        run: pip install requests
-
+        run: pip install requests python-dotenv
       - name: Run API checker
         run: python main.py
-
       - name: Push changes
         env:
           GIT_TOKEN: ${{ secrets.ACTIONS_PAT }}
