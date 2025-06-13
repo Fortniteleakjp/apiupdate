@@ -810,3 +810,4 @@ RequiredProfileItemTemplateId=""
 +DataTable=/Game/Athena/Items/Weapons/AthenaRangedWeapons;RowUpdate;Shotgun_VividRazor_Outlaw_Athena_X_R_Ore_T03;DmgPB;10.900000
 +DataTable=/Game/Athena/Items/Weapons/AthenaRangedWeapons;RowUpdate;Shotgun_VividRazor_Outlaw_Athena_X_R_Ore_T03;DmgMid;9.265000
 +DataTable=/Game/Athena/Items/Weapons/AthenaRangedWeapons;RowUpdate;Shotgun_VividRazor_Outlaw_Athena_X_R_Ore_T03;DmgLong;5.450000
++DataTable=/Game/Quests/ObjectiveStatTable;RowUpdate;hordev3_quest_event_modcomplete_w09;TargetTagContainer;(GameplayTags=((TagName="Stat.Mission.Primary.Horde.Week09")))
