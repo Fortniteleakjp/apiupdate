@@ -1571,9 +1571,9 @@
       "announcementTime": "2025-06-06T15:00:00Z",
       "announcementTime_jst": "2025年06月07日00時00分00秒",
       "announcementTime_unix": 1749222000,
-      "beginTime": "2025-06-18T09:00:00Z",
-      "beginTime_jst": "2025年06月18日18時00分00秒",
-      "beginTime_unix": 1750237200,
+      "beginTime": "2025-06-17T09:00:00Z",
+      "beginTime_jst": "2025年06月17日18時00分00秒",
+      "beginTime_unix": 1750150800,
       "displayData": {
         "details_description": "本ディビジョナルカップは、前シーズンで出場権を得る、またはFNCS ディビジョン2から進出することでアンロックされます。ディビジョン1 ウィークリー決勝への進出は、各週のディビジョン1のセッションでの成績に基づき、各地域の上位33チームがウィークリー決勝へ進出します。",
         "flavor_description": "トリオを組んで、賞金獲得を目指しましょう！",
@@ -1604,17 +1604,17 @@
             "adps:g-a81a33a3b9a7",
             "mfa"
           ],
-          "beginTime": "2025-06-18T09:00:00Z",
-          "beginTime_jst": "2025年06月18日18時00分00秒",
-          "beginTime_unix": 1750237200,
+          "beginTime": "2025-06-17T09:00:00Z",
+          "beginTime_jst": "2025年06月17日18時00分00秒",
+          "beginTime_unix": 1750150800,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
-          "countdownBeginTime": "2025-06-18T07:00:00Z",
-          "countdownBeginTime_jst": "2025年06月18日16時00分00秒",
-          "countdownBeginTime_unix": 1750230000,
-          "endTime": "2025-06-18T12:00:00Z",
-          "endTime_jst": "2025年06月18日21時00分00秒",
-          "endTime_unix": 1750248000,
+          "countdownBeginTime": "2025-06-17T07:00:00Z",
+          "countdownBeginTime_jst": "2025年06月17日16時00分00秒",
+          "countdownBeginTime_unix": 1750143600,
+          "endTime": "2025-06-17T12:00:00Z",
+          "endTime_jst": "2025年06月17日21時00分00秒",
+          "endTime_unix": 1750161600,
           "eventTemplateId": "EventTemplate_S36_FNCSDivisionalCup",
           "eventWindowId": "S36_FNCSDivisionalCup_Division1_Week1Day1_ASIA",
           "isTBD": false,
@@ -1966,9 +1966,9 @@
       "announcementTime": "2025-06-06T15:00:00Z",
       "announcementTime_jst": "2025年06月07日00時00分00秒",
       "announcementTime_unix": 1749222000,
-      "beginTime": "2025-06-18T09:00:01Z",
-      "beginTime_jst": "2025年06月18日18時00分01秒",
-      "beginTime_unix": 1750237201,
+      "beginTime": "2025-06-17T09:00:01Z",
+      "beginTime_jst": "2025年06月17日18時00分01秒",
+      "beginTime_unix": 1750150801,
       "displayData": {
         "details_description": "本ディビジョナルカップは、前シーズンで出場権を得る、またはFNCS ディビジョン3から進出することでアンロックされます。ディビジョン1への昇格は、各週のディビジョン2のセッションでの成績に基づきます。ヨーロッパ、アメリカ中央: 上位40組がディビジョン1に昇格。アメリカ西、ブラジル、アジア、オセアニア、中東: 上位20組がディビジョン1に昇格。",
         "flavor_description": "トリオを組んで、FNCS ディビジョン1への昇格を目指しましょう",
@@ -1999,17 +1999,17 @@
             "adps:g-a81a33a3b9a7",
             "mfa"
           ],
-          "beginTime": "2025-06-18T09:00:01Z",
-          "beginTime_jst": "2025年06月18日18時00分01秒",
-          "beginTime_unix": 1750237201,
+          "beginTime": "2025-06-17T09:00:01Z",
+          "beginTime_jst": "2025年06月17日18時00分01秒",
+          "beginTime_unix": 1750150801,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
-          "countdownBeginTime": "2025-06-18T07:00:01Z",
-          "countdownBeginTime_jst": "2025年06月18日16時00分01秒",
-          "countdownBeginTime_unix": 1750230001,
-          "endTime": "2025-06-18T12:00:01Z",
-          "endTime_jst": "2025年06月18日21時00分01秒",
-          "endTime_unix": 1750248001,
+          "countdownBeginTime": "2025-06-17T07:00:01Z",
+          "countdownBeginTime_jst": "2025年06月17日16時00分01秒",
+          "countdownBeginTime_unix": 1750143601,
+          "endTime": "2025-06-17T12:00:01Z",
+          "endTime_jst": "2025年06月17日21時00分01秒",
+          "endTime_unix": 1750161601,
           "eventTemplateId": "EventTemplate_S36_FNCSDivisionalCup",
           "eventWindowId": "S36_FNCSDivisionalCup_Division2_Week1Day1_ASIA",
           "isTBD": false,
@@ -2273,9 +2273,9 @@
       "announcementTime": "2025-06-06T15:00:02Z",
       "announcementTime_jst": "2025年06月07日00時00分02秒",
       "announcementTime_unix": 1749222002,
-      "beginTime": "2025-06-18T09:00:02Z",
-      "beginTime_jst": "2025年06月18日18時00分02秒",
-      "beginTime_unix": 1750237202,
+      "beginTime": "2025-06-17T09:00:02Z",
+      "beginTime_jst": "2025年06月17日18時00分02秒",
+      "beginTime_unix": 1750150802,
       "displayData": {
         "details_description": "本ディビジョナルカップは、バトルロイヤル、ゼロビルド、またはリロードのランクモードでゴールド以上に到達するとアンロックされます。ディビジョン2への昇格は、各週のディビジョン3での両方のセッションでの成績に基づきます。ヨーロッパ: 上位300組がディビジョン2に昇格。アメリカ中央: 上位200組がディビジョン2に昇格。アメリカ西、ブラジル、アジア、オセアニア: 上位100組がディビジョン2に昇格。",
         "flavor_description": "トリオを組んで、FNCS ディビジョン2への昇格を目指しましょう",
@@ -2312,17 +2312,17 @@
               "currentRanking:ranked_blastberry_nobuild:6"
             ]
           ],
-          "beginTime": "2025-06-18T09:00:02Z",
-          "beginTime_jst": "2025年06月18日18時00分02秒",
-          "beginTime_unix": 1750237202,
+          "beginTime": "2025-06-17T09:00:02Z",
+          "beginTime_jst": "2025年06月17日18時00分02秒",
+          "beginTime_unix": 1750150802,
           "blackoutPeriods": [],
           "canLiveSpectate": false,
-          "countdownBeginTime": "2025-06-18T07:00:02Z",
-          "countdownBeginTime_jst": "2025年06月18日16時00分02秒",
-          "countdownBeginTime_unix": 1750230002,
-          "endTime": "2025-06-18T12:00:02Z",
-          "endTime_jst": "2025年06月18日21時00分02秒",
-          "endTime_unix": 1750248002,
+          "countdownBeginTime": "2025-06-17T07:00:02Z",
+          "countdownBeginTime_jst": "2025年06月17日16時00分02秒",
+          "countdownBeginTime_unix": 1750143602,
+          "endTime": "2025-06-17T12:00:02Z",
+          "endTime_jst": "2025年06月17日21時00分02秒",
+          "endTime_unix": 1750161602,
           "eventTemplateId": "EventTemplate_S36_FNCSDivision3Cup",
           "eventWindowId": "S36_FNCSDivisionalCup_Division3_Week1Day1_ASIA",
           "isTBD": false,
@@ -3866,9 +3866,9 @@
       "announcementTime": "2025-06-06T15:00:00Z",
       "announcementTime_jst": "2025年06月07日00時00分00秒",
       "announcementTime_unix": 1749222000,
-      "beginTime": "2025-06-18T09:00:03Z",
-      "beginTime_jst": "2025年06月18日18時00分03秒",
-      "beginTime_unix": 1750237203,
+      "beginTime": "2025-06-19T09:00:03Z",
+      "beginTime_jst": "2025年06月19日18時00分03秒",
+      "beginTime_unix": 1750323603,
       "displayData": {
         "details_description": "他のランクプレイヤーと競い合いましょう！ 3時間の間に、10マッチをプレイすることができます。いずれかのセッションで50ポイント獲得すると、ゲーム内グライダー「ランカーのユートピア・ブレララ」が手に入ります！  ",
         "flavor_description": "",
@@ -3894,97 +3894,6 @@
             "mfa",
             "currentRanking:ranked-br:0"
           ],
-          "beginTime": "2025-06-18T09:00:03Z",
-          "beginTime_jst": "2025年06月18日18時00分03秒",
-          "beginTime_unix": 1750237203,
-          "blackoutPeriods": [],
-          "canLiveSpectate": false,
-          "countdownBeginTime": "2025-06-18T07:00:03Z",
-          "countdownBeginTime_jst": "2025年06月18日16時00分03秒",
-          "countdownBeginTime_unix": 1750230003,
-          "endTime": "2025-06-18T12:00:03Z",
-          "endTime_jst": "2025年06月18日21時00分03秒",
-          "endTime_unix": 1750248003,
-          "eventTemplateId": "EventTemplate_RankedCupSolo",
-          "eventWindowId": "S36_RankedCupSolo_Event1_ASIA",
-          "isTBD": false,
-          "metadata": {
-            "RankTrackTypeForMatchStatsPrefixes": "ranked-br",
-            "RoundType": "Qualifiers",
-            "ServerReplays": true,
-            "defaultLeaderboardByRank": {
-              "S36_RankedCupSolo_Bronze_LeaderboardDef": "0:2",
-              "S36_RankedCupSolo_Champion_LeaderboardDef": "15:15",
-              "S36_RankedCupSolo_Diamond_LeaderboardDef": "9:11",
-              "S36_RankedCupSolo_Elite_LeaderboardDef": "16:16",
-              "S36_RankedCupSolo_Gold_LeaderboardDef": "6:8",
-              "S36_RankedCupSolo_Platinum_LeaderboardDef": "12:14",
-              "S36_RankedCupSolo_Silver_LeaderboardDef": "3:5",
-              "S36_RankedCupSolo_Unreal_LeaderboardDef": "17:17"
-            },
-            "hideScoreLocationsIndexes": [
-              0
-            ]
-          },
-          "payoutDelay": 32,
-          "regionMappings": {},
-          "requireAllTokens": [],
-          "requireAllTokensCaller": [],
-          "requireAnyTokens": [],
-          "requireAnyTokensCaller": [],
-          "requireNoneTokensCaller": [
-            "EpicAccountPrizingRestriction_v2",
-            "Permanent_Tournament_Ban"
-          ],
-          "round": 1,
-          "scoreLocations": [
-            {
-              "isMainWindowLeaderboard": true,
-              "leaderboardDefId": "LeadDef_Default"
-            },
-            {
-              "isMainWindowLeaderboard": false,
-              "leaderboardDefId": "S36_RankedCupSolo_Bronze_LeaderboardDef"
-            },
-            {
-              "isMainWindowLeaderboard": false,
-              "leaderboardDefId": "S36_RankedCupSolo_Silver_LeaderboardDef"
-            },
-            {
-              "isMainWindowLeaderboard": false,
-              "leaderboardDefId": "S36_RankedCupSolo_Gold_LeaderboardDef"
-            },
-            {
-              "isMainWindowLeaderboard": false,
-              "leaderboardDefId": "S36_RankedCupSolo_Platinum_LeaderboardDef"
-            },
-            {
-              "isMainWindowLeaderboard": false,
-              "leaderboardDefId": "S36_RankedCupSolo_Diamond_LeaderboardDef"
-            },
-            {
-              "isMainWindowLeaderboard": false,
-              "leaderboardDefId": "S36_RankedCupSolo_Elite_LeaderboardDef"
-            },
-            {
-              "isMainWindowLeaderboard": false,
-              "leaderboardDefId": "S36_RankedCupSolo_Champion_LeaderboardDef"
-            },
-            {
-              "isMainWindowLeaderboard": false,
-              "leaderboardDefId": "S36_RankedCupSolo_Unreal_LeaderboardDef"
-            }
-          ],
-          "teammateEligibility": "all",
-          "visibility": "public"
-        },
-        {
-          "additionalRequirements": [
-            "eula:s36_ranked_rules",
-            "adps:g-a81a33a3b9a7",
-            "mfa",
-            "currentRanking:ranked-br:0"
-          ],
           "beginTime": "2025-06-19T09:00:03Z",
           "beginTime_jst": "2025年06月19日18時00分03秒",
           "beginTime_unix": 1750323603,
@@ -3997,7 +3906,7 @@
           "endTime_jst": "2025年06月19日21時00分03秒",
           "endTime_unix": 1750334403,
           "eventTemplateId": "EventTemplate_RankedCupSolo",
-          "eventWindowId": "S36_RankedCupSolo_Event2_ASIA",
+          "eventWindowId": "S36_RankedCupSolo_Event1_ASIA",
           "isTBD": false,
           "metadata": {
             "RankTrackTypeForMatchStatsPrefixes": "ranked-br",
@@ -4088,7 +3997,7 @@
           "endTime_jst": "2025年06月25日21時00分03秒",
           "endTime_unix": 1750852803,
           "eventTemplateId": "EventTemplate_RankedCupSolo",
-          "eventWindowId": "S36_RankedCupSolo_Event3_ASIA",
+          "eventWindowId": "S36_RankedCupSolo_Event2_ASIA",
           "isTBD": false,
           "metadata": {
             "RankTrackTypeForMatchStatsPrefixes": "ranked-br",
@@ -4179,7 +4088,7 @@
           "endTime_jst": "2025年06月26日21時00分03秒",
           "endTime_unix": 1750939203,
           "eventTemplateId": "EventTemplate_RankedCupSolo",
-          "eventWindowId": "S36_RankedCupSolo_Event4_ASIA",
+          "eventWindowId": "S36_RankedCupSolo_Event3_ASIA",
           "isTBD": false,
           "metadata": {
             "RankTrackTypeForMatchStatsPrefixes": "ranked-br",
@@ -4270,7 +4179,7 @@
           "endTime_jst": "2025年07月30日21時00分03秒",
           "endTime_unix": 1753876803,
           "eventTemplateId": "EventTemplate_RankedCupSolo",
-          "eventWindowId": "S36_RankedCupSolo_Event5_ASIA",
+          "eventWindowId": "S36_RankedCupSolo_Event4_ASIA",
           "isTBD": false,
           "metadata": {
             "RankTrackTypeForMatchStatsPrefixes": "ranked-br",
@@ -4361,7 +4270,7 @@
           "endTime_jst": "2025年07月31日21時00分03秒",
           "endTime_unix": 1753963203,
           "eventTemplateId": "EventTemplate_RankedCupSolo",
-          "eventWindowId": "S36_RankedCupSolo_Event6_ASIA",
+          "eventWindowId": "S36_RankedCupSolo_Event5_ASIA",
           "isTBD": false,
           "metadata": {
             "RankTrackTypeForMatchStatsPrefixes": "ranked-br",
@@ -9359,15 +9268,6 @@
     "Fortnite:epicgames_S36_RankedCupSolo_ASIA:S36_RankedCupSolo_Event5_ASIA_gold": "S36_PayoutTableRankedCup",
     "Fortnite:epicgames_S36_RankedCupSolo_ASIA:S36_RankedCupSolo_Event5_ASIA_platinum": "S36_PayoutTableRankedCup",
     "Fortnite:epicgames_S36_RankedCupSolo_ASIA:S36_RankedCupSolo_Event5_ASIA_unreal": "S36_PayoutTableRankedCup",
-    "Fortnite:epicgames_S36_RankedCupSolo_ASIA:S36_RankedCupSolo_Event6_ASIA": "S36_PayoutTableRankedCup",
-    "Fortnite:epicgames_S36_RankedCupSolo_ASIA:S36_RankedCupSolo_Event6_ASIA_Bronze": "S36_PayoutTableRankedCup",
-    "Fortnite:epicgames_S36_RankedCupSolo_ASIA:S36_RankedCupSolo_Event6_ASIA_Silver": "S36_PayoutTableRankedCup",
-    "Fortnite:epicgames_S36_RankedCupSolo_ASIA:S36_RankedCupSolo_Event6_ASIA_champion": "S36_PayoutTableRankedCup",
-    "Fortnite:epicgames_S36_RankedCupSolo_ASIA:S36_RankedCupSolo_Event6_ASIA_diamond": "S36_PayoutTableRankedCup",
-    "Fortnite:epicgames_S36_RankedCupSolo_ASIA:S36_RankedCupSolo_Event6_ASIA_elite": "S36_PayoutTableRankedCup",
-    "Fortnite:epicgames_S36_RankedCupSolo_ASIA:S36_RankedCupSolo_Event6_ASIA_gold": "S36_PayoutTableRankedCup",
-    "Fortnite:epicgames_S36_RankedCupSolo_ASIA:S36_RankedCupSolo_Event6_ASIA_platinum": "S36_PayoutTableRankedCup",
-    "Fortnite:epicgames_S36_RankedCupSolo_ASIA:S36_RankedCupSolo_Event6_ASIA_unreal": "S36_PayoutTableRankedCup",
     "Fortnite:epicgames_S36_RankedCupTrios_ASIA:S36_RankedCupTrios_Event1_ASIA": "S36_PayoutTableRankedCup",
     "Fortnite:epicgames_S36_RankedCupTrios_ASIA:S36_RankedCupTrios_Event1_ASIA_Bronze": "S36_PayoutTableRankedCup",
     "Fortnite:epicgames_S36_RankedCupTrios_ASIA:S36_RankedCupTrios_Event1_ASIA_Silver": "S36_PayoutTableRankedCup",
