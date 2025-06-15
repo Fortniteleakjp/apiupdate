@@ -59,13 +59,13 @@ API_TARGETS = [
     },
     {
         "name": "fortnite-game-ja",
-        "url": "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game?lang=ja",
+        "url": os.getenv("FORTNITEGAMEJA"),
         "snapshot_file": "fortnite-gameja.json",
         "latest_file": "fortnite-gameja_latest.json"
     },
     {
         "name": "fortnite-game-en",
-        "url": "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game?lang=en",
+        "url": os.getenv("FORTNITEGAMEEN"),
         "snapshot_file": "fortnite-gameen.json",
         "latest_file": "fortnite-gameen_latest.json"
     },
