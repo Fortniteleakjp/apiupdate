@@ -3635,8 +3635,7 @@
           "additionalRequirements": [
             "eula:s33_fncs_rules",
             "adps:g-a81a33a3b9a7",
-            "mfa",
-            []
+            "mfa"
           ],
           "beginTime": "2025-07-30T23:00:00Z",
           "beginTime_jst": "2025年07月31日08時00分00秒",
@@ -3659,9 +3658,7 @@
           },
           "payoutDelay": 32,
           "regionMappings": {},
-          "requireAllTokens": [
-            "S36_CashCup_Qualified"
-          ],
+          "requireAllTokens": [],
           "requireAllTokensCaller": [],
           "requireAnyTokens": [
             "S34_FNCS_Division1_NAC",
@@ -3694,8 +3691,7 @@
           "additionalRequirements": [
             "eula:s33_fncs_rules",
             "adps:g-a81a33a3b9a7",
-            "mfa",
-            []
+            "mfa"
           ],
           "beginTime": "2025-07-31T23:00:00Z",
           "beginTime_jst": "2025年08月01日08時00分00秒",
