@@ -10,6 +10,18 @@ load_dotenv()
 # 監視対象APIとスナップショットファイルの対応リスト
 API_TARGETS = [
     {
+        "name": "fortnitegameja",
+        "url": os.getenv("FORTNITEGAMEJA"),
+        "snapshot_file": "fortnite-gameja.json",
+        "latest_file": "fortnite-gameja_latest.json"
+    },
+    {
+        "name": "fortnitegameen",
+        "url": os.getenv("FORTNITEGAMEEN"),
+        "snapshot_file": "fortnite-gameen.json",
+        "latest_file": "fortnite-gameen_latest.json"
+    },
+    {
         "name": "ASIA_Windows",
         "url": os.getenv("URL_ASIA_WINDOWS"),
         "snapshot_file": "ASIA_event_Windows.json",
@@ -56,18 +68,6 @@ API_TARGETS = [
         "url": os.getenv("URL_BR_WINDOWS"),
         "snapshot_file": "BR_event_Windows.json",
         "latest_file": "BR_event_Windows_latest.json"
-    },
-    {
-        "name": "fortnite-game-ja",
-        "url": "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game?lang=ja",
-        "snapshot_file": "fortnite-gameja.json",
-        "latest_file": "fortnite-gameja_latest.json"
-    },
-    {
-        "name": "fortnite-game-en",
-        "url": "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game?lang=en",
-        "snapshot_file": "fortnite-gameen.json",
-        "latest_file": "fortnite-gameen_latest.json"
     },
     {
         "name": "DefaultGame",
