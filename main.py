@@ -70,7 +70,7 @@ API_TARGETS = [
         "latest_file": "BR_event_Windows_latest.json"
     },
     {
-        "name": "fortnite-game-ja",
+        "name": "fortnite-game-ja", #
         "url": "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game?lang=ja",
         "snapshot_file": "fortnite-gameja.json",
         "latest_file": "fortnite-gameja_latest.json"
